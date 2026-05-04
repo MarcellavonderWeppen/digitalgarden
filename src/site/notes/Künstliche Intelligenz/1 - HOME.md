@@ -3,10 +3,9 @@
 ---
 
 
-# 1 - HOME
+
 
 Erstellt am: 04.05.2026
-letztes Update: 
 # Herzlich Willkommen in meinem "Digital Garden" zum Thema Künstliche Intelligenz 🌱 
 
 Hier entsteht mein persönlicher "digitaler Garten" - auch bekannt unter den Namen [[Künstliche Intelligenz/PKM\|PKM]] (Personal Knowledge Management) oder "Second Brain".
