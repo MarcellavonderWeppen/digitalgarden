@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/kuenstliche-intelligenz/pkm/","title":"PKM","dg-note-properties":{"title":"PKM","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"04.05.2026","updated":null,"status":null}}
+{"dg-publish":true,"permalink":"/kuenstliche-intelligenz/pkm/","title":"PKM","created":"2026-04-01T13:33:55.741+02:00","updated":"2026-05-04T17:55:39.986+02:00","dg-note-properties":{"title":"PKM","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"04.05.2026","updated":null,"status":null}}
 ---
 
 # PKM = Personal Knowledge Managment
