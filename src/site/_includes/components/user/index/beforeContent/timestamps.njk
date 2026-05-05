@@ -1,12 +1,12 @@
 {# Marcella: Änderung für Timestamps auch auf Homepage #}
 
-{% if noteProps %}
-  <div class="timestamps">
-    {% if noteProps.created %}
-      <p><strong>Created:</strong> {{ noteProps.created }}</p>
-    {% endif %}
-    {% if noteProps.updated %}
-      <p><strong>Updated:</strong> {{ noteProps.updated }}</p>
-    {% endif %}
-  </div>
-{% endif %}
+{%- if noteProps and (noteProps.created or noteProps.updated) -%}
+<div class="timestamps">
+  {%- if noteProps.created -%}
+  <div><i data-lucide="calendar-plus"></i> <span class="human-date" data-date="{{noteProps.created}}"></span></div>
+  {%- endif -%}
+  {%- if noteProps.updated -%}
+  <div><i data-lucide="calendar-clock"></i> <span class="human-date" data-date="{{noteProps.updated}}"></span></div>
+  {%- endif -%}
+</div>
+{%- endif -%}
