@@ -1,11 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/pkm/","title":"PKM","tags":["gardenEntry"],"created":"2026-04-06","updated":"2026-05-05","dg-note-properties":{"title":"PKM","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-04-06","updated":"2026-05-05","status":null}}
+{"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/pkm/","title":"PKM","created":"2026-04-06","updated":"2026-05-05","dg-note-properties":{"title":"PKM","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-04-06","updated":"2026-05-05","status":null}}
 ---
 
 # PKM = Personal Knowledge Managment
-
-Erstellt am: 04.05.2026
-letztes Update: 
 
 ... ist die Praxis, Informationen gezielt zu erfassen, zu organisieren, zu verknüpfen und abzurufen - um das eigene Denken, Lernen und Arbeiten zu unterstützen.
 
