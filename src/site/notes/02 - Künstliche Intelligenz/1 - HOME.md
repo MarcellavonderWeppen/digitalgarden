@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-home/","title":"1 - HOME","tags":["gardenEntry"],"created":"2026-05-03T21:45:30.223+02:00","updated":"2026-05-05T08:16:21.223+02:00","dg-note-properties":{"title":"1 - HOME","banner":"Künstliche Intelligenz/Bilder/Obsidian Nerd Q2 2026.png","banner-x":50,"banner-y":23,"aliases":null,"tags":null,"gen-ai-anteil":null,"created":"04.05.2026","updated":null,"status":null}}
+{"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-home/","title":"1 - HOME","tags":["gardenEntry"],"created":"04.05.2026","dg-note-properties":{"title":"1 - HOME","banner":"Künstliche Intelligenz/Bilder/Obsidian Nerd Q2 2026.png","banner-x":50,"banner-y":23,"aliases":null,"tags":null,"gen-ai-anteil":null,"created":"04.05.2026","updated":null,"status":null}}
 ---
 
 
