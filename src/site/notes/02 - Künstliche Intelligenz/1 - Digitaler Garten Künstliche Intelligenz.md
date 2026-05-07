@@ -1,7 +1,8 @@
 ---
-{"title":"1 - HOME","banner":"Künstliche Intelligenz/Bilder/Obsidian Nerd Q2 2026.png","banner-x":50,"banner-y":23,"aliases":null,"tags":["gardenEntry"],"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null,"dg-publish":true,"dg-home":true,"permalink":"/02-kuenstliche-intelligenz/1-digitaler-garten-kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"1 - HOME","banner":"Künstliche Intelligenz/Bilder/Obsidian Nerd Q2 2026.png","banner-x":50,"banner-y":23,"aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null}}
+{"title":"1 - HOME","banner":"01 - My Secret Time Garden/07 Notes/pixel-banner-images/digital garden.jpg","banner-x":50,"banner-y":23,"aliases":null,"tags":["gardenEntry"],"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null,"dg-publish":true,"dg-home":true,"permalink":"/02-kuenstliche-intelligenz/1-digitaler-garten-kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"1 - HOME","banner":"01 - My Secret Time Garden/07 Notes/pixel-banner-images/digital garden.jpg","banner-x":50,"banner-y":23,"aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null}}
 ---
 
+![Obsidian Nerd Q2 2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Obsidian%20Nerd%20Q2%202026.png)
 # Herzlich Willkommen in meinem "Digital Garden" zum Thema Künstliche Intelligenz 🌱 
 
 Hier entsteht mein persönlicher "digitaler Garten" - auch bekannt unter den Namen [[02 - Künstliche Intelligenz/PKM\|PKM]] (Personal Knowledge Management) oder "Second Brain".
