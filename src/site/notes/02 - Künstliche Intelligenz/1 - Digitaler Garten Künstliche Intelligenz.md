@@ -19,9 +19,9 @@ Ganz anders ein digitaler Garten: hier wird ein Setzling gepflanzt, dort eine Id
 🌱🌱 zartes Pflänzchen (erste Gedanken sind vorhanden, aber es gibt noch viel zu tun)
 🌱🌱🌱  ausgewachsene Pflanze (doch auch hier wird in Zukunft noch gepflegt)
 
-**🌱 Seed (Angelegt)**Nur eine Idee oder ein kurzes Zitat. Viel Arbeit nötig.**
-🌿 Budding (Im Wachsen)**Ersten Verknüpfungen bestehen, der Inhalt ist strukturiert, aber unvollständig.
-**🌳 Evergreen (Ausgewachsen)**Die Notiz ist in sich abgeschlossen, gut referenziert und faktisch korrekt.
+🌱 **Seed** (Angelegt)Nur eine Idee oder ein kurzes Zitat. Viel Arbeit nötig.
+🌿 **Budding** (Im Wachsen) Ersten Verknüpfungen bestehen, der Inhalt ist strukturiert, aber unvollständig.
+🌳 **Evergreen** (Ausgewachsen)Die Notiz ist in sich abgeschlossen, gut referenziert und faktisch korrekt.
 
 Inhalte wachsen organisch und sind selten fertig. Man kann den Garten durch Links erkunden - die Pfade, die alles verbinden. So entsteht nach und nach ein Netzwerk des Wissens.
 
