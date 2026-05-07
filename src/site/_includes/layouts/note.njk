@@ -26,8 +26,11 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
-    <main class="content cm-s-obsidian print {{contentClasses}}">
-      <header>
+<main class="content cm-s-obsidian print {{contentClasses}}">
+      {% if banner %}
+      <div style="background-image: url('/{{ banner }}'); background-size: cover; background-position: center; height: 200px; border-radius: 8px; margin-bottom: 1.5rem;"></div>
+      {% endif %}      
+<header>
         {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
