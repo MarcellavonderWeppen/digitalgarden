@@ -34,6 +34,8 @@ Ihr könnt mir also beim Lernen zugucken und vielleicht nach und nach, während 
 
 Folge dem weissen Kaninchen in die [[Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
 
+![Kaninchenloch ChatGPT 14.05.26.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Kaninchenloch%20ChatGPT%2014.05.26.png)
+
 ## Mehr über diesen Garten
 
 Kaum ein Thema polarisiert den Zeitgeist so sehr wie Künstliche Intelligenz. 
