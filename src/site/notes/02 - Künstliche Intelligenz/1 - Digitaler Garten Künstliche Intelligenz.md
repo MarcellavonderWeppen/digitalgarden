@@ -8,6 +8,7 @@ Hier ist mein persönlicher "digitaler Garten" am Wachsen: Ich dokumentiere hier
 
 Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Art Blog?
 
+![Digital Garden Gemini 14.05.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)
 ## Ein Garten des Wissens im Entstehen
 
 Die digitale Gärtnerei ist verwandt mit dem Bloggen, funktioniert aber anders: 
@@ -44,8 +45,6 @@ Hilft Schwarz-Weiss-Denken wirklich weiter?
 Mir sind die Schattenseiten inzwischen bekannt und ich denke:  
 
 [[KI- es geht auch anders\|KI- es geht auch anders]]! 
-
-Wer schreibt hier eigentlich?  [[02 - Künstliche Intelligenz/Über mich\|Über mich]]
 ### Mitmachen erwünscht
 
 Es wäre schön, wenn hier so ein bisschen Community-Feeling aufkommt und ihr euch mit Kommentaren und gerne auch Fragen beteiligt! 👉 [[02 - Künstliche Intelligenz/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
@@ -60,6 +59,8 @@ Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist
 Vertraue niemanden, auch mir nicht - prüfe Dinge selbst nach.  
 
 In diesem Sinne: viel Spaß beim Stöbern!
+
+[[]]
 
 [[Datenschutz\|Datenschutz]]
 
