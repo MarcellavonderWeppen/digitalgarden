@@ -5,8 +5,6 @@
 
 # KI- es geht auch anders
 
-Ich habe mich lange für “technik-unbegabt” gehalten - bis ich vor vielen Jahren durch ein privates Blogprojekt mit dem Programmieren begann. 
-
 Als 2022 ChatGPT aufkam, begann meine große Liebesaffäre mit dieser neuen Technologie, so intensiv, dass beschloss KI zu meinem Beruf zu machen. (👉 siehe auch [[02 - Künstliche Intelligenz/Über mich\|Über mich]])
 
 Kaum war jedoch der Entschluss gefasst und alles in Bewegung gesetzt, zeigten sich schon erste Risse in meiner neuen schönen KI-Welt: 
@@ -32,6 +30,8 @@ Denn ich bin zutiefst überzeugt, dass ich mich zwischen Innovation und mein Wer
 - Respektvoller Umgang mit Mensch, Tier und Natur
 - Ehrliche Transparente Kommunikation statt [[02 - Künstliche Intelligenz/Dark Patterns (Deceptive Patterns)\|Dark Patterns]]
 
+
+![Solarpunk AI 14.05.26 Gemini.png](/img/user/Bilder/Solarpunk%20AI%2014.05.26%20Gemini.png)
 
 Die Seite für meine Kurse heißt [KI-Magie](https://www.ki-magie.online/). In diesem Sinne: schwarze Magie lassen wir hier weg! Ich bin ausschließlich auf der Suche nach Tools für weisse Magier! 🧙🪄✨
 
