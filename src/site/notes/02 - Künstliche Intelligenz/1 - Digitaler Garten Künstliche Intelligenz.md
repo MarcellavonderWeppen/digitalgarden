@@ -43,11 +43,12 @@ Kaum ein Thema polarisiert unseren Zeitgeist so sehr wie die sogenannte Künstli
 Die einen verherrlichen sie, 
 die anderen hassen sie.
 
-Aber hilft denn Schwarz-Weiss-Denken wirklich weiter? Hat es das jemals? Haben komplexe Themen nicht immer vielseitige Aspekte?
+Ich habe mich schon an beiden Enden des Spektrums wiedergefunden - in dieser Reihenfolge. 
 
-Mir sind die Schattenseiten inzwischen bekannt und ich denke:  
+Vieles was da passiert ist bedenklich, doch ich glaube:
 
 [[KI- es geht auch anders\|KI- es geht auch anders]]! 
+
 ### Mitmachen erwünscht
 
 Es wäre schön, wenn hier so ein bisschen Community-Feeling aufkommt und ihr euch in den Kommentaren und gerne auch mit Fragen beteiligt! 👉 [[02 - Künstliche Intelligenz/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
