@@ -14,9 +14,9 @@ Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Ar
 Die digitale Gärtnerei ist verwandt mit dem Bloggen, funktioniert aber anders: 
 
 - Ein Blog folgt einer linearen Timeline. Sorgsam ausgearbeitete Artikel werden zu einem bestimmten Zeitpunkt veröffentlicht und in der Regel nicht mehr bearbeitet. 
-- Ganz anders ein digitaler Garten: mal wird hier ein Setzling gepflanzt, mal dort eine Idee angelegt. Setzlinge können zu zarten Pflänzchen werden und dann vielleicht irgendwann zu ausgewachsenen Artikeln. Inhalte wachsen organisch und sind selten fertig.
+- Ganz anders ein digitaler Garten: mal wird hier ein Setzling gepflanzt, mal dort eine Idee angelegt. Setzlinge können zu zarten Pflänzchen werden und vielleicht irgendwann zu ausgewachsenen Artikeln. Inhalte wachsen organisch und sind selten vollendet.
 
-Ich habe meine Notizen entsprechend gekennzeichnet:
+>[!info] Ich habe meine Notizen entsprechend gekennzeichnet:
 🌱 **Setzling**: frisch gepflanzt. Wenig sichtbar, viel Potential.
 🌿 **Pflanze**: erste Schritte sind getan - die Pflanze entwickelt sich gut, kann aber noch wachsen.
 🌳 **Baum**: Eine große Pflanze mit vielen Verzweigungen, gut vernetzt im Biotop des Wissens. 
@@ -24,7 +24,7 @@ Ich habe meine Notizen entsprechend gekennzeichnet:
  Man kann den Garten durch Links erkunden - die Pfade, die alles verbinden. So entsteht nach und nach ein Netzwerk des Wissens.
 ### Warum digitale Gärten?
 
-Es gibt gute Gründe dafür und jeder mag seine eigenen haben! Zum Beispiel neige ich zu Perfektionismus und versuche ihn zu überwinden. Mut zur Unvollkommenheit! Dinge dürfen sich entwickeln und müssen nicht perfekt sein, ehe sie das Licht der Welt erblicken. 
+Es gibt gute Gründe dafür und jeder mag seine eigenen haben. Zum Beispiel neige ich zu Perfektionismus und versuche ihn zu überwinden: Mut zur Unvollkommenheit! Dinge dürfen sich entwickeln. Sie müssen nicht perfekt sein, ehe sie das Licht der Welt erblicken. 
 
 Ich liebe es, zu lernen! Statt immer nur alleine vor mich hin zu lernen, warum nicht den eigenen Fortschritt teilen?
 
@@ -38,18 +38,19 @@ Folge dem weissen Kaninchen in die [[Kaninchen-Einstiegszone\|Kaninchen-Einstieg
 
 ## Mehr über diesen Garten
 
-Kaum ein Thema polarisiert den Zeitgeist so sehr wie Künstliche Intelligenz. 
+Kaum ein Thema polarisiert unseren Zeitgeist so sehr wie die sogenannte Künstliche Intelligenz:
 
-Die einen verherrlichen sie, die anderen hassen sie.
+Die einen verherrlichen sie, 
+die anderen hassen sie.
 
-Hilft Schwarz-Weiss-Denken wirklich weiter? 
+Aber hilft denn Schwarz-Weiss-Denken wirklich weiter? Hat es das jemals? Haben komplexe Themen nicht immer vielseitige Aspekte?
 
 Mir sind die Schattenseiten inzwischen bekannt und ich denke:  
 
 [[KI- es geht auch anders\|KI- es geht auch anders]]! 
 ### Mitmachen erwünscht
 
-Es wäre schön, wenn hier so ein bisschen Community-Feeling aufkommt und ihr euch mit Kommentaren und gerne auch Fragen beteiligt! 👉 [[02 - Künstliche Intelligenz/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
+Es wäre schön, wenn hier so ein bisschen Community-Feeling aufkommt und ihr euch in den Kommentaren und gerne auch mit Fragen beteiligt! 👉 [[02 - Künstliche Intelligenz/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
 
 ---
 ## Disclaimer 
@@ -61,8 +62,6 @@ Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist
 Vertraue niemanden, auch mir nicht - prüfe Dinge selbst nach.  
 
 In diesem Sinne: viel Spaß beim Stöbern!
-
-[[]]
 
 [[Datenschutz\|Datenschutz]]
 
