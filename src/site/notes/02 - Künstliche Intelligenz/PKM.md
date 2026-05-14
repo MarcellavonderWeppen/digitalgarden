@@ -42,7 +42,7 @@ Unser Gehirn ist gut darin, Ideen zu erzeugen - aber schlecht darin, sie zu spei
 
 | Werkzeug                   | Stärke                                                   |
 | -------------------------- | -------------------------------------------------------- |
-| **[[02 - Künstliche Intelligenz/Obsidian\|Obsidian]]**           | Lokale Dateien, starke Verlinkung, große Community       |
+| **[[02 - Künstliche Intelligenz/Obsidian/Obsidian\|Obsidian]]**           | Lokale Dateien, starke Verlinkung, große Community       |
 | **Notion**                 | Flexibel, datenbankorientiert, kollaborativ              |
 | **Logseq**                 | Outliner-basiert, **open source**, datenschutzfreundlich |
 | **Roam Research**          | Pionier des bidirektionalen Linkens                      |
