@@ -28,7 +28,9 @@ Eigentlich wollte ich nur kurz ein [[02 - Künstliche Intelligenz/Speech-to-Text
 
 Obwohl vieles für lokale Anwendungen spricht, dachte ich: “Gut, [[02 - Künstliche Intelligenz/Wispr Flow\|Wispr Flow]] scheint ein gutes Tool für Menschen zu sein, die eine Anwendung in der Cloud suchen. Ich könnte sie ja als [[Affiliate\|Affiliate]]-Partner empfehlen.” Dachte ich, bis ich die [[02 - Künstliche Intelligenz/Wispr Flow Affiliate Vertragsbedingungen\|Wispr Flow Affiliate Vertragsbedingungen]] las und dabei ganz nebenbei mit dem Thema [[02 - Künstliche Intelligenz/Dark Patterns (Deceptive Patterns)\|Dark Patterns]] konfrontiert wurde ….
 
-## Marktplatz: Marcellas kleiner Shop 🐰🐣
+So wird dann aus einem 5-Minuten-Punkt aus der To-Do-Liste ein wochenlanges Projekt. Nerd sein verpflichtet 🤓
+
+### Marktplatz: Marcellas kleiner Shop 🐰🐣
 
 [[KI- es geht auch anders\|KI- es geht auch anders]] hatte ich behauptet. Auf meiner Suche nach dem “anders” begegnen mir auch viele Produkte, die ich für empfehlenswert halte und deshalb auch als [[Affiliate\|Affiliate]]-Partner empfehle. 
 
@@ -45,7 +47,7 @@ Hier ist ein noch sehr junges Kaninchen am Bauen:
 Kaum mehr als die Idee:
 [[02 - Künstliche Intelligenz/KI-Narritive - von harmlos bis hochgradig bedenklich\|KI-Narritive - von harmlos bis hochgradig bedenklich]]
 
-### Wenn ich nicht am Buddeln bin  🐰🐣
+### Auch in Zeiten von KI macht Denken Sinn  🐰🐣
 
 [[02 - Künstliche Intelligenz/Obsidian/Denken und Lernen\|Denken und Lernen]]
 
