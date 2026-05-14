@@ -2,30 +2,25 @@
 {"title":"1 - HOME","aliases":null,"tags":["gardenEntry"],"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null,"dg-publish":true,"dg-home":true,"banner":"02 - Künstliche Intelligenz/Bilder/Obsidian Nerd Q2 2026.png","banner-x":50,"banner-y":20,"permalink":"/02-kuenstliche-intelligenz/1-digitaler-garten-kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"1 - HOME","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null,"banner":"02 - Künstliche Intelligenz/Bilder/Obsidian Nerd Q2 2026.png","banner-x":50,"banner-y":20}}
 ---
 
+# Herzlich Willkommen in meinem "Digital Garden" zum Thema Künstliche Intelligenz 🌱🌿🌳
 
-# Herzlich Willkommen in meinem "Digital Garden" zum Thema Künstliche Intelligenz 🌱 
+Hier ist mein persönlicher "digitaler Garten" am Wachsen: Ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte. 
 
-Hier entsteht mein persönlicher "digitaler Garten" - auch bekannt unter den Namen [[02 - Künstliche Intelligenz/PKM\|PKM]] (Personal Knowledge Management) oder "Second Brain".
-
-Einfacher gesagt: ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte. 
+Was ist ein digitaler Garten? Ist das eine Art Blog?
 
 ## Ein Garten des Wissens im Entstehen
 
-Digitales Gärten funktionieren anders als Blogs. Ein Blog folgt einer linearen Timeline. Sorgsam ausgearbeitete Artikel werden zu einem bestimmten Zeitpunkt veröffentlicht und werden in der Regel nicht mehr arbeitet. 
+Die digitale Gärtnerei ist verwandt mit dem Bloggen, funktioniert aber anders: 
 
-Ganz anders ein digitaler Garten: hier wird ein Setzling gepflanzt, dort eine Idee angelegt. Setzlinge werden zu zarten Pflänzchen und diese vielleicht irgendwann zu ausgewachsenen Artikeln. 
+- Ein Blog folgt einer linearen Timeline. Sorgsam ausgearbeitete Artikel werden zu einem bestimmten Zeitpunkt veröffentlicht und werden in der Regel nicht mehr bearbeitet. 
+- Ganz anders ein digitaler Garten: mal wird hier ein Setzling gepflanzt, mal dort eine Idee angelegt. Setzlinge können zu zarten Pflänzchen werden und dann vielleicht irgendwann zu ausgewachsenen Artikeln. 
 
-🌱 Setzling (hier wird irgendwann etwas aufblühen - oder auch nie)
-🌱🌱 zartes Pflänzchen (erste Gedanken sind vorhanden, aber es gibt noch viel zu tun)
-🌱🌱🌱  ausgewachsene Pflanze (doch auch hier wird in Zukunft noch gepflegt)
-
-🌱 **Seed** (Angelegt)Nur eine Idee oder ein kurzes Zitat. Viel Arbeit nötig.
-🌿 **Budding** (Im Wachsen) Ersten Verknüpfungen bestehen, der Inhalt ist strukturiert, aber unvollständig.
-🌳 **Evergreen** (Ausgewachsen)Die Notiz ist in sich abgeschlossen, gut referenziert und faktisch korrekt.
+Ich habe meine Notizen entsprechend gekennzeichnet:
+🌱 **Setzling**: frisch gepflanzt. Ein erster Gedanke, der Zuwendung braucht. 
+🌿 **Pflanze**: erste Schritte sind getan - die Pflanze entwickelt sich gut, kann aber noch wachsen.
+🌳 **Baum**: Eine große Pflanze mit vielen Verzweigungen, gut vernetzt im Biotop des Wissens. 
 
 Inhalte wachsen organisch und sind selten fertig. Man kann den Garten durch Links erkunden - die Pfade, die alles verbinden. So entsteht nach und nach ein Netzwerk des Wissens.
-
-![Obsidian Nerd Q2 2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Obsidian%20Nerd%20Q2%202026.png)
 ### Warum digitale Gärten?
 
 Es gibt gute Gründe dafür und jeder mag seine eigenen haben! Zum Beispiel leide ich unter Perfektionismus und versuche ihn zu überwinden. Mut zur Unvollkommenheit! Dinge dürfen sich entwickeln und müssen nicht perfekt sein, ehe sie das Licht der Welt erblicken. 
@@ -33,6 +28,11 @@ Es gibt gute Gründe dafür und jeder mag seine eigenen haben! Zum Beispiel leid
 Ich liebe es, zu lernen! Statt immer nur alleine vor mich hin zu lernen, warum nicht den eigenen Fortschritt teilen?
 
 Ihr könnt mir also beim Lernen zugucken und vielleicht nach und nach, während diese Projekt wächst, das ein oder andere Kaninchenloch entdecken 🐇
+
+## Hier geht’s zu den Kaninchenlöchern👇
+
+Folge dem weissen Kaninchen in die [[Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
+
 ### Kommentieren + Fragen
 
 Desgleichen so würde ich mich über Feedback und Impulse von außen freuen! 
@@ -51,7 +51,7 @@ Andererseits möchte ich meinen inneren Nerd genießen und auch mal tiefer in Th
 
 Das Design ist bewusst schlicht gehalten, um nicht von den Inhalten abzulenken.
 
-Dieses Projekt wurde übrigens mit der Software [[02 - Künstliche Intelligenz/Obsidian\|Obsidian]] 🐇 gebaut - perfekt für Nerds und alle, die es werden wollen. Es folgt dem Ansatz des vernetzten Denkens und entspricht damit viel besser der natürlichen Funktionsweise unseres Gehirns als hierarchische, linear Ansätze. 
+Dieses Projekt wurde übrigens mit der Software [[02 - Künstliche Intelligenz/Obsidian/Obsidian\|Obsidian]] 🐇 gebaut - perfekt für Nerds und alle, die es werden wollen. Es folgt dem Ansatz des vernetzten Denkens und entspricht damit viel besser der natürlichen Funktionsweise unseres Gehirns als hierarchische, linear Ansätze. 
 ### KI: Es geht auch anders
 
 Ich habe mich lange für “technik-unbegabt” gehalten - bis ich vor vielen Jahren durch ein privates Blogprojekt mit dem Programmieren begann. 
@@ -97,34 +97,7 @@ Hier könnte ihr einiges entdecken:
 Ich empfehle nur Produkte, welche mich überzeugen und die ich getestet habe! 
 
 Alle [[Affiliate\|Affiliate]]-Links auf dieser Seite sind explizit als solche gekennzeichnet. 
-## Kaninchenlöcher für den Einstieg 🐇
 
-Folge dem weissen Kaninchen! Hier sind ein paar Startpunkte für die Erkundung - natürlich alles im Entstehe.
-
-**Status des jeweiligen Kaninchenbau: vom Babykaninchen zum weisen Kanin**
-
-Babykaninchen 🐰🐣
-Kaninchen am Graben 🕳️🐇 
-weises Kanin 🐇👑 
-
-Apropos Kaninchen: [[Lifehack Dopaminloading\|Lifehack Dopaminloading]]
-
-Hier geht’s zu den Kaninchenlöchern 👇
-###  Speech-To-Text-KIs, Whispr Flow und Darkpatterns (April 2026) 🐇👑 
-
-
-
-Eigentlich wollte ich nur kurz ein [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]-Tool downloaden, um schneller und produktiver zu arbeiten. Ich dachte, [[02 - Künstliche Intelligenz/Wispr Flow\|Wispr Flow]] wäre das einzige ernstzunehmende Tool dieser Art. Dieser Irrtum ist von Wispr Flow vermutlich nicht ganz unbeabsichtigt. Bei meiner Recherche wurde ich nicht nur mit Dutzenden 
-
-
-
-[[02 - Künstliche Intelligenz/Künstliche Intelligenz - Nützliche Tools und Anwendungen\|Künstliche Intelligenz - Nützliche Tools und Anwendungen]]
-
-[[02 - Künstliche Intelligenz/KI-Narritive - von harmlos bis hochgradig bedenklich\|KI-Narritive - von harmlos bis hochgradig bedenklich]]
-
-### Off-Topic
-
-[[02 - Künstliche Intelligenz/Denken und Lernen\|Denken und Lernen]]
 
 ### Die "YouTube-Akademie" 📺
 
