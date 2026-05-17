@@ -49,15 +49,14 @@ Der erste und wichtigste Schritt, um besser als 99,9 % der Menschen zu lernen, i
 
 Dazu gibt es eine schöne Übung. Teile ein Blatte Papier in zwei Spalten ein und starte mit dem Lernen:
 
-| **P (Passiv)**                                                                    | **A (Aktiv)**                                                           |
-| --------------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| **Zustand:** Tagträumen, mechanisches Lesen, Abschweifen, Berieseln lassen.       | **Zustand:** Tiefes Nachdenken, Hinterfragen, Erklären, Visualisiere    |
-| **Eintrag hier machen, wenn:**                                                    | **Hier startest du                                                      |
-| • Du merkst, dass du gerade 5 Minuten nur auf die Seite gestarrt hast.          • Du erklärst den Stoff laut, als würdest du unterrichten              en)  |
-| • Dein Fokus vom Thema zum Handy oder zum Abendessen gewandert ist.               | • Du ziehst eigene Schlussfolgerungen oder erstellst eine Min           |
-| • usw.                                                                                                                                                      |
-|                                                                                                                                                             |
-| **Notiz-Beispiel:** „Abgedriftet bei Seite 12 – dachte an die Serie von gestern.“ | **Fokus:** Aktive Anstrengung des Gehirns                               |
+| **P (Passiv)**                                                                    | **A (Aktiv)**                                                             |
+| --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| **Zustand:** Tagträumen, mechanisches Lesen, Abschweifen, Berieseln lassen.       | **Zustand:** Tiefes Nachdenken, Hinterfragen, Erklären, Visualisiere      |
+| **Eintrag hier machen, wenn:**                                                    | **Hier startest du:**                                                     |
+| • Du merkst, dass du gerade 5 Minuten nur auf die Seite gestarrt hast.            | • Du erklärst den Stoff laut, als würdest du unterrichten              en |
+| • Dein Fokus vom Thema zum Handy oder zum Abendessen gewandert ist.               | • Du erstellst ein [[02 - Künstliche Intelligenz/Mindmaps\|Mindmap]]                                  |
+| • usw.                                                                            | • usw.                                                                    |
+| **Notiz-Beispiel:** „Abgedriftet bei Seite 12 – dachte an die Serie von gestern.“ | **Fokus:** Aktive Anstrengung des Gehirns                                 |
 
 Das Ziel der Übung ist es zu bemerken, dass man in den passiven Modus gefallen ist und bewusst zum aktiven Modus zurück kehren. Dabei hilft es zu verstehen, wie effektives Lernen funktioniert.  Dazu gehört das Wissen über Gehirnfunktionen und aktive Strategien wie Mindmapping oder das Erstellen eigener Schlussfolgerungen statt reinem Auswendiglernen.
 
