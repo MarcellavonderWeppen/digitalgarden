@@ -63,4 +63,4 @@ Das Ziel der Übung ist es zu bemerken, dass man in den passiven Modus gefallen 
 ## Weiterstöbern
 
 
-📖 Ein Gedanke zum Thema Sprechen vs Tippen: [[02 - Künstliche Intelligenz/Speech-to-Text (STT)#Kleiner Exkurs Nicht immer ist Geschwindigkeit alles 🤔\|Nicht immer ist Geschwindigkeit alles 🤔]]
+📖 Zum Thema Sprechen vs Tippen: [[02 - Künstliche Intelligenz/Speech-to-Text (STT)#Kleiner Exkurs Nicht immer ist Geschwindigkeit alles 🤔\|Nicht immer ist Geschwindigkeit alles 🤔]]
