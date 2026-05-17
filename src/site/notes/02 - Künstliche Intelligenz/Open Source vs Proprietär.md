@@ -1,5 +1,5 @@
 ---
-{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen-ai-anteil":["Claude 20%","Euria 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/open-source-vs-proprietaer/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen-ai-anteil":["Claude 20%","Euria 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null}}
+{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen-ai-anteil":["Claude 20%","Euria 20%","ChatGPT 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/open-source-vs-proprietaer/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen-ai-anteil":["Claude 20%","Euria 20%","ChatGPT 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null}}
 ---
 
 # Open Source vs Proprietär
@@ -45,23 +45,23 @@ Proprietäre Software punktet mit:
 
 ## Meine Perspektive: Warum ich Open Source für sicherer halte
 
-**Sicherheit entsteht nicht im Verborgenen, sondern durch Transparenz.**
+***Sicherheit entsteht nicht im Verborgenen, sondern durch Transparenz.***
 
-Ich glaube an die Kraft der Schwarmintelligenz: Wenn viele Menschen mitdenken, hinschauen und mitwirken, werden Schwachstellen schneller entdeckt – und gemeinsam behoben.
+*Ich glaube an die Kraft der Schwarmintelligenz: Wenn viele Menschen mitdenken, hinschauen und mitwirken, werden Schwachstellen schneller entdeckt – und gemeinsam behoben.*
 
-**Jeder Mensch – auch die brillantesten Köpfe – hat blinde Flecken.**
+***Jeder Mensch – auch die brillantesten Köpfe – hat blinde Flecken.***
 
-Das gilt ebenso für große Unternehmen und ihre geschlossenen Systeme: Niemand sieht alles.
+*Das gilt ebenso für große Unternehmen und ihre geschlossenen Systeme: Niemand sieht alles.*
   
-Doch **viele Augen sehen mehr als wenige** – und genau das ist ein Kernwert von Open Source.
+*Doch **viele Augen sehen mehr als wenige** – und genau das ist ein Kernwert von Open Source.*
 
-💡 **Vertrauen in Gemeinschaft statt Kontrolle durch Konzerne** –
+*💡 **Vertrauen in Gemeinschaft statt Kontrolle durch Konzerne** –*
 
-dieser Gedanke steht für mich im Zentrum eines gesunden, transparenten Umgangs mit Technologie.
+*dieser Gedanke steht für mich im Zentrum eines gesunden, transparenten Umgangs mit Technologie.*
   
-Ich bin nicht allein mit dieser Haltung: **Viele Menschen in der digitalen Zivilgesellschaft und der IT-Sicherheits-Community** teilen diese Überzeugung.
+*Ich bin nicht allein mit dieser Haltung: **Viele Menschen in der digitalen Zivilgesellschaft und der IT-Sicherheits-Community** teilen diese Überzeugung.*
   
-Sie glauben wie ich daran, dass **Offenheit, Teilhabe und kollektive Verantwortung** eine starke Grundlage für digitale Sicherheit und Vertrauen bilden.
+*Sie glauben wie ich daran, dass **Offenheit, Teilhabe und kollektive Verantwortung** eine starke Grundlage für digitale Sicherheit und Vertrauen bilden.*
 
 > [!info] Fun-Fact
 > “Mein” Plädoyer oben wurde übrigens von ChatGPT verfasst 😂 Obwohl ich Schreiben liebe und meine Texte am liebsten selber verfasse, finde ich KI manchmal sehr hilfreich dabei, meinen eigenen Standpunkt klarer herauszuarbeiten - dort wo mir Worte (noch) fehlen. Auch hier gilt: Die KI kann Dir nichts geben, was Du nicht bereits schon in Dir trägst. Aber sie kann Lern- und Denkprozesse beschleunigen. 
