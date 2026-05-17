@@ -23,7 +23,7 @@ Nicht alle Kaninchenlöcher sind gleich gut ausgebaut. Orientierung geben die fo
 
 Man kennt dieses Internetphänomen auch unter den Namen [[02 - Künstliche Intelligenz/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]]  oder "Second Brain". Letzteren Begriff hat [[02 - Künstliche Intelligenz/Tiago Forte\|Tiago Forte]] geprägt - er hat mich sehr inspiriert, ein solches Unterfangen zu starten.
 
-Dieses Projekt wurde übrigens mit der Software [[02 - Künstliche Intelligenz/Obsidian/Obsidian\|Obsidian]] 🐇 gebaut - perfekt für Nerds und alle, die es werden wollen. Es folgt dem Ansatz des vernetzten Denkens und entspricht damit besser der natürlichen Funktionsweise unseres Gehirns als hierarchische, lineare Ansätze. 
+Dieses Projekt wurde übrigens mit der Software [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]] 🐇 gebaut - perfekt für Nerds und alle, die es werden wollen. Es folgt dem Ansatz des vernetzten Denkens und entspricht damit besser der natürlichen Funktionsweise unseres Gehirns als hierarchische, lineare Ansätze. 
 
 ###  Speech-To-Text-KIs, Whispr Flow und Darkpatterns 🐇👑 
 
