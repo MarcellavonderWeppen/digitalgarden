@@ -14,6 +14,9 @@ Nicht alle Kaninchenlöcher sind gleich gut ausgebaut. Orientierung geben die fo
  >Frisch geschlüpftes Babykanickel 🐰🐣
 >Junges neugieriges Kaninchen am Graben 🕳️🐇 
 >Weises Kanin 🐇👑 
+>
+![Babykanickel zu weisen Kanin.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Babykanickel%20zu%20weisen%20Kanin.png)
+
 ## Kaninchenlöcher für den Einstieg 
 
 ### Mehr über digitale Gärten 🕳️🐇 
