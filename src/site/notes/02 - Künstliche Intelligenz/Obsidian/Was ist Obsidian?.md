@@ -4,17 +4,16 @@
 
 # Was ist Obsidian?
 
-Diese Plattform wurde mit **Obsidian** gebaut - eine extrem flexible **Notiz-App**, die auf dem Prinzip des „vernetzten Denkens“ basiert.
+Diese Website wurde mit **Obsidian** gebaut - eine extrem flexible **Notiz-App**, die auf dem Prinzip des „vernetzten Denkens“ basiert.
 
-
-**Die Schönheit von Obsidian in 2 Minuten erklärt:**
-### 📺 [This is Obsidian!](https://www.youtube.com/watch?v=d2FNqEDGc8g)
+📺 **Die Schönheit von Obsidian in 2 Minuten erklärt:**  [This is Obsidian!](https://www.youtube.com/watch?v=d2FNqEDGc8g)
 
 - **Kein proprietärer Dienst:** Obsidian ist kein Web-Service einer großen Tech-Firma, der eines Tages abgeschaltet werden könnte (→ siehe auch [[02 - Künstliche Intelligenz/Open Source vs Proprietär\|Open Source vs Proprietär]])
 - **Lokale Textdateien:** Im Kern besteht Obsidian einfach aus einem Ordner voller Textdateien - um genauer zu sein: [[02 - Künstliche Intelligenz/Markdown\|Markdown]]-Dateien
 - **Zukunftssicher und zeitlos:** Da es sich um einfache Textdateien handelt, bleiben deine Notizen auch in vielen Jahren noch lesbar, selbst wenn die App selbst nicht mehr existieren sollte 
 - **Portabilität:** Deine Notizen sind nicht an Obsidian gebunden. Da es nur Textdateien sind, kannst du sie problemlos mit anderen Programmen öffnen und bearbeiten.
 
+## Im Detail
 ### 1. Lokale Dateien (Dein Eigentum)
 
 Im Gegensatz zu Apps wie Notion oder Evernote speichert Obsidian deine Notizen nicht in einer proprietären Cloud, sondern als **einfache [[02 - Künstliche Intelligenz/Markdown\|Markdown]]-Dateien (.md)** lokal auf deinem Computer.
@@ -51,17 +50,15 @@ Obsidian ist hochgradig modular:
 
 **Kleiner Dämpfer:** Da Obsidian so mächtig ist, kann die Lernkurve am Anfang etwas steil sein. Man kann sich leicht darin verlieren, die App zu _konfigurieren_, statt tatsächlich zu _schreiben_.
 
-## Ist Obsidian in Zeiten von KI überflüssig?
+## Eine berechtigte Frage: Ist Obsidian in Zeiten von KI überflüssig?
 
 Während die einen in Obsidian die perfekte Basis für ihr Wissen gefunden haben, behaupten andere: [[02 - Künstliche Intelligenz/PKM (Personal Knowledge Management)\|PKM]]-Tools sind in Zeiten von KI nicht mehr gebraucht. 
 
-Vor ein paar Jahren habe ich die Entscheidung getroffen, mich auf Obsidian einzulassen. Und in Zeiten von KI zeigt sich immer mehr: die Entscheidung war goldrichtig! Statt von wechselnden KI-Tools abhängig zu sein (Locked-In-Effekt), unterstützt Obsidian Dank seines “File first, App second”-Ansatz die Unabhängigkeit und die Zusammenarbeit mit _allen_ KI-Tools. Was passiert, wenn Obsidian über Nacht verschwindet? Gar nichts - Du hast immer noch Deine Markdown-Files, welche zeitlos sind und in jeder Anwendung funktionieren!
+Vor ein paar Jahren habe ich die Entscheidung getroffen, mich auf Obsidian einzulassen. Und gerade auch in Zeiten von KI zeigt sich immer mehr: die Entscheidung war goldrichtig! Statt von wechselnden KI-Tools abhängig zu sein (Locked-In-Effekt), unterstützt Obsidian Dank seines “File first, App second”-Ansatz die Unabhängigkeit und die Zusammenarbeit mit _allen_ KI-Tools. Was passiert, wenn Obsidian über Nacht verschwindet? Gar nichts! Denn Du hast immer noch Deine Markdown-Dateien, welche zeitlos sind und in vielen Anwendungen funktionieren!
 
 > [!info] Mehr zu diesen Thema:
  📖 [[02 - Künstliche Intelligenz/KI als Ersatz für PKM (Personal Knowledge Management)?\|KI als Ersatz für PKM (Personal Knowledge Management)?]] 
  📺 [Obsidian Just Won](https://www.youtube.com/watch?v=y6YTk0C5pBY&t=322s)
-
-
 ## Achtung, Nerdzone 🤓 🚧
 
 Obwohl (oder gerade weil) ich so begeistert von Obsidian bin, muss ich ausdrücklich davor warnen: 
@@ -84,7 +81,7 @@ Obsidian kommt schlicht daher, aber lässt sich durch hunderte von Plugins (fast
 
 # Obsidian - Nützliche Plugins
 
-[[02 - Künstliche Intelligenz/Canvas\|Canvas]] Das integrierte Plugin für Mindmaps & mehr. Absolute Empfehlung!
+[[02 - Künstliche Intelligenz/Canvas in Obsidian\|Canvas in Obsidian]] Das integrierte Plugin für Mindmaps & mehr. Absolute Empfehlung!
 
 [[02 - Künstliche Intelligenz/Obsidian/Excalidraw\|Excalidraw]]  Ein Bild sagt mehr als tausend Worte. Graphisch denken mit dem beliebtesten Obsidian Plugin - genial!
 

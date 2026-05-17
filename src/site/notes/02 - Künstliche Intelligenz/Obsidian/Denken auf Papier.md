@@ -51,7 +51,7 @@ Dazu gibt es eine schöne Übung. Teile ein Blatte Papier in zwei Spalten ein un
 
 | **P (Passiv)**                                                                    | **A (Aktiv)**                                                             |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| **Zustand:** Tagträumen, mechanisches Lesen, Abschweifen, Berieseln lassen.       | **Zustand:** Tiefes Nachdenken, Hinterfragen, Erklären, Visualisiere      |
+|                                                                                   | **Zustand:** Tiefes Nachdenken, Hinterfragen, Erklären, Visualisieren     |
 | **Eintrag hier machen, wenn:**                                                    | **Hier startest du:**                                                     |
 | • Du merkst, dass du gerade 5 Minuten nur auf die Seite gestarrt hast.            | • Du erklärst den Stoff laut, als würdest du unterrichten              en |
 | • Dein Fokus vom Thema zum Handy oder zum Abendessen gewandert ist.               | • Du erstellst ein [[02 - Künstliche Intelligenz/Mindmaps\|Mindmap]]                                  |

@@ -78,7 +78,7 @@ Ein Jahr später habe ich Xmind aufgegeben, weil meine Selbstständigkeit noch j
 
 Eigentlich hätte ich sogar auf den kostenlosen Plan umsteigen können!
 
-Doch in dieser Phase flammte meine Begeisterung für [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]] wieder so richtig auf und ich entdeckte in diesem Kontext [[02 - Künstliche Intelligenz/Canvas\|Canvas]] und [[02 - Künstliche Intelligenz/Obsidian/Excalidraw\|Excalidraw]].
+Doch in dieser Phase flammte meine Begeisterung für [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]] wieder so richtig auf und ich entdeckte in diesem Kontext [[02 - Künstliche Intelligenz/Canvas in Obsidian\|Canvas in Obsidian]] und [[02 - Künstliche Intelligenz/Obsidian/Excalidraw\|Excalidraw]].
 
 ## Empfohlenes Handwerkszeug für Mindmaps
 
@@ -100,7 +100,7 @@ Das ist alles jedoch Jammern auf hohen Niveau:
 
 ### Obsidian 
 
-Wie gesagt, liebe ich mein [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]]. 
+Wie gesagt, liebe ich mein [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]]. 
 
 Ich mag die Gestaltungsfreiheit: Ich bin nicht an einen strikt hierarchischen Aufbau gebunden und kann beliebige Querverbindungen schaffen. Dadurch fühlt es sich weniger wie eine klassische Mindmap an und viel mehr wie freies, vernetztes Denken – genau das, was Obsidian so charakteristisch macht.
 
@@ -121,5 +121,5 @@ Mir persönlich macht es allerdings mehr Spaß, an einer digitalen Mindmap weite
 Ohne Zweifel gibt es auch andere Mindmap-Software, die gut sind (z.B. MindMeister, Miro oder FreeMind), aber diese beiden habe ich selber intensiv genutzt und lieben gelernt.
 
 👉 Wenn Du ein intuitives, visuell ansprechendes Tool suchst, mit dem Du schnell strukturierte Mindmaps erstellen kannst, dann ist **Xmind** eine gute Wahl für Dich.
-👉 Wenn Du hingegen vernetztes Denken liebst, maximale Freiheit willst und bereit bist, Dich etwas tiefer einzuarbeiten, dann ist [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]] (mit Canvas/Excalidraw) die bessere Wahl für Dich.
+👉 Wenn Du hingegen vernetztes Denken liebst, maximale Freiheit willst und bereit bist, Dich etwas tiefer einzuarbeiten, dann ist [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]] (mit [[02 - Künstliche Intelligenz/Canvas in Obsidian\|Canvas in Obsidian]]/[[02 - Künstliche Intelligenz/Obsidian/Excalidraw\|Excalidraw]]) die bessere Wahl für Dich.
 
