@@ -17,13 +17,13 @@ Die Notiz soll so klein sein, dass sie sich nicht weiter sinnvoll aufteilen läs
 
 Die Stärke dieses Ansatzes liegt in vier zentralen Vorteilen:
 
-- Wiederverwendbarkeit: Eine einzelne, isolierte Idee lässt sich flexibel in viele verschiedene Zusammenhänge, Projekte oder Verknüpfungen einbetten. Im Gegensatz dazu ist eine Sammelnotiz oft an ihren spezifischen Ursprungskontext gebunden und schwerer anderweitig nutzbar.
-- Präzise Verlinkung: Kleine, klare Notizen lassen sich gezielt miteinander verknüpfen. Man verbindet nicht bloß Dokumente oder Abschnitte, sondern Gedanken direkt miteinander.
-- Klarheit im Denken: Der Zwang, eine komplexe Idee in eine einzige, eigenständige Notiz zu fassen, zwingt dazu, den Gedankengang zu Ende zu denken. Das Schreiben wird so zum aktiven Denkwerkzeug. 
-- Auffindbarkeit: Je spezifischer und fokussierter eine Notiz ist, desto leichter ist sie durch Suche oder Navigation zu finden und im richtigen Moment einzusetzen.
+- **Wiederverwendbarkeit**: Eine einzelne, isolierte Idee lässt sich flexibel in viele verschiedene Zusammenhänge, Projekte oder Verknüpfungen einbetten. Im Gegensatz dazu ist eine Sammelnotiz oft an ihren spezifischen Ursprungskontext gebunden und schwerer anderweitig nutzbar.
+- **Präzise Verlinkung**: Kleine, klare Notizen lassen sich gezielt miteinander verknüpfen. Man verbindet nicht bloß Dokumente oder Abschnitte, sondern Gedanken direkt miteinander.
+- **Klarheit im Denken**: Der Zwang, eine komplexe Idee in eine einzige, eigenständige Notiz zu fassen, zwingt dazu, den Gedankengang zu Ende zu denken. Das Schreiben wird so zum aktiven Denkwerkzeug. 
+- **Auffindbarkeit**: Je spezifischer und fokussierter eine Notiz ist, desto leichter ist sie durch Suche oder Navigation zu finden und im richtigen Moment einzusetzen.
 
 Die atomare Struktur transformiert passives Sammeln von Informationen in einen aktiven Prozess der Wissensgenerierung.
 
 
->[!note] Inspiration
+>[!note] Weiterlesen
 >Komplexe Ideen in ihrer einfachsten Bestandteile zerlegen und aktives Denken - das passt wunderbar zur [[02 - Künstliche Intelligenz/Richard Feynman#Prinzipien des Lernens Feynman-Methode\| Feynman-Methode]] und zum [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]].
