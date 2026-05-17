@@ -1,5 +1,5 @@
 ---
-{"title":"Richard Feynman","aliases":null,"tags":null,"gen-ai-anteil":["Claude 80%"],"created":"2017-04-04","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/richard-feynman/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Richard Feynman","aliases":null,"tags":null,"gen-ai-anteil":["Claude 80%"],"created":"2017-04-04","updated":null,"status":null}}
+{"title":"Richard Feynman","aliases":null,"tags":null,"gen-ai-anteil":["Claude 80%"],"created":"2017-04-04","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/richard-feynman/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Richard Feynman","aliases":null,"tags":null,"gen-ai-anteil":["Claude 80%"],"created":"2017-04-04","updated":"2026-05-17","status":null}}
 ---
 
 
@@ -34,11 +34,8 @@ Ein paar seiner Kerngedanken:
 - **Fehler sind kein Makel**, sondern der eigentliche Lernmoment
 - **Erstprinzipien-Denken** – nicht nachbeten, was andere gesagt haben, sondern von Grund auf selbst herleiten
 
-### Schöne Dokumentation
-
-📺 [The "Notebook Method" That Made Feynman A Genius (Think on Paper)](https://www.youtube.com/@feynmanarchives)
-
-### 📖 Siehe auch ...
-
-[[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]]
+> [!note] Weiterstöbern
+📺 Schöne Dokumentation auf YouTube: [The "Notebook Method" That Made Feynman A Genius (Think on Paper)](https://www.youtube.com/@feynmanarchives)
+>
+📖 Von Feynman inspiriert: [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]]
 
