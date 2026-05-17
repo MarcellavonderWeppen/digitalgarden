@@ -34,8 +34,9 @@ Ein paar seiner Kerngedanken:
 - **Fehler sind kein Makel**, sondern der eigentliche Lernmoment
 - **Erstprinzipien-Denken** – nicht nachbeten, was andere gesagt haben, sondern von Grund auf selbst herleiten
 
-> [!note] Weiterstöbern
-📺 Schöne Dokumentation auf YouTube: [The "Notebook Method" That Made Feynman A Genius (Think on Paper)](https://www.youtube.com/@feynmanarchives)
+## Weiterstöbern
+
+> 📺 Schöne Dokumentation auf YouTube: [The "Notebook Method" That Made Feynman A Genius (Think on Paper)](https://www.youtube.com/@feynmanarchives)
 >
-📖 Von Feynman inspiriert: [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]]
+> 📖 Von Feynman inspiriert: [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]]
 
