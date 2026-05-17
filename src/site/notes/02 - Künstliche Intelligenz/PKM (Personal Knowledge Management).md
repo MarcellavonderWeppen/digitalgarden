@@ -6,11 +6,7 @@
 
 ... ist die Praxis, Informationen gezielt zu erfassen, zu organisieren, zu verknüpfen und abzurufen – um das eigene Denken, Lernen und Arbeiten zu unterstützen.
 
-In diesem Zusammenhang tauchen oft die Begriffe „Digital Garden", „Second Brain" und „Zettelkasten" auf.
-
-## Begriffsabgrenzung
-
-Second Brain, Digital Garden, Zettelkasten und PKM (Personal Knowledge Management) sind eng verwandte Konzepte, die sich auf die Organisation und Nutzung von Wissen konzentrieren, aber unterschiedliche Schwerpunkte und Philosophien haben.
+Second Brain, Digital Garden, Zettelkasten und PKM (Personal Knowledge Management) sind eng verwandte Konzepte, die sich auf die Organisation und Nutzung von Wissen konzentrieren, aber unterschiedliche Schwerpunkte und Philosophien haben:
 
 ### PKM (Personal Knowledge Management)
 ... ist der Oberbegriff für alle Methoden und Werkzeuge, die Einzelpersonen nutzen, um Informationen zu sammeln, zu organisieren, zu verknüpfen und wiederzufinden. Es geht um den gesamten Prozess des Wissensmanagements.
@@ -28,7 +24,6 @@ Second Brain, Digital Garden, Zettelkasten und PKM (Personal Knowledge Managemen
 
 Viele Nutzer kombinieren Elemente aller vier Ansätze, je nach ihren Bedürfnissen:
 
-> [!info] Auf einen Blick:
 > - PKM ist das übergeordnete Feld,
 >- der Second Brain ist eine strukturierte, projektbezogene Methode,
 >- der Digital Garden eine offene, wachstumsorientierte Herangehensweise,
