@@ -27,8 +27,3 @@ Die atomare Struktur transformiert passives Sammeln von Informationen in einen a
 
 >[!note] Inspiration
 >Komplexe Ideen in ihrer einfachsten Bestandteile zerlegen und aktives Denken - das passt wunderbar zur [[02 - Künstliche Intelligenz/Richard Feynman#Prinzipien des Lernens Feynman-Methode\| Feynman-Methode]] und zum [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]].
-
-
-
-
-
