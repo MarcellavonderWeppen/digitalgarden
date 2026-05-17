@@ -6,7 +6,7 @@
 
 # Herzlich Willkommen in meinem "Digital Garden" zum Thema Künstliche Intelligenz 🌱🌿🌳
 
-Hier ist mein persönlicher "digitaler Garten" am Wachsen: Ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte. 
+Hier ist mein persönlicher "digitaler Garten" am Wachsen: Ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte rund um dieses Thema. 
 
 Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Art Blog?
 
@@ -33,7 +33,7 @@ Ihr könnt mir also beim Lernen zugucken und vielleicht nach und nach, während 
 
 ## Hier geht’s zu den Kaninchenlöchern👇
 
-Folge dem weissen Kaninchen in die [[Bilder/Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
+Folge dem weissen Kaninchen in die [[02 - Künstliche Intelligenz/Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
 
 ![Kaninchenloch ChatGPT 14.05.26.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Kaninchenloch%20ChatGPT%2014.05.26.png)
 
@@ -48,7 +48,7 @@ Ich habe mich schon an beiden Enden des Spektrums wiedergefunden - in dieser Rei
 
 Vieles was da passiert ist bedenklich, doch ich glaube:
 
-[[Bilder/KI- es geht auch anders\|KI- es geht auch anders]]! 
+[[02 - Künstliche Intelligenz/KI- es geht auch anders\|KI- es geht auch anders]]! 
 
 ### Mitmachen erwünscht
 
