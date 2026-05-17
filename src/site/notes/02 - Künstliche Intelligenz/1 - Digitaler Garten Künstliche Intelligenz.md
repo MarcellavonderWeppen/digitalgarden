@@ -1,6 +1,8 @@
 ---
-{"title":"1 - HOME","aliases":null,"tags":["gardenEntry"],"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null,"dg-publish":true,"dg-home":true,"banner":"02 - Künstliche Intelligenz/Bilder/Obsidian Nerd Q2 2026.png","banner-x":50,"banner-y":20,"permalink":"/02-kuenstliche-intelligenz/1-digitaler-garten-kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"1 - HOME","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null,"banner":"02 - Künstliche Intelligenz/Bilder/Obsidian Nerd Q2 2026.png","banner-x":50,"banner-y":20}}
+{"title":"1 - HOME","aliases":null,"tags":["gardenEntry"],"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null,"dg-publish":true,"dg-home":true,"permalink":"/02-kuenstliche-intelligenz/1-digitaler-garten-kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"1 - HOME","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null}}
 ---
+
+![Digital Garden Gemini 14.05.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)
 
 # Herzlich Willkommen in meinem "Digital Garden" zum Thema Künstliche Intelligenz 🌱🌿🌳
 
@@ -8,7 +10,6 @@ Hier ist mein persönlicher "digitaler Garten" am Wachsen: Ich dokumentiere hier
 
 Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Art Blog?
 
-![Digital Garden Gemini 14.05.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)
 ## Ein Garten des Wissens im Entstehen
 
 Die digitale Gärtnerei ist verwandt mit dem Bloggen, funktioniert aber anders: 
@@ -32,7 +33,7 @@ Ihr könnt mir also beim Lernen zugucken und vielleicht nach und nach, während 
 
 ## Hier geht’s zu den Kaninchenlöchern👇
 
-Folge dem weissen Kaninchen in die [[Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
+Folge dem weissen Kaninchen in die [[Bilder/Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
 
 ![Kaninchenloch ChatGPT 14.05.26.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Kaninchenloch%20ChatGPT%2014.05.26.png)
 
@@ -47,7 +48,7 @@ Ich habe mich schon an beiden Enden des Spektrums wiedergefunden - in dieser Rei
 
 Vieles was da passiert ist bedenklich, doch ich glaube:
 
-[[KI- es geht auch anders\|KI- es geht auch anders]]! 
+[[Bilder/KI- es geht auch anders\|KI- es geht auch anders]]! 
 
 ### Mitmachen erwünscht
 
