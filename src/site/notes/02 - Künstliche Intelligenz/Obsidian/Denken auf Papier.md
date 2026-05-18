@@ -4,6 +4,8 @@
 
 # Denken auf Papier
 
+Nach Jahren der Ablehnung dieser traditionellen Methode hat sich mir nun wieder die Schönheit von Stift und Papier erschlossen.
+
 ## Richard Feynman über Denken auf Papier
 
 Hier ein kurzer Dialog zwischen [[02 - Künstliche Intelligenz/Richard Feynman\|Richard Feynman]] und dem Historiker Charles Weiner im Jahr 1966.

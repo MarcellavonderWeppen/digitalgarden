@@ -30,7 +30,7 @@ Das `.canvas`-Format ist [[02 - Künstliche Intelligenz/Open Source vs Propriet�
 
 Siehe dazu auch: 📺 [How I’m ACTUALLY Using The Obsidian Canvas](https://youtu.be/HFK3D7zeyTA?si=Zzxg0hWfz9fpoBPu&t=629)
 
-💡 Viele Mindmapping-Tools sind [[02 - Künstliche Intelligenz/proprietär\|proprietär]]. Wenn die Firma hinter dem Tool pleite geht oder das Abo-Modell ändert, sind Diagramme oft verloren oder nur schwer zu exportieren.
+💡 Viele Mindmapping-Tools sind [[02 - Künstliche Intelligenz/Open Source vs Proprietär\|proprietär]]. Wenn die Firma hinter dem Tool pleite geht oder das Abo-Modell ändert, sind Diagramme oft verloren oder nur schwer zu exportieren.
 
 Obsidian hat das Format nicht nur entwickelt, sondern auch **quelloffen** auf GitHub veröffentlicht.  Somit lassen sich `.canvas`Dateien problemlos in andere Programme  importieren.
 
@@ -41,23 +41,18 @@ Obsidian hat das Format nicht nur entwickelt, sondern auch **quelloffen** auf Gi
 3. Nutze das [[02 - Künstliche Intelligenz/LLMs (Large Languange Models)\|LLM]] Deines Vertrauens, wenn Du nicht weiter kommst
 4. Wenn Du das Gefühl hast, Du möchtest "mehr" - mehr Möglichkeiten, mehr Kreativität, mehr Verspieltheit - dann ist es vielleicht an der Zeit [[02 - Künstliche Intelligenz/Obsidian/Excalidraw\|Excalidraw]] zu probieren.
 
-## Weiterbildung in der YouTube-Academy
+## Weiterbildung in der YouTube-Academy 📺
+
+☝️🤓 Ich empfehle, erst einmal selber den Canvas zu erkunden. Ich finde ihn (mit ein wenig Obsidian-Erfahrung) hochintuitiv und hatte eine Menge Spaß beim schnellen entdecken und verstehen. Später habe ich mir in den Videos weitere Tipps und Ideen für Anwendungen geholt. 
 
 Für alle Interessierten, hier geht's in den Kaninchenbau 🐇👇
 
-> [!tip] Tipp für den Einstieg
-> ☝️🤓 Ich empfehle, erst einmal selber den Canvas zu erkunden. Ich finde ihn (mit ein wenig Obsidian-Erfahrung) hochintuitiv und hatte eine Menge Spaß beim schnellen entdecken und verstehen. Später habe ich mir in den Videos weitere Tipps und Ideen für Anwendungen geholt. 
-
-📺 Gute **Einführung** mit Usecases: [How I’m ACTUALLY Using The Obsidian Canvas](https://www.youtube.com/watch?v=HFK3D7zeyTA)
-
-📺  [Why Obsidian Canvas is THE BEST Mind Mapping Tool](https://www.youtube.com/@creadevlabs) Neben weiteren Tipps zur Anwendung werden hier auch zwei interessante **Usecases** vorgestellt, die über reines Mindmapping hinausgehen: 
-1) Produktions-Dashboard für einen YouTube-Kanal [08:50](http://www.youtube.com/watch?v=NqfABACJ8fs&t=530)
-2) Moodboards & Projektplanung: für die Entwicklung einer App [11:01](http://www.youtube.com/watch?v=NqfABACJ8fs&t=661)
-
-📺 Ich liebe es, wenn Menschen Tools abweichend von ihrem beabsichtigten Verwendungszweck verwenden: [Using Obsidian Canvas to Create Custom Dashboards](https://www.youtube.com/watch?v=qPgZTiA69y4) und [How to Do a Personal Retreat in Obsidian](https://www.youtube.com/watch?v=D2VfeT1dsxY) Außerdem werden hier weitere **Plugins** vorgestellt, um Canvas "aufzuhübschen" bzw. für Präsentationen zu verwenden. [5:36](https://youtu.be/qPgZTiA69y4?si=YGKCjBUeNJzqq-hI&t=336)
-
-📺 Wer lieber auf deutsch gucken möchte: 🇩🇪 [Obsidian Canvas Plugin Tutorial (deutsch)]([https://www.youtube.com/watch?v=ybzn8ch4_4Q](https://www.youtube.com/watch?v=ybzn8ch4_4Q)) Hier wird auch noch mal super erklärt, warum **räumliches / graphisches Denken** für das Lernen so wesentlich ist (bei [1:36](https://youtu.be/ybzn8ch4_4Q?si=GtxZnXXT_8PdxPxf&t=96) und [11:22](https://youtu.be/ybzn8ch4_4Q?si=QUnqf8lCNOM3_LVb&t=682))
-
-📺 Langweiliges Video, aber das einzige welches erklärt, wie man **Präsentationen** mit Canvas erstellt: [Obsidian Canvas - Presentations, Flowcharts and more!](https://youtu.be/KIDt5hlmjWg?si=HR9Rj2AciH2eR829&t=336)
+- Gute **Einführung** mit Usecases: [How I’m ACTUALLY Using The Obsidian Canvas](https://www.youtube.com/watch?v=HFK3D7zeyTA)
+- [Why Obsidian Canvas is THE BEST Mind Mapping Tool](https://www.youtube.com/@creadevlabs) Neben weiteren Tipps zur Anwendung werden hier auch zwei interessante **Usecases** vorgestellt, die über reines Mindmapping hinausgehen:
+	- Produktions-Dashboard für einen YouTube-Kanal [08:50](http://www.youtube.com/watch?v=NqfABACJ8fs&t=530
+	- Moodboards & Projektplanung: für die Entwicklung einer App [11:01](http://www.youtube.com/watch?v=NqfABACJ8fs&t=661)
+ - Ich liebe es, wenn Menschen Tools abweichend von ihrem beabsichtigten Verwendungszweck verwenden: [Using Obsidian Canvas to Create Custom Dashboards](https://www.youtube.com/watch?v=qPgZTiA69y4) und [How to Do a Personal Retreat in Obsidian](https://www.youtube.com/watch?v=D2VfeT1dsxY) Außerdem werden hier weitere **Plugins** vorgestellt, um Canvas "aufzuhübschen" bzw. für Präsentationen zu verwenden. [5:36](https://youtu.be/qPgZTiA69y4?si=YGKCjBUeNJzqq-hI&t=336)
+ - Wer lieber auf deutsch gucken möchte: 🇩🇪 [Obsidian Canvas Plugin Tutorial (deutsch)]([https://www.youtube.com/watch?v=ybzn8ch4_4Q](https://www.youtube.com/watch?v=ybzn8ch4_4Q)) Hier wird auch noch mal super erklärt, warum **räumliches / graphisches Denken** für das Lernen so wesentlich ist (bei [1:36](https://youtu.be/ybzn8ch4_4Q?si=GtxZnXXT_8PdxPxf&t=96) und [11:22](https://youtu.be/ybzn8ch4_4Q?si=QUnqf8lCNOM3_LVb&t=682))
+- Langweiliges Video, aber das einzige welches erklärt, wie man **Präsentationen** mit Canvas erstellt: [Obsidian Canvas - Presentations, Flowcharts and more!](https://youtu.be/KIDt5hlmjWg?si=HR9Rj2AciH2eR829&t=336)
 
 

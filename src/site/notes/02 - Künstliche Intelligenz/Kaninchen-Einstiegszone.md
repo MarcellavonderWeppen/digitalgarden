@@ -15,8 +15,7 @@ Nicht alle Kaninchenlöcher sind gleich gut ausgebaut. Orientierung geben die fo
 >Junges neugieriges Kaninchen am Graben 🕳️🐇 
 >Weises Kanin 🐇👑 
 >
-![Babykanickel zu weisen Kanin.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Babykanickel%20zu%20weisen%20Kanin.png)
-
+>![Kaninchen Lebensphasen.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Kaninchen%20Lebensphasen.png)
 ## Kaninchenlöcher für den Einstieg 
 
 ### Mehr über digitale Gärten 🕳️🐇 
@@ -35,7 +34,7 @@ So wird dann aus einem 5-Minuten-Punkt aus der To-Do-Liste ein wochenlanges Proj
 
 ### Marktplatz: Marcellas kleiner Shop 🐰🐣
 
-“[[02 - Künstliche Intelligenz/KI- es geht auch anders\|KI- es geht auch anders]]” hatte ich behauptet. Auf der Suche nach dem “anders” begegnen mir auch viele Produkte, die ich für empfehlenswert halte und deshalb auch als [[Affiliate\|Affiliate]]-Partner empfehle.
+“[[02 - Künstliche Intelligenz/KI- es geht auch anders\|KI- es geht auch anders]]” hatte ich behauptet. Auf der Suche nach dem “anders” begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[Affiliate\|Affiliate]]-Partner unterstütze. 
 
 Hier könnte ihr einige meiner Empfehlungen entdecken:
  [[Marcellas kleiner Shop\|Marcellas kleiner Shop]] 🏠

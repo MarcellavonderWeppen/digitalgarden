@@ -10,12 +10,13 @@ Das Thema liegt mir sehr am Herzen!
 > [!info] Das Wort kommt aus dem Lateinischen:
  „**proprius**“ = eigen, eigenständig;  etwas, das jemandem persönlich gehört oder eigen ist.
 
-Proprietär bedeutet also Privateigentum der Firma. Der Code hinter Anwendungen bleibt Betriebsgeheimnis
+Proprietär bedeutet also: Privateigentum der Firma. Der Code hinter Anwendungen bleibt Betriebsgeheimnis.
 
 > [!info] Noch ein bisschen Wortherkunft
 > ☝️🤓 Das lateinische Wort _privare_ bedeutet „berauben", „entbehren lassen" oder „etwas wegnehmen". Es leitet sich vom Adjektiv _privus_ ab, das „einzeln" oder „allein" bedeutet, und steht im Kontrast zu _publicus_ (öffentlich). 
 
-## Black Box vs. Transparenz:
+## Ist Open Source oder proprietäre Software besser?
+
 
 |                 | Proprietär                 | Open Source         |
 | :-------------- | :------------------------- | :------------------ |
@@ -24,13 +25,12 @@ Proprietär bedeutet also Privateigentum der Firma. Der Code hinter Anwendungen 
 | **Kosten**      | Meist kostenpflichtig      | Häufig kostenlos    |
 | **Entwicklung** | Herstellergebunden         | Community-getrieben |
 
-## Ist Open Source oder proprietäre Software besser?
 
-Für Open-Source-Software spricht:
+### Für Open-Source-Software spricht:
 
 - **Transparenz & Vertrauen** – Jeder kann den Code einsehen und prüfen, was eine Software wirklich tut. Keine versteckten Hintertüren, kein Tracking im Verborgenen.
 - **Community & Innovation** – Tausende Entwickler weltweit verbessern den Code, finden Bugs und treiben Features voran – oft schneller als ein einzelnes Unternehmen es könnte.
-- **Keine Abhängigkeit vom Hersteller** – Fällt eine Firma weg oder stellt ein Produkt ein, lebt der Code weiter. Kein Vendor Lock-in.
+- **Keine Abhängigkeit vom Hersteller** – Fällt eine Firma weg oder stellt ein Produkt ein, lebt der Code weiter. Kein [[Vendor Lock-in\|Vendor Lock-in]]
 - **Lernressource** – Wer programmieren lernt oder verstehen will, wie Software funktioniert, findet im offenen Code ein riesiges Lehrarchiv.
 - **Kosten** – Lizenzen entfallen meist vollständig, was besonders für Schulen, NGOs oder Entwicklungsländer einen enormen Unterschied macht.
 

@@ -41,12 +41,12 @@ Folge dem weissen Kaninchen in die [[02 - Künstliche Intelligenz/Kaninchen-Eins
 
 Kaum ein Thema polarisiert unseren Zeitgeist so sehr wie die sogenannte Künstliche Intelligenz:
 
-Die einen verherrlichen sie, 
-die anderen hassen sie.
+Die einen verherrlichen, 
+die anderen verfluchen sie.
 
 Ich habe mich schon an beiden Enden des Spektrums wiedergefunden - in dieser Reihenfolge. 
 
-Vieles was da passiert ist bedenklich, doch ich glaube:
+Vieles was da passiert ist mehr als bedenklich und besorgniserregend, doch ich glaube:
 
 [[02 - Künstliche Intelligenz/KI- es geht auch anders\|KI- es geht auch anders]]! 
 
@@ -64,6 +64,8 @@ Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist
 Vertraue niemanden, auch mir nicht - prüfe Dinge selbst nach.  
 
 In diesem Sinne: viel Spaß beim Stöbern!
+
+___
 
 [[Datenschutz\|Datenschutz]]
 
