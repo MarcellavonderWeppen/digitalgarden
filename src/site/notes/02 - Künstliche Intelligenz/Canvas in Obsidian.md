@@ -45,6 +45,7 @@ Obsidian hat das Format nicht nur entwickelt, sondern auch **quelloffen** auf Gi
 
 Für alle Interessierten, hier geht's in den Kaninchenbau 🐇👇
 
+> [!tip] Tipp für den Einstieg
 > ☝️🤓 Ich empfehle, erst einmal selber den Canvas zu erkunden. Ich finde ihn (mit ein wenig Obsidian-Erfahrung) hochintuitiv und hatte eine Menge Spaß beim schnellen entdecken und verstehen. Später habe ich mir in den Videos weitere Tipps und Ideen für Anwendungen geholt. 
 
 📺 Gute **Einführung** mit Usecases: [How I’m ACTUALLY Using The Obsidian Canvas](https://www.youtube.com/watch?v=HFK3D7zeyTA)
@@ -57,17 +58,6 @@ Für alle Interessierten, hier geht's in den Kaninchenbau 🐇👇
 
 📺 Wer lieber auf deutsch gucken möchte: 🇩🇪 [Obsidian Canvas Plugin Tutorial (deutsch)]([https://www.youtube.com/watch?v=ybzn8ch4_4Q](https://www.youtube.com/watch?v=ybzn8ch4_4Q)) Hier wird auch noch mal super erklärt, warum **räumliches / graphisches Denken** für das Lernen so wesentlich ist (bei [1:36](https://youtu.be/ybzn8ch4_4Q?si=GtxZnXXT_8PdxPxf&t=96) und [11:22](https://youtu.be/ybzn8ch4_4Q?si=QUnqf8lCNOM3_LVb&t=682))
 
-📺 Das folgende Video habe ich eigentlich nur hinzugefügt, weil ich den Titel so witzig fand, der auch verdeutlicht, wie sehr Menschen Canvas lieben: [Praise be our lord and savior Obsidian Canvas](https://www.youtube.com/watch?v=O2IE7ZPPX-E)
-
 📺 Langweiliges Video, aber das einzige welches erklärt, wie man **Präsentationen** mit Canvas erstellt: [Obsidian Canvas - Presentations, Flowcharts and more!](https://youtu.be/KIDt5hlmjWg?si=HR9Rj2AciH2eR829&t=336)
 
-## Plugins für Canvas
-### Plugins für Canvas: Mindmaps 
 
-Man kommt echt vom Hundertsten ins Tausendste bei Obsidian! Wem noch nicht genügt, was Canvas kann oder wer es dem ehemaligen [[02 - Künstliche Intelligenz/proprietär\|proprietär]]en Lieblings-Mindmap-Tool ähnlicher machen will, der rüstet auf: 
-
-[[02 - Künstliche Intelligenz/Obsidian/Mindmaps mit Obsidian - Plugins für Canvas\|Mindmaps mit Obsidian - Plugins für Canvas]]
-
-### Plugins für Canvas: Mindmaps 
-
-[[02 - Künstliche Intelligenz/Plugins für Canvas - Obsidian\|Plugins für Canvas - Obsidian]]
