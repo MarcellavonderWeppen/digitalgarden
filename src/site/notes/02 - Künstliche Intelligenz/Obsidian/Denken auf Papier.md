@@ -1,5 +1,5 @@
 ---
-{"title":"Denken auf Papier","aliases":null,"tags":null,"gen-ai-anteil":["Claude 20%","Gemini 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/obsidian/denken-auf-papier/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Denken auf Papier","aliases":null,"tags":null,"gen-ai-anteil":["Claude 20%","Gemini 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null}}
+{"title":"Denken auf Papier","aliases":null,"tags":null,"gen-ai-anteil":["Claude 20%","Gemini 20%"],"created":"2026-04-01","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/obsidian/denken-auf-papier/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Denken auf Papier","aliases":null,"tags":null,"gen-ai-anteil":["Claude 20%","Gemini 20%"],"created":"2026-04-01","updated":"2026-05-17","status":null}}
 ---
 
 # Denken auf Papier

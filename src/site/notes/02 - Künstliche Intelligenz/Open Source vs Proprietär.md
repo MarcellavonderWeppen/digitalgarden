@@ -30,7 +30,7 @@ Proprietär bedeutet also: Privateigentum der Firma. Der Code hinter Anwendungen
 
 - **Transparenz & Vertrauen** – Jeder kann den Code einsehen und prüfen, was eine Software wirklich tut. Keine versteckten Hintertüren, kein Tracking im Verborgenen.
 - **Community & Innovation** – Tausende Entwickler weltweit verbessern den Code, finden Bugs und treiben Features voran – oft schneller als ein einzelnes Unternehmen es könnte.
-- **Keine Abhängigkeit vom Hersteller** – Fällt eine Firma weg oder stellt ein Produkt ein, lebt der Code weiter. Kein [[Vendor Lock-in\|Vendor Lock-in]]
+- **Keine Abhängigkeit vom Hersteller** – Fällt eine Firma weg oder stellt ein Produkt ein, lebt der Code weiter. Kein [[02 - Künstliche Intelligenz/Vendor Lock-In\|Vendor Lock-in]]
 - **Lernressource** – Wer programmieren lernt oder verstehen will, wie Software funktioniert, findet im offenen Code ein riesiges Lehrarchiv.
 - **Kosten** – Lizenzen entfallen meist vollständig, was besonders für Schulen, NGOs oder Entwicklungsländer einen enormen Unterschied macht.
 

@@ -39,7 +39,7 @@ Nicht zuletzt: **Programmerier** haben oft einen intuitiven Zugang zu Obsidian u
 
 Während die einen in Obsidian die perfekte Basis für ihr Wissen gefunden haben, behaupten andere: [[02 - Künstliche Intelligenz/PKM (Personal Knowledge Management)\|PKM]]-Tools sind in Zeiten von KI obsolet.  Stimmt das?
 
-Vor ein paar Jahren habe ich die Entscheidung getroffen, mich auf Obsidian einzulassen. Und gerade auch in Zeiten von KI zeigt sich immer mehr: die Entscheidung war goldrichtig! Statt von wechselnden KI-Tools abhängig zu sein ([[Vendor Lock-in\|Vendor Lock-in]]), unterstützt Obsidian mit seinem “File first, App second”-Ansatz die Unabhängigkeit und die Zusammenarbeit mit _allen_ KI-Tools. Was passiert, wenn Obsidian über Nacht verschwindet? Gar nichts! Denn Du hast immer noch Deine Markdown-Dateien, welche zeitlos sind und in vielen Anwendungen funktionieren.
+Vor ein paar Jahren habe ich die Entscheidung getroffen, mich auf Obsidian einzulassen. Und gerade auch in Zeiten von KI zeigt sich immer mehr: die Entscheidung war goldrichtig! Statt von wechselnden KI-Tools abhängig zu sein ([[02 - Künstliche Intelligenz/Vendor Lock-In\|Vendor Lock-in]]), unterstützt Obsidian mit seinem “File first, App second”-Ansatz die Unabhängigkeit und die Zusammenarbeit mit _allen_ KI-Tools. Was passiert, wenn Obsidian über Nacht verschwindet? Gar nichts! Denn Du hast immer noch Deine Markdown-Dateien, welche zeitlos sind und in vielen Anwendungen funktionieren.
 
 > [!info] Mehr zu diesen Thema:
  📖 [[02 - Künstliche Intelligenz/KI als Ersatz für PKM (Personal Knowledge Management)?\|KI als Ersatz für PKM (Personal Knowledge Management)?]] 
