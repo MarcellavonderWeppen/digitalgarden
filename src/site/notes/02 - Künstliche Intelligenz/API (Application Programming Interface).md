@@ -5,8 +5,6 @@
 ![API.jpg](/img/user/01%20-%20My%20Secret%20Time%20Garden/07%20Notes/pixel-banner-images/API.jpg)
 # API (Application Programming Interface)
 
-**API** ist kurz für **Application Programming Interface**.
-
 👉 Auf Deutsch: **Programmierschnittstelle**
 
 Eine Schnittstelle ist der Ort der Kommunikation. 

@@ -3,9 +3,10 @@
 ---
 
 
-# AGI
+
 
 ![AGI-banner.jpg](/img/user/01%20-%20My%20Secret%20Time%20Garden/07%20Notes/pixel-banner-images/AGI-banner.jpg)
+
 # AGI
 
 AGI (Artificial General Intelligence): Eine mythologische KI, die nächste Woche oder vielleicht auch nie auftauchen wird. Sie kann alles, was ein Mensch kann, nur besser und schneller und wird sich innerhalb kürzester Zeit selber zur ASI (Artificial Super Intelligence) weiter entwickeln - eine Wesenheit, deren Intelligenz sich zum Menschen verhält wie die des Menschen zur Kakerlake. 
