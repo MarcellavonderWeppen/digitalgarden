@@ -49,10 +49,10 @@ Für alle Interessierten, hier geht's in den Kaninchenbau 🐇👇
 
 - Gute Einführung mit Usecases: [How I’m ACTUALLY Using The Obsidian Canvas](https://www.youtube.com/watch?v=HFK3D7zeyTA)
 - [Why Obsidian Canvas is THE BEST Mind Mapping Tool](https://www.youtube.com/@creadevlabs) Neben weiteren Tipps zur Anwendung werden hier auch zwei interessante Usecases vorgestellt, die über reines Mindmapping hinausgehen:
-	- Produktions-Dashboard für einen YouTube-Kanal [08:50](http://www.youtube.com/watch?v=NqfABACJ8fs&t=530
+	- Produktions-Dashboard für einen YouTube-Kanal [08:50](http://www.youtube.com/watch?v=NqfABACJ8fs&t=530)
 	- Moodboards & Projektplanung: für die Entwicklung einer App [11:01](http://www.youtube.com/watch?v=NqfABACJ8fs&t=661)
  - Ich liebe es, wenn Menschen Tools abweichend von ihrem beabsichtigten Verwendungszweck verwenden: [Using Obsidian Canvas to Create Custom Dashboards](https://www.youtube.com/watch?v=qPgZTiA69y4) und [How to Do a Personal Retreat in Obsidian](https://www.youtube.com/watch?v=D2VfeT1dsxY) Außerdem werden hier weitere **Plugins** vorgestellt, um Canvas "aufzuhübschen" bzw. für Präsentationen zu verwenden. [5:36](https://youtu.be/qPgZTiA69y4?si=YGKCjBUeNJzqq-hI&t=336)
  - Wer lieber auf deutsch gucken möchte: 🇩🇪 [Obsidian Canvas Plugin Tutorial (deutsch)]([https://www.youtube.com/watch?v=ybzn8ch4_4Q](https://www.youtube.com/watch?v=ybzn8ch4_4Q)) Hier wird auch noch mal super erklärt, warum räumliches / graphisches Denken für das Lernen so wesentlich ist (siehe [1:36](https://youtu.be/ybzn8ch4_4Q?si=GtxZnXXT_8PdxPxf&t=96) und [11:22](https://youtu.be/ybzn8ch4_4Q?si=QUnqf8lCNOM3_LVb&t=682))
-- Langweiliges Video, aber das einzige welches erklärt, wie man **Präsentationen** mit Canvas erstellt: [Obsidian Canvas - Presentations, Flowcharts and more!](https://youtu.be/KIDt5hlmjWg?si=HR9Rj2AciH2eR829&t=336)
+- Langweiliges Video, aber das einzige welches erklärt, wie man Präsentationen mit Canvas erstellt: [Obsidian Canvas - Presentations, Flowcharts and more!](https://youtu.be/KIDt5hlmjWg?si=HR9Rj2AciH2eR829&t=336)
 
 

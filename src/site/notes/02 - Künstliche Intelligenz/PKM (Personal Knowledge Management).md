@@ -25,9 +25,9 @@ Second Brain, Digital Garden, Zettelkasten und PKM (Personal Knowledge Managemen
 Viele Nutzer kombinieren Elemente aller vier Ansätze, je nach ihren Bedürfnissen:
 
 > - PKM ist das übergeordnete Feld,
->- der Second Brain ist eine strukturierte, projektbezogene Methode,
->- der Digital Garden eine offene, wachstumsorientierte Herangehensweise,
->- und der Zettelkasten ein vernetztes System für die Generierung neuer Ideen.
+>- Second Brain ist eine strukturierte, projektbezogene Methode,
+>- Digital Garden ist ein PKM, das sich öffentlich weiterentwickelt
+>- und Zettelkasten ein vernetztes System aus [[02 - Künstliche Intelligenz/Atomare Notizen\|atomaren Notizen]]
 
 
 

@@ -43,6 +43,7 @@ Vor ein paar Jahren habe ich die Entscheidung getroffen, mich auf Obsidian einzu
 
 > [!info] Mehr zu diesen Thema:
  📖 [[02 - Künstliche Intelligenz/KI als Ersatz für PKM (Personal Knowledge Management)?\|KI als Ersatz für PKM (Personal Knowledge Management)?]] 
+ >
  📺 [Obsidian Just Won](https://www.youtube.com/watch?v=y6YTk0C5pBY&t=322s)
 ## Achtung, Nerdzone 🤓 🚧
 

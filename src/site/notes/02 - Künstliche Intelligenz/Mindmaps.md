@@ -34,9 +34,9 @@ Das Mindmap wird zum unmittelbaren Spiegel deines Geistes: Wenn es ein Problem a
 
 Gerade wenn deine Gedanken chaotisch sind, schreibe sie auf – genau das ist der Prozess, der Klarheit bringt und direkt zum zweiten Prinzip führt:
 
-#### Geheimnis Nr. 2: Mach es niemals beim ersten Mal richtig!
+#### Geheimnis Nr. 2: Mach es beim ersten Mal falsch
 
-Es ist wahrscheinlich menschlich unmöglich, beim ersten Mal eine perfekte Mindmap zu erstellen.
+Es ist wahrscheinlich unmöglich, beim ersten Mal eine perfekte Mindmap zu erstellen.
 
 Schreibe stattdessen deine Gedanken nieder und baue im Laufe der Zeit darauf auf. 
 
@@ -49,22 +49,24 @@ Es ist oft sinnvoll, die Mindmap neu zu zeichnen, wenn das Chaos überhandnimmt.
 - Nuanciertes Verständnis
 - Solides Wissen
 
-#### Geheimnis Nr. 3: Ordne Ideen niemals so, wie sie präsentiert werden
+#### Geheimnis Nr. 3: Ordne Ideen niemals so an, wie sie präsentiert werden
 
-**Framing-Bias** ist die Tendenz deines Gehirns, Informationen danach zu beurteilen, wie sie dir präsentiert wurden (also zum Beispiel was ich hier mache: das Video in der chronologischen Reihenfolge wiedergeben 😂). Doch was für eine andere Person  logisch und intuitiv ist, passt vielleicht überhaupt nicht zu Dir und Deiner Denkweise.
+Unser Gehirn hat die Tendenz, Informationen danach zu beurteilen, wie sie präsentiert wurden. Das nennt sich **Framing Bias**. 
 
-👉 Lerne ein Thema daher so, wie es für dein Gehirn am sinnvollsten ist!
+Ein Beispiel: Ich gebe hier die Informationen aus dem Video in der chronologischen Reihenfolge wieder. Und das ist falsch 😂 
+
+Denn was für eine andere Person  logisch und intuitiv ist, passt vielleicht überhaupt nicht zu mir und meiner Denkweise.
+
+👉 Lerne ein Thema daher so, wie es für Dein Gehirn am sinnvollsten ist!
 
 **Vorteile:** 
-- Bessere Beibehaltung
-- Freier und schneller Abruf von Informationen
-- Intuitiver
-- Weniger auswendiges Lernen
-- Wenn du es auswendig lernen musst, um dich daran zu erinnern, bedeutet das wahrscheinlich, dass es nicht intuitiv ist
+- Intuitiver + weniger auswendig Lernen
+- Wenn du es auswendig lernen musst, bedeutet das wahrscheinlich, dass es nicht intuitiv ist
 
 ####  Geheimnis Nr. 4: Die Feynman-Technik
 
-Sehr von mir geliebt: Hier geht's zur 👉 [[02 - Künstliche Intelligenz/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]
+Sehr von mir geliebt: 
+👉 Hier geht's zur  [[02 - Künstliche Intelligenz/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]
 
 ## Storytime Fortsetzung 📖
 
@@ -74,11 +76,7 @@ Ein freundlicher Mensch (ja, es war meine Mentorin! Sie ist die Beste ❤️) ha
 
 Bis auf den heutigen Tag praktiziere ich Mindmaps und finde sie wirklich sehr, sehr hilfreich! 
 
-Ein Jahr später habe ich Xmind aufgegeben, weil meine Selbstständigkeit noch jung war und ich Kosten niedrig halten wollte.
-
-Eigentlich hätte ich sogar auf den kostenlosen Plan umsteigen können!
-
-Doch in dieser Phase flammte meine Begeisterung für [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]] wieder so richtig auf und ich entdeckte in diesem Kontext [[02 - Künstliche Intelligenz/Canvas in Obsidian\|Canvas in Obsidian]] und [[02 - Künstliche Intelligenz/Obsidian/Excalidraw\|Excalidraw]].
+Ein Jahr später flammte meine Begeisterung für [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]] wieder so richtig auf und ich entdeckte in diesem Kontext [[02 - Künstliche Intelligenz/Canvas in Obsidian\|Canvas]] und [[02 - Künstliche Intelligenz/Obsidian/Excalidraw\|Excalidraw]].
 
 ## Empfohlenes Handwerkszeug für Mindmaps
 
@@ -89,37 +87,37 @@ Ich liebe Xmind! Das Spielen damit hat riesengroßen Spaß gemacht, und visuell 
 
 **Nachteile**
 
-Nun ja, es ist eben eine [[02 - Künstliche Intelligenz/Open Source vs Proprietär\|proprietäre]] Firma, die ihre Dienstleistungen im [[Clippy \|Abomodell]] zur Verfügung stellt und Deine Daten in der [[Lokal vs Cloud \|Cloud]] lagert. Ein gewisser [[02 - Künstliche Intelligenz/Vendor Lock-In\|Vendor Lock-In]] bleibt bestehen. 
+Nun ja, es ist eben eine [[02 - Künstliche Intelligenz/Open Source vs Proprietär\|proprietäre]] Firma, die ihre Dienstleistungen im [[02 - Künstliche Intelligenz/Clippy\|Abomodell]] zur Verfügung stellt und Deine Daten in der [[Lokal vs Cloud \|Cloud]] lagert. Ein gewisser [[02 - Künstliche Intelligenz/Vendor Lock-In\|Vendor Lock-In]] bleibt bestehen. 
 
 Das ist alles jedoch Jammern auf hohen Niveau: 
 
 - Die Mindmaps lassen sich alternativ auch 100% lokal auf dem eigenen Computer speichern.
 - Der Locked-In-Effekt ist für mich eher psychologischer Natur: Die Dateien sind im .xmind-Format, und es gibt sehr gute Export-Optionen (PDF, PNG, SVG, Markdown, Word, Excel, OPML usw.). Ein Wechsel ist möglich, aber du verlierst natürlich die komfortable Bearbeitung in Xmind. Also mit anderen Worten: es ist dort so gemütlich, dass man nicht mehr weg möchte 😂
-- Abomodelle nerven - und ich kann es aus Unternehmersicht irgendwie auch verstehen. Eine gewisse Liquidität hilft, Produkte auf dem Besten Stand zu halten, Kundenservice leisten zu können und so weiter. Umso cooler, dass es ...
-- ... die Möglichkeit, Xmind kostenlos zu nutzen (mit eingeschränkten Features)!
+- Abomodelle nerven. Aber irgendwie kann ich es aus Unternehmersicht auch verstehen. Eine gewisse Liquidität hilft, Produkte auf dem besten Stand zu halten, Kundenservice leisten zu können und so weiter. 
+- Umso cooler, dass man Xmind (mit eingeschränkten Features) kostenlos nutzen kann! 
 
 ### Obsidian 
 
 Wie gesagt, liebe ich mein [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]]. 
 
-Ich mag die Gestaltungsfreiheit: Ich bin nicht an einen strikt hierarchischen Aufbau gebunden und kann beliebige Querverbindungen schaffen. Dadurch fühlt es sich weniger wie eine klassische Mindmap an und viel mehr wie freies, vernetztes Denken – genau das, was Obsidian so charakteristisch macht.
+Ich mag die Gestaltungsfreiheit: Ich bin nicht an einen strikt hierarchischen Aufbau gebunden und kann beliebige Querverbindungen schaffen. Dadurch fühlt es sich weniger nach klassischer Mindmap an und mehr wie freies, vernetztes Denken – genau das, was Obsidian so charakteristisch macht.
 
 Xmind *kann* Querverbindungen und non-hierarchische Elemente; aber es bleibt grundsätzlich ein hierarchisches Mind-Mapping-Tool. Floating Topics und Relationships sind Zusatzfunktionen, mit denen du das Netz erweitern kannst – sie fühlen sich aber nicht so natürlich und frei an wie in Obsidian Canvas.
 
 **Natürlich gibt es auch hier Nachteile:**
 
-- Vor allem die steile Lernkurve. Nicht jeder hat Lust, ein Nerd zu werden und sich intensiv in [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]] einzuarbeiten. 
-- Obwohl viel machbar ist, können die Mindmaps rein visuell wahrscheinlich nicht mit einem spezialisierten Tool wie xmind mithalten.
+- Vor allem die steile Lernkurve. Nicht jeder hat Lust, ein Nerd zu werden und sich intensiv in [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]] einzuarbeiten. 
+- Obwohl viel machbar ist, können diese Mindmaps rein visuell wahrscheinlich nicht mit einem spezialisierten Tool wie Xmind mithalten.
 
 ### Von Hand zeichnen
 
 Absolut nichts spricht dagegen, einfach zu Stift und Papier zu greifen! Ich empfehle [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]] ausdrücklich. 
 
-Mir persönlich macht es allerdings mehr Spaß, an einer digitalen Mindmap weiter zu feilen und am Ende ein repräsentables Ergebnis zu haben, anstatt herum zu kritzeln und wieder von vorne anzufangen, wenn es zu chaotisch wird. 
+Mir persönlich macht es einfach mehr Spaß, an einer digitalen Mindmap zu feilen und am Ende ein repräsentables Ergebnis zu haben, anstatt herum zu kritzeln und wieder von vorne anzufangen, wenn es zu chaotisch wird. 
 ### Fazit
 
-Ohne Zweifel gibt es auch andere Mindmap-Software, die gut sind (z.B. MindMeister, Miro oder FreeMind), aber diese beiden habe ich selber intensiv genutzt und lieben gelernt.
+Ohne Zweifel gibt es auch andere Mindmap-Software, die gut ist (z.B. MindMeister, Miro oder FreeMind), aber diese beiden habe ich selber intensiv genutzt und lieben gelernt.
 
 👉 Wenn Du ein intuitives, visuell ansprechendes Tool suchst, mit dem Du schnell strukturierte Mindmaps erstellen kannst, dann ist **Xmind** eine gute Wahl für Dich.
-👉 Wenn Du hingegen vernetztes Denken liebst, maximale Freiheit willst und bereit bist, Dich etwas tiefer einzuarbeiten, dann ist [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]] (mit [[02 - Künstliche Intelligenz/Canvas in Obsidian\|Canvas in Obsidian]]/[[02 - Künstliche Intelligenz/Obsidian/Excalidraw\|Excalidraw]]) die bessere Wahl für Dich.
+👉 Wenn Du hingegen vernetztes Denken liebst, maximale Freiheit willst und bereit bist, Dich etwas tiefer einzuarbeiten, dann ist [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]] (mit [[02 - Künstliche Intelligenz/Canvas in Obsidian\|Canvas]] oder [[02 - Künstliche Intelligenz/Obsidian/Excalidraw\|Excalidraw]]) die bessere Wahl für Dich.
 

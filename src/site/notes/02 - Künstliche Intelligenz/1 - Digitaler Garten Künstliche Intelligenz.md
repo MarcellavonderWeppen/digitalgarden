@@ -1,5 +1,5 @@
 ---
-{"title":"1 - HOME","aliases":null,"tags":["gardenEntry"],"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null,"dg-publish":true,"dg-home":true,"permalink":"/02-kuenstliche-intelligenz/1-digitaler-garten-kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"1 - HOME","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-04-05","updated":"2026-05-05","status":null}}
+{"title":"1 - HOME","aliases":null,"tags":["gardenEntry"],"gen-ai-anteil":null,"created":"2026-04-01","updated":"2026-05-05","status":null,"dg-publish":true,"dg-home":true,"permalink":"/02-kuenstliche-intelligenz/1-digitaler-garten-kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"1 - HOME","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-04-01","updated":"2026-05-05","status":null}}
 ---
 
 ![Digital Garden Gemini 14.05.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)
@@ -41,12 +41,12 @@ Folge dem weissen Kaninchen in die [[02 - Künstliche Intelligenz/Kaninchen-Eins
 
 Kaum ein Thema polarisiert unseren Zeitgeist so sehr wie die sogenannte Künstliche Intelligenz:
 
-Die einen verherrlichen, 
+Die einen verherrlichen sie, 
 die anderen verfluchen sie.
 
 Ich habe mich schon an beiden Enden des Spektrums wiedergefunden - in dieser Reihenfolge. 
 
-Vieles was da passiert ist mehr als bedenklich und besorgniserregend, doch ich glaube:
+Und ja - vieles was da passiert ist mehr als bedenklich und besorgniserregend, doch ich glaube:
 
 [[02 - Künstliche Intelligenz/KI- es geht auch anders\|KI- es geht auch anders]]! 
 

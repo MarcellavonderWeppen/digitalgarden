@@ -1,10 +1,10 @@
 ---
-{"title":"Atomare Notizen","aliases":null,"tags":null,"gen-ai-anteil":["Euria 60%"],"created":"2026-05-01","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/atomare-notizen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Atomare Notizen","aliases":null,"tags":null,"gen-ai-anteil":["Euria 60%"],"created":"2026-05-01","updated":"2026-05-17","status":null}}
+{"title":"Atomare Notizen","aliases":["atomare Notizen"],"tags":null,"gen-ai-anteil":["Euria 60%"],"created":"2026-05-01","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/atomare-notizen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Atomare Notizen","aliases":["atomare Notizen"],"tags":null,"gen-ai-anteil":["Euria 60%"],"created":"2026-05-01","updated":"2026-05-17","status":null}}
 ---
 
 # Atomare Notizen
 
-Eine atomare Notiz enthält **genau eine Idee** – nicht mehr, nicht weniger. Der Begriff stammt aus dem Zettelkasten-Prinzip und ist eines der mächtigsten Konzepte im [[02 - Künstliche Intelligenz/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]]
+Eine atomare Notiz enthält **genau eine Idee** – nicht mehr, nicht weniger. Der Begriff stammt aus der [[02 - Künstliche Intelligenz/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]] -Methode und ist eines der mächtigsten Konzepte im [[02 - Künstliche Intelligenz/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]].
 
 ☝️🤓 Ich halte mich nicht daran, aber wahrscheinlich ist es ein gute Idee!
 ## Das Grundprinzip
@@ -26,4 +26,4 @@ Die atomare Struktur transformiert passives Sammeln von Informationen in einen a
 
 
 >[!note] Weiterlesen
->Komplexe Ideen in ihrer einfachsten Bestandteile zerlegen und aktives Denken - das passt wunderbar zur [[02 - Künstliche Intelligenz/Richard Feynman#Prinzipien des Lernens Feynman-Methode\| Feynman-Methode]] und zum [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]].
+>Komplexe Ideen in ihrer einfachsten Bestandteile zerlegen und aktives Denken? Das klingt doch sehr nach der [[02 - Künstliche Intelligenz/Richard Feynman#Prinzipien des Lernens Feynman-Methode\| Feynman-Methode]] und passt zum [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]].

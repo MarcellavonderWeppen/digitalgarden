@@ -9,7 +9,7 @@ Richard Feynman (1918–1988) war einer der brillantesten Physiker des 20. Jahrh
 
 Hier ein Überblick über den Mann und sein Vermächtnis:
 
-**Der Wissenschaftler** Feynman leistete grundlegende Beiträge zur **Quantenelektrodynamik (QED)** – der Theorie, die beschreibt, wie Licht und Materie miteinander wechselwirken – wofür er 1965 den Nobelpreis für Physik erhielt. Er entwickelte die **Feynman-Diagramme**, eine visuelle Kurzschrift zur Berechnung von Teilchenwechselwirkungen, die Physiker bis heute überall verwenden. Außerdem leistete er Pionierarbeit in der Quantencomputing-Theorie und der Superfluidität.
+**Der Wissenschaftler** Feynman leistete grundlegende Beiträge zur Quantenelektrodynamik (QED) – der Theorie, die beschreibt, wie Licht und Materie miteinander wechselwirken – wofür er 1965 den Nobelpreis für Physik erhielt. Er entwickelte die Feynman-Diagramme, eine visuelle Kurzschrift zur Berechnung von Teilchenwechselwirkungen, die Physiker bis heute überall verwenden. Außerdem leistete er Pionierarbeit in der Quantencomputing-Theorie und der Superfluidität.
 
 **Der Lehrer** Feynman war legendär für seine Fähigkeit, komplexe Ideen verständlich zu machen. Seine _Feynman Lectures on Physics_ gelten bis heute als eines der besten Physiklehrbücher aller Zeiten. Sein Credo: Wenn man etwas nicht einfach erklären kann, hat man es selbst noch nicht wirklich verstanden.
 
@@ -19,13 +19,12 @@ Hier ein Überblick über den Mann und sein Vermächtnis:
 
 > **Ich mag Feynman vor allem wegen seiner Einsichten zum Thema Lernen.**
 
-Das Herzstück ist die sogenannte **Feynman-Methode**:
+Was ihn von vielen anderen unterscheidet: Er hatte eine echte **Allergie gegen Scheinwissen** – gegen Begriffe, die man auswendig kennt, ohne zu verstehen, was dahintersteckt. Für ihn war das kein Lernen, sondern Selbstbetrug.
 
-Wenn Du etwas nicht einem Fünfjährigen erklären kannst, dann hast Du es überhaupt nicht verstanden. 
+>[!info] Hier das Herzstück der **Feynman-Methode**:
+>Wenn Du es nicht einem Fünfjährigen erklären kannst, dann hast Du es überhaupt nicht verstanden. 
 
-Daher: Wenn du etwas wirklich verstehen willst, versuche es so zu erklären, als würdest du es einem Kind beibringen. Wo du ins Stocken gerätst, hast du eine Lücke – genau dort musst du weiter lernen. Dann vereinfachen, wiederholen, verfeinern.
-
-Was ihn dabei von vielen anderen unterscheidet: Er hatte eine echte **Allergie gegen Scheinwissen** – gegen Begriffe, die man auswendig kennt, ohne zu verstehen, was dahintersteckt. Für ihn war das kein Lernen, sondern Selbstbetrug.
+Daher: Wenn du etwas wirklich verstehen willst, versuche es so zu erklären, als würdest du es einem Kind beibringen. Wo du ins Stocken gerätst, besteht eine Lücke in Deinem Verständnis – genau dort musst du weiter lernen. Dann vereinfachen, wiederholen, verfeinern.
 
 Ein paar seiner Kerngedanken:
 

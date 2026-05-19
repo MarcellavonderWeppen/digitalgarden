@@ -4,10 +4,6 @@
 
 # Tiago Forte
 
-siehe auch [[02 - Künstliche Intelligenz/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]]
-
-[Tiago's YouTube Kanal](https://www.youtube.com/@TiagoForte)
-
 Tiago Forte ist ein US-amerikanischer Autor und Experte für Produktivität und Wissensmanagement, der insbesondere durch sein Buch _Building a Second Brain_ (2019) international bekannt wurde. Er gründete Forte Labs, eine Firma, die Kurse, Software und Ressourcen anbietet, um Menschen dabei zu helfen, ihr Wissen zu organisieren und ihre Kreativität zu steigern.
 
 Seine Kernmethode, die PARA-Methode (Projects, Areas, Resources, Archives), ist ein universelles System zur Organisation digitaler Informationen, das unabhängig von der verwendeten Software funktioniert. Seine Bücher haben weltweit über 500.000 Exemplare verkauft und wurden in mehr als 25 Sprachen übersetzt.
@@ -22,3 +18,13 @@ Zu seinen wichtigsten Werken gehören:
 Er unterrichtet regelmäßig an großen Unternehmen wie Genentech und hat über 25.000 Online-Lernende betreut. Im Oktober 2024 fand in Los Angeles der erste persönliche „Second Brain Summit" statt.
 
 Quelle: [Forte Labs Blog](https://fortelabs.com/blog/author/fortelabs/), [Simon & Schuster](https://www.simonandschuster.com/books/Building-a-Second-Brain/Tiago-Forte/9781982167387), [Amazon](https://www.amazon.com/Building-Second-Brain-Organize-Potential/dp/1982167386).
+
+> [!info] Weiterstöbern
+> 📖 [[02 - Künstliche Intelligenz/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]]
+> 
+> 📺 [Tiago's YouTube Kanal](https://www.youtube.com/@TiagoForte)
+
+
+
+
+

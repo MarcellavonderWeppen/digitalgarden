@@ -37,10 +37,10 @@ Proprietär bedeutet also: Privateigentum der Firma. Der Code hinter Anwendungen
 Proprietäre Software punktet mit:
 
 - **Benutzerfreundlichkeit** – Kommerzielle Produkte investieren oft massiv in UX und Design. Die Oberfläche ist poliert, die Einrichtung intuitiv.
-- **Support & Garantien** – Es gibt einen klaren Ansprechpartner, SLAs und professionellen Kundendienst – wichtig für Unternehmen, die Verlässlichkeit brauchen.
+- **Support & Garantien** – Es gibt einen klaren Ansprechpartner und professionellen Kundendienst – wichtig für Unternehmen, die Verlässlichkeit brauchen.
 - **Gesamtpaket aus einer Hand** – Hardware, Software und Service kommen aufeinander abgestimmt. Das spart Integrationsaufwand.
 - **Klare Haftung & Compliance** – In regulierten Branchen (Medizin, Finanzen) ist es oft einfacher, mit einem Anbieter zu arbeiten, der rechtlich greifbar ist.
-- **Finanzierte Weiterentwicklung** – Einnahmen fließen direkt zurück in R&D – was manchmal zu konsequenterem Produktfokus führt als bei community-getriebenen Projekten.
+- **Finanzierte Weiterentwicklung** – Einnahmen fließen direkt zurück in R&D (Research & Development) – was manchmal zu konsequenterem Produktfokus führt als bei community-getriebenen Projekten.
 
 
 ## Meine Perspektive: Warum ich Open Source für sicherer halte
@@ -64,4 +64,4 @@ Proprietäre Software punktet mit:
 *Sie glauben wie ich daran, dass **Offenheit, Teilhabe und kollektive Verantwortung** eine starke Grundlage für digitale Sicherheit und Vertrauen bilden.*
 
 > [!info] Fun-Fact
-> “Mein” Plädoyer oben wurde übrigens von ChatGPT verfasst 😂 Obwohl ich Schreiben liebe und meine Texte am liebsten selber verfasse, finde ich KI manchmal sehr hilfreich dabei, meinen eigenen Standpunkt klarer herauszuarbeiten - dort wo mir Worte (noch) fehlen. Auch hier gilt: Die KI kann Dir nichts geben, was Du nicht bereits schon in Dir trägst. Aber sie kann Lern- und Denkprozesse beschleunigen. 
+> “Mein” Plädoyer oben wurde übrigens von ChatGPT verfasst 😂 Obwohl ich Schreiben liebe und meine Texte am liebsten selber verfasse, finde ich KI manchmal sehr hilfreich um meinen eigenen Standpunkt klarer herauszuarbeiten - dort wo mir Worte (noch) fehlen. Auch hier gilt: Die KI kann Dir nichts geben, was Du nicht bereits schon in Dir trägst. Aber sie kann Lern- und Denkprozesse beschleunigen. KI sollte stets dazu dienen, tiefer zu denken und zu arbeiten, nicht das Denken abzugeben.

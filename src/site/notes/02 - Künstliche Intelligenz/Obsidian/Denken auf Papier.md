@@ -2,7 +2,7 @@
 {"title":"Denken auf Papier","aliases":null,"tags":null,"gen-ai-anteil":["Claude 20%","Gemini 20%"],"created":"2026-04-01","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/obsidian/denken-auf-papier/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Denken auf Papier","aliases":null,"tags":null,"gen-ai-anteil":["Claude 20%","Gemini 20%"],"created":"2026-04-01","updated":"2026-05-17","status":null}}
 ---
 
-# Denken auf Papier
+# Denken auf Papier - das Unsichtbare sichtbar machen
 
 Nach Jahren der Ablehnung dieser traditionellen Methode hat sich mir nun wieder die Schönheit von Stift und Papier erschlossen.
 
@@ -36,7 +36,9 @@ Lernen ist deshalb so schwierig zu meistern, weil die Prozesse im Gehirn **unsic
 
 Und gerade hier setzt Denken auf Papier an: es macht das Unsichtbare sichtbar!
 
-Ein Beispiel dafür: Ich habe jahrelang [[02 - Künstliche Intelligenz/Mindmaps\|Mindmaps]] abgelehnt, bis mir klar wurde, dass Mindmaps eine Art Spiegel des eigenen Geistes sein können: Sie zeigen Lücken im eigenen Verständnis auf. 
+Ein Beispiel dafür: 
+
+Ich habe jahrelang [[02 - Künstliche Intelligenz/Mindmaps\|Mindmaps]] abgelehnt, bis mir klar wurde, dass Mindmaps eine Art Spiegel des eigenen Geistes sein können; sie zeigen Lücken im eigenen Verständnis auf. 
 
 #### Metakognition als ein Muskel, den man trainieren kann
 
@@ -53,7 +55,7 @@ Dazu gibt es eine schöne Übung. Teile ein Blatte Papier in zwei Spalten ein un
 
 | **P (Passiv)**                                                                    | **A (Aktiv)**                                                             |
 | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-|                                                                                   | **Zustand:** Tiefes Nachdenken, Hinterfragen, Erklären, Visualisieren     |
+| **Zustand**: oberflächliches Lesen, passives Konsumieren, häufiges Abdriften      | **Zustand:** Tiefes Nachdenken, Hinterfragen, Erklären, Visualisieren     |
 | **Eintrag hier machen, wenn:**                                                    | **Hier startest du:**                                                     |
 | • Du merkst, dass du gerade 5 Minuten nur auf die Seite gestarrt hast.            | • Du erklärst den Stoff laut, als würdest du unterrichten              en |
 | • Dein Fokus vom Thema zum Handy oder zum Abendessen gewandert ist.               | • Du erstellst ein [[02 - Künstliche Intelligenz/Mindmaps\|Mindmap]]                                  |
