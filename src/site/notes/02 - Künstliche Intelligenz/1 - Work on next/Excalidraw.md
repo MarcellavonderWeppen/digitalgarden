@@ -46,9 +46,9 @@ Hier die besten Anwendungsmöglichkeiten auf einen Blick mit Beispielen: https:/
 Features: 📺 [The Excalidraw-Obsidian Showcase: 57 key features in just 17 minutes](https://www.youtube.com/watch?v=P_Q6avJGoWI&t=127s)
 Hier ein Beispiel wie so eine Skizze aussehen kann (geleakter Geheimplan, bitte nicht weitersagen 🤫): 
 
-<img src="Cats & Dragons Game Level 1.excalidraw.svg" style="max-width: 100%; height: auto;" />
+<img src="02 - Künstliche Intelligenz/Excalidraw/Cats & Dragons Game Level 1.excalidraw.svg" style="max-width: 100%; height: auto;" />
 
-[Cats & Dragons Game Level 1.excalidraw.svg](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Excalidraw/Cats%20&%20Dragons%20Game%20Level%201.excalidraw.svg) 
+[Cats & Dragons Game Level 1.excalidraw.svg](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Excalidraw/Cats%20&%20Dragons%20Game%20Level%201.excalidraw.svg)
 ## Kostenlos + abendfüllend 🐇
 
 Der Entwickler von Excalidraw stellt das Plugin **kostenlos** zur Verfügung und hat eine ganze Bibliothek mit einer Vielzahl von Videos zu den Möglichkeiten zusammengestellt. Hier geht's zum Rabbithole 🐇 👉 https://excalidraw-obsidian.online/wiki/catalogue 
