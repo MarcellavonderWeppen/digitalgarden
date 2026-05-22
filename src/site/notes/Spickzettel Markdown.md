@@ -19,24 +19,16 @@ Es ist üblich, nach einer Überschrift eine Leerzeile einzufügen, bevor der Fl
 ## 2. Textformatierung
 
 Kursiv wird mit einem oder zwei Sternchen oder Unterstrichen um den Text gesetzt:
-```Markdown
-*Kursiv* oder _Kursiv_
-```
+`*Kursiv* oder _Kursiv_`
 
 Fett wird mit zwei Sternchen oder Unterstrichen hervorgehoben:
-```Markdown
-**Fett** oder __Fett__
-```
+`**Fett** oder __Fett__`
 
 Kombiniert lässt sich beides erreichen:
-```Markdown
-***Fett und Kursiv***
-```
+` ***Fett und Kursiv***`
 
 Durchgestrichenen Text bildet man mit zwei Tilden:
-```Markdown
-~~Durchgestrichener Text~~
-```
+`~~Durchgestrichener Text~~`
 
 ## 3. Listen
 
@@ -65,14 +57,10 @@ Verschachtelte Listen entstehen durch Einrücken (meist zwei oder vier Leerzeich
 ## 4. Links und Bilder
 
 Links werden in eckigen Klammern für den sichtbaren Text und in runden Klammern für die URL geschrieben:
-```Markdown
-[Google](https://www.google.com)
-```
+`[Google](https://www.google.com)`
 
 Bilder funktionieren nach demselben Prinzip, benötigen aber ein Ausrufezeichen vor den eckigen Klammern:
-```Markdown
-![Beschreibung des Bildes](pfad/zum/bild.jpg)
-```
+`![Beschreibung des Bildes](pfad/zum/bild.jpg)`
 
 ## 5. Zitate und Trennlinien
 
