@@ -174,7 +174,7 @@ Los geht’s 👇
 
 Nutze kostenlose Online-Editoren wie [StackEdit](https://stackedit.io/). Klicke oben auf “Start Writing” - alles weitere ist selbsterklärend!
 
-Zum Ausprobieren habe ich einen [[Spickzettel Markdown\|Spickzettel Markdown]] für Dich erstellt. 
+Zum Ausprobieren habe ich einen [[02 - Künstliche Intelligenz/Obsidian/Spickzettel Markdown für Einsteiger\|Spickzettel Markdown für Einsteiger]] für Dich erstellt. 
 
 > [!tip] Schöne Infoboxen
 > Die schönen Infoboxen lassen sich auch ganz leicht erstellen: [[02 - Künstliche Intelligenz/Obsidian/Callouts in Obsidian\|Callouts]]
