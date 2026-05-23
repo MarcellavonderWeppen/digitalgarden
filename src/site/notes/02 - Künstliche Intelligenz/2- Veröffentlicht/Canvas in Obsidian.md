@@ -6,7 +6,7 @@
 
 ... ist eine **visuelle Arbeitsfläche**, auf der Notizen frei angeordnet und miteinander verknüpft werden können. Es fungiert als digitales, „unendliches" **Whiteboard**.
 
-Anstatt mit linearen Texten (wie in normalen [[02 - Künstliche Intelligenz/1 - Work on next/Markdown\|Markdown]]-Dateien) zu arbeiten, erfolgt die Nutzung im Canvas über **Karten**, die frei platziert und miteinander verbunden werden.
+Anstatt mit linearen Texten (wie in normalen [[02 - Künstliche Intelligenz/Obsidian/Markdown\|Markdown]]-Dateien) zu arbeiten, erfolgt die Nutzung im Canvas über **Karten**, die frei platziert und miteinander verbunden werden.
 
 **Canvas = visuelles Denken in Obsidian**
 

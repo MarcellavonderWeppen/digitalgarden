@@ -87,7 +87,7 @@ Ich liebe Xmind! Das Spielen damit hat riesengroßen Spaß gemacht, und visuell 
 
 **Nachteile**
 
-Nun ja, es ist eben eine [[02 - Künstliche Intelligenz/2- Veröffentlicht/Open Source vs Proprietär\|proprietäre]] Firma, die ihre Dienstleistungen im [[02 - Künstliche Intelligenz/2- Veröffentlicht/Clippy\|Abomodell]] zur Verfügung stellt und Deine Daten in der [[Lokal vs Cloud \|Cloud]] lagert. Ein gewisser [[02 - Künstliche Intelligenz/2- Veröffentlicht/Vendor Lock-In\|Vendor Lock-In]] bleibt bestehen. 
+Nun ja, es ist eben eine [[02 - Künstliche Intelligenz/2- Veröffentlicht/Open Source vs Proprietär\|proprietäre]] Firma, die ihre Dienstleistungen im [[02 - Künstliche Intelligenz/2- Veröffentlicht/Clippy\|Abomodell]] zur Verfügung stellt und Deine Daten in der [[Lokal vs Cloud \|Cloud]] lagert. Ein gewisser [[02 - Künstliche Intelligenz/2- Veröffentlicht/Vendor-Lock-in\|Vendor-Lock-in]] bleibt bestehen. 
 
 Das ist alles jedoch Jammern auf hohen Niveau: 
 

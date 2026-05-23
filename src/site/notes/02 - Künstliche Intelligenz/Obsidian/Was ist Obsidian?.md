@@ -15,7 +15,7 @@ Obsidian speichert Notizen als einfache Textdateien lokal auf dem eigenen Comput
 
 Im Gegensatz zu Apps wie Notion oder Evernote speichert Obsidian keine Notizen in einer proprietären Cloud, sondern als einfache Textdateien lokal auf dem eigenen Gerät. Das bedeutet: vollständige Unabhängigkeit von einer Firma, keine fremden Server, keine Datenschutzbedenken.
 
-Das Herzstück dabei ist das [[02 - Künstliche Intelligenz/1 - Work on next/Markdown\|Markdown]]-Format – ein offener, schlichter Textstandard, der seit Jahrzehnten existiert und von keiner Firma kontrolliert wird. Selbst wenn Obsidian morgen verschwindet, bleiben alle Notizen mit jedem beliebigen Texteditor lesbar.
+Das Herzstück dabei ist das [[02 - Künstliche Intelligenz/Obsidian/Markdown\|Markdown]]-Format – ein offener, schlichter Textstandard, der seit Jahrzehnten existiert und von keiner Firma kontrolliert wird. Selbst wenn Obsidian morgen verschwindet, bleiben alle Notizen mit jedem beliebigen Texteditor lesbar.
 
 ### 2. Vernetztes Denken
 
@@ -39,7 +39,7 @@ Nicht zuletzt: **Programmerier** haben oft einen intuitiven Zugang zu Obsidian u
 
 Während die einen in Obsidian die perfekte Basis für ihr Wissen gefunden haben, behaupten andere: [[02 - Künstliche Intelligenz/2- Veröffentlicht/PKM (Personal Knowledge Management)\|PKM]]-Tools sind in Zeiten von KI obsolet.  Stimmt das?
 
-Vor ein paar Jahren habe ich die Entscheidung getroffen, mich auf Obsidian einzulassen. Und gerade auch in Zeiten von KI zeigt sich immer mehr: die Entscheidung war goldrichtig! Statt von wechselnden KI-Tools abhängig zu sein ([[02 - Künstliche Intelligenz/2- Veröffentlicht/Vendor Lock-In\|Vendor Lock-In]]), unterstützt Obsidian mit seinem “File first, App second”-Ansatz die Unabhängigkeit und die Zusammenarbeit mit _allen_ KI-Tools. Was passiert, wenn Obsidian über Nacht verschwindet? Gar nichts! Denn Du hast immer noch Deine Markdown-Dateien, welche zeitlos sind und in vielen Anwendungen funktionieren.
+Vor ein paar Jahren habe ich die Entscheidung getroffen, mich auf Obsidian einzulassen. Und gerade auch in Zeiten von KI zeigt sich immer mehr: die Entscheidung war goldrichtig! Statt von wechselnden KI-Tools abhängig zu sein ([[02 - Künstliche Intelligenz/2- Veröffentlicht/Vendor-Lock-in\|Vendor-Lock-in]]), unterstützt Obsidian mit seinem “File first, App second”-Ansatz die Unabhängigkeit und die Zusammenarbeit mit _allen_ KI-Tools. Was passiert, wenn Obsidian über Nacht verschwindet? Gar nichts! Denn Du hast immer noch Deine Markdown-Dateien, welche zeitlos sind und in vielen Anwendungen funktionieren.
 
 > [!info] Mehr zu diesen Thema:
  📖 [[02 - Künstliche Intelligenz/1 - Work on next/KI als Ersatz für PKM (Personal Knowledge Management)?\|KI als Ersatz für PKM (Personal Knowledge Management)?]] 
