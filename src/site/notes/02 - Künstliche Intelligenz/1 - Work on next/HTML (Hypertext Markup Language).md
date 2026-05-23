@@ -1,14 +1,25 @@
 ---
-{"title":"HTML (Hypertext Markup Language)","aliases":["HTML"],"tags":null,"gen-ai-anteil":null,"created":"21.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/html-hypertext-markup-language/","dgPassFrontmatter":true,"dg-note-properties":{"title":"HTML (Hypertext Markup Language)","aliases":["HTML"],"tags":null,"gen-ai-anteil":null,"created":"21.05.2026","updated":null,"status":null}}
+{"title":"HTML (Hypertext Markup Language)","aliases":["HTML"],"tags":null,"gen-ai-anteil":["Euria 20%"],"created":"23.05.2026","updated":"2026-05-23","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/html-hypertext-markup-language/","dgPassFrontmatter":true,"dg-note-properties":{"title":"HTML (Hypertext Markup Language)","aliases":["HTML"],"tags":null,"gen-ai-anteil":["Euria 20%"],"created":"23.05.2026","updated":"2026-05-23","status":null}}
 ---
 
 # HTML (Hypertext Markup Language) 
 
-HTML (HyperText Markup Language) ist die grundlegende Auszeichnungssprache für das World Wide Web. Sie strukturiert Inhalte im Browser durch das Einbetten von Tags in den Quellcode, die dem Programm anweisen, wo Überschriften, Absätze, Bilder oder Links platziert werden sollen.
+HTML ist die grundlegende Auszeichnungssprache (engl. “Markup Language”) für das World Wide Web. 
 
-Ein Dokument besteht aus einem `<html>`-Gehäuse, das einen `<head>`-Bereich für Metadaten und einen `<body>`-Bereich für die sichtbaren Inhalte enthält. Elemente wie `<div>` oder `<span>` ermöglichen es, Bereiche weiter zu gruppieren, während Attribute wie `href` oder `src` spezifische Verknüpfungen oder Dateipfade festlegen.
+Auszeichnungssprache bedeutet: durch Tags (Markierungen) wie zum Beispiel `<h1>` wird Text “ausgezeichnet”:
 
-Der Browser liest diesen Code Zeile für Zeile und wandelt die Tags in ein visuelles Layout um, das der Nutzer auf dem Bildschirm sieht. Ohne HTML könnten Webseiten nicht strukturiert, verlinkt oder mit Multimedia-Inhalten angereichert werden.
+```HTML
+<h1> Ich bin eine große h1-Überschrift</h1>
+<p> Ich bin Fließtext und ich enthalte einen <a>Link</a></p>
+``` 
+
+Der Browser wird über die Struktur der Seite informiert: Was sind Überschriften, was sind Links, was ist Fließtext? 
+
+Über für das Design kann HTML keine Auskunft geben, dafür brauchen wir zusätzlich [[02 - Künstliche Intelligenz/1 - Work on next/CSS (Cascading Style Sheets)\|CSS (Cascading Style Sheets)]].
+
+Ohne CSS würden alle Seiten wie beim Aufkommen den Internets in den 90zigern aussehen: 
+
+![Website without HTML.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20next/Bilder/Website%20without%20HTML.png)
 
 ## Hypertext 
 
@@ -18,6 +29,6 @@ Während man ein klassisches Buch meist von vorne nach hinten liest (linear), er
 
 ## Markup Language
 
-Eine **Markup Language** (zu Deutsch: **Auszeichnungssprache**) ist im Grunde eine Sprache für den Computer, die Texten eine **Bedeutung** oder eine **Struktur** verleiht.
+Eine **Markup Language** (**Auszeichnungssprache**) ist im Grunde eine Sprache für den Computer, die Texten eine **Bedeutung** oder eine **Struktur** verleiht.
 
-Man kann sie sich wie einen Korrekturstift vorstellen, mit dem ein Lektor auf einem Manuskript Notizen macht: „Das hier bitte fett drucken“, „Das hier ist eine Überschrift“ oder „Hier beginnt ein neues Kapitel“. In der digitalen Welt passiert das durch sogenannte **Tags** (Markierungen).
+Man kann sie sich wie einen Korrekturstift vorstellen, mit dem ein Lektor auf einem Manuskript Notizen macht:  „Das hier ist eine Überschrift“ oder „Hier beginnt ein neues Kapitel“. In der digitalen Welt passiert das durch **Tags** (Markierungen).
