@@ -4,7 +4,7 @@
 
 # Excalidraw
 
-Excalidraw erweitert Obsidian um ein **unendliches Whiteboard** - im Grunde ähnlich wie [[02 - Künstliche Intelligenz/2- Veröffentlicht/Canvas in Obsidian\|Canvas]]. Anstatt mit starren Text zu arbeiten kann man sich hier eine lebendige, visuelle Wissenslandschaft gestalten. Handgezeichnete Skizzen und Markdown-Notizen verschmelzen durch bidirektionale Verknüpfungen (Links) zu einem interaktiven Netzwerk, in dem Gedanken räumlich strukturiert werden können. 
+Excalidraw erweitert Obsidian um ein **unendliches Whiteboard** - im Grunde ähnlich wie [[02 - Künstliche Intelligenz/2- Veröffentlicht/Canvas in Obsidian\|Canvas]]. Anstatt mit starren Text zu arbeiten kann man sich hier eine lebendige, visuelle Wissenslandschaft gestalten. Handgezeichnete Skizzen und Markdown-Notizen verschmelzen durch Verlinkung zu einem interaktiven Netzwerk, in dem Gedanken räumlich strukturiert werden können. 
 
 Da alle Zeichnungen im Kern auf Text basieren, bleibt das gesamte visuelle System voll durchsuchbar und zukunftssicher lokal gespeichert.
 
@@ -17,14 +17,11 @@ Canvas ist ein eingebautes Pinnboard:
 Du ziehst bestehende Notizen, Bilder und PDFs auf das Whiteboard und verbindest sie.
 
 **Excalidraw = Zeichnen 
-Canvas = Anordnen.**
+Canvas = Anordnen**
 
-**Excalidraw ist der Künstler**, der mit dem Zauberstift freihändig Visionen entwirft - verspielt und kreativ.
+**Excalidraw ist der Künstler**, der mit dem Zauberstift freihändig Visionen entwirft - verspielt und kreativ.  
 
-**Canvas ist der Architekt**, der mit klarem Blick bestehende Notizen **strukturiert und verwaltet**. 
-
-> Canvas baut das **Gerüst** für den Überblick, 
-> Excalidraw haucht der Idee durch **kreative Tiefe** Leben ein.
+**Canvas ist der Architekt**, der mit klarem Blick bestehende Notizen **strukturiert und verwaltet**. Es baut
 
 ❗Excalidraw ist als Tools wesentlich mächtiger als Canvas, damit aber auch weniger intuitiv. Während Canvas sich schnell (fast) von selbst erschließt, erfordert Excalidraw eine gewisse Einarbeitung.
 
