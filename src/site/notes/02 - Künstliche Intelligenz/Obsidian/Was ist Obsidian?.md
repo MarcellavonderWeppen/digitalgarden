@@ -73,7 +73,7 @@ Hier ist der Eingang zum Kaninchenbau 👇
 
 [[02 - Künstliche Intelligenz/1 - Work on next/Excalidraw\|Excalidraw]]  Ein Bild sagt mehr als tausend Worte. Graphisch denken mit dem beliebtesten Obsidian Plugin - genial!
 
-Und alle anderen [[02 - Künstliche Intelligenz/Obsidian/Obsidian-Plugins, die ich verwende\|Obsidian-Plugins, die ich verwende]] 🐇
+Und alle anderen [[02 - Künstliche Intelligenz/1 - Work on next/Obsidian-Plugins, die ich verwende\|Obsidian-Plugins, die ich verwende]] 🐇
 
 </div></div>
 

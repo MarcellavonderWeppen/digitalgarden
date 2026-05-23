@@ -1,5 +1,5 @@
 ---
-{"title":"Unbenannt","aliases":["Callouts"],"tags":["obsidian"],"gen-ai-anteil":null,"created":"2026-05-07","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/obsidian/callouts-in-obsidian/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Unbenannt","aliases":["Callouts"],"tags":["obsidian"],"gen-ai-anteil":null,"created":"2026-05-07","updated":null,"status":null}}
+{"title":"Callouts in Obsidian","aliases":["Callouts"],"tags":["obsidian"],"gen-ai-anteil":null,"created":"2026-05-07","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/obsidian/callouts-in-obsidian/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Callouts in Obsidian","aliases":["Callouts"],"tags":["obsidian"],"gen-ai-anteil":null,"created":"2026-05-07","updated":null,"status":null}}
 ---
 
 
