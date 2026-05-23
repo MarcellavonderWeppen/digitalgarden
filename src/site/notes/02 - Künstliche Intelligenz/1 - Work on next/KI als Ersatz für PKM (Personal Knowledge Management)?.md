@@ -2,8 +2,6 @@
 {"title":"KI als Ersatz für PKM (Personal Knowledge Management)?","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"23.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/ki-als-ersatz-fuer-pkm-personal-knowledge-management/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI als Ersatz für PKM (Personal Knowledge Management)?","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"23.05.2026","updated":null,"status":null}}
 ---
 
-
-# KI als Ersatz für PKM (Personal Knowledge Management)?
 # KI als Ersatz für PKM (Personal Knowledge Management)?
 
 Obsidian wird aufgrund der rasanten Entwicklung im Bereich der KI immer wieder für tot erklärt: 

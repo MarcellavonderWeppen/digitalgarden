@@ -2,8 +2,6 @@
 {"title":"Obsidian-Plugins, die ich verwende","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"23.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/obsidian-plugins-die-ich-verwende/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Obsidian-Plugins, die ich verwende","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"23.05.2026","updated":null,"status":null}}
 ---
 
-
-# Obsidian-Plugins, die ich verwende
 # Obsidian-Plugins, die ich verwende
 
 Viele der Plugins kamen mit dem genialen Journal “Time Garden” von Karlos:

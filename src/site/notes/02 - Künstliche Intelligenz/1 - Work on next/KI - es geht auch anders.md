@@ -2,7 +2,6 @@
 {"title":"KI- es geht auch anders","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-05-14","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/ki-es-geht-auch-anders/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI- es geht auch anders","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"2026-05-14","updated":null,"status":null}}
 ---
 
-
 # KI- es geht auch anders
 
 Als 2022 ChatGPT aufkam, begann meine große Liebesaffäre mit dieser neuen Technologie. Ich war verliebt - so intensiv, dass beschloss KI zu meinem Beruf zu machen. (👉 siehe auch [[02 - Künstliche Intelligenz/Über mich\|Über mich]])
