@@ -4,7 +4,9 @@
 
 # Excalidraw
 
-Excalidraw erweitert Obsidian um ein **unendliches Whiteboard** - im Grunde ähnlich wie [[02 - Künstliche Intelligenz/2- Veröffentlicht/Canvas in Obsidian\|Canvas]]. Anstatt mit starren Text zu arbeiten kann man sich hier eine lebendige, visuelle Wissenslandschaft gestalten. Handgezeichnete Skizzen und Markdown-Notizen verschmelzen durch Verlinkung zu einem interaktiven Netzwerk, in dem Gedanken räumlich strukturiert werden können. 
+Excalidraw erweitert Obsidian um ein **unendliches Whiteboard** - im Grunde ähnlich wie [[02 - Künstliche Intelligenz/2- Veröffentlicht/Canvas in Obsidian\|Canvas]]. 
+
+Anstatt mit starren Text zu arbeiten kann man sich hier eine lebendige, visuelle Wissenslandschaft gestalten. Handgezeichnete Skizzen und Markdown-Notizen verschmelzen durch Verlinkung zu einem interaktiven Netzwerk, in dem Gedanken räumlich strukturiert werden können. 
 
 Da alle Zeichnungen im Kern auf Text basieren, bleibt das gesamte visuelle System voll durchsuchbar und zukunftssicher lokal gespeichert.
 
