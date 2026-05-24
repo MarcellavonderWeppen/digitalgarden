@@ -4,13 +4,15 @@
 
 # HTML (Hypertext Markup Language) 
 
-HTML ist die grundlegende Auszeichnungssprache (engl. “Markup Language”) für das World Wide Web. 
+HTML ist die grundlegende Auszeichnungssprache (engl. “Markup Language”) für das Internet: 
 
-Auszeichnungssprache bedeutet: durch Tags (Markierungen) wie zum Beispiel `<h1>` wird Text “ausgezeichnet”:
+Das bedeutet, Text wird durch Tags (Markierungen) wie zum Beispiel `<h1>` “ausgezeichnet”.
+
+Hier ein Beispiel:
 
 ```HTML
 <h1> Ich bin eine große h1-Überschrift</h1>
-<p> Ich bin Fließtext und ich enthalte einen <a>Link</a></p>
+<p> Ich bin ein Fließtext und enthalte einen <a href="https://google.com">Link zu Google</a></p>
 ``` 
 
 Der Browser wird über die Struktur der Seite informiert: Was sind Überschriften, was sind Links, was ist Fließtext? 
@@ -19,7 +21,7 @@ Der Browser wird über die Struktur der Seite informiert: Was sind Überschrifte
 
 Ohne CSS würden alle Seiten wie beim Aufkommen den Internets in den 90zigern aussehen: 
 
-![Website without HTML.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20next/Bilder/Website%20without%20HTML.png)
+![Website ohne HTML 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20next/Bilder/Website%20ohne%20HTML%201.png)
 
 ## Hypertext 
 
