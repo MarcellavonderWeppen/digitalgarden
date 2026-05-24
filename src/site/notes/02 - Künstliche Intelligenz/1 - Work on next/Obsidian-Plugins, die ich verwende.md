@@ -1,17 +1,16 @@
 ---
-{"title":"Obsidian-Plugins, die ich verwende","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"23.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/obsidian-plugins-die-ich-verwende/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Obsidian-Plugins, die ich verwende","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"23.05.2026","updated":null,"status":null}}
+{"title":"Obsidian-Plugins, die ich verwende","aliases":null,"tags":null,"gen-ai-anteil":["Gemini 80%"],"created":"23.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/obsidian-plugins-die-ich-verwende/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Obsidian-Plugins, die ich verwende","aliases":null,"tags":null,"gen-ai-anteil":["Gemini 80%"],"created":"23.05.2026","updated":null,"status":null}}
 ---
 
 # Obsidian-Plugins, die ich verwende
 
-Viele der Plugins kamen mit dem genialen Journal “Time Garden” von Karlos:
+Viele der Plugins kamen mit dem genialen [[02 - Künstliche Intelligenz/1 - Work on next/Time Garden\|Time Garden]], welchen ich seit neuesten für mein tägliches Journalieren nutze. 
 
-📺 [The Free Obsidian Journal that took 400 hours to build](https://www.youtube.com/watch?v=_Q_UEvWxwNw&t=187s)
+OMG, ich liebe [[02 - Künstliche Intelligenz/1 - Work on next/Time Garden\|Time Garden]] so sehr!!! 😍 
 
-Ich nutze den “Time Garden” täglich und bin überglücklich damit! Damit kann ich nun nach und nach Notion als Tool für meine tägliche Organisation hinter mir lassen. 
+Aber nicht ablenken lassen🕳️🐇, hier sind die aktuellen Plugins: 
 
-## Alle aktuellen Plugins 👇
-### 🎨 Design & Visualisierung
+## Design & Visualisierung
 
 - **Style Settings**: Dient als grafische Benutzeroberfläche, um Farben, Schriftarten und Layouts von Themes ohne CSS-Kenntnisse anzupassen.
     
@@ -20,7 +19,7 @@ Ich nutze den “Time Garden” täglich und bin überglücklich damit! Damit ka
 - **Time Garden**: Gamifiziert den Schreibprozess, indem ein digitaler Garten visuell wächst, basierend auf der investierten Zeit und Produktivität.
     
 
-### ⚙️ Automatisierung & Daten
+## Automatisierung & Daten
 
 - **Templater**: Eine leistungsstarke Engine für dynamische Vorlagen, die Variablen, JavaScript und komplexe Logik (z. B. Datumsberechnungen) verarbeitet.
     
@@ -31,7 +30,7 @@ Ich nutze den “Time Garden” täglich und bin überglücklich damit! Damit ka
 - **Dataview**: Verwandelt den Tresor in eine Datenbank, um Informationen über automatisierte Abfragen in Tabellen- oder Listenform anzuzeigen.
     
 
-### 📝 Schreiben & Workflow
+## Schreiben & Workflow
 
 - **Journals / Periodic Notes**: Automatisiert die Erstellung und Organisation von zeitbasierten Notizen (Tag, Woche, Monat) und verknüpft diese mit Kalendern.
     
@@ -40,14 +39,14 @@ Ich nutze den “Time Garden” täglich und bin überglücklich damit! Damit ka
 - **Paste URL into Selection**: Erleichtert die Verlinkung, indem markierter Text beim Einfügen einer URL automatisch in das korrekte Markdown-Link-Format eingebettet wird.
     
 
-### 🗺️ Visuelles Denken (Canvas)
+## Visuelles Denken (Canvas)
 
 - **Advanced Canvas**: Erweitert die native Canvas-Funktion um beschriftbare Linien, automatische Anordnungen und verbesserte Navigationswerkzeuge.
     
 - **Canvas Mindmap**: Optimiert die Arbeit auf der unendlichen Arbeitsfläche durch Tastenkombinationen für das schnelle Erstellen hierarchischer Strukturen.
     
 
-### 🌐 Publishing
+## Publishing
 
 - **Digital Garden**: Ermöglicht das kostenlose Veröffentlichen ausgewählter Notizen als interaktive Website, inklusive Backlinks und Graph-Ansicht.
     

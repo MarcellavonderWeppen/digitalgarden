@@ -2,7 +2,6 @@
 {"title":"CSS (Cascading Style Sheets)","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"23.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/css-cascading-style-sheets/","dgPassFrontmatter":true,"dg-note-properties":{"title":"CSS (Cascading Style Sheets)","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"23.05.2026","updated":null,"status":null}}
 ---
 
-
 # CSS (Cascading Style Sheets)
 
 CSS ist das schicke Geschwisterchen von [[02 - Künstliche Intelligenz/1 - Work on next/HTML (Hypertext Markup Language)\|HTML]]. Es ist für das Design von Webseiten zuständig. 
