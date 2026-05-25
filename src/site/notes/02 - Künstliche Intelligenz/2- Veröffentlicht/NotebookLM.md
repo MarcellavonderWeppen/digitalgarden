@@ -1,5 +1,5 @@
 ---
-{"title":"NotebookLM","aliases":null,"tags":null,"gen-ai-anteil":["ChatGPT 100%"],"created":"08.04.2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/notebook-lm/","dgPassFrontmatter":true,"dg-note-properties":{"title":"NotebookLM","aliases":null,"tags":null,"gen-ai-anteil":["ChatGPT 100%"],"created":"08.04.2026","updated":"2026-05-25","status":null}}
+{"title":"NotebookLM","aliases":null,"tags":null,"gen-ai-anteil":["ChatGPT 100%"],"created":"08-04-2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/notebook-lm/","dgPassFrontmatter":true,"dg-note-properties":{"title":"NotebookLM","aliases":null,"tags":null,"gen-ai-anteil":["ChatGPT 100%"],"created":"08-04-2026","updated":"2026-05-25","status":null}}
 ---
 
 
