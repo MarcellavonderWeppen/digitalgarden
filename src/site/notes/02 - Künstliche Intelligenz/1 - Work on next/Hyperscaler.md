@@ -18,6 +18,9 @@ Im Kontext von [[02 - Künstliche Intelligenz/Infomaniak\|Infomaniak]] wird er v
 
 --- 
 
-<small>🤖 Gen-AI-Anteil: Euria 100%</small>
+<span style="font-size: 0.8em">🤖 Gen-AI-Anteil: Euria 100%</span>
 
-<span style="font-size: 0.7em">🤖 Gen-AI-Anteil: Euria 100%</span>
+
+
+
+
