@@ -15,15 +15,15 @@ Hier ein Beispiel für den Code:
 
 Der Browser wird über die Struktur der Seite informiert: Was sind Überschriften, was sind Links, was ist Fließtext? 
 
-Über das Design kann HTML keine Auskunft geben, dafür brauchen wir zusätzlich [[02 - Künstliche Intelligenz/1 - Work on next/CSS (Cascading Style Sheets)\|CSS (Cascading Style Sheets)]].
+Über das Design kann HTML keine Auskunft geben, dafür brauchen wir zusätzlich [[02 - Künstliche Intelligenz/1 - Work on next/CSS (Cascading Style Sheets)\|CSS]].
 
-Ohne CSS würden alle Seiten wie beim Aufkommen des Internets in den 90ern aussehen: 
+Ohne CSS würden alle Seiten immer noch wie beim Aufkommen des Internets in den 90ern aussehen: 
 
 ![Website ohne HTML 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20next/Bilder/Website%20ohne%20HTML%201.png)
 
 ## Hypertext 
 
-Das „H“ in HTML steht für **Hypertext**. Das ist Text, der Verlinkungen zu anderen Texten (oder Ressourcen) enthält.
+Das „HT“ in HTML steht für **Hypertext**. Das ist Text, der Verlinkungen zu anderen Texten (oder Ressourcen) enthält.
 
 Das Konzept ist älter als das Internet – schon in den 1960ern wurde die Idee entwickelt, Dokumente durch Links miteinander zu verbinden. Das World Wide Web ist heute der bekannteste Anwendungsfall davon.
 
@@ -34,7 +34,7 @@ Umgangssprachlich verschwimmen die Grenzen zwischen diesen Begriffen oft, aber l
 **Hypertext** = Konzept für Text, der Verlinkungen zu anderen Texten enthält
 
 ---
-**World Wide Web** = über das Internet abrufbares System von elektronischen Hypertext-Dokumenten (also Websiten), welche in HTML geschrieben sind.
+**World Wide Web** = über das Internet abrufbares System von elektronischen Hypertext-Dokumenten (also Websites), welche in HTML geschrieben sind.
 
 ---
 
@@ -42,11 +42,11 @@ Umgangssprachlich verschwimmen die Grenzen zwischen diesen Begriffen oft, aber l
 
 > [!info] Was genau ist mit Internet gemeint?
 > 
-> Streng genommen ist damit tatsächlich nur die physische Infrastruktur gemeint, aber im allgemeinen Sprachgebrauch meinen Menschen damit natürlich das Gesamtpaket - Infrastrukur inklusive aller Dienste, die darauf laufen
+> Streng genommen ist damit tatsächlich nur die physische Infrastruktur gemeint, aber im allgemeinen Sprachgebrauch meinen Menschen damit natürlich das Gesamtpaket - Infrastrukur inklusive aller Dienste, die darauf laufen.
 
 ## Markup Language
 
-Eine **Markup Language** (**Auszeichnungssprache**) ist im Grunde eine Sprache für den Computer, die Texten eine **Bedeutung** oder eine **Struktur** verleiht.
+Eine **Markup Language** (**Auszeichnungssprache**) ist eine Sprache für den Computer, die Texten eine **Bedeutung** oder eine **Struktur** verleiht.
 
 Man kann sie sich wie einen Korrekturstift vorstellen, mit dem ein Lektor auf einem Manuskript Notizen macht:  „Das hier ist eine Überschrift“ oder „Hier beginnt ein neues Kapitel“. In der digitalen Welt passiert das durch **Tags** (Markierungen).
 
@@ -58,5 +58,9 @@ Noch mal zu unserem Beispiel von oben:
 ``` 
 
 `<h1>`, `<p>`und `<a>`sind die Tags, und sie markieren den Text, welchen sie umschließen.
+
+`<h1>` kennzeichnet die größte Überschrift, 
+`<p>` bedeutet “Absatz” (von engl. “paragraph”), und 
+`<a>` wird verwendet um Links zu markieren.
 
 📖 Weiterlesen: [[02 - Künstliche Intelligenz/1 - Work on next/CSS (Cascading Style Sheets)\|CSS (Cascading Style Sheets)]]
