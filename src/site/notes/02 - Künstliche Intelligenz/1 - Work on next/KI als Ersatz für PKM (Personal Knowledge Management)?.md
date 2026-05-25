@@ -1,5 +1,5 @@
 ---
-{"title":"KI als Ersatz für PKM (Personal Knowledge Management)?","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"23.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/ki-als-ersatz-fuer-pkm-personal-knowledge-management/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI als Ersatz für PKM (Personal Knowledge Management)?","aliases":null,"tags":null,"gen-ai-anteil":null,"created":"23.05.2026","updated":null,"status":null}}
+{"title":"KI als Ersatz für PKM (Personal Knowledge Management)?","aliases":null,"tags":null,"gen-ai-anteil":["Gemini 60%"],"created":"08.04.2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/ki-als-ersatz-fuer-pkm-personal-knowledge-management/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI als Ersatz für PKM (Personal Knowledge Management)?","aliases":null,"tags":null,"gen-ai-anteil":["Gemini 60%"],"created":"08.04.2026","updated":"2026-05-25","status":null}}
 ---
 
 # KI als Ersatz für PKM (Personal Knowledge Management)?
@@ -13,9 +13,9 @@ Obsidian wird aufgrund der rasanten Entwicklung im Bereich der KI immer wieder f
 ### 1. NotebookLM
 
 - **Zweck:** Tiefes Verständnis von Informationen
-- **Besonderheit:** Anstatt Informationen mühsam zu strukturieren, kann man einfach PDFs, Artikel oder Links hineinkopieren. Das Tool fungiert als „Thinking Engine“, die Fragen basierend auf den Quellen beantwortet und den Kontext erklärt.    
+- **Besonderheit:** Anstatt Informationen mühsam zu strukturieren, kann man einfach PDFs, Artikel oder Links hochladen. Das Tool fungiert als „Thinking Engine“, die Fragen basierend auf den Quellen beantwortet und den Kontext erklärt.    
 
-🤓 **Meine Gedanken dazu**: Von NBLM ([[02 - Künstliche Intelligenz/NotebookLM\|NotebookLM]]) habe ich schon viel Gutes gehört! Der Ansatz überzeugt: statt sich beim Befragen der KI auf das gesamte Internet zu verlassen (mit all dem Gutem, aber auch all dem Schwachsinn), lade ich gezielt Dokumente hoch und weise die KI an, welche Quellen sie verwenden soll. Allerdings sehe ich NBLM nicht als Ersatz für Obsidian, sondern als perfekte Ergänzung. Man kann damit erstaunliche Dinge tun, siehe zum Beispiel hier: 
+🤓 **Meine Gedanken dazu**: Von NBLM ([[02 - Künstliche Intelligenz/1 - Work on next/NotebookLM\|NotebookLM]]) habe ich schon viel Gutes gehört! Der Ansatz überzeugt: statt sich beim Befragen der KI auf das gesamte Internet zu verlassen (mit all dem Gutem, aber auch all dem Schwachsinn), lade ich gezielt Dokumente hoch und weise die KI an, welche Quellen sie verwenden soll. Allerdings sehe ich NBLM nicht als Ersatz für Obsidian, sondern als perfekte Ergänzung. Man kann damit erstaunliche Dinge tun, siehe zum Beispiel hier: 
 
 📺 [Turn every YouTube channel into your AI-Mentor (Obsidian + NotebookLM)](https://www.youtube.com/watch?v=l0cfhGwaAG8&t=587s)
 
@@ -24,13 +24,13 @@ Obsidian wird aufgrund der rasanten Entwicklung im Bereich der KI immer wieder f
 - **Zweck:** Synthese von Wissen und Teamarbeit
 - **Besonderheit:** Es liest über alle bereitgestellten Dokumente hinweg und erkennt Zusammenhänge über den gesamten Verlauf. Mit der „Publish“-Funktion lassen sich private Gedanken sofort in eine öffentliche Webseite für Teams umwandeln
 
-❌ Ab 39$, keine kostenlose Basisversion und hoher Locked-In-Effekt? Ähm, Nö. Keine Empfehlung (siehe dazu auch unten - "Die KI-Tools noch mal im Überblick")
+❌ Ab 39$, keine kostenlose Basisversion und hoher [[02 - Künstliche Intelligenz/2- Veröffentlicht/Vendor-Lock-in\|Vendor-Lock-in]]? Ähm, Nö. Keine Empfehlung (siehe dazu auch unten - "Die KI-Tools noch mal im Überblick")
 ### 3. Mem.ai
 
 - **Zweck:** Ersatz für Notion, Fokus auf Gedankenfluss
 - **Besonderheit:** Es gibt keine Ordner oder manuellen Tags. Man schreibt einfach „unordentliche“ Gedanken auf, und die KI verlinkt Ideen automatisch. Es hilft dabei, Muster in Notizen zu erkennen, ohne dass man selbst zum „Bibliothekar“ werden muss
 
-❌ Ein Ort, wo ich alle meine Notizen, Links, Dokumente reinwerfen kann und sie organisiert das dann für mich? Klingt verlockend. Bei näherer Betrachtung: Nein, lieber nicht. (siehe auch weiter unten, "räumliches Gedächnis", "Die KI-Tools noch mal im Überblick")
+❌ Ein App, wo ich alle meine Notizen, Links, Dokumente reinwerfen kann und sie organisiert das dann für mich? Klingt verlockend. Bei näherer Betrachtung: Nein, lieber nicht. (siehe auch weiter unten, "räumliches Gedächtnis", "Die KI-Tools noch mal im Überblick")
 ### 4. Reflect
 
 - **Zweck:** Die KI-Alternative zu Obsidian
@@ -42,11 +42,11 @@ Obsidian wird aufgrund der rasanten Entwicklung im Bereich der KI immer wieder f
 
 - **Zweck:** Ein „denkender Partner“ statt eines statischen Gehirns
 - **Besonderheit:** Anstatt Notizen zu verwalten, lässt man die KI auf Kalender, E-Mails, Dokumente und Meetings zugreifen. Man stellt direkte Fragen wie „Was habe ich letzte Woche entschieden?“ und erhält sofort die Antwort, ohne jemals selbst in den Notizen suchen zu müssen 
-- 
-🤓 **Meine Gedanken dazu**: Je mehr ich über [[02 - Künstliche Intelligenz/OpenAI\|OpenAI]] erfahre, desto größer mein Wunsch, die Flucht zu ergreifen.
-## 🤔 Ich liebe KI aber ... 
 
-Die Behauptung ist folgende: da generative KI Wissen auf Knopfdruck verfügbar macht, besteht keinerlei Notwendigkeit, es mühsam von Hand einzupflegen und zu verwalten.
+🤓 **Meine Gedanken dazu**: Je mehr ich über [[02 - Künstliche Intelligenz/OpenAI\|OpenAI]] erfahre, desto größer mein Wunsch, die Flucht zu ergreifen.
+## 🤔 Ich liebe KI, aber ... 
+
+Die Behauptung ist folgende: Weil generative KI Wissen auf Knopfdruck verfügbar macht, besteht keinerlei Notwendigkeit, es mühsam von Hand einzupflegen und zu verwalten.
 
 Ich möchte da heftig widersprechen!
 
@@ -62,15 +62,15 @@ Menschen sind zum Glück da sehr wach, und folgen nicht blind der KI-Lemming-Wan
 
 Dies ist der am häufigsten genannte Punkt. Viele Zuschauer argumentieren, dass der eigentliche Wert von Notion oder Obsidian nicht in der Ablage von Daten liegt, sondern im **Prozess des Selbermachens**.
 
-- **Lerneffekt geht verloren:** Das Strukturieren, Verlinken und Schreiben von Hand (oder manuellem Tippen) sorgt dafür, dass das Gehirn Informationen verarbeitet. Wer alles an die KI auslagert, wird zum "NPC" (Non-Player Character) im eigenen Leben.
+- **Lerneffekt geht verloren:** Das Strukturieren, Verlinken und Schreiben von Hand (oder manuellem Tippen) sorgt dafür, dass das Gehirn Informationen verarbeitet. Wer alles an die KI auslagert, wird zum "NPC" (Non-Player-Character) im eigenen Leben.
 - **Kreativität vs. Effizienz:** Kritiker betonen, dass neue Ideen oft durch Reibung und das langsame Durchforsten von Notizen entstehen. KI optimiert auf Output, aber nicht auf tiefe Einsicht.
 
 ### 2. Datenschutz & Privatsphäre
 
 Ein riesiges Thema in den Kommentaren ist die Sicherheit persönlicher Daten.
 
-- **Lokal vs. Cloud:** Während Obsidian die Daten lokal auf dem eigenen Rechner speichert, laden die vorgestellten KI-Tools alles in die Cloud hoch. Die Nutzer haben Angst, dass ihre intimsten Gedanken und Geschäftsgeheimnisse zum Training von KI-Modellen verwendet werden oder bei Firmenpleiten verschwinden.
-- **"File over App":** Viele folgen dem Prinzip, dass Notizen in einfachen Textdateien (Markdown) vorliegen sollten, damit sie auch in 20 Jahren noch ohne Abo lesbar sind.
+- **[[Lokal vs Cloud\|Lokal vs Cloud]]:** Während Obsidian die Daten lokal auf dem eigenen Rechner speichert, laden die vorgestellten KI-Tools alles in die Cloud hoch. Die Nutzer haben Angst, dass ihre intimsten Gedanken und Geschäftsgeheimnisse zum Training von KI-Modellen verwendet werden oder bei Firmenpleiten verschwinden.
+- **"File over App":** Viele folgen dem Prinzip, dass Notizen in einfachen Textdateien ([[02 - Künstliche Intelligenz/Obsidian/Markdown\|Markdown]]) vorliegen sollten, damit sie auch in 20 Jahren noch ohne Abo lesbar sind.
 
 📎 [[02 - Künstliche Intelligenz/2- Veröffentlicht/Clippy\|Clippy]] sagt dazu: "Good luck getting back to your knowledge collection in 5 years!"
 
@@ -96,7 +96,7 @@ Die Zuschauer werfen Evan vor, eine kostenlose oder günstige Lösung (wie Obsid
 
 Hier noch ein wichtiger Punkt, der noch nicht erwähnt wurde:
 
-Die Debatte „KI vs. klassisches PKM (Personal Knowledge Management)“ übersieht oft den biologischen Faktor: **Wie unser Gehirn Informationen tatsächlich zu eigenem Wissen macht.**
+Die Debatte „KI vs. klassisches [[02 - Künstliche Intelligenz/Obsidian/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]]“ übersieht oft den biologischen Faktor: **Wie unser Gehirn Informationen tatsächlich zu eigenem Wissen macht.**
 
 Während eine KI wie ein unendlich großes Lexikon ist, in dem man alles nachschlagen kann, fungiert ein Tool wie Obsidian eher wie ein **Training für das Gehirn**. Die räumliche Komponente spielt dabei die entscheidende Rolle.
 
@@ -105,7 +105,7 @@ Während eine KI wie ein unendlich großes Lexikon ist, in dem man alles nachsch
 Das menschliche Gehirn ist evolutionär darauf spezialisiert, sich Orte und räumliche Beziehungen besser zu merken als abstrakte Fakten.
 
 - **KI-Ansatz:** Informationen werden abgerufen und oft unmittelbar wieder vergessen. Das Wissen bleibt extern gespeichert.
-- **PKM-Ansatz:** Durch das Ablegen von Notizen in spezifischen Strukturen oder das Verknüpfen in einer **Graph View** (grafische Netzwerk-Ansicht) wird das **Spatial Memory** aktiviert. Es entsteht eine mentale Landkarte, auf der Informationen räumlich verankert sind. Diese Verortung hilft dem Gehirn, Pfade zu Informationen physisch zu festigen.
+- **PKM-Ansatz:** Durch das Ablegen von Notizen in spezifischen Strukturen oder das Verknüpfen in einer **Graph View** (grafische Netzwerk-Ansicht) wird das **Spatial Memory** (räumliches Gedächtnis) aktiviert. Es entsteht eine mentale Landkarte, auf der Informationen räumlich verankert sind. Diese Verortung hilft dem Gehirn, Pfade zu Informationen physisch zu festigen.
 
 ### 2. Wissen als Netzwerk statt als Liste
 
@@ -116,10 +116,10 @@ KI liefert häufig lineare Antworten, während tiefes Verständnis durch das Erk
 
 ### 3. „Desirable Difficulty“ – Der Wert der kognitiven Anstrengung
 
-In der Lernpsychologie beschreibt die „wünschenswerte Erschwerung“, dass Informationstiefe durch Arbeit entsteht.
+In der Lernpsychologie beschreibt die „wünschenswerte Erschwerung“ den Effekt, dass Informationstiefe durch Arbeit entsteht.
 
 - Automatisierte Zusammenfassungen durch eine KI erfordern minimale Eigenleistung, was die langfristige Speicherung (Retention) erschwert.
-- Das Strukturieren in einem PKM-Tool – das Erstellen von Maps of Content (MOCs) oder das manuelle Verschieben von Notizen – ist eine Form von **Spatial Sorting**. Dieser Prozess zwingt zur Auseinandersetzung mit der Hierarchie und Verwandtschaft von Informationen, was die Bildung synaptischer Verbindungen fördert.
+- Das Strukturieren in einem PKM-Tool – das Erstellen von MOCs (Maps of Content) oder das manuelle Verschieben von Notizen – ist eine Form von **Spatial Sorting** (räumliches Sortieren). Dieser Prozess zwingt zur Auseinandersetzung mit der Hierarchie und Verwandtschaft von Informationen, was die Bildung synaptischer Verbindungen fördert.
 
 ### 4. Beständigkeit als Grundlage für Orientierung
 
@@ -134,7 +134,7 @@ Ein stabiler Raum ist für das räumliche Gedächtnis essenziell.
 
 Die effizienteste Strategie besteht in der Kombination beider Ansätze:
 
-1. **KI** wird genutzt, um Informationen effizient zu aggregieren, zu übersetzen oder zu erklären.
+1. **KI** wird genutzt, um Informationen effizient zu sammeln, zu übersetzen oder zu erklären.
 2. **PKM-Tools** dienen dazu, die wertvollsten Erkenntnisse **räumlich zu kuratieren**, um sie in den eigenen kognitiven Besitz zu überführen.
 
 KI liefert die Bausteine, während die räumliche Organisation in Tools wie Obsidian das architektonische Gerüst bildet, das Informationen erst zu nutzbarem Wissen macht.
@@ -144,21 +144,22 @@ KI liefert die Bausteine, während die räumliche Organisation in Tools wie Obsi
 **Folgende Fragen wären mir vor der Entscheidung für so ein Tool wichtig:** 
 
 - Wie sicher sind meine Daten in der Cloud? Möchte ich sie überhaupt in der Cloud haben?
-- Wie hoch ist der Locked-In-Effekt? Kann ich mit meinen Daten also jederzeit umziehen, oder bin ich an den Anbieter gebunden?
-- Kommen monatliche Kosten auf mich zu, die sich mit der Zeit summieren und lohnt sich das?
+- Wie hoch ist der [[02 - Künstliche Intelligenz/2- Veröffentlicht/Vendor-Lock-in\|Lock-in-Effekt]]? Kann ich mit meinen Daten jederzeit umziehen, oder bin ich an den Anbieter gebunden?
+- Kommen monatliche Kosten auf mich zu, die sich mit der Zeit summieren? Es ist (mir) das wert?
 
-| **Tool**             | **Datenschutz** | **Basisversion** | **Preis**     | **Lock-in Effekt**   |
-| -------------------- | --------------- | ---------------- | ------------- | -------------------- |
-| **1. NotebookLM**    | 🟡              | ✅                | ab 20 €/Monat | 🟢 Mittel            |
-| **2. HighNote AI**   | 🟡              | ❌                | ab 39 $/Monat | 🟡 Hoch              |
-| **3. Mem.ai**        | 🟡              | ✅                | ab 12 $/Monat | 🟡 Sehr hoch         |
-| **4. Reflect**       | 🟢              | ❌                | ab 15 $/Monat | 🟢 Gering bis Mittel |
-| **5. ChatGPT Stack** | 🔴              | ✅                | ab 8 €/Monat  | Extrem hoch          |
-Hinweis: Alle diese Tools laufen in der Cloud. Selbst das "Grün" für Reflect ist also relativ.
+| **Tool**             | **Datenschutz** | **monatliche Kosten**               | **Lock-in- Effekt**  |
+| -------------------- | --------------- | ----------------------------------- | -------------------- |
+| **1.NotebookLM**     | 🟡              | ab 20€ \| kostenlose Basisversion ✅ | 🟢 Mittel            |
+| **2. HighNote AI**   | 🟡              | ab 39$                              | 🟡 Hoch              |
+| **3. Mem.ai**        | 🟡              | ab 12$ \| kostenlose Basisversion ✅ | 🟡 Sehr hoch         |
+| **4. Reflect**       | 🟢              | ab 15$                              | 🟢 Gering bis Mittel |
+| **5. ChatGPT Stack** | 🔴              | ab 8€ \| kostenlose Basisversion ✅  | 🔴 Extrem hoch       |
+
+Hinweis: Alle diese Tools laufen in der [[02 - Künstliche Intelligenz/1 - Work on next/Cloud vs lokal\|Cloud]]. Selbst das "Grün" für Reflect ist also relativ.
 
 Der Grund, warum **Reflect** als einziges die Bestbewertung 🟢 erhält, lässt sich in einem technischen Begriff zusammenfassen: **Ende-zu-Ende-Verschlüsselung (E2EE)**.
 
-Bei NotebookLM, Mem oder HighNote liegen deine Daten verschlüsselt auf deren Servern, aber der Anbieter besitzt den "Generalschlüssel", um sie für die KI-Verarbeitung aufzusperren.**Bei Reflect** werden Notizen direkt auf dem Gerät verschlüsselt, _bevor_ sie ins Internet gehen. Nur du besitzt den Schlüssel. Das bedeutet: Selbst wenn Hacker die Server von Reflect stürmen oder eine Regierung die Herausgabe deiner Daten verlangt, sieht Reflect nur unlesbaren Zeichensalat. **Sie können deine Notizen technisch nicht lesen.**
+Bei NotebookLM, Mem.ai oder HighNote liegen deine Daten verschlüsselt auf deren Servern, aber der Anbieter besitzt den "Generalschlüssel", um sie für die KI-Verarbeitung aufzusperren.**Bei Reflect** werden Notizen direkt auf dem Gerät verschlüsselt, _bevor_ sie ins Internet gehen. Nur du besitzt den Schlüssel. Das bedeutet: Selbst wenn Hacker die Server von Reflect stürmen oder eine Regierung die Herausgabe deiner Daten verlangt, sieht Reflect nur unlesbaren Zeichensalat. **Sie können deine Notizen technisch nicht lesen.**
 ### 1. NotebookLM (Google)
 
 - **Datenschutz:** In der Consumer-Version werden Daten laut Google **nicht** zum Training der Modelle verwendet. Für Unternehmen gibt es Enterprise-Grade-Schutz über Google Workspace/Cloud mit SOC 2-Compliance.

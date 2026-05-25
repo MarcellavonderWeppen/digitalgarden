@@ -76,7 +76,7 @@ Ein freundlicher Mensch (ja, es war meine Mentorin! Sie ist die Beste ❤️) ha
 
 Bis auf den heutigen Tag praktiziere ich Mindmaps und finde sie wirklich sehr, sehr hilfreich! 
 
-Ein Jahr später flammte meine Begeisterung für [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]] wieder so richtig auf und ich entdeckte in diesem Kontext [[02 - Künstliche Intelligenz/2- Veröffentlicht/Canvas in Obsidian\|Canvas]] und [[02 - Künstliche Intelligenz/1 - Work on next/Excalidraw\|Excalidraw]].
+Ein Jahr später flammte meine Begeisterung für [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]] wieder so richtig auf und ich entdeckte in diesem Kontext [[02 - Künstliche Intelligenz/Obsidian/Canvas in Obsidian\|Canvas]] und [[02 - Künstliche Intelligenz/2- Veröffentlicht/Excalidraw\|Excalidraw]].
 
 ## Empfohlenes Handwerkszeug für Mindmaps
 
@@ -119,5 +119,5 @@ Mir persönlich macht es einfach mehr Spaß, an einer digitalen Mindmap zu feile
 Ohne Zweifel gibt es auch andere Mindmap-Software, die gut ist (z.B. MindMeister, Miro oder FreeMind), aber diese beiden habe ich selber intensiv genutzt und lieben gelernt.
 
 👉 Wenn Du ein intuitives, visuell ansprechendes Tool suchst, mit dem Du schnell strukturierte Mindmaps erstellen kannst, dann ist **Xmind** eine gute Wahl für Dich.
-👉 Wenn Du hingegen vernetztes Denken liebst, maximale Freiheit willst und bereit bist, Dich etwas tiefer einzuarbeiten, dann ist [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]] (mit [[02 - Künstliche Intelligenz/2- Veröffentlicht/Canvas in Obsidian\|Canvas]] oder [[02 - Künstliche Intelligenz/1 - Work on next/Excalidraw\|Excalidraw]]) die bessere Wahl für Dich.
+👉 Wenn Du hingegen vernetztes Denken liebst, maximale Freiheit willst und bereit bist, Dich etwas tiefer einzuarbeiten, dann ist [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]] (mit [[02 - Künstliche Intelligenz/Obsidian/Canvas in Obsidian\|Canvas]] oder [[02 - Künstliche Intelligenz/2- Veröffentlicht/Excalidraw\|Excalidraw]]) die bessere Wahl für Dich.
 

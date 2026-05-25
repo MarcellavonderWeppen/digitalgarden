@@ -4,7 +4,7 @@
 
 # Atomare Notizen
 
-Eine atomare Notiz enthält **genau eine Idee** – nicht mehr, nicht weniger. Der Begriff stammt aus der [[02 - Künstliche Intelligenz/2- Veröffentlicht/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]] -Methode und ist eines der mächtigsten Konzepte im [[02 - Künstliche Intelligenz/2- Veröffentlicht/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]].
+Eine atomare Notiz enthält **genau eine Idee** – nicht mehr, nicht weniger. Der Begriff stammt aus der [[02 - Künstliche Intelligenz/Obsidian/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]] -Methode und ist eines der mächtigsten Konzepte im [[02 - Künstliche Intelligenz/Obsidian/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]].
 
 ☝️🤓 Ich halte mich nicht daran, aber wahrscheinlich ist es ein gute Idee!
 ## Das Grundprinzip

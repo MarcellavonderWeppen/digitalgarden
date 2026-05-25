@@ -37,7 +37,7 @@ Nicht zuletzt: **Programmerier** haben oft einen intuitiven Zugang zu Obsidian u
 
 ## Eine berechtigte Frage: Ist Obsidian in Zeiten von KI überflüssig?
 
-Während die einen in Obsidian die perfekte Basis für ihr Wissen gefunden haben, behaupten andere: [[02 - Künstliche Intelligenz/2- Veröffentlicht/PKM (Personal Knowledge Management)\|PKM]]-Tools sind in Zeiten von KI obsolet.  Stimmt das?
+Während die einen in Obsidian die perfekte Basis für ihr Wissen gefunden haben, behaupten andere: [[02 - Künstliche Intelligenz/Obsidian/PKM (Personal Knowledge Management)\|PKM]]-Tools sind in Zeiten von KI obsolet.  Stimmt das?
 
 Vor ein paar Jahren habe ich die Entscheidung getroffen, mich auf Obsidian einzulassen. Und gerade auch in Zeiten von KI zeigt sich immer mehr: die Entscheidung war goldrichtig! Statt von wechselnden KI-Tools abhängig zu sein ([[02 - Künstliche Intelligenz/2- Veröffentlicht/Vendor-Lock-in\|Vendor-Lock-in]]), unterstützt Obsidian mit seinem “File first, App second”-Ansatz die Unabhängigkeit und die Zusammenarbeit mit _allen_ KI-Tools. Was passiert, wenn Obsidian über Nacht verschwindet? Gar nichts! Denn Du hast immer noch Deine Markdown-Dateien, welche zeitlos sind und in vielen Anwendungen funktionieren.
 
@@ -52,8 +52,8 @@ Obwohl (oder gerade weil) ich so begeistert von Obsidian bin, muss ich ausdrück
 - Nicht-Techies könnten sich schnell überfordert fühlen. Ich finde jedoch: Die Mühe lohnt sich. 
 - Wenn der Einstieg erst gelungen ist, wird vieles leichter - und genau darin liegt die eigentliche Gefahr: Du könntest zum Nerd werden 🤓
 - Man kann sich leicht in den unzähligen Einstellungen, hunderten Community-Plugins und endlosen Möglichkeiten verlieren:
-	- Du bist Fan von Mindmaps? Obsidian ist perfekt für Dich! Dein Weg führt Dich zu [[02 - Künstliche Intelligenz/2- Veröffentlicht/Canvas in Obsidian\|Canvas in Obsidian]] 🐇
-	- Oder vielleicht ist [[02 - Künstliche Intelligenz/1 - Work on next/Excalidraw\|Excalidraw]] doch besser als [[02 - Künstliche Intelligenz/2- Veröffentlicht/Canvas in Obsidian\|Canvas]]? Willkommen im [[02 - Künstliche Intelligenz/1 - Work on next/Excalidraw\|Excalidraw]]-Universum 🤓
+	- Du bist Fan von Mindmaps? Obsidian ist perfekt für Dich! Dein Weg führt Dich zu [[02 - Künstliche Intelligenz/Obsidian/Canvas in Obsidian\|Canvas in Obsidian]] 🐇
+	- Oder vielleicht ist [[02 - Künstliche Intelligenz/2- Veröffentlicht/Excalidraw\|Excalidraw]] doch besser als [[02 - Künstliche Intelligenz/Obsidian/Canvas in Obsidian\|Canvas]]? Willkommen im [[02 - Künstliche Intelligenz/2- Veröffentlicht/Excalidraw\|Excalidraw]]-Universum 🤓
 	- Mir macht das Spielen mit beidem wahnsinnig viel Spaß! Aber die vielen Möglichkeiten können auch ziemlich ablenkend wirken. 
 	
 ## Hier gehts zur Plugin-Bibliothek 
@@ -69,11 +69,11 @@ Hier ist der Eingang zum Kaninchenbau 👇
 
 # Obsidian - Nützliche Plugins
 
-[[02 - Künstliche Intelligenz/2- Veröffentlicht/Canvas in Obsidian\|Canvas in Obsidian]] Das integrierte Plugin für Mindmaps & mehr. Absolute Empfehlung!
+[[02 - Künstliche Intelligenz/Obsidian/Canvas in Obsidian\|Canvas in Obsidian]] Das integrierte Plugin für Mindmaps & mehr. Absolute Empfehlung!
 
-[[02 - Künstliche Intelligenz/1 - Work on next/Excalidraw\|Excalidraw]]  Ein Bild sagt mehr als tausend Worte. Graphisch denken mit dem beliebtesten Obsidian Plugin - genial!
+[[02 - Künstliche Intelligenz/2- Veröffentlicht/Excalidraw\|Excalidraw]]  Ein Bild sagt mehr als tausend Worte. Graphisch denken mit dem beliebtesten Obsidian Plugin - genial!
 
-Und alle anderen [[02 - Künstliche Intelligenz/1 - Work on next/Obsidian-Plugins, die ich verwende\|Obsidian-Plugins, die ich verwende]] 🐇
+Und alle anderen [[02 - Künstliche Intelligenz/2- Veröffentlicht/Obsidian-Plugins, die ich verwende\|Obsidian-Plugins, die ich verwende]] 🐇
 
 </div></div>
 

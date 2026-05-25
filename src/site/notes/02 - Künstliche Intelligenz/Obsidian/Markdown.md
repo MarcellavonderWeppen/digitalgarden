@@ -57,7 +57,7 @@ Man erkennt Markdown-Dateien an der Endung `md.`
 
 In diesem Kontext bedeutet „leicht", dass Markdown auf einer minimalen Syntax basiert. 
 
-Im Gegensatz zu Auszeichnungsprachen wie [[02 - Künstliche Intelligenz/1 - Work on next/HTML (Hypertext Markup Language)\|HTML (Hypertext Markup Language)]] verzichtet Markdown auf überflüssigen Ballast und konzentriert sich auf den Inhalt.
+Im Gegensatz zu Auszeichnungsprachen wie [[02 - Künstliche Intelligenz/2- Veröffentlicht/HTML (Hypertext Markup Language)\|HTML (Hypertext Markup Language)]] verzichtet Markdown auf überflüssigen Ballast und konzentriert sich auf den Inhalt.
 
 So würde unser Beispieltext in HTML aussehen: 
 
@@ -86,7 +86,7 @@ So würde unser Beispieltext in HTML aussehen:
 <p>Betrachten wir einfach mal diese Notiz hier. Du siehst oben formatierten Text mit Überschriften in verschiedenen Größen und einen Link.</p>
 ```
 
-Man sieht: [[02 - Künstliche Intelligenz/1 - Work on next/HTML (Hypertext Markup Language)\|HTML]] lässt sich immer noch lesen, erfordert aber schon mehr Kenntnisse und enthält mehr “Ballast”.
+Man sieht: [[02 - Künstliche Intelligenz/2- Veröffentlicht/HTML (Hypertext Markup Language)\|HTML]] lässt sich immer noch lesen, erfordert aber schon mehr Kenntnisse und enthält mehr “Ballast”.
 
 ## Leichtigkeit bedingt Schnelligkeit
 
@@ -119,7 +119,7 @@ Dem geneigten Leser wird aufgefallen sein, dass ich gerne mal Emojis benutze.
 
 ### 3. Schnelles Veröffentlichen
 
-Das Veröffentlichen meines Digital Gardens hier könnte nicht leichter sein: Ich tippe meine Texte lokal auf meinem Computer in Obsidian, ich klicke auf Veröffentlichen, fertig. Ein Plugin übersetzt das Markdown fehlerfrei in [[02 - Künstliche Intelligenz/1 - Work on next/HTML (Hypertext Markup Language)\|HTML]].
+Das Veröffentlichen meines Digital Gardens hier könnte nicht leichter sein: Ich tippe meine Texte lokal auf meinem Computer in Obsidian, ich klicke auf Veröffentlichen, fertig. Ein Plugin übersetzt das Markdown fehlerfrei in [[02 - Künstliche Intelligenz/2- Veröffentlicht/HTML (Hypertext Markup Language)\|HTML]].
 
 Die Alternative wäre: Ich müsste jeden Artikel in Word schreiben, den Text kopieren und ihn dann in WordPress oder ein anderes Website-System einfügen. Danach würde das große Nachbessern beginnen, weil die Formatierung beim Kopieren fast immer fehlerhaft übertragen wird.
 
