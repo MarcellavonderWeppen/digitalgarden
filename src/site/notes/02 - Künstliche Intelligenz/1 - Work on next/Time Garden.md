@@ -5,9 +5,9 @@
 
 # Time Garden
 
-Karlos ist das beste Beispiel dafür, wieviel Begeisterung Menschen für [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]] entwickeln können. Er hatte mich zuvor schon auf YouTube von [[02 - Künstliche Intelligenz/1 - Work on next/Einführung Excalidraw\|Excalidraw]] überzeugt.
+Karlos ist das beste Beispiel dafür, wieviel Begeisterung Menschen für [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]] entwickeln können. Er hatte mich schon zuvor auf YouTube von [[02 - Künstliche Intelligenz/1 - Work on next/Einführung Excalidraw\|Excalidraw]] überzeugt.
 
-Als ich folgendes Video sah, war mir sofort klar: Das muss ich haben 😍
+Als ich dann folgendes Video sah, war mir sofort klar: Das muss ich haben 😍👇
 
 📺 [The Free Obsidian Journal that took 400 hours to build](https://www.youtube.com/watch?v=_Q_UEvWxwNw&t=187s)
 

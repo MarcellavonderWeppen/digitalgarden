@@ -6,15 +6,11 @@
 
 Excalidraw erweitert Obsidian um ein **unendliches Whiteboard** - im Grunde ähnlich wie [[02 - Künstliche Intelligenz/2- Veröffentlicht/Canvas in Obsidian\|Canvas]]. 
 
-Anstatt mit starren Text zu arbeiten kann man sich hier eine lebendige, visuelle Wissenslandschaft gestalten. Handgezeichnete Skizzen und Markdown-Notizen verschmelzen durch Verlinkung zu einem interaktiven Netzwerk, in dem Gedanken räumlich strukturiert werden können. 
+Anstatt mit starren Text zu arbeiten kann man sich hier eine lebendige, visuelle Wissenslandschaft gestalten. Handgezeichnete Skizzen und [[02 - Künstliche Intelligenz/Obsidian/Markdown\|Markdown]]-Notizen verschmelzen durch Verlinkung zu einem interaktiven Netzwerk, in dem Gedanken räumlich strukturiert werden können. 
 
-Da alle Zeichnungen im Kern auf Text basieren, bleibt das gesamte visuelle System voll durchsuchbar und zukunftssicher lokal gespeichert.
+Da alle Zeichnungen im Kern auf Text basieren, bleibt das gesamte visuelle System voll durchsuchbar.
 
 ## Excalidraw vs. Canvas
-
-
->**Excalidraw = Zeichnen**
->**Canvas = Anordnen**
 
 ### Excalidraw ist der Künstler, 
 
@@ -22,6 +18,7 @@ Da alle Zeichnungen im Kern auf Text basieren, bleibt das gesamte visuelle Syste
 
 Du erstellst Diagramme, Skizzen und Mindmaps von Grund auf – von Hand, mit Formen und Pfeilen. 
 
+**Excalidraw = Zeichnen** 🎨
 ### Canvas ist der Architekt,
 
 … der mit klarem Blick bestehende Notizen **strukturiert und verwaltet**.
@@ -29,12 +26,13 @@ Du erstellst Diagramme, Skizzen und Mindmaps von Grund auf – von Hand, mit For
 Canvas ist ein eingebautes Pinnboard: 
 Du ziehst bestehende Notizen, Bilder und PDFs auf das Whiteboard und verbindest sie.
 
+>**Canvas = Anordnen** 📐
 
-> [!note] Empfehlung 💯
+> [!note] Excalibur hat eine steilere Lernkurve 
 > 
 > Als Tools ist Excalidraw wesentlich mächtiger, damit aber auch weniger intuitiv. Während Canvas sich schnell von selbst erschließt, erfordert Excalidraw eine gewisse Einarbeitung.
 > 
-> 👉 Ich empfehle beide , Excalidraw jedoch nur wenn man Zeit und Lust hat, es zu lernen.
+> 👉 Ich empfehle beide 💯, Excalidraw jedoch nur wenn man Zeit und Lust hat, es zu lernen.
 ## Anwendungsmöglichkeiten 
 
 Die Möglichkeiten sind so endlos wie das digitale Whiteboard:

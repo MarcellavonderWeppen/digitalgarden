@@ -2,7 +2,6 @@
 {"title":"Einführung Excalidraw","aliases":null,"tags":null,"gen-ai-anteil":["Gemini 80%"],"created":"23.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/einfuehrung-excalidraw/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Einführung Excalidraw","aliases":null,"tags":null,"gen-ai-anteil":["Gemini 80%"],"created":"23.05.2026","updated":null,"status":null}}
 ---
 
-
 # Einführung Excalidraw
 
  Dieses Video hat mich zu [[02 - Künstliche Intelligenz/1 - Work on next/Excalidraw\|Excalidraw]] verführt: 
@@ -39,13 +38,15 @@ Um den Gedankenfluss nicht zu unterbrechen, sollten statt der Icons konsequent S
 - **Alt/Option + Drag**: Objekt duplizieren.
 - **Enter (bei markiertem Objekt)**: Text direkt in die Form schreiben ("Sticky Note"-Funktion).
 
+> [!tip] Tastatur statt Maus
+> ☝️🤓 Die Tastatur ist der Maus in Hinblick auf Schnelligkeit und Arbeitsflow überlegen. Immer. Shortcuts lernen lohnt sich!
 ## 2. Visuelle Verknüpfung (The Power of Linking)
 
 Die wahre Stärke liegt in der Verbindung von Grafik und Text:
 
 - **Notizen einfügen**: Per Drag-and-drop können bestehende Markdown-Notizen auf die Leinwand gezogen werden. Sie erscheinen als klickbare Links oder (per `Insert any file`) als interaktive Vorschaufenster.
 - **Inception-Links**: Man kann Links zu spezifischen Gruppen innerhalb einer Zeichnung erstellen. So springt man aus einer Textnotiz direkt zu einem bestimmten Teil eines riesigen Diagramms.
-- **Excl-Embeds**: Mit `![[Zeichnung]]` wird die Grafik in eine Textnotiz eingebettet. Sie aktualisiert sich dort in Echtzeit, sobald man die Originalzeichnung ändert.
+- **Embeddables**: Mit `![[Zeichnung]]` wird die Grafik in eine Textnotiz eingebettet. Sie aktualisiert sich dort in Echtzeit, sobald man die Originalzeichnung ändert.
 
 ## 3. Fortgeschrittene Medien-Integration
 
