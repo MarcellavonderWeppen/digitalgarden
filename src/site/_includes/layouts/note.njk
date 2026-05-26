@@ -100,8 +100,12 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
     {% endif %}
     {% include "components/basesScript.njk" %}
 
+    {% if gen_ai_anteil %}
+    <span style="font-size: 0.7em">🤖 Gen-AI-Anteil: {{ gen_ai_anteil | join(" | ") }}</span>
+    {% endif %}
 {% if gen_ai_anteil %}
-<p class="gen-ai-badge">🤖 Gen-AI-Anteil: {{ gen_ai_anteil }}</p>
+<hr>
+<span style="font-size: 0.7em">Gen-AI-Anteil: {{ gen_ai_anteil | join(" | ") }}</span>
 {% endif %}
   </body>
 </html>
