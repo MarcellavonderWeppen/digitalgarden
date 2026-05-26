@@ -1,6 +1,7 @@
 ---
-{"title":"Vendor-Lock-In","aliases":["Lock-in-Effekt"],"tags":null,"gen-ai-anteil":["Grok 80%"],"created":"2026-04-04","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/vendor-lock-in/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Vendor-Lock-In","aliases":["Lock-in-Effekt"],"tags":null,"gen-ai-anteil":["Grok 80%"],"created":"2026-04-04","updated":null,"status":null}}
+{"title":"Vendor-Lock-In","aliases":["Lock-in-Effekt"],"tags":null,"gen_ai_anteil":["Grok 80%"],"created":"2026-04-04","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/vendor-lock-in/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Vendor-Lock-In","aliases":["Lock-in-Effekt"],"tags":null,"gen_ai_anteil":["Grok 80%"],"created":"2026-04-04","updated":null,"status":null}}
 ---
+
 
 # Vendor-Lock-In
 
@@ -10,7 +11,7 @@ Vendor Lock-In beschreibt eine Situation, in der Kunden, Nutzer oder Eigentümer
 
 ## Allgemeine Bedeutung in Wirtschaft und Marketing
 
-In den Wirtschaftswissenschaften und im Marketing bezeichnet der Lock-in-Effekt eine enge Kundenbindung. Unternehmen nutzen ihn strategisch, um Kunden langfristig zu halten. 
+In den Wirtschaftswissenschaften und im Marketing bezeichnet der Lock-in-Effekt eine enge Kundenbindung. Unternehmen nutzen ihn strategisch, um Kunden langfristig zu halten.
 
 Beispiele für Ursachen:
 
@@ -18,9 +19,6 @@ Beispiele für Ursachen:
 - Wechselkosten: Hohe Kosten für den Umstieg, Lernaufwand, Vertragsstrafen oder der Verlust von Netzwerkeffekten (z. B. wenn viele Freunde dasselbe soziale Netzwerk nutzen).
 - Psychologische Faktoren: Gewöhnung und Zufriedenheit, die den Wechsel unattraktiv machen.
 
-Das Ziel ist oft eine höhere Kundenbindung und reduzierte Abwanderung (Churn). 
+Das Ziel ist oft eine höhere Kundenbindung und reduzierte Abwanderung (Churn).
 
 **Nachteil**: Es kann zu Monopol-ähnlichen Strukturen führen und den Wettbewerb behindern.
-
-
-

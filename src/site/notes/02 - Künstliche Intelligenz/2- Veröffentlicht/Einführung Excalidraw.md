@@ -1,12 +1,13 @@
 ---
-{"title":"Einführung Excalidraw","aliases":null,"tags":null,"gen-ai-anteil":["Gemini 80%"],"created":"23.05.2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/einfuehrung-excalidraw/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Einführung Excalidraw","aliases":null,"tags":null,"gen-ai-anteil":["Gemini 80%"],"created":"23.05.2026","updated":"2026-05-25","status":null}}
+{"title":"Einführung Excalidraw","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"23.05.2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/einfuehrung-excalidraw/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Einführung Excalidraw","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"23.05.2026","updated":"2026-05-25","status":null}}
 ---
+
 
 # Einführung Excalidraw
 
- Ein einziges Video hat mich zu [[02 - Künstliche Intelligenz/2- Veröffentlicht/Excalidraw\|Excalidraw]] verführt: 
- 
- 📺 [Why 5 Million People Are OBSESSED With Excalidraw](https://www.youtube.com/watch?v=CkoGWHyLTsk&t=14s)
+Ein einziges Video hat mich zu [[02 - Künstliche Intelligenz/2- Veröffentlicht/Excalidraw\|Excalidraw]] verführt:
+
+📺 [Why 5 Million People Are OBSESSED With Excalidraw](https://www.youtube.com/watch?v=CkoGWHyLTsk&t=14s)
 
 **Das Video umfasst alles, was man für den Einstieg braucht. Hier ist die Zusammenfassung 👇**
 
@@ -40,6 +41,7 @@ Um den Gedankenfluss nicht zu unterbrechen, sollten statt der Icons konsequent S
 
 > [!tip] Tastatur statt Maus
 > ☝️🤓 Die Tastatur ist der Maus in Hinblick auf Schnelligkeit und Arbeitsflow überlegen. Immer. Shortcuts lernen lohnt sich!
+
 ## 2. Visuelle Verknüpfung (The Power of Linking)
 
 Die wahre Stärke liegt in der Verbindung von Grafik und Text:

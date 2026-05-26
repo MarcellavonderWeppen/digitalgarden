@@ -1,22 +1,23 @@
 ---
-{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen-ai-anteil":["Claude 20%","Euria 20%","ChatGPT 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/open-source-vs-proprietaer/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen-ai-anteil":["Claude 20%","Euria 20%","ChatGPT 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null}}
+{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen_ai_anteil":["Claude 20%","Euria 20%","ChatGPT 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/open-source-vs-proprietaer/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen_ai_anteil":["Claude 20%","Euria 20%","ChatGPT 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null}}
 ---
+
 
 # Open Source vs Proprietär
 
 Das Thema liegt mir sehr am Herzen!
+
 ## Was ist proprietär?
 
 > [!info] Das Wort kommt aus dem Lateinischen:
- „**proprius**“ = eigen, eigenständig;  etwas, das jemandem persönlich gehört oder eigen ist.
+> „**proprius**“ = eigen, eigenständig; etwas, das jemandem persönlich gehört oder eigen ist.
 
 Proprietär bedeutet also: Privateigentum der Firma. Der Code hinter Anwendungen bleibt Betriebsgeheimnis.
 
 > [!info] Noch ein bisschen Wortherkunft
-> ☝️🤓 Das lateinische Wort _privare_ bedeutet „berauben", „entbehren lassen" oder „etwas wegnehmen". Es leitet sich vom Adjektiv _privus_ ab, das „einzeln" oder „allein" bedeutet, und steht im Kontrast zu _publicus_ (öffentlich). 
+> ☝️🤓 Das lateinische Wort *privare* bedeutet „berauben", „entbehren lassen" oder „etwas wegnehmen". Es leitet sich vom Adjektiv *privus* ab, das „einzeln" oder „allein" bedeutet, und steht im Kontrast zu *publicus* (öffentlich).
 
 ## Ist Open Source oder proprietäre Software besser?
-
 
 |                 | Proprietär                 | Open Source         |
 | :-------------- | :------------------------- | :------------------ |
@@ -24,7 +25,6 @@ Proprietär bedeutet also: Privateigentum der Firma. Der Code hinter Anwendungen
 | **Lizenz**      | Einschränkend / restriktiv | Frei / flexibel     |
 | **Kosten**      | Meist kostenpflichtig      | Häufig kostenlos    |
 | **Entwicklung** | Herstellergebunden         | Community-getrieben |
-
 
 ### Für Open-Source-Software spricht:
 
@@ -42,26 +42,25 @@ Proprietäre Software punktet mit:
 - **Klare Haftung & Compliance** – In regulierten Branchen (Medizin, Finanzen) ist es oft einfacher, mit einem Anbieter zu arbeiten, der rechtlich greifbar ist.
 - **Finanzierte Weiterentwicklung** – Einnahmen fließen direkt zurück in R&D (Research & Development) – was manchmal zu konsequenterem Produktfokus führt als bei community-getriebenen Projekten.
 
-
 ## Meine Perspektive: Warum ich Open Source für sicherer halte
 
-***Sicherheit entsteht nicht im Verborgenen, sondern durch Transparenz.***
+**_Sicherheit entsteht nicht im Verborgenen, sondern durch Transparenz._**
 
-*Ich glaube an die Kraft der Schwarmintelligenz: Wenn viele Menschen mitdenken, hinschauen und mitwirken, werden Schwachstellen schneller entdeckt – und gemeinsam behoben.*
+_Ich glaube an die Kraft der Schwarmintelligenz: Wenn viele Menschen mitdenken, hinschauen und mitwirken, werden Schwachstellen schneller entdeckt – und gemeinsam behoben._
 
-***Jeder Mensch – auch die brillantesten Köpfe – hat blinde Flecken.***
+**_Jeder Mensch – auch die brillantesten Köpfe – hat blinde Flecken._**
 
-*Das gilt ebenso für große Unternehmen und ihre geschlossenen Systeme: Niemand sieht alles.*
-  
-*Doch **viele Augen sehen mehr als wenige** – und genau das ist ein Kernwert von Open Source.*
+_Das gilt ebenso für große Unternehmen und ihre geschlossenen Systeme: Niemand sieht alles._
 
-*💡 **Vertrauen in Gemeinschaft statt Kontrolle durch Konzerne** –*
+_Doch **viele Augen sehen mehr als wenige** – und genau das ist ein Kernwert von Open Source._
 
-*dieser Gedanke steht für mich im Zentrum eines gesunden, transparenten Umgangs mit Technologie.*
-  
-*Ich bin nicht allein mit dieser Haltung: **Viele Menschen in der digitalen Zivilgesellschaft und der IT-Sicherheits-Community** teilen diese Überzeugung.*
-  
-*Sie glauben wie ich daran, dass **Offenheit, Teilhabe und kollektive Verantwortung** eine starke Grundlage für digitale Sicherheit und Vertrauen bilden.*
+_💡 **Vertrauen in Gemeinschaft statt Kontrolle durch Konzerne** –_
+
+_dieser Gedanke steht für mich im Zentrum eines gesunden, transparenten Umgangs mit Technologie._
+
+_Ich bin nicht allein mit dieser Haltung: **Viele Menschen in der digitalen Zivilgesellschaft und der IT-Sicherheits-Community** teilen diese Überzeugung._
+
+_Sie glauben wie ich daran, dass **Offenheit, Teilhabe und kollektive Verantwortung** eine starke Grundlage für digitale Sicherheit und Vertrauen bilden._
 
 > [!info] Fun-Fact
 > “Mein” Plädoyer oben wurde übrigens von ChatGPT verfasst 😂 Obwohl ich Schreiben liebe und meine Texte am liebsten selber verfasse, finde ich KI manchmal sehr hilfreich um meinen eigenen Standpunkt klarer herauszuarbeiten - dort wo mir Worte (noch) fehlen. Auch hier gilt: Die KI kann Dir nichts geben, was Du nicht bereits schon in Dir trägst. Aber sie kann Lern- und Denkprozesse beschleunigen. KI sollte stets dazu dienen, tiefer zu denken und zu arbeiten, nicht das Denken abzugeben.

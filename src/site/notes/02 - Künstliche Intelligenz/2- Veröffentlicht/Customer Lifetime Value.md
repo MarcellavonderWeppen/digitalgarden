@@ -1,5 +1,5 @@
 ---
-{"title":"Customer Lifetime Value","aliases":null,"tags":null,"gen-ai-anteil":["Mistral 100%"],"created":"2026-04-07","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/customer-lifetime-value/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Customer Lifetime Value","aliases":null,"tags":null,"gen-ai-anteil":["Mistral 100%"],"created":"2026-04-07","updated":null,"status":null}}
+{"title":"Customer Lifetime Value","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-04-07","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/customer-lifetime-value/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Customer Lifetime Value","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-04-07","updated":null,"status":null}}
 ---
 
 

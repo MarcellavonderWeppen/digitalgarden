@@ -1,5 +1,5 @@
 ---
-{"title":"NotebookLM","aliases":null,"tags":null,"gen-ai-anteil":["ChatGPT 100%"],"created":"08-04-2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/notebook-lm/","dgPassFrontmatter":true,"dg-note-properties":{"title":"NotebookLM","aliases":null,"tags":null,"gen-ai-anteil":["ChatGPT 100%"],"created":"08-04-2026","updated":"2026-05-25","status":null}}
+{"title":"NotebookLM","aliases":null,"tags":null,"gen_ai_anteil":["ChatGPT 100%"],"created":"08-04-2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/notebook-lm/","dgPassFrontmatter":true,"dg-note-properties":{"title":"NotebookLM","aliases":null,"tags":null,"gen_ai_anteil":["ChatGPT 100%"],"created":"08-04-2026","updated":"2026-05-25","status":null}}
 ---
 
 
@@ -60,12 +60,12 @@ Du kannst verschiedene Inhalte als „Notebooks“ hinzufügen:
 
 ## 🔍 Wie es sich von ChatGPT unterscheidet
 
-|Feature|NotebookLM|ChatGPT|
-|---|---|---|
-|Datenbasis|Deine eigenen Dokumente|Allgemeines Wissen + optional Dateien|
-|Quellenangaben|✅ Immer integriert|⚠️ Nicht automatisch|
-|Fokus|Recherche & Analyse|Vielseitiger Assistent|
-|Halluzinationen|Weniger (quellengebunden)|Möglich ohne Quellen|
+| Feature         | NotebookLM                | ChatGPT                               |
+| --------------- | ------------------------- | ------------------------------------- |
+| Datenbasis      | Deine eigenen Dokumente   | Allgemeines Wissen + optional Dateien |
+| Quellenangaben  | ✅ Immer integriert       | ⚠️ Nicht automatisch                  |
+| Fokus           | Recherche & Analyse       | Vielseitiger Assistent                |
+| Halluzinationen | Weniger (quellengebunden) | Möglich ohne Quellen                  |
 
 ---
 
@@ -83,4 +83,3 @@ Du kannst verschiedene Inhalte als „Notebooks“ hinzufügen:
 NotebookLM ist wie ein **„KI-Forschungsassistent, der nur mit deinen eigenen Unterlagen arbeitet“** – dadurch präziser, nachvollziehbarer und oft vertrauenswürdiger als klassische Chatbots.
 
 > **Wichtiger Hinweis:** NotebookLM ist ein „geschlossenes System“. Das bedeutet, deine hochgeladenen Daten werden (je nach Einstellung) privat behandelt und nicht zum Training der allgemeinen KI-Modelle verwendet.
-

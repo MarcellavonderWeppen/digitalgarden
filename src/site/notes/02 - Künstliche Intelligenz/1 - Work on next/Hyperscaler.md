@@ -1,5 +1,5 @@
 ---
-{"title":"Hyperscaler","aliases":null,"tags":null,"gen_ai_anteil":["Euria 10%"],"created":"25.05.2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/hyperscaler/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Hyperscaler","aliases":null,"tags":null,"gen_ai_anteil":["Euria 10%"],"created":"25.05.2026","updated":"2026-05-25","status":null}}
+{"title":"Hyperscaler","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"25.05.2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-next/hyperscaler/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Hyperscaler","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"25.05.2026","updated":"2026-05-25","status":null}}
 ---
 
 # Hyperscaler 

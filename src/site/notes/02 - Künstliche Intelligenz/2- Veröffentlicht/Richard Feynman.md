@@ -1,11 +1,11 @@
 ---
-{"title":"Richard Feynman","aliases":null,"tags":null,"gen-ai-anteil":["Claude 80%"],"created":"2017-04-04","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/richard-feynman/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Richard Feynman","aliases":null,"tags":null,"gen-ai-anteil":["Claude 80%"],"created":"2017-04-04","updated":"2026-05-17","status":null}}
+{"title":"Richard Feynman","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2017-04-04","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/richard-feynman/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Richard Feynman","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2017-04-04","updated":"2026-05-17","status":null}}
 ---
 
 
 # Richard Feynman
 
-Richard Feynman (1918–1988) war einer der brillantesten Physiker des 20. Jahrhunderts. 
+Richard Feynman (1918–1988) war einer der brillantesten Physiker des 20. Jahrhunderts.
 
 Hier ein Überblick über den Mann und sein Vermächtnis:
 
@@ -21,8 +21,8 @@ Hier ein Überblick über den Mann und sein Vermächtnis:
 
 Was ihn von vielen anderen unterscheidet: Er hatte eine echte **Allergie gegen Scheinwissen** – gegen Begriffe, die man auswendig kennt, ohne zu verstehen, was dahintersteckt. Für ihn war das kein Lernen, sondern Selbstbetrug.
 
->[!info] Hier das Herzstück der **Feynman-Methode**:
->Wenn Du es nicht einem Fünfjährigen erklären kannst, dann hast Du es überhaupt nicht verstanden. 
+> [!info] Hier das Herzstück der **Feynman-Methode**:
+> Wenn Du es nicht einem Fünfjährigen erklären kannst, dann hast Du es überhaupt nicht verstanden.
 
 Daher: Wenn du etwas wirklich verstehen willst, versuche es so zu erklären, als würdest du es einem Kind beibringen. Wo du ins Stocken gerätst, besteht eine Lücke in Deinem Verständnis – genau dort musst du weiter lernen. Dann vereinfachen, wiederholen, verfeinern.
 
@@ -35,7 +35,6 @@ Ein paar seiner Kerngedanken:
 
 ## Weiterstöbern
 
- 📺 Schöne Dokumentation auf YouTube: [The "Notebook Method" That Made Feynman A Genius (Think on Paper)](https://www.youtube.com/@feynmanarchives)
+📺 Schöne Dokumentation auf YouTube: [The "Notebook Method" That Made Feynman A Genius (Think on Paper)](https://www.youtube.com/@feynmanarchives)
 
- 📖 Von Feynman inspiriert: [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]]
-
+📖 Von Feynman inspiriert: [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier\|Denken auf Papier]]

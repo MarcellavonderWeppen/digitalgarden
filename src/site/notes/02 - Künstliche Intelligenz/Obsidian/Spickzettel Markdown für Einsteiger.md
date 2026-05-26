@@ -1,12 +1,14 @@
 ---
-{"title":"Spickzettel Markdown","aliases":null,"tags":null,"gen-ai-anteil":["Euria 100%"],"created":"22.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/obsidian/spickzettel-markdown-fuer-einsteiger/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Spickzettel Markdown","aliases":null,"tags":null,"gen-ai-anteil":["Euria 100%"],"created":"22.05.2026","updated":null,"status":null}}
+{"title":"Spickzettel Markdown","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"22.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/obsidian/spickzettel-markdown-fuer-einsteiger/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Spickzettel Markdown","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"22.05.2026","updated":null,"status":null}}
 ---
+
 
 # Spickzettel Markdown für Einsteiger
 
 ## 1. Überschriften
 
 Überschriften beginnen mit Hashtags `#`, die Anzahl bestimmt die Größe.
+
 ```Markdown
 # Überschrift 1 (Haupttitel)
 ## Überschrift 2 (Hauptabschnitt)
@@ -33,6 +35,7 @@ Durchgestrichenen Text bildet man mit zwei Tilden:
 ## 3. Listen
 
 Unsortierte Listen beginnen mit einem Sternchen, einem Bindestrich oder einem Punkt gefolgt von einem Leerzeichen:
+
 ```Markdown
 - Erstes Element
 - Zweites Element
@@ -40,6 +43,7 @@ Unsortierte Listen beginnen mit einem Sternchen, einem Bindestrich oder einem Pu
 ```
 
 Sortierte Listen funktionieren ähnlich, nutzen aber Zahlen gefolgt von einem Punkt:
+
 ```Markdown
 1. Erster Schritt
 2. Zweiter Schritt
@@ -47,6 +51,7 @@ Sortierte Listen funktionieren ähnlich, nutzen aber Zahlen gefolgt von einem Pu
 ```
 
 Verschachtelte Listen entstehen durch Einrücken (meist zwei oder vier Leerzeichen) der darunterliegenden Zeilen:
+
 ```Markdown
 - Hauptpunkt
   - Unterpunkt 1
@@ -65,6 +70,7 @@ Bilder funktionieren nach demselben Prinzip, benötigen aber ein Ausrufezeichen 
 ## 5. Zitate und Trennlinien
 
 Zitate beginnen in einer neuen Zeile mit einem Winkelstrich (>):
+
 ```Markdown
 > Dies ist ein Zitat, das oft verwendet wird, um Meinungen oder Quellen hervorzuheben.
 >
@@ -72,6 +78,7 @@ Zitate beginnen in einer neuen Zeile mit einem Winkelstrich (>):
 ```
 
 Horizontale Trennlinien entstehen durch drei oder mehr Bindestriche, Sterne oder Unterstriche in einer eigenen Zeile:
+
 ```Markdown
 ---
 ***
@@ -81,6 +88,7 @@ ___
 ## 6. Aufgabenlisten (Task Lists)
 
 Aufzählungen können auch als Aufgabenliste genutzt werden, oft mit einem Bindestrich und einer Klammer:
+
 ```Markdown
 - [ ] Unvollständige Aufgabe
 - [x] Abgeschlossene Aufgabe
@@ -90,12 +98,15 @@ Aufzählungen können auch als Aufgabenliste genutzt werden, oft mit einem Binde
 ## 7. Tabellen
 
 Tabellen werden durch senkrechte Striche (|) und Bindestriche (-) definiert. Die erste Zeile enthält die Überschriften, die zweite Zeile definiert die Ausrichtung (optional), und die folgenden Zeilen enthalten die Daten:
+
 ```Markdown
 | Spalte 1 | Spalte 2 | Spalte 3 |
 | :--- | :---: | ---: |
 | Linksbündig | Zentriert | Rechtsbündig |
 | Inhalt A | Inhalt B | Inhalt C |
 | Zeile 2 | Daten | Werte |
+```
+
 ```
 
 ```
