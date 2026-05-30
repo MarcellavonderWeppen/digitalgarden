@@ -26,11 +26,8 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/searchContainer.njk"%}
     {% endif %}
 
-<main class="content cm-s-obsidian print {{contentClasses}}">
-      {% if banner %}
-      <div style="background-image: url('/{{ banner }}'); background-size: cover; background-position: center; height: 200px; border-radius: 8px; margin-bottom: 1.5rem;"></div>
-      {% endif %}      
-<header>
+    <main class="content cm-s-obsidian print {{contentClasses}}">
+      <header>
         {% if settings.dgShowInlineTitle === true %}
           <h1 data-note-icon="{% if noteIcon %}{{noteIcon}}{% else %}{{meta.noteIconsSettings.default}}{% endif %}">{% if title %}{{ title }}{% else %}{{ page.fileSlug }}{% endif %}</h1>
         {% endif %}
@@ -77,10 +74,6 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.afterContent %}
         {% include imp %}
       {% endfor %}
-{% if gen_ai_anteil %}
-<hr>
-<span style="font-size: 0.7em">🤖 Gen-AI-Anteil: {{ gen_ai_anteil | join(" | ") }}</span>
-{% endif %}
     </main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true or dynamics.sidebar.top.length > 0 or dynamics.sidebar.bottom.length > 0%}
@@ -103,6 +96,5 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {%include "components/canvasScript.njk"%}
     {% endif %}
     {% include "components/basesScript.njk" %}
-
   </body>
 </html>
