@@ -1,5 +1,5 @@
 ---
-{"title":"AGI","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/agi/","dgPassFrontmatter":true,"dg-note-properties":{"title":"AGI","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":null,"status":null}}
+{"title":"AGI","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-05-01","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/agi/","dgPassFrontmatter":true,"dg-note-properties":{"title":"AGI","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-05-01","status":null}}
 ---
 
 
