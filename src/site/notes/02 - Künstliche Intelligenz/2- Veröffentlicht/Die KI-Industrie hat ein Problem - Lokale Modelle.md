@@ -1,5 +1,5 @@
 ---
-{"title":"Die KI-Industrie hat ein Problem - Lokale Modelle","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 100%"],"created":"26.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/die-ki-industrie-hat-ein-problem-lokale-modelle/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Die KI-Industrie hat ein Problem - Lokale Modelle","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 100%"],"created":"26.05.2026","updated":null,"status":null}}
+{"title":"Die KI-Industrie hat ein Problem - Lokale Modelle","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 100%"],"created":"2026-05-26","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/die-ki-industrie-hat-ein-problem-lokale-modelle/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Die KI-Industrie hat ein Problem - Lokale Modelle","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 100%"],"created":"2026-05-26","updated":null,"status":null}}
 ---
 
 

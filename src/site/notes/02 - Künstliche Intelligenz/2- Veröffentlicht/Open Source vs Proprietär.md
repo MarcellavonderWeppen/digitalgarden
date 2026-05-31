@@ -64,3 +64,8 @@ _Sie glauben wie ich daran, dass **Offenheit, Teilhabe und kollektive Verantwort
 
 > [!info] Fun-Fact
 > “Mein” Plädoyer oben wurde übrigens von ChatGPT verfasst 😂 Obwohl ich Schreiben liebe und meine Texte am liebsten selber verfasse, finde ich KI manchmal sehr hilfreich um meinen eigenen Standpunkt klarer herauszuarbeiten - dort wo mir Worte (noch) fehlen. Auch hier gilt: Die KI kann Dir nichts geben, was Du nicht bereits schon in Dir trägst. Aber sie kann Lern- und Denkprozesse beschleunigen. KI sollte stets dazu dienen, tiefer zu denken und zu arbeiten, nicht das Denken abzugeben.
+
+## Weiterstöbern
+
+📺 [Die Open Source Community bricht zusammen](https://www.youtube.com/watch?v=yi1QiqlB1Q4) von _The Morpheus_
+📖 Zusammenfassung zum Video: [[KI und Open Source\|KI und Open Source]]
