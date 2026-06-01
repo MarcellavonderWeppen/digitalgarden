@@ -1,5 +1,5 @@
 ---
-{"title":"Einführung Excalidraw","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"23.05.2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/einfuehrung-excalidraw/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Einführung Excalidraw","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"23.05.2026","updated":"2026-05-25","status":null}}
+{"title":"Einführung Excalidraw","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"2026-05-23","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/einfuehrung-excalidraw/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Einführung Excalidraw","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"2026-05-23","updated":"2026-05-25","status":null}}
 ---
 
 

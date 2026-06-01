@@ -1,5 +1,5 @@
 ---
-{"title":"Elinor Ostrom und die Designprinzipien für Gemeingüter","aliases":["Elinor Ostrom","Ostrom","Designprinzipien"],"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"26.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/elinor-ostrom-und-die-designprinzipien-der-common-goods/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Elinor Ostrom und die Designprinzipien für Gemeingüter","aliases":["Elinor Ostrom","Ostrom","Designprinzipien"],"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"26.05.2026","updated":null,"status":null}}
+{"title":"Elinor Ostrom und die Designprinzipien für Gemeingüter","aliases":["Elinor Ostrom","Ostrom","Designprinzipien"],"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-05-26","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/elinor-ostrom-und-die-designprinzipien-der-common-goods/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Elinor Ostrom und die Designprinzipien für Gemeingüter","aliases":["Elinor Ostrom","Ostrom","Designprinzipien"],"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-05-26","updated":null,"status":null}}
 ---
 
 

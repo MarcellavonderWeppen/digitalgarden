@@ -1,5 +1,5 @@
 ---
-{"title":"HTML (Hypertext Markup Language)","aliases":["HTML"],"tags":null,"gen_ai_anteil":["Euria 20%","Claude 20%"],"created":"23.05.2026","updated":"2026-05-23","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/html-hypertext-markup-language/","dgPassFrontmatter":true,"dg-note-properties":{"title":"HTML (Hypertext Markup Language)","aliases":["HTML"],"tags":null,"gen_ai_anteil":["Euria 20%","Claude 20%"],"created":"23.05.2026","updated":"2026-05-23","status":null}}
+{"title":"HTML (Hypertext Markup Language)","aliases":["HTML"],"tags":null,"gen_ai_anteil":["Euria 20%","Claude 20%"],"created":"2026-05-23","updated":"2026-05-23","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/html-hypertext-markup-language/","dgPassFrontmatter":true,"dg-note-properties":{"title":"HTML (Hypertext Markup Language)","aliases":["HTML"],"tags":null,"gen_ai_anteil":["Euria 20%","Claude 20%"],"created":"2026-05-23","updated":"2026-05-23","status":null}}
 ---
 
 

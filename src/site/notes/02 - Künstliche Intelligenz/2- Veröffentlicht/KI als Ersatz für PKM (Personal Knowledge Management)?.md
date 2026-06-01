@@ -1,5 +1,5 @@
 ---
-{"title":"KI als Ersatz für PKM (Personal Knowledge Management)?","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 60%"],"created":"08.04.2026","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/ki-als-ersatz-fuer-pkm-personal-knowledge-management/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI als Ersatz für PKM (Personal Knowledge Management)?","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 60%"],"created":"08.04.2026","updated":"2026-05-25","status":null}}
+{"title":"KI als Ersatz für PKM (Personal Knowledge Management)?","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 60%"],"created":"2026-04-08","updated":"2026-05-25","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/ki-als-ersatz-fuer-pkm-personal-knowledge-management/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI als Ersatz für PKM (Personal Knowledge Management)?","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 60%"],"created":"2026-04-08","updated":"2026-05-25","status":null}}
 ---
 
 

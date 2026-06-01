@@ -29,13 +29,13 @@ Dieses Projekt wurde übrigens mit der Software [[02 - Künstliche Intelligenz/O
 
 Eigentlich wollte ich nur kurz ein [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]-Tool downloaden, um schneller und produktiver zu arbeiten. Ich dachte, [[02 - Künstliche Intelligenz/Wispr Flow\|Wispr Flow]] wäre das einzige ernstzunehmende Tool dieser Art. Dieser Irrtum ist von Wispr Flow vermutlich nicht ganz unbeabsichtigt. Bei meiner Recherche wurde ich nicht nur mit Dutzenden [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]-Tools konfrontiert, sondern auch mit der Thematik [[02 - Künstliche Intelligenz/1 - Work on next/Cloud vs lokal\|Cloud vs lokal]].
 
-Obwohl vieles für lokale Anwendungen spricht, dachte ich: “Gut, [[02 - Künstliche Intelligenz/Wispr Flow\|Wispr Flow]] scheint ein ja ein gutes Tool für Menschen zu sein, die kein Problem mit einer Anwendung in der Cloud haben. Ich könnte das als [[Affiliate\|Affiliate]]-Partner empfehlen.” Bis ich die [[02 - Künstliche Intelligenz/Wispr Flow Affiliate Vertragsbedingungen\|Wispr Flow Affiliate Vertragsbedingungen]] las und dabei ganz nebenbei mit dem Thema [[02 - Künstliche Intelligenz/Dark Patterns (Deceptive Patterns)\|Dark Patterns]] konfrontiert wurde ….
+Obwohl vieles für lokale Anwendungen spricht, dachte ich: “Gut, [[02 - Künstliche Intelligenz/Wispr Flow\|Wispr Flow]] scheint ein ja ein gutes Tool für Menschen zu sein, die kein Problem mit einer Anwendung in der Cloud haben. Ich könnte das als [[02 - Künstliche Intelligenz/1 - Work on next/Affiliate\|Affiliate]]-Partner empfehlen.” Bis ich die [[02 - Künstliche Intelligenz/Wispr Flow Affiliate Vertragsbedingungen\|Wispr Flow Affiliate Vertragsbedingungen]] las und dabei ganz nebenbei mit dem Thema [[02 - Künstliche Intelligenz/Dark Patterns (Deceptive Patterns)\|Dark Patterns]] konfrontiert wurde ….
 
 So wird dann aus einem 5-Minuten-Punkt aus der To-Do-Liste ein wochenlanges Projekt. Wie heißt es so schön? “Nerd sein verpflichtet!” 🤓
 
 ### Marktplatz: Marcellas kleiner Shop 🐰🐣
 
-“[[02 - Künstliche Intelligenz/1 - Work on next/KI - es geht auch anders\|KI - es geht auch anders]]” hatte ich behauptet. Auf der Suche nach dem “anders” begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[Affiliate\|Affiliate]]-Partner unterstützen möchte.
+“[[02 - Künstliche Intelligenz/1 - Work on next/KI - es geht auch anders\|KI - es geht auch anders]]” hatte ich behauptet. Auf der Suche nach dem “anders” begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[02 - Künstliche Intelligenz/1 - Work on next/Affiliate\|Affiliate]]-Partner unterstützen möchte.
 
 Hier könnte ihr einige meiner Empfehlungen entdecken:
 [[Marcellas kleiner Shop\|Marcellas kleiner Shop]] 🏠

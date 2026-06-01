@@ -1,5 +1,5 @@
 ---
-{"title":"Obsidian-Plugins, die ich verwende","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"23.05.2026","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/obsidian-plugins-die-ich-verwende/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Obsidian-Plugins, die ich verwende","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"23.05.2026","updated":null,"status":null}}
+{"title":"Obsidian-Plugins, die ich verwende","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"2026-05-23","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/obsidian-plugins-die-ich-verwende/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Obsidian-Plugins, die ich verwende","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"2026-05-23","updated":null,"status":null}}
 ---
 
 

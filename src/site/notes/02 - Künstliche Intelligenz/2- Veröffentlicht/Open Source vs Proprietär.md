@@ -1,5 +1,5 @@
 ---
-{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen_ai_anteil":["Claude 20%","Euria 20%","ChatGPT 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/open-source-vs-proprietaer/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen_ai_anteil":["Claude 20%","Euria 20%","ChatGPT 20%"],"created":"17.05.2026","updated":"2026-05-17","status":null}}
+{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen_ai_anteil":["Claude 20%","Euria 20%","ChatGPT 20%"],"created":"2026-05-17","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/open-source-vs-proprietaer/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär"],"tags":null,"gen_ai_anteil":["Claude 20%","Euria 20%","ChatGPT 20%"],"created":"2026-05-17","updated":"2026-05-17","status":null}}
 ---
 
 
@@ -68,4 +68,4 @@ _Sie glauben wie ich daran, dass **Offenheit, Teilhabe und kollektive Verantwort
 ## Weiterstöbern
 
 📺 [Die Open Source Community bricht zusammen](https://www.youtube.com/watch?v=yi1QiqlB1Q4) von _The Morpheus_
-📖 Zusammenfassung zum Video: [[KI und Open Source\|KI und Open Source]]
+📖 Zusammenfassung zum Video: [[02 - Künstliche Intelligenz/2- Veröffentlicht/KI und Open Source\|KI und Open Source]]

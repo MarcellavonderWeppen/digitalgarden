@@ -1,5 +1,5 @@
 ---
-{"title":"Excalidraw","aliases":null,"tags":null,"gen_ai_anteil":["Euria 20%"],"created":"01.04.2026","updated":"2026-05-20","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/excalidraw/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Excalidraw","aliases":null,"tags":null,"gen_ai_anteil":["Euria 20%"],"created":"01.04.2026","updated":"2026-05-20","status":null}}
+{"title":"Excalidraw","aliases":null,"tags":null,"gen_ai_anteil":["Euria 20%"],"created":"2026-04-01","updated":"2026-05-20","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-veroeffentlicht/excalidraw/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Excalidraw","aliases":null,"tags":null,"gen_ai_anteil":["Euria 20%"],"created":"2026-04-01","updated":"2026-05-20","status":null}}
 ---
 
 
