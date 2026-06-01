@@ -4,7 +4,7 @@
 
 Ein Gespräch mit Claude über die Anwendung der [[02 - Künstliche Intelligenz/2- Veröffentlicht/Elinor Ostrom und die Designprinzipien der Common Goods\|Designprinzipien der Common Goods]] auf Open Source👇
 
-*Erste Frage: Wie könnte man die 8 Prinzipien in der Open Source Community umsetzten?*
+> *Erste Frage: Wie könnte man die 8 Prinzipien in der Open Source Community umsetzten?*
 
 # Ostroms 8 Prinzipien für die Open-Source-Community
 
@@ -66,7 +66,7 @@ Das Kernproblem, das Morpheus beschreibt, ist ein klassisches Allmende-Problem: 
 
 ## Technische Umsetzbarkeit gestaffelter Open-Source-Lizenzen
 
-*Frage: Freie Nutzung für Einzelpersonen und kleine Projekte, aber verpflichtende Beiträge ab einer bestimmten Unternehmensgröße oder Umsatzschwelle. Das macht viel Resonanz bei mir. Liese sich das überhaupt technisch umsetzen?*
+>*Frage: Freie Nutzung für Einzelpersonen und kleine Projekte, aber verpflichtende Beiträge ab einer bestimmten Unternehmensgröße oder Umsatzschwelle. Das macht viel Resonanz bei mir. Liese sich das überhaupt technisch umsetzen?*
 
 Die gute Nachricht: Das Konzept existiert bereits – es heißt **Dual Licensing** oder **Fair Source**. Die schwierige Nachricht: Die Durchsetzung ist das eigentliche Problem.
 
@@ -153,7 +153,7 @@ Das ist letztlich eine Frage des politischen Willens. Und der entsteht meistens 
 
 ##  *Frage: "Der einzige Akteuer, der das erzwingen könnte, wäre der Staat" - aber stimmt das denn wirklich?*
 
-*Es hängen doch alle von Open Source Entwicklung ab. Ist das denn kein Hebel? Was passiert, wenn Entwickler Druck machen oder gar ihre Dienste einstellen - weil sie nicht mehr können oder wollen?*
+>*Es hängen doch alle von Open Source Entwicklung ab. Ist das denn kein Hebel? Was passiert, wenn Entwickler Druck machen oder gar ihre Dienste einstellen - weil sie nicht mehr können oder wollen?*
 
 Das ist ein wirklich guter Einwand – und du hast recht, ich habe den Hebel der Entwickler unterschätzt.
 
@@ -186,3 +186,5 @@ Eine **koordinierte Lizenzbewegung** – wenn genug wichtige Projekte gleichzeit
 Und das wäre dann wieder Ostrom: nicht der Staat von oben, nicht der Markt von allein – sondern eine **Gemeinschaft, die ihre eigenen Regeln setzt und kollektiv durchsetzt**. Genau das war ihr Kernargument.
 
 Die Frage ist, ob die Erschöpfung der Maintainer – die ja das eigentliche Problem ist – noch genug Energie für diese Organisation lässt. Oder ob der Zusammenbruch kommen muss, bevor sich etwas bewegt.
+
+

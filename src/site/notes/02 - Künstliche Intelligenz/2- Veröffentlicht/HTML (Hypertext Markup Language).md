@@ -34,11 +34,7 @@ Umgangssprachlich verschwimmen die Grenzen zwischen diesen Begriffen oft, aber l
 
 **Hypertext** = Konzept für Text, der Verlinkungen zu anderen Texten enthält
 
----
-
 **World Wide Web** = über das Internet abrufbares System von elektronischen Hypertext-Dokumenten (also Websites), welche in HTML geschrieben sind.
-
----
 
 **Internet** = Das weltweite Netzwerk aus miteinander verbundenen Computern. Die physische und technische Infrastruktur, auf der verschiedene Dienste laufen, wie das World Wide Web, E-Mail, Streaming und Cloud-Gaming.
 

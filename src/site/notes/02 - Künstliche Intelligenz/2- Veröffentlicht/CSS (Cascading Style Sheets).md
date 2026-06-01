@@ -59,4 +59,8 @@ Ganz richtig. HTML gibt der Seite Struktur, CSS ein schickes Aussehen und JavaSc
 
 Aber das sprengt jetzt den Umfang dieses Digitalen Gartens.
 
-Wenn Du bis hierher gelesen hast, solltest Du vielleicht Dein eigenes Abenteuer starten und Dich mit Programmierung befassen. 🕳️ 🐇
+Wenn Du bis hierher gelesen hast, solltest Du vielleicht Dein eigenes Abenteuer starten und Dich mit Programmierung befassen.
+
+Hier habe ich vor vielen Jahren mein Programmier-Abenteuer gestartet 👇
+
+https://www.codecademy.com/ 🕳️ 🐇

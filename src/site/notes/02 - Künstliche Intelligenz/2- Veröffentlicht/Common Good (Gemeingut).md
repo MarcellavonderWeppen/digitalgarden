@@ -38,6 +38,6 @@ lässt sich die Hierarchie so darstellen: Das **Gemeingut** ist der weite Begrif
 
 Diese Begriffe werden in der wissenschaftlichen Literatur oft vermischt, da sich die Definitionen je nach Disziplin (Recht, Ökonomie, Politikwissenschaft) leicht verschieben. 
 
-Die oben genannten Unterscheidungen basieren auf den Arbeiten von Ökonomen wie Elinor Ostrom (die zeigte, dass Allmenden erfolgreich selbstreguliert werden können) und Garrett Hardin (der das Problem der Übernutzung beschrieb).
+Die oben genannten Unterscheidungen basieren auf den Arbeiten von Ökonomen wie [[02 - Künstliche Intelligenz/2- Veröffentlicht/Elinor Ostrom und die Designprinzipien der Common Goods\|Elinor Ostrom]]  (die zeigte, dass Allmenden erfolgreich selbstreguliert werden können) und Garrett Hardin (der das Problem der Übernutzung beschrieb).
 
 

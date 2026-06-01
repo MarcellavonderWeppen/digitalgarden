@@ -55,6 +55,7 @@ Hier ein Beispiel wie so eine Skizze aussehen kann (geleakter Geheimplan, bitte 
 
 ![Cats & Dragons Game Level 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Excalidraw/Cats%20&%20Dragons%20Game%20Level%201.png)
 
+Und zum Vergleich noch, wie ein [[02 - Künstliche Intelligenz/Obsidian/Canvas in Obsidian\|Canvas]] aussehen kann: [[02 - Künstliche Intelligenz/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]] 👉 Der Unterschied dürfte klar werden!
 ## Kostenlos + abendfüllend 🐇
 
 Der Entwickler von Excalidraw stellt das Plugin **kostenlos** zur Verfügung und hat eine ganze Bibliothek mit einer Vielzahl von Videos zu den Möglichkeiten zusammengestellt. Hier geht's zum Rabbithole 🐇 👉 https://excalidraw-obsidian.online/wiki/catalogue
