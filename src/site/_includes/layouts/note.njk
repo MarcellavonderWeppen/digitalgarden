@@ -74,7 +74,11 @@ permalink: "notes/{{ page.fileSlug | slugify }}/"
       {% for imp in dynamics.notes.afterContent %}
         {% include imp %}
       {% endfor %}
-    </main>
+{% if gen_ai_anteil %}
+<hr>
+<span style="font-size: 0.7em">🤖 Gen-AI-Anteil: {{ gen_ai_anteil | join(" | ") }}</span>
+{% endif %}
+</main>
 
     {% if settings.dgShowBacklinks === true or settings.dgShowLocalGraph === true or settings.dgShowToc === true or dynamics.sidebar.top.length > 0 or dynamics.sidebar.bottom.length > 0%}
       {%include "components/sidebar.njk"%}
