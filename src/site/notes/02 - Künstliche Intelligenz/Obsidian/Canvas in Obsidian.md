@@ -39,7 +39,7 @@ Obsidian hat das Format nicht nur entwickelt, sondern auch **quelloffen** auf Gi
 
 1. Probiere es gleich aus und schau, wie weit Du kommst - ich finde es sehr intuitiv. Obsidian-Erfahrung und vorhandene Notizen von Vorteil.
 2. Schau Dir ein paar YouTube-Videos an, um zu sehen, was Du noch herausholen kannst und für Inspiration, was andere Menschen damit anstellen
-3. Nutze das [[02 - Künstliche Intelligenz/LLMs (Large Languange Models)\|LLM]] Deines Vertrauens, wenn Du nicht weiter kommst
+3. Nutze das [[02 - Künstliche Intelligenz/1 - Work on next/LLMs (Large Language Models)\|LLM]] Deines Vertrauens, wenn Du nicht weiter kommst
 4. Wenn Du das Gefühl hast, Du möchtest "mehr" - mehr Möglichkeiten, mehr Kreativität, mehr Verspieltheit - dann ist es vielleicht an der Zeit [[02 - Künstliche Intelligenz/2- Veröffentlicht/Excalidraw\|Excalidraw]] zu probieren.
 
 ## Weiterbildung in der YouTube-Academy 📺

@@ -74,7 +74,7 @@ Sehr von mir geliebt:
 
 Was soll ich sagen? Nach dem Video gab es kein Halten mehr und ich habe alles an Content zum Thema Mindmap verschlungen.
 
-Ein freundlicher Mensch (ja, es war meine Mentorin! Sie ist die Beste ❤️) hat mir daraufhin eine Jahresabo für Xmind geschenkt und ich konnte mich nach Herzenslust austoben. Sämtliche meiner [[02 - Künstliche Intelligenz/ChatGPT\|ChatGPT]]-Kurse sind auf diese Art und Weise entstanden.
+Ein freundlicher Mensch (ja, es war meine Mentorin! Sie ist die Beste ❤️) hat mir daraufhin eine Jahresabo für Xmind geschenkt und ich konnte mich nach Herzenslust austoben. Sämtliche meiner [[02 - Künstliche Intelligenz/1 - Work on next/ChatGPT\|ChatGPT]]-Kurse sind auf diese Art und Weise entstanden.
 
 Bis auf den heutigen Tag praktiziere ich Mindmaps und finde sie wirklich sehr, sehr hilfreich!
 

@@ -22,3 +22,7 @@ Beispiele für Ursachen:
 Das Ziel ist oft eine höhere Kundenbindung und reduzierte Abwanderung (Churn).
 
 **Nachteil**: Es kann zu Monopol-ähnlichen Strukturen führen und den Wettbewerb behindern.
+
+## 📖 Weiterlesen
+
+[[02 - Künstliche Intelligenz/1 - Work on next/Euria im Test (Mai 2026)#Erfahrungen mit Vendor-Lock-In\|ChatGPT: Erfahrung mit Vendor-Lock-In]]
