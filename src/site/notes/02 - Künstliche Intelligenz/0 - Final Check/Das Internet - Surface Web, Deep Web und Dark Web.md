@@ -4,23 +4,28 @@
 
 
 
-![Pasted image 20260603193955.png](/img/user/Bilder/Pasted%20image%2020260603193955.png)
+![Internet Eisberg.png](/img/user/Bilder/Internet%20Eisberg.png)
 # Das Internet: Surface Web, Deep Web und Dark Web 
 
 Wenn die meisten Menschen vom „Internet“ sprechen, meinen sie meist nur das **Surface Web** – den sichtbaren, öffentlich zugänglichen Teil. Den wenigsten ist bewusst, dass das Surface Web nur einen kleinen Anteil des Internets ausmacht. Ein Großteil des Internets ist nicht leicht zugänglich – er bleibt mysteriös und verborgen. 
 
-Vom Dark Web haben viele schon gehört, obwohl es nur ein winziger Teil ist. Tatsächlich entfällt ein Großteil von **über 90 %** auf das Deep Web.
+Vom Dark Web haben viele schon gehört, obwohl es nur ein winziger Teil ist. Tatsächlich entfällt ein Großteil von **über 90 %** auf das Deep Web. Schauen wir uns die einzelnen Schichten des Internets einmal genauer an. 
+
 ## Surface Web – Die Spitze des Eisbergs
 
-Das Surface Web, auch als „Visible Web“ oder „Clear Web“ bekannt, ist der Teil des Internets, der von Suchmaschinen wie Google **indexiert** wird. Das bedeutet, dass diese Seiten über Google oder andere Suchmaschinen gefunden werden können. Es umfasst alle öffentlich zugänglichen Websites, wie z. B. Nachrichtenportale, Online-Shops oder soziale Medien. Obwohl es der bekannteste Teil des Internets ist, macht es nur etwa **4–10 %** des gesamten Internets aus.
+Das Surface Web, auch als „Visible Web“ oder „Clear Web“ bekannt, ist der Teil des Internets, der von Suchmaschinen wie Google **indexiert** wird. Das bedeutet, dass diese Seiten über Google oder andere Suchmaschinen gefunden werden können. Es umfasst alle öffentlich zugänglichen Websites, wie z. B. Online-Shops oder soziale Medien. 
+
+Obwohl es der bekannteste Teil des Internets ist, macht es nur etwa **4–10 %** des gesamten Internets aus.
 
 ## Deep Web – Der unsichtbare Riese
 
-Das Deep Web ist der mit Abstand größte Teil des Internets und umfasst **90–96 %** aller Online-Inhalte. Im Gegensatz zum Surface Web wird das Deep Web **nicht von Suchmaschinen indexiert** und ist daher nicht öffentlich zugänglich. Dazu gehören z. B. passwortgeschützte Bereiche wie E-Mail-Konten, Online-Banking, Unternehmensdatenbanken oder wissenschaftliche Archive. Das Deep Web ist nicht illegal – es ist einfach der Teil des Internets, der für die Öffentlichkeit unsichtbar bleibt.
+Das Deep Web ist der mit Abstand größte Teil des Internets und umfasst **90–96 %** aller Online-Inhalte. Im Gegensatz zum Surface Web wird das Deep Web **nicht von Suchmaschinen indexiert** und ist daher nicht öffentlich zugänglich. Dazu gehören z. B. passwortgeschützte Bereiche wie E-Mail-Konten, Online-Banking, Unternehmensdatenbanken oder wissenschaftliche Archive. 
+
+Das Deep Web ist nicht illegal – es ist einfach der Teil des Internets, der für die Öffentlichkeit unsichtbar bleibt.
 
 ## Dark Web – Der mysteriöse Schatten
 
-Das Dark Web ist ein kleiner, absichtlich versteckter Teil des Deep Webs. Es ist nur über spezielle Netzwerke wie **Tor (The Onion Router)** zugänglich und macht etwa **0,01–0,04 %** des Internets aus. Während das Dark Web oft mit illegalen Aktivitäten in Verbindung gebracht wird, gibt es auch legitime Anwendungen, z. B. für Journalisten oder Aktivisten, die Anonymität benötigen.
+Das Dark Web ist ein kleiner, absichtlich versteckter Teil des Deep Webs. Es ist nur über spezielle Netzwerke wie [[Tor (The Onion Router)\|Tor (The Onion Router)]] zugänglich und macht etwa **0,01–0,04 %** des Internets aus. Während das Dark Web oft mit illegalen Aktivitäten in Verbindung gebracht wird, gibt es auch legitime Anwendungen, z. B. für Journalisten oder Aktivisten, die Anonymität benötigen.
 
 ## Zusammenfassung
 
