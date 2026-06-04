@@ -13,7 +13,7 @@
 
 ## Gemini:  Der Datenriese Google als Sprachmodell
 
-[[02 - Künstliche Intelligenz/Gemini\|Gemini]] nutzt den unschlagbaren Vorteil von Google: den Zugang zu einer der **größten und vielfältigsten Datensammlungen der Welt**. Durch die Integration von Texten, Bildern, Code und weiteren Datenquellen aus Googles Ökosystem entsteht ein Sprachmodell, das nicht nur umfänglich, sondern auch besonders vielseitig und leistungsstark ist. Hier zeigt sich, wie aus schierer Datenmenge und technologischer Expertise ein KI-System entsteht, das neue Maßstäbe setzt.
+[[02 - Künstliche Intelligenz/1 - Work on next/Gemini\|Gemini]] nutzt den unschlagbaren Vorteil von Google: den Zugang zu einer der **größten und vielfältigsten Datensammlungen der Welt**. Durch die Integration von Texten, Bildern, Code und weiteren Datenquellen aus Googles Ökosystem entsteht ein Sprachmodell, das nicht nur umfänglich, sondern auch besonders vielseitig und leistungsstark ist. Hier zeigt sich, wie aus schierer Datenmenge und technologischer Expertise ein KI-System entsteht, das neue Maßstäbe setzt.
 
 ## Grok: Elon Musk sein später Einstieg in den KI-Wettlauf
 

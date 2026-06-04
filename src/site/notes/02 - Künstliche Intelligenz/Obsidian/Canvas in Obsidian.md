@@ -21,7 +21,7 @@ Hervorragend für [[02 - Künstliche Intelligenz/2- Veröffentlicht/Mindmaps\|Mi
 
 🤓 Hier ein Beispiel, was ich mit Canvas mache. Zur näheren Betrachtung bitte anklicken + reinzoomen:
 
-![[02 - Künstliche Intelligenz/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]]
+![[02 - Künstliche Intelligenz/1 - Work on next/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]]
 
 **Perfekt, um mir neues Wissen zu erarbeiten und es bei Bedarf in Vorträgen und Videos zu präsentieren!**
 

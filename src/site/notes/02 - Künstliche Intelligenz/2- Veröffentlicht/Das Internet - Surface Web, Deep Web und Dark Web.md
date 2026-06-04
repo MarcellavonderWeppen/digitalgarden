@@ -24,7 +24,7 @@ Das Deep Web ist nicht illegal – es ist einfach der Teil des Internets, der f�
 
 ## Dark Web – Der mysteriöse Schatten
 
-Das Dark Web ist ein kleiner, absichtlich versteckter Teil des Deep Webs. Es ist nur über spezielle Netzwerke wie [[Tor (The Onion Router)\|Tor (The Onion Router)]] zugänglich und macht geschätzt etwa **0,01–0,04 %** des Internets aus. Während das Dark Web oft mit illegalen Aktivitäten in Verbindung gebracht wird, gibt es auch legitime Anwendungen, z. B. für Journalisten oder Aktivisten, die Anonymität benötigen.
+Das Dark Web ist ein kleiner, absichtlich versteckter Teil des Deep Webs. Es ist nur über spezielle Netzwerke wie [[02 - Künstliche Intelligenz/0 - Final Check/Tor (The Onion Router)\|Tor (The Onion Router)]] zugänglich und macht geschätzt etwa **0,01–0,04 %** des Internets aus. Während das Dark Web oft mit illegalen Aktivitäten in Verbindung gebracht wird, gibt es auch legitime Anwendungen, z. B. für Journalisten oder Aktivisten, die Anonymität benötigen.
 
 ## Zusammenfassung
 
