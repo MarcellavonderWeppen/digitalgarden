@@ -5,7 +5,7 @@
 
 # Kahneman und KI
 
-Natürlich hat Kahnemann sein Buch [[02 - Künstliche Intelligenz/0 - Final Check/Schnelles Denken, langsames Denken\|Schnelles Denken, langsames Denken]] in Bezug auf menschliche Intelligenz geschrieben, aber ich vergleiche das gerne mal mit KI.
+Natürlich hat Kahnemann sein Buch [[Schnelles Denken, langsames Denken\|Schnelles Denken, langsames Denken]] in Bezug auf menschliche Intelligenz geschrieben, aber ich vergleiche das gerne mal mit KI.
 
 Klassische KI geht streng logisch Schritt für Schritt vor und liefert im Rahmen ihrer Möglichkeiten zuverlässige Ergebnisse. Damit ähnelt sie System 2. 
 
