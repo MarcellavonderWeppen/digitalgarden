@@ -2,11 +2,11 @@
 {"title":"Deep Work","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-15","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/deep-work/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Deep Work","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-15","updated":null,"status":null}}
 ---
 
-# Deep Work
+# Deep Work (Cal Newport)
 
-**Deep Work** bezeichnet die Fähigkeit, sich ohne Ablenkung auf eine kognitiv anspruchsvolle Tätigkeit zu konzentrieren - und das am besten stundenlang.
+**Deep Work** bezeichnet die Fähigkeit, sich ohne Ablenkung auf eine kognitiv anspruchsvolle Tätigkeit zu konzentrieren - im Idealfall stundenlang.
 
-Der Begriff wurde popularisiert von dem Professor Cal Newport in seinem gleichnamigen Buch, das Strategien beschreibt, um in einer zunehmend abgelenkten Welt hochwertige Ergebnisse zu erzielen.
+Der Begriff wurde von dem Professor Cal Newport in seinem gleichnamigen Buch popularisiert, welches Strategien beschreibt, um in einer zunehmend abgelenkten Welt hochwertige Ergebnisse zu erzielen.
 
 Das Buch hat mich sehr geprägt und inspiriert.
 
