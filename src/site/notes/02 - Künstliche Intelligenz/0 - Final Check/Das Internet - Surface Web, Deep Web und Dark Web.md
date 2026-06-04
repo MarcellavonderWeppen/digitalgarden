@@ -3,8 +3,8 @@
 ---
 
 
+![Internet Eisberg.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Internet%20Eisberg.png)
 
-![Internet Eisberg.png](/img/user/Bilder/Internet%20Eisberg.png)
 # Das Internet: Surface Web, Deep Web und Dark Web 
 
 Wenn die meisten Menschen vom „Internet“ sprechen, meinen sie meist nur das **Surface Web** – den sichtbaren, öffentlich zugänglichen Teil. Den wenigsten ist bewusst, dass das Surface Web nur einen kleinen Anteil des Internets ausmacht. Ein Großteil des Internets ist nicht leicht zugänglich – er bleibt mysteriös und verborgen. 
@@ -25,7 +25,7 @@ Das Deep Web ist nicht illegal – es ist einfach der Teil des Internets, der f�
 
 ## Dark Web – Der mysteriöse Schatten
 
-Das Dark Web ist ein kleiner, absichtlich versteckter Teil des Deep Webs. Es ist nur über spezielle Netzwerke wie [[Tor (The Onion Router)\|Tor (The Onion Router)]] zugänglich und macht etwa **0,01–0,04 %** des Internets aus. Während das Dark Web oft mit illegalen Aktivitäten in Verbindung gebracht wird, gibt es auch legitime Anwendungen, z. B. für Journalisten oder Aktivisten, die Anonymität benötigen.
+Das Dark Web ist ein kleiner, absichtlich versteckter Teil des Deep Webs. Es ist nur über spezielle Netzwerke wie [[Tor (The Onion Router)\|Tor (The Onion Router)]] zugänglich und macht geschätzt etwa **0,01–0,04 %** des Internets aus. Während das Dark Web oft mit illegalen Aktivitäten in Verbindung gebracht wird, gibt es auch legitime Anwendungen, z. B. für Journalisten oder Aktivisten, die Anonymität benötigen.
 
 ## Zusammenfassung
 
