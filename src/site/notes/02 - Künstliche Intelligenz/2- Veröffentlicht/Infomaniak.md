@@ -39,10 +39,10 @@ Damit finde ich diese Firma unglaublich inspierend, denn sie gehen mit gutem Bei
 
 ## Infomaniak & Euria kennenlernen
 
-Das Konzept überzeugt mich so sehr, dass ich Infomaniak als [[02 - Künstliche Intelligenz/1 - Work on next/Affiliate\|Affiliate]]-Partner empfehlen möchte! 
+Das Konzept überzeugt mich so sehr, dass ich Infomaniak als [[02 - Künstliche Intelligenz/Affiliate\|Affiliate]]-Partner empfehlen möchte! 
 
 > [!tip] Meine Empfehlung
-Hier geht es zur Seite der Firma mit allen Angeboten: [www.infomaniak.com](https://www.infomaniak.com/de?utm_term=69edf089d566d) ([[02 - Künstliche Intelligenz/1 - Work on next/Affiliate\|Affiliate-Link]])
+Hier geht es zur Seite der Firma mit allen Angeboten: [www.infomaniak.com](https://www.infomaniak.com/de?utm_term=69edf089d566d) ([[02 - Künstliche Intelligenz/Affiliate\|Affiliate-Link]])
 
 ## 📖 Weiterlesen
 
