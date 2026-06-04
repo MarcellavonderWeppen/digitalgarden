@@ -3,7 +3,9 @@
 ---
 
 
-# Schnelles Denken, langsames Denken
+# Schnelles Denken, langsames Denken (Daniel Kahnemann)
+
+![Schnelles Denken, langsames Denken.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Schnelles%20Denken,%20langsames%20Denken.png)
 
 In seinem bahnbrechenden Werk _„Schnelles Denken, langsames Denken“_ beschreibt der Psychologe und Nobelpreisträger **Daniel Kahneman** zwei grundlegende Modi des menschlichen Denkens:
 
@@ -15,7 +17,7 @@ Es arbeitet blitzschnell, steuert Routinehandlungen wie Autofahren oder Gesichte
 
 System 1 ist anfällig für **kognitive Verzerrungen** (z. B. Vorurteile, optische Täuschungen) und nutzt **Heuristiken** („Daumenregeln“), die zu schnellen, aber mitunter fehlerhaften Urteilen führen.
     
-## System 2: „langsames Denken“
+## System 2: langsames Denken
 
 _Bewusst, logisch, anstrengend und analytisch._ Es wird aktiviert, wenn wir komplexe Probleme lösen, rechnen oder unsere Impulse kontrollieren. 
 
@@ -37,4 +39,4 @@ Kahneman zeigt, wie beide Systeme ineinandergreifen – und warum wir uns oft au
 > Unser Denken ist kein rein rationaler Prozess, sondern ein Wechselspiel zwischen Intuition und Kontrolle – mit weitreichenden Folgen für Wirtschaft, Politik und den Alltag.
 
 
-📖 Ich vergleiche KI mit System 1 und 2: [[02 - Künstliche Intelligenz/0 - Final Check/Kahneman und KI\|Kahneman und KI]]
+📖 Ich vergleiche KI mit System 1 und 2: [[Kahneman und KI\|Kahneman und KI]]
