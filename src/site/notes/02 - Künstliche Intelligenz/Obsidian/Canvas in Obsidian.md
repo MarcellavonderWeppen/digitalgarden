@@ -13,7 +13,7 @@ Anstatt mit linearen Texten (wie in normalen [[02 - Künstliche Intelligenz/Obsi
 
 Es wird mit einem räumlichen Netzwerk aus Ideen gearbeitet.
 
-Hervorragend für [[02 - Künstliche Intelligenz/2- Veröffentlicht/Mindmaps\|Mindmaps]] und mehr.
+Hervorragend für [[02 - Künstliche Intelligenz/3- Veröffentlicht/Mindmaps\|Mindmaps]] und mehr.
 
 **💯 Empfehlung!**
 
@@ -21,17 +21,17 @@ Hervorragend für [[02 - Künstliche Intelligenz/2- Veröffentlicht/Mindmaps\|Mi
 
 🤓 Hier ein Beispiel, was ich mit Canvas mache. Zur näheren Betrachtung bitte anklicken + reinzoomen:
 
-![[02 - Künstliche Intelligenz/1 - Work on next/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]]
+![[02 - Künstliche Intelligenz/2 - Work on soon/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]]
 
 **Perfekt, um mir neues Wissen zu erarbeiten und es bei Bedarf in Vorträgen und Videos zu präsentieren!**
 
 ## Zukunftssicher 👍
 
-Das `.canvas`-Format ist [[02 - Künstliche Intelligenz/2- Veröffentlicht/Open Source vs Proprietär\|Open Source vs Proprietär]]. Dateien werden lokal gespeichert und können auch von anderen Programmen adoptiert werden, was die langfristige Nutzbarkeit der Daten sichert.
+Das `.canvas`-Format ist [[02 - Künstliche Intelligenz/3- Veröffentlicht/Open Source vs Proprietär\|Open Source vs Proprietär]]. Dateien werden lokal gespeichert und können auch von anderen Programmen adoptiert werden, was die langfristige Nutzbarkeit der Daten sichert.
 
 Siehe dazu auch: 📺 [How I’m ACTUALLY Using The Obsidian Canvas](https://youtu.be/HFK3D7zeyTA?si=Zzxg0hWfz9fpoBPu&t=629)
 
-💡 Viele Mindmapping-Tools sind [[02 - Künstliche Intelligenz/2- Veröffentlicht/Open Source vs Proprietär\|proprietär]]. Wenn die Firma hinter dem Tool pleite geht oder das Abo-Modell ändert, sind Diagramme oft verloren oder nur schwer zu exportieren.
+💡 Viele Mindmapping-Tools sind [[02 - Künstliche Intelligenz/3- Veröffentlicht/Open Source vs Proprietär\|proprietär]]. Wenn die Firma hinter dem Tool pleite geht oder das Abo-Modell ändert, sind Diagramme oft verloren oder nur schwer zu exportieren.
 
 Obsidian hat das Format nicht nur entwickelt, sondern auch **quelloffen** auf GitHub veröffentlicht. Somit lassen sich `.canvas`Dateien problemlos in andere Programme importieren.
 
@@ -39,8 +39,8 @@ Obsidian hat das Format nicht nur entwickelt, sondern auch **quelloffen** auf Gi
 
 1. Probiere es gleich aus und schau, wie weit Du kommst - ich finde es sehr intuitiv. Obsidian-Erfahrung und vorhandene Notizen von Vorteil.
 2. Schau Dir ein paar YouTube-Videos an, um zu sehen, was Du noch herausholen kannst und für Inspiration, was andere Menschen damit anstellen
-3. Nutze das [[02 - Künstliche Intelligenz/0 - Final Check/LLMs (Large Language Models)\|LLM]] Deines Vertrauens, wenn Du nicht weiter kommst
-4. Wenn Du das Gefühl hast, Du möchtest "mehr" - mehr Möglichkeiten, mehr Kreativität, mehr Verspieltheit - dann ist es vielleicht an der Zeit [[02 - Künstliche Intelligenz/2- Veröffentlicht/Excalidraw\|Excalidraw]] zu probieren.
+3. Nutze das [[02 - Künstliche Intelligenz/1 - Work on now/LLMs (Large Language Models)\|LLM]] Deines Vertrauens, wenn Du nicht weiter kommst
+4. Wenn Du das Gefühl hast, Du möchtest "mehr" - mehr Möglichkeiten, mehr Kreativität, mehr Verspieltheit - dann ist es vielleicht an der Zeit [[02 - Künstliche Intelligenz/3- Veröffentlicht/Excalidraw\|Excalidraw]] zu probieren.
 
 ## Weiterbildung in der YouTube-Academy 📺
 
