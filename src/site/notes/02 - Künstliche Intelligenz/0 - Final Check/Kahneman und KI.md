@@ -5,18 +5,20 @@
 
 # Kahneman und KI
 
-Natürlich hat Kahnemann sein Buch [[02 - Künstliche Intelligenz/2- Veröffentlicht/Schnelles Denken, langsames Denken\|Schnelles Denken, langsames Denken]] in Bezug auf menschliche Intelligenz geschrieben, aber ich vergleiche das gerne mal mit KI.
+Natürlich hat Kahnemann sein Buch [[02 - Künstliche Intelligenz/2- Veröffentlicht/Schnelles Denken, langsames Denken\|Schnelles Denken, langsames Denken]] in Bezug auf menschliche Intelligenz geschrieben, aber ich übertrage dieses Konzept gerne mal auf KI.
 
-Klassische KI geht streng logisch Schritt für Schritt vor und liefert im Rahmen ihrer Möglichkeiten zuverlässige Ergebnisse. Damit ähnelt sie System 2. 
+Der Vergleich ist nicht ganz zutreffend, denn KI denkt nicht wirklich im menschlichen Sinne. Während menschliche Intuition (System 1) aus einem reichen Schatz an Erfahrungen schöpft, greifen LLMs auf riesige Datenmengen zurück - die verschriftlichten Erfahrungen der Menschheit aus dem Internet, welche sie weder verstehen noch auf Wahrheit hin prüfen kann. 
 
-Statistische KI hingegen operiert eher entsprechend System 1. [[02 - Künstliche Intelligenz/0 - Final Check/LLMs (Large Language Models)\|LLMs]] haben kein Verständnis von Wahrheit, sondern liefern vielmehr wahrscheinlich richtige Antworten auf Grundlage der Daten, mit denen sie trainiert wurden. Dabei arbeiten sie zwar blitzschnell, man könnte fast sagen intuitiv, unterliegen aber auch logischen Fehlschlüssen: 
+Nützlich finde ich diese Analogie aber dennoch, denn genau wie Menschen spukt die KI mit hoher Geschwindigkeit und großem Selbstbewusstsein Behauptungen aus, die sich bei genauerer Betrachtung als nicht sehr tragfähig erweisen. 
+
+Das trifft vor allem auf [[02 - Künstliche Intelligenz/2- Veröffentlicht/Statistische KI\|Statistische KI]] zu. [[02 - Künstliche Intelligenz/0 - Final Check/LLMs (Large Language Models)\|LLMs]] haben kein Verständnis von Wahrheit, sondern liefern vielmehr wahrscheinlich richtige Antworten auf Grundlage der Daten, mit denen sie trainiert wurden. Dabei arbeiten sie zwar blitzschnell, man könnte fast sagen intuitiv, unterliegen aber auch logischen Fehlschlüssen: 
 
 "Wenn es viele behaupten, dann wird es schon wahr sein."
+
+Klassische KI geht streng logisch Schritt für Schritt vor und liefert im Rahmen ihrer Möglichkeiten zuverlässige Ergebnisse. Damit ähnelt sie System 2. 
 ## Die KI zum “langsamen Denken” anleiten
 
-Natürlich hinkt der Vergleich, denn KI denkt nicht wirklich in dem Sinne, wie ein Mensch denkt. Während menschliche Intuition (System 1) aus einem reichen Schatz an Erfahrungen schöpft, greifen LLMs auf riesige Datenmengen zurück - die verschriftlichten Erfahrungen der Menschheit aus dem Internet, welche sie aber weder verstehen noch auf Wahrheit hin prüfen kann. 
 
-Nützlich finde ich den Vergleich aber trotzdem, denn genau wie Menschen spukt die KI mit hoher Geschwindigkeit und großem Selbstbewusstsein Behauptungen aus, die sich bei genauerer Betrachtung als nicht sehr tragfähig erweisen. 
 
 Mit diesem Wissen kann ich die KI bei Bedarf ein wenig in die richtige Richtung lenken: 
 
