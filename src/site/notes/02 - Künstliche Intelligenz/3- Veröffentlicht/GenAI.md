@@ -38,7 +38,7 @@ Allerdings bringt GenAI auch Herausforderungen mit sich: Sie verbraucht enorme R
 
 [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
-[[02 - Künstliche Intelligenz/1 - Work on now/LLMs (Large Language Models)\|LLMs (Large Language Models)]]
+[[02 - Künstliche Intelligenz/0 - Final Check/LLMs (Large Language Models)\|LLMs (Large Language Models)]]
 
 [[02 - Künstliche Intelligenz/KI-Sprachtechnologie\|KI-Sprachtechnologie]]
 
