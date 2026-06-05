@@ -22,7 +22,7 @@ Diese Art von Künstlicher Intelligenz ist meistens gemeint, wenn Menschen von �
 
 ### GenAI
 
-[[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]] ist kurz für "Generative AI" - also KI, die "generieren" kann, beispielweise Text, Musik, Bilder oder Videos. Ein Teilbereich der Statistischen KI.
+[[02 - Künstliche Intelligenz/2- Veröffentlicht/GenAI\|GenAI]] ist kurz für "Generative AI" - also KI, die "generieren" kann, beispielweise Text, Musik, Bilder oder Videos. Ein Teilbereich der Statistischen KI.
 #### Unterkategorien von GenAI
 
 [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
