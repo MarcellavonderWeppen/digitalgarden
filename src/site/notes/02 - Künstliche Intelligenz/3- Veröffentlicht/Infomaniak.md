@@ -35,7 +35,7 @@ Weitere Hightlights:
 
 Damit finde ich diese Firma unglaublich inspierend, denn sie gehen mit gutem Beispiel voran und zeigen, dass Innovation nicht auf Kosten unseres Planeten gehen muss. Ein Beispiel, dass hoffentlich Schule macht!
 
-👉 Ich habe mal ein bisschen länger mit Gemini zum Konzept geträumt: [[02 - Künstliche Intelligenz/Rechenzentren als Wärmequelle - Konzepte & Visionen\|Rechenzentren als Wärmequelle]]
+👉 Ich habe mal ein bisschen länger mit Gemini zum Konzept geträumt: [[02 - Künstliche Intelligenz/2 - Work on soon/Rechenzentren als Wärmequelle - Konzepte & Visionen\|Rechenzentren als Wärmequelle]]
 
 ## Infomaniak & Euria kennenlernen
 

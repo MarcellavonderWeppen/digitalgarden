@@ -15,7 +15,7 @@ In den Wirtschaftswissenschaften und im Marketing bezeichnet der Lock-in-Effekt 
 
 Beispiele für Ursachen:
 
-- Technische Abhängigkeiten: [[02 - Künstliche Intelligenz/3- Veröffentlicht/Open Source vs Proprietär\|Proprietäre Formate]], bei denen Daten oder Systeme nicht einfach übertragbar sind.
+- Technische Abhängigkeiten: [[02 - Künstliche Intelligenz/0 - Final Check/Open Source vs Proprietär\|Proprietäre Formate]], bei denen Daten oder Systeme nicht einfach übertragbar sind.
 - Wechselkosten: Hohe Kosten für den Umstieg, Lernaufwand, Vertragsstrafen oder der Verlust von Netzwerkeffekten (z. B. wenn viele Freunde dasselbe soziale Netzwerk nutzen).
 - Psychologische Faktoren: Gewöhnung und Zufriedenheit, die den Wechsel unattraktiv machen.
 

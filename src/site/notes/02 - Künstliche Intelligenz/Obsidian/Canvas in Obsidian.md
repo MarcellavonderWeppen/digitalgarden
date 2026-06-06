@@ -27,11 +27,11 @@ Hervorragend für [[02 - Künstliche Intelligenz/3- Veröffentlicht/Mindmaps\|Mi
 
 ## Zukunftssicher 👍
 
-Das `.canvas`-Format ist [[02 - Künstliche Intelligenz/3- Veröffentlicht/Open Source vs Proprietär\|Open Source vs Proprietär]]. Dateien werden lokal gespeichert und können auch von anderen Programmen adoptiert werden, was die langfristige Nutzbarkeit der Daten sichert.
+Das `.canvas`-Format ist [[02 - Künstliche Intelligenz/0 - Final Check/Open Source vs Proprietär\|Open Source vs Proprietär]]. Dateien werden lokal gespeichert und können auch von anderen Programmen adoptiert werden, was die langfristige Nutzbarkeit der Daten sichert.
 
 Siehe dazu auch: 📺 [How I’m ACTUALLY Using The Obsidian Canvas](https://youtu.be/HFK3D7zeyTA?si=Zzxg0hWfz9fpoBPu&t=629)
 
-💡 Viele Mindmapping-Tools sind [[02 - Künstliche Intelligenz/3- Veröffentlicht/Open Source vs Proprietär\|proprietär]]. Wenn die Firma hinter dem Tool pleite geht oder das Abo-Modell ändert, sind Diagramme oft verloren oder nur schwer zu exportieren.
+💡 Viele Mindmapping-Tools sind [[02 - Künstliche Intelligenz/0 - Final Check/Open Source vs Proprietär\|proprietär]]. Wenn die Firma hinter dem Tool pleite geht oder das Abo-Modell ändert, sind Diagramme oft verloren oder nur schwer zu exportieren.
 
 Obsidian hat das Format nicht nur entwickelt, sondern auch **quelloffen** auf GitHub veröffentlicht. Somit lassen sich `.canvas`Dateien problemlos in andere Programme importieren.
 

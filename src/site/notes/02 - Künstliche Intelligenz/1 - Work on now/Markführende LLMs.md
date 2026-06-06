@@ -1,8 +1,10 @@
 ---
-{"title":"Markführende LLMs","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-03","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/markfuehrende-ll-ms/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Markführende LLMs","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-03","updated":null,"status":null}}
+{"title":"Markführende LLMs","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 40%","Claude 40%"],"created":"2026-06-03","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/markfuehrende-ll-ms/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Markführende LLMs","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 40%","Claude 40%"],"created":"2026-06-03","updated":null,"status":null}}
 ---
 
-# Markführende LLMs
+# Die bekanntesten LLMs
+
+
 
 ## ChatGPT: Pionier und Marktführer
 
@@ -19,6 +21,19 @@
 
 Obwohl Elon Musk ursprünglich vor den Risiken von KI warnte, gewann er den Eindruck, dass die Technologie nicht mehr aufzuhalten war. Mit Grok und xAI stieg er in den Wettlauf ein – er will die Entwicklung aktiv mitprägen.
 
+
+
+## 2. Die führenden Open-Weight- & Open-Source-Modelle
+
+Diese Modelle können von Unternehmen auf eigener Hardware gehostet werden, was maximale Datenkontrolle und Unabhängigkeit ermöglicht.
+
+- **Meta (Llama-Serie):** Meta treibt das Open-Source-Ökosystem massiv voran. Die **Llama 4-Modelle** (_Llama 4 Maverick_, _Llama 4 Scout_) bieten enorme Kontextfenster (bis zu 10 Millionen Token) und erlauben es Firmen, extrem leistungsfähige Systeme lokal zu betreiben.
+    
+- **DeepSeek:** Das chinesische Unternehmen hat die Kostenstruktur der gesamten KI-Branche revolutioniert. Modelle wie **DeepSeek-R1** und die **V3-Serie** bieten KI-Leistung auf dem Niveau der US-Tech-Giganten, verbrauchen beim Training und im Betrieb jedoch nur einen Bruchteil der Ressourcen.
+    
+- **Alibaba (Qwen-Serie):** Die **Qwen3- und Qwen3.5-Modelle** gelten als die stärksten Allrounder aus dem asiatischen Raum und schlagen in Benchmarks für Programmierung und Mathematik regelmäßig westliche Open-Source-Alternativen.
+    
+- **Mistral AI:** Das französische Vorzeige-Startup vertritt die europäische Speerspitze. Mit Modellen wie **Mistral Large 3** und den _Magistral_-Reasoning-Modellen punkten sie vor allem bei europäischen Unternehmen, die Wert auf DSGVO-Konformität und lokale Verankerung legen.
 
 
 [[02 - Künstliche Intelligenz/2 - Work on soon/Claude vs ChatGPT\|Claude vs ChatGPT]]

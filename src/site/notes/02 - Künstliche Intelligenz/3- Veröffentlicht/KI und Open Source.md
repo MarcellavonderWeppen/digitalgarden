@@ -18,7 +18,7 @@ Jahrezehntelang war Open Source das Fundament des Internets:
 
 ❗70 bis 90% beruhen auf offenem, frei zugänglichen Code - Projekte, die meistens von Entwicklern kostenlos in ihrer Freizeit gebaut und gepflegt wurden. 
 
-Was vielen nicht bewusst ist: auch [[02 - Künstliche Intelligenz/3- Veröffentlicht/Open Source vs Proprietär\|proprietäre]], kommerzielle Software baut umfassend auf offenen Code auf - Arbeit, die aus reiner Liebe von der Open Source Community der Menschheit zur Verfügung gestellt wurde. 
+Was vielen nicht bewusst ist: auch [[02 - Künstliche Intelligenz/0 - Final Check/Open Source vs Proprietär\|proprietäre]], kommerzielle Software baut umfassend auf offenen Code auf - Arbeit, die aus reiner Liebe von der Open Source Community der Menschheit zur Verfügung gestellt wurde. 
 
 Über 30 Jahre hat dies in der Welt der IT für einen sich selbst verstärkenden - unglaublich positiven - Kreislauf gesorgt: Programmierer haben ihren Code frei für alle zur Verfügung gestellt, so dass andere Programmierer diese Bausteine für eigene Projekte nutzen konnten. Open Source ist somit ein [[02 - Künstliche Intelligenz/3- Veröffentlicht/Common Good (Gemeingut)\|Common Good (Gemeingut)]] im besten Sinne. 
 
