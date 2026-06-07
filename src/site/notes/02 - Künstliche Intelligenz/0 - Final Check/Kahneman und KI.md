@@ -15,14 +15,15 @@ Das trifft vor allem auf [[02 - Künstliche Intelligenz/3- Veröffentlicht/Stati
 "Wenn es viele behaupten, dann wird es schon wahr sein."
 
 [[02 - Künstliche Intelligenz/3- Veröffentlicht/Klassische KI\|Klassische KI]] hingegen geht streng logisch Schritt für Schritt vor und liefert im Rahmen ihrer Möglichkeiten zuverlässige Ergebnisse. 
-Damit ähnelt sie System 2 - allerdings mit einem wichtigen Unterschied: Diese Form von KI zweifelt nie an den eigenen Denkprozessen; sie folgt ihren Regeln blind, ohne die Fähigkeit, die eigenen Prämissen zu hinterfragen. Mit anderen Worten, ihr fehlt die Fähigkeit zur [Metakognition](Denken auf Papier#Metakognition).
+
+Damit ähnelt sie System 2 - allerdings mit einem wichtigen Unterschied: Diese Form von KI zweifelt nie an den eigenen Denkprozessen; sie folgt den ihr einprogrammierten Regeln blind, ohne die Fähigkeit, die eigenen Prämissen zu hinterfragen. Mit anderen Worten, ihr fehlt die Fähigkeit zur [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier#Metakognition\|Metakognition]]
 
 ## Die KI zum “langsamen Denken” anleiten
 
 Mit diesem Wissen kann ich die KI bei Bedarf ein wenig in die richtige Richtung navigieren: 
 
 > [!tip] Die Kette der Gedanken
-"Chain-of-Thoughts" ist eine Prompt-Technik, welche die KI in Richtung System 2 lenkt. Dabei weise ich sie an: "Gehe Schritt für Schritt vor. Begründe jeden deiner Schritte." Dies liefert fundiertere Ergebnisse. Genauso kann ich prompten: "Denke tief nach." Oftmals kann man auch direkt im Chat auf “Reasoning” oder “Tief nachdenken” umstellen.
+"Chain-of-Thoughts" ist eine Prompt-Technik, welche die KI in Richtung System 2 lenkt. Dabei weise ich sie an: "Gehe Schritt für Schritt vor. Begründe jeden deiner Schritte." Dies liefert fundiertere Ergebnisse. Genauso kann ich prompten: "Denke tief nach." Oftmals kann man auch direkt im Chat auf das Modell auf “Reasoning” oder “Tief nachdenken” umstellen.
 ## Die Frage nach echter Intelligenz
 
 Kahnemans Werk beleuchtet, wie menschliche Intelligenz funktioniert - und wirft damit unweigerlich die Frage auf: Was fehlt der KI noch, um wirklich intelligent zu sein?
@@ -31,15 +32,15 @@ Soll [[02 - Künstliche Intelligenz/3- Veröffentlicht/Künstliche Intelligenz\|
 
 Wirklich spannend wird es, wenn Roboter mit LLMs verschmelzen, ihre eigenen Erfahrungen in der realen Welt machen und Sprache mit diesen Erfahrungen verknüpfen. 
 
-Aus meiner Sicht könnte das der Schritt sein, an dem KI tatsächlich so etwas wie Bewusstsein entwickeln könnte. 
+Aus meiner Sicht könnte das der Punkt sein, an dem KI tatsächlich so etwas wie Bewusstsein entwickeln könnte. 
 
 Aber wollen wir das wirklich?
 
 ## Rückbesinnung auf Langsamkeit
 
-Wenn ich mir den von der KI besessenen Zeitgeist anschaue, fällt mir die Faszination von Geschwindigkeit als Hauptmerkmal dieser Technologie auf. 
+Wenn ich mir den von der KI besessenen Zeitgeist anschaue, fällt mir die Faszination von Geschwindigkeit als Wesensmerkmal dieser Technologie auf. 
 
-Aber schnell ist nicht immer gut, wie gerade die Beschäftigung mit System 1 und 2 zeigt. 
+Aber schnell ist nicht immer gut, wie uns gerade die Beschäftigung mit System 1 und 2 gezeigt hat. 
 
 Irgendein weiser Mensch hat einmal gesagt: Geschwindigkeit ohne Verständnis ist einfach nur Glück. 
 

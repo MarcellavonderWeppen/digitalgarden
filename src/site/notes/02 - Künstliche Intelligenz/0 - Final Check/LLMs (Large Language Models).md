@@ -61,14 +61,19 @@ Sie können genau 2 Dinge:
 
 ## Model
 
-Ein Modell ist ein vereinfachtes Abbild von der Wirklichkeit. Ein Globus ist also ein Modell unseres Planeten. Eine Landkarte ist ein Modell von einer Landschaft. Aber wie heißt es so schön?
+Ein Modell ist ein vereinfachtes Abbild von der Wirklichkeit: 
+
+- Ein Globus ist ein Modell unseres Planeten. 
+- Eine Landkarte ist ein Modell von einer Landschaft. 
+
+Aber wie heißt es so schön?
 
 Die Landkarte ist nicht die Wirklichkeit. Somit sind auch große Sprachmodelle keine Sprache. Sie simulieren nur Sprache -  wenn auch sehr überzeugend.
 
 
 ## 📖 Weiterlesen
 
-[[02 - Künstliche Intelligenz/0 - Final Check/Die bekanntesten LLMs\|Die bekanntesten LLMs]]
-
-[[Auf der Suche nach ChatGPT-Alternativen\|Auf der Suche nach ChatGPT-Alternativen]]
+- [[02 - Künstliche Intelligenz/1 - Work on now/ChatGPT\|ChatGPT]]
+- [[02 - Künstliche Intelligenz/3- Veröffentlicht/Die bekanntesten LLMs\|Die bekanntesten LLMs]]
+- [[Auf der Suche nach ChatGPT-Alternativen\|Auf der Suche nach ChatGPT-Alternativen]]
 
