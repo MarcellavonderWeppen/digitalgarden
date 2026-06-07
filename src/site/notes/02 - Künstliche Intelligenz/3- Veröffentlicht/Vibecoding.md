@@ -1,5 +1,5 @@
 ---
-{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"2026-05-26","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/vibecoding/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"2026-05-26","updated":null,"status":null}}
+{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"2026-05-26","updated":"2026-05-27","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/vibecoding/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"2026-05-26","updated":"2026-05-27","status":null}}
 ---
 
 

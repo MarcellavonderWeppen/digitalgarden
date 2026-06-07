@@ -16,7 +16,7 @@ Die klassische KI machte den Anfang und dominierte die Forschung von den **1950e
 
 ## Statistische KI
 
-Diese Art von Künstlicher Intelligenz ist meistens gemeint, wenn Menschen von “KI” reden. **Statistische KI** beruht auf Verfahren, die aus großen Datenmengen mithilfe von Wahrscheinlichkeiten und Mustern lernen, anstatt auf fest programmierten Regeln. [[02 - Künstliche Intelligenz/0 - Final Check/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie [[02 - Künstliche Intelligenz/1 - Work on now/ChatGPT\|ChatGPT]] sind eine Form davon.
+Diese Art von Künstlicher Intelligenz ist meistens gemeint, wenn Menschen von “KI” reden. **Statistische KI** beruht auf Verfahren, die aus großen Datenmengen mithilfe von Wahrscheinlichkeiten und Mustern lernen, anstatt auf fest programmierten Regeln. [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie [[02 - Künstliche Intelligenz/1 - Work on now/ChatGPT\|ChatGPT]] sind eine Form davon.
 
 👉 Mehr lesen über [[02 - Künstliche Intelligenz/3- Veröffentlicht/Statistische KI\|Statistische KI]]
 
@@ -27,7 +27,7 @@ Diese Art von Künstlicher Intelligenz ist meistens gemeint, wenn Menschen von �
 
 [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
-[[02 - Künstliche Intelligenz/0 - Final Check/LLMs (Large Language Models)\|LLMs (Large Language Models)]]
+[[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs (Large Language Models)]]
 
 [[02 - Künstliche Intelligenz/KI-Sprachtechnologie\|KI-Sprachtechnologie]]
 

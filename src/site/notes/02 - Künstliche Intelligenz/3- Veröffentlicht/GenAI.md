@@ -1,5 +1,5 @@
 ---
-{"title":"GenAI","aliases":["Generative KI"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/gen-ai/","dgPassFrontmatter":true,"dg-note-properties":{"title":"GenAI","aliases":["Generative KI"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":null,"status":null}}
+{"title":"GenAI","aliases":["Generative KI"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-04","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/gen-ai/","dgPassFrontmatter":true,"dg-note-properties":{"title":"GenAI","aliases":["Generative KI"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-04","status":null}}
 ---
 
 # Was ist Generative KI?
@@ -38,7 +38,7 @@ Allerdings bringt GenAI auch Herausforderungen mit sich: Sie verbraucht enorme R
 
 [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
-[[02 - Künstliche Intelligenz/0 - Final Check/LLMs (Large Language Models)\|LLMs (Large Language Models)]]
+[[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs (Large Language Models)]]
 
 [[02 - Künstliche Intelligenz/KI-Sprachtechnologie\|KI-Sprachtechnologie]]
 

@@ -1,5 +1,5 @@
 ---
-{"title":"Mindmaps","aliases":["Mindmap"],"tags":null,"gen_ai_anteil":null,"created":"2026-05-17","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/mindmaps/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Mindmaps","aliases":["Mindmap"],"tags":null,"gen_ai_anteil":null,"created":"2026-05-17","updated":null,"status":null}}
+{"title":"Mindmaps","aliases":["Mindmap"],"tags":null,"gen_ai_anteil":null,"created":"2026-05-17","updated":"2026-05-30","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/mindmaps/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Mindmaps","aliases":["Mindmap"],"tags":null,"gen_ai_anteil":null,"created":"2026-05-17","updated":"2026-05-30","status":null}}
 ---
 
 

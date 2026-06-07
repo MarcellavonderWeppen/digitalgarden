@@ -1,5 +1,5 @@
 ---
-{"title":"Kritik an GenAI","aliases":["Kritik"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/kritik-an-gen-ai/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Kritik an GenAI","aliases":["Kritik"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":null,"status":null}}
+{"title":"Kritik an GenAI","aliases":["Kritik"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-04","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/kritik-an-gen-ai/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Kritik an GenAI","aliases":["Kritik"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-04","status":null}}
 ---
 
 

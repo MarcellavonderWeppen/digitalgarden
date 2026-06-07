@@ -1,5 +1,5 @@
 ---
-{"title":"Ostroms 8 Prinzipien für die Open-Source-Community","aliases":null,"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-05-26","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/ostrom-auf-open-source-angewandt/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Ostroms 8 Prinzipien für die Open-Source-Community","aliases":null,"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-05-26","updated":null,"status":null}}
+{"title":"Ostroms 8 Prinzipien für die Open-Source-Community","aliases":null,"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-05-26","updated":"2026-05-29","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/ostrom-auf-open-source-angewandt/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Ostroms 8 Prinzipien für die Open-Source-Community","aliases":null,"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-05-26","updated":"2026-05-29","status":null}}
 ---
 
 Ein Gespräch mit Claude über die Anwendung der [[02 - Künstliche Intelligenz/3- Veröffentlicht/Elinor Ostrom und die Designprinzipien der Common Goods\|Designprinzipien der Common Goods]] auf Open Source👇

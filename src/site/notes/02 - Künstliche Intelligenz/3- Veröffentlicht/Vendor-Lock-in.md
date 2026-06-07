@@ -1,5 +1,5 @@
 ---
-{"title":"Vendor-Lock-In","aliases":["Lock-in-Effekt"],"tags":null,"gen_ai_anteil":["Grok 80%"],"created":"2026-04-04","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/vendor-lock-in/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Vendor-Lock-In","aliases":["Lock-in-Effekt"],"tags":null,"gen_ai_anteil":["Grok 80%"],"created":"2026-04-04","updated":null,"status":null}}
+{"title":"Vendor-Lock-In","aliases":["Lock-in-Effekt"],"tags":null,"gen_ai_anteil":["Grok 80%"],"created":"2026-04-04","updated":"2026-05-29","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/vendor-lock-in/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Vendor-Lock-In","aliases":["Lock-in-Effekt"],"tags":null,"gen_ai_anteil":["Grok 80%"],"created":"2026-04-04","updated":"2026-05-29","status":null}}
 ---
 
 

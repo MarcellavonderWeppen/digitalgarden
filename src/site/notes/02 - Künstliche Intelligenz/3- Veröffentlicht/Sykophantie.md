@@ -1,5 +1,5 @@
 ---
-{"title":"Sykophantie","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 60%"],"created":"2026-06-06","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/sykophantie/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Sykophantie","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 60%"],"created":"2026-06-06","updated":null,"status":null}}
+{"title":"Sykophantie","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 60%"],"created":"2026-06-06","updated":"2026-06-07","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/sykophantie/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Sykophantie","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 60%"],"created":"2026-06-06","updated":"2026-06-07","status":null}}
 ---
 
 # Sykophantie
@@ -20,7 +20,7 @@ Insbesondere (aber nicht ausschließlich) ChatGPT hat sich den Ruf erworben, ein
 
 Diese übertriebene Gefälligkeit fördert die *Vermenschlichung der KI*. Nutzer projizieren Emotionen, Freundschaft oder sogar Liebe auf den Bot. 
 
-Das kann zu emotionaler Abhängigkeit bis hin zu [[KI-Psychosen\|KI-Psychosen]] führen. 
+Das kann zu emotionaler Abhängigkeit bis hin zu [[02 - Künstliche Intelligenz/2 - Work on soon/KI-Psychosen\|KI-Psychosen]] führen. 
 
 Besonders GPT-4 war dafür berüchtigt. OpenAI hat auf die Kritik reagiert und GPT-5 wesentlich nüchterner gestaltet. Die Folge: massiver Protest aus der Community. Viele hatten sich in den Bot verliebt oder in ihm ihren besten Freund gesehen und fühlten sich durch die Veränderung verraten: 
 

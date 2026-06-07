@@ -1,5 +1,5 @@
 ---
-{"title":"Schnelles Denken, langsames Denken","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-04","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/schnelles-denken-langsames-denken/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Schnelles Denken, langsames Denken","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-04","updated":null,"status":null}}
+{"title":"Schnelles Denken, langsames Denken","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-04","updated":"2026-06-05","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/schnelles-denken-langsames-denken/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Schnelles Denken, langsames Denken","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-04","updated":"2026-06-05","status":null}}
 ---
 
 
@@ -41,5 +41,5 @@ Kahneman zeigt, wie beide Systeme ineinandergreifen – und warum wir uns oft au
 
 ## 📖 Weiterlesen
 
-- Ich vergleiche KI mit System 1 und 2: [[02 - Künstliche Intelligenz/0 - Final Check/Kahneman und KI\|Kahneman und KI]]
+- Ich vergleiche KI mit System 1 und 2: [[02 - Künstliche Intelligenz/3- Veröffentlicht/Kahneman und KI\|Kahneman und KI]]
 - Wie IT-Unternehmen dieses Wissen nutzen, um Menschen zu manipulieren: [[02 - Künstliche Intelligenz/Dark Patterns (Deceptive Patterns)#Schnelles Denken, Langsames Denken\|Dark Patterns]]

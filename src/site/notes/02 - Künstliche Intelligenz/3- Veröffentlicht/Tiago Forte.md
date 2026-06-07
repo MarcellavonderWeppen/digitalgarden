@@ -1,5 +1,5 @@
 ---
-{"title":"Tiago Forte","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"2026-04-15","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/tiago-forte/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Tiago Forte","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"2026-04-15","updated":null,"status":null}}
+{"title":"Tiago Forte","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"2026-04-15","updated":"2026-05-07","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/tiago-forte/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Tiago Forte","aliases":null,"tags":null,"gen_ai_anteil":["Euria 100%"],"created":"2026-04-15","updated":"2026-05-07","status":null}}
 ---
 
 

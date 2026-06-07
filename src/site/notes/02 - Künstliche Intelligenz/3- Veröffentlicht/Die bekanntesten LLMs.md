@@ -1,12 +1,12 @@
 ---
-{"title":"Markführende LLMs","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%","Mistral 20%","Gemini 20%"],"created":"2026-06-03","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/die-bekanntesten-ll-ms/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Markführende LLMs","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%","Mistral 20%","Gemini 20%"],"created":"2026-06-03","updated":null,"status":null}}
+{"title":"Markführende LLMs","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%","Mistral 20%","Gemini 20%"],"created":"2026-06-03","updated":"2026-06-06","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/die-bekanntesten-ll-ms/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Markführende LLMs","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%","Mistral 20%","Gemini 20%"],"created":"2026-06-03","updated":"2026-06-06","status":null}}
 ---
 
 # Die bekanntesten LLMs
 
 Seit dem Startschuss von ChatGPT im November 2022 ist viel passiert! Inzwischen stehen uns nicht mehr nur [[02 - Künstliche Intelligenz/3- Veröffentlicht/Open Source vs Proprietär\|proprietäre]], sondern auch viele [[02 - Künstliche Intelligenz/3- Veröffentlicht/Open Source vs Proprietär\|Open Source]]-Modelle zur Verfügung. 
 
-Im Folgenden ein Überblick über die wichtigsten [[02 - Künstliche Intelligenz/0 - Final Check/LLMs (Large Language Models)\|LLMs]].
+Im Folgenden ein Überblick über die wichtigsten [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs]].
 
 ## 1. Die führenden Closed-Source- und Proprietären Modelle
 ### ChatGPT: Der Funke, der die KI-Revolution entzündete

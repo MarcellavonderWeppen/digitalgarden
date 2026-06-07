@@ -1,5 +1,5 @@
 ---
-{"title":"KI und Open Source","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-05-26","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/ki-und-open-source/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI und Open Source","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-05-26","updated":null,"status":null}}
+{"title":"KI und Open Source","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-05-26","updated":"2026-06-06","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/ki-und-open-source/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI und Open Source","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-05-26","updated":"2026-06-06","status":null}}
 ---
 
 # KI und Open Source

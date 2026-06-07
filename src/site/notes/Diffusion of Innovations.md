@@ -1,5 +1,5 @@
 ---
-{"title":"Diffusion of Innovations","aliases":["Diffusionstheorie"],"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-06-06","updated":null,"status":null,"dg-publish":true,"permalink":"/diffusion-of-innovations/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Diffusion of Innovations","aliases":["Diffusionstheorie"],"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-06-06","updated":null,"status":null}}
+{"title":"Diffusion of Innovations","aliases":["Diffusionstheorie"],"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-06-06","updated":"2026-06-07","status":null,"dg-publish":true,"permalink":"/diffusion-of-innovations/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Diffusion of Innovations","aliases":["Diffusionstheorie"],"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-06-06","updated":"2026-06-07","status":null}}
 ---
 
 # Diffusion of Innovations
@@ -7,6 +7,9 @@
 Auch bekannt als: **Diffusionstheorie**, **Innovationsdiffusionsmodell**, **Rogers-Modell**, **Technology Adoption Lifecycle** (verwandte Variante von Geoffrey Moore).
 
 Theorie von Everett Rogers (1962), die erklärt, wie, warum und in welchem Tempo sich neue Ideen und Technologien in einer Gesellschaft verbreiten. Diffusion verläuft als S-Kurve: langsamer Start, steiles Wachstum in der Mitte, Abflachung zur Sättigung hin.
+
+![Diffusiontheorie Gemini 07.06.2026.png](/img/user/Bilder/Diffusiontheorie%20Gemini%2007.06.2026.png)
+
 
 Ursprünglich aus der Agrarsoziologie; Rogers synthetisierte über 508 empirische Studien aus Anthropologie, Soziologie, Medizin und Bildung. Wurde zum meistzitierten Modell zur Erklärung von Innovationsübernahme.
 

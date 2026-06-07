@@ -1,5 +1,5 @@
 ---
-{"title":"Morpheus Video zu KI und OpenSource","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"2026-05-26","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/morpheus-video-zu-ki-und-open-source/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Morpheus Video zu KI und OpenSource","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"2026-05-26","updated":null,"status":null}}
+{"title":"Morpheus Video zu KI und OpenSource","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"2026-05-26","updated":"2026-04-29","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/morpheus-video-zu-ki-und-open-source/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Morpheus Video zu KI und OpenSource","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%"],"created":"2026-05-26","updated":"2026-04-29","status":null}}
 ---
 
 

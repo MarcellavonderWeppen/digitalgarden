@@ -1,5 +1,5 @@
 ---
-{"title":"Kaninchen-Einstiegszone","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-05-14","updated":"2026-06-03","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/kaninchen-einstiegszone/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Kaninchen-Einstiegszone","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-05-14","updated":"2026-06-03","status":null}}
+{"title":"Kaninchen-Einstiegszone","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-05-14","updated":"2026-06-04","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/kaninchen-einstiegszone/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Kaninchen-Einstiegszone","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-05-14","updated":"2026-06-04","status":null}}
 ---
 
 
@@ -42,7 +42,7 @@ Hier könnte ihr einige meiner Empfehlungen entdecken:
 
 ### Alternative LLMs 🕳️🐇
 
- [[02 - Künstliche Intelligenz/3- Veröffentlicht/Künstliche Intelligenz\|KI]] begleitet uns schon lange, aber erst der Durchbruch der [[02 - Künstliche Intelligenz/0 - Final Check/LLMs (Large Language Models)\|Large Language Models]] - eine Form der [[02 - Künstliche Intelligenz/3- Veröffentlicht/Statistische KI\|statistischen KI]] -  hat sie ins Rampenlicht gerückt. [[02 - Künstliche Intelligenz/1 - Work on now/ChatGPT\|ChatGPT]] hat den Start gemacht und unverkennbar einen Hype ausgelöst. Aber machen wir uns nichts vor: die [[02 - Künstliche Intelligenz/3- Veröffentlicht/Kritik an GenAI\|Kritik]] an [[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|generativer KI]] ist absolut berechtigt! 
+ [[02 - Künstliche Intelligenz/3- Veröffentlicht/Künstliche Intelligenz\|KI]] begleitet uns schon lange, aber erst der Durchbruch der [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|Large Language Models]] - eine Form der [[02 - Künstliche Intelligenz/3- Veröffentlicht/Statistische KI\|statistischen KI]] -  hat sie ins Rampenlicht gerückt. [[02 - Künstliche Intelligenz/1 - Work on now/ChatGPT\|ChatGPT]] hat den Start gemacht und unverkennbar einen Hype ausgelöst. Aber machen wir uns nichts vor: die [[02 - Künstliche Intelligenz/3- Veröffentlicht/Kritik an GenAI\|Kritik]] an [[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|generativer KI]] ist absolut berechtigt! 
 
 Ich denke, ihre negativen Seiten sind keineswegs ein inhärentes Merkmal dieser Technologie, sondern vielmehr systemischer Natur: unvermeidliche Begleiterscheinung, wenn wir profit- und machtorientierten Konzernen freies Spiel lassen. Aus diesem Grund recherchiere und teste ich viel, ob wir denn tatsächlich auf diese [[02 - Künstliche Intelligenz/3- Veröffentlicht/Open Source vs Proprietär\|proprietären]] Riesen angewiesen sind. 
  
