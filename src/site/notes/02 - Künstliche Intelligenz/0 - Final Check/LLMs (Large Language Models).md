@@ -4,22 +4,22 @@
 
 # LLMs (Large Language Models)
 
-Large Language Models - oder zu deutsch: große Sprachmodelle - ist die Bezeichnung für die Modelle hinter Sprachbots wie ChatGPT & Co.
+Large Language Models - oder zu deutsch: große Sprachmodelle - ist die Bezeichnung für die Modelle hinter Sprachbots wie ChatGPT. Es handelt sich um eine Unterkategorie der [[02 - Künstliche Intelligenz/3- Veröffentlicht/Statistische KI\|statistischen KI]], welche mit Menschen in **natürlicher Sprache** kommunizieren kann.
 
 Nehmen wir das Wort einmal auseinander, um die Bedeutung besser zu verstehen: 
 ## Large 
 
 Die großen Sprachmodelle sind also groß. Wie groß? 
 
-Vereinfachend kann man sagen: Sie wurden am “gesamten [[02 - Künstliche Intelligenz/3- Veröffentlicht/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]]” trainiert. 
+Vereinfachend kann man sagen: Sie wurden mit einem großem Teil des  [[02 - Künstliche Intelligenz/3- Veröffentlicht/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] trainiert. 
 
-### Nur das Surface Web
+### Aber: Nur das Surface Web
 
 Wenn ich behaupte, “das gesamte Internet”, dann meine ich damit fast ausschließlich das [[02 - Künstliche Intelligenz/3- Veröffentlicht/Das Internet - Surface Web, Deep Web und Dark Web#Surface Web – Die Spitze des Eisbergs\|Surface Web]]. Das [[02 - Künstliche Intelligenz/3- Veröffentlicht/Das Internet - Surface Web, Deep Web und Dark Web#Deep Web – Der unsichtbare Riese\|Deep Web]] spielt für das Training dieser Form von KI keine nennenswerte Rolle, da die Inhalte nicht frei verfügbar sind und oft technische oder rechtliche Hürden bestehen.
 
-Das gesamte Surface Web stand also für das Training zur Verfügung, aber nicht alles wurde auch tatsächlich genutzt. 
+Theoretisch stand das gesamte Surface Web zur Verfügung. 
 
-Vielmehr handelt es sich um einen  signifikanten Anteil: etwa 30–70 % je nach Definition und Zeitpunkt. 
+Tatsächlich wurde aber nur ein signifikanter Teil genutzt. Genaue Zahlen sind unbekannt;  je nach Definition und Zeitpunkt werden 30–70 % genannt. 
 
 ### Vorauswahl
 
@@ -46,12 +46,12 @@ Nach der Vorauswahl werden die Trainingsdaten zusätzlich **gefiltert**, um Qual
 Große Sprachmodelle können nur eine Sache: Sprache. Nicht mehr und nicht weniger. 
 
 Sie können genau 2 Dinge: 
-- Texte zusammenfassen und
-- Texte erweitern
+- Texte generieren
+- Texte verarbeiten
 
 ### Aber wie kommt es dann,  …
 
-dass LLMs Videos zusammenfassen, Webseiten erstellen und Bilder generieren können?
+… dass LLMs Videos zusammenfassen, Webseiten erstellen und Bilder generieren können?
 
 | Fähigkeit             | Erklärung                                                                                                                                       |
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,13 +63,12 @@ dass LLMs Videos zusammenfassen, Webseiten erstellen und Bilder generieren könn
 
 Ein Modell ist ein vereinfachtes Abbild von der Wirklichkeit. Ein Globus ist also ein Modell unseres Planeten. Eine Landkarte ist ein Modell von einer Landschaft. Aber wie heißt es so schön?
 
-Die Landkarte ist nicht die Wirklichkeit. Somit sind auch große Sprachmodelle keine Sprache. Sie simulieren nur Sprache. Sehr überzeugend.
+Die Landkarte ist nicht die Wirklichkeit. Somit sind auch große Sprachmodelle keine Sprache. Sie simulieren nur Sprache -  wenn auch sehr überzeugend.
 
-> LLMs generieren _Text, der wie Sprache aussieht_, basierend auf Mustern, aber sie „verstehen“ oder „besitzen“ keine Sprache im menschlichen Sinne.
 
 ## 📖 Weiterlesen
 
-[[02 - Künstliche Intelligenz/1 - Work on now/Markführende LLMs\|Markführende LLMs]]
+[[02 - Künstliche Intelligenz/0 - Final Check/Die bekanntesten LLMs\|Die bekanntesten LLMs]]
 
 [[Auf der Suche nach ChatGPT-Alternativen\|Auf der Suche nach ChatGPT-Alternativen]]
 

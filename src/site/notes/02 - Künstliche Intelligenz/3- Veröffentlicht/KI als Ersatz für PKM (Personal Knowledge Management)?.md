@@ -159,7 +159,7 @@ KI liefert die Bausteine, während die räumliche Organisation in Tools wie Obsi
 | **4. Reflect**       | 🟢              | ab 15$                               | 🟢 Gering bis Mittel |
 | **5. ChatGPT Stack** | 🔴              | ab 8€ \| kostenlose Basisversion ✅  | 🔴 Extrem hoch       |
 
-Hinweis: Alle diese Tools laufen in der [[02 - Künstliche Intelligenz/1 - Work on now/Cloud vs lokal\|Cloud]]. Selbst das "Grün" für Reflect ist also relativ.
+Hinweis: Alle diese Tools laufen in der [[02 - Künstliche Intelligenz/2 - Work on soon/Cloud vs lokal\|Cloud]]. Selbst das "Grün" für Reflect ist also relativ.
 
 Der Grund, warum **Reflect** als einziges die Bestbewertung 🟢 erhält, lässt sich in einem technischen Begriff zusammenfassen: **Ende-zu-Ende-Verschlüsselung (E2EE)**.
 

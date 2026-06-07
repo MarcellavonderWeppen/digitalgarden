@@ -2,7 +2,6 @@
 {"title":"Kahneman und KI","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%"],"created":"2026-04-19","updated":"2026-06-04","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/kahneman-und-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Kahneman und KI","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%"],"created":"2026-04-19","updated":"2026-06-04","status":null}}
 ---
 
-
 # Kahneman und KI
 
 Natürlich hat Kahneman sein Buch [[02 - Künstliche Intelligenz/3- Veröffentlicht/Schnelles Denken, langsames Denken\|Schnelles Denken, langsames Denken]] in Bezug auf menschliche Intelligenz geschrieben, aber ich übertrage dieses Konzept gerne mal auf KI.

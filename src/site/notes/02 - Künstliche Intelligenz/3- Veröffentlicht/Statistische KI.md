@@ -1,5 +1,5 @@
 ---
-{"title":"Statistische KI","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-04-07","updated":"2026-06-03","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/statistische-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Statistische KI","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-04-07","updated":"2026-06-03","status":null}}
+{"title":"Statistische KI","aliases":["statistische KI"],"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-04-07","updated":"2026-06-03","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/statistische-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Statistische KI","aliases":["statistische KI"],"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-04-07","updated":"2026-06-03","status":null}}
 ---
 
 # Statistische Künstliche Intelligenz 
