@@ -1,5 +1,5 @@
 ---
-{"title":"ChatGPT","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/chat-gpt/","dgPassFrontmatter":true,"dg-note-properties":{"title":"ChatGPT","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":null}}
+{"title":"ChatGPT","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":"2026-06-13","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/chat-gpt/","dgPassFrontmatter":true,"dg-note-properties":{"title":"ChatGPT","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":"2026-06-13","status":null}}
 ---
 
 # ChatGPT
@@ -12,7 +12,7 @@ Bereits nach 5 Tagen hatte es eine Million Nutzer und war zu diesem Zeitpunkt mi
 
 Ich war nicht unter der ersten Million, aber stieg als “später [[02 - Künstliche Intelligenz/3- Veröffentlicht/Diffusion of Innovations#Early Adopters (~13,5 %)\|Early Adopter]]” kurz darauf ein. Keine 2 Monate später waren wir schon 100 Millionen Anwender. 
 
-Der Erfolg kam völlig unerwartet, auch für die Firma hinter dem noch jungem LLM: [[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]].
+Der Erfolg kam völlig unerwartet, auch für die Firma hinter dem noch jungem [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLM]]: [[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]].
 
 ## Immer noch: Marktführer
 
@@ -20,11 +20,11 @@ Heute nutzen täglich Millionen Menschen den freundlichen (ja, [[02 - Künstlich
 
 Obwohl inzwischen viele andere [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs]] in Rankings ChatGPT den Platz 1 streitig machen, liegt der Marktanteil nach wie vor bei ca. 65% (je nach Quelle).
 
-Auf Seiten wie https://llm-stats.com/ kann man übrigens nachschauen, welches LLM aktuell die Nummer 1 im Herzen der User ist; aktuell liefern sich mal wieder Claude und ChatGPT ein hartes Kopf an Kopf rennen, aber auch Grok und Gemini hatten immer mal wieder den ersten Platz inne. 
+Auf Seiten wie https://llm-stats.com/ kann man übrigens nachschauen, welches LLM aktuell die Nummer 1 aus Sicht der User ist; aktuell liefern sich mal wieder Claude und ChatGPT ein hartes Kopf an Kopf rennen, aber auch Grok und Gemini hatten immer mal wieder den ersten Platz inne. 
 
 ## GPT = Generative Pre-trained Transformer
 
-Was bedeutet eigentlich das “GPT” in ChatGPT? 
+“Chat” kommt aus dem Englischen und bedeutet “Gespräch, Plauderei”, aber was hat es eigentlich mit dem “GPT” in ChatGPT auf sich? 
 
 G - Generative
 P - Pre-trained
@@ -51,13 +51,11 @@ Schauen wir es uns Schritt für Schritt an:
 
 ## ChatGPT, Synkopanthie und KI-Psychosen
 
-LLMs wurden darauf trainiert, den Nutzern nützlich scheinende Antworten zu geben - Betonung auf *scheinen*. 
+LLMs wurden darauf trainiert, den Nutzern Antworten zu geben, welche er oder sie als nützlich empfindet.
 
-In Tests haben User meistens Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein “ehrlich gesagt, ich weiss es nicht.” Das hat das Auftreten von falschen Antworten, sogenannten [[Halluzinationen\|Halluzinationen]] stark verstärkt. 
+In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein “ehrlich gesagt, ich weiss es nicht.” - selbst wenn die Antwort falsch war. Das hat das Auftreten von falschen Antworten, sogenannten [[Halluzinationen\|Halluzinationen]] stark verstärkt. 
 
-Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[02 - Künstliche Intelligenz/3- Veröffentlicht/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, emotionaler Abhängigkeit bis hin zu [[02 - Künstliche Intelligenz/2 - Work on soon/KI-Psychosen\|KI-Psychosen]]. 
-
-Mit [[02 - Künstliche Intelligenz/2 - Work on soon/Sam Altman\|Sam Altman]] zu tun?
+Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[02 - Künstliche Intelligenz/3- Veröffentlicht/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionaler Abhängigkeit bis hin zu [[02 - Künstliche Intelligenz/2 - Work on soon/KI-Psychosen\|KI-Psychosen]]. 
 
 ## 📖 Weiterlesen
 
