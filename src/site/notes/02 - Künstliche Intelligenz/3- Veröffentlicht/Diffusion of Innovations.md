@@ -1,0 +1,45 @@
+---
+{"title":"Diffusion of Innovations","aliases":["Diffusionstheorie"],"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-06-06","updated":"2026-06-07","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/diffusion-of-innovations/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Diffusion of Innovations","aliases":["Diffusionstheorie"],"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-06-06","updated":"2026-06-07","status":null}}
+---
+
+# Diffusion of Innovations
+
+Auch bekannt als: **Diffusionstheorie**, **Innovationsdiffusionsmodell**, **Rogers-Modell**, **Technology Adoption Lifecycle** (verwandte Variante von Geoffrey Moore).
+
+Theorie von Everett Rogers (1962), die erklärt, wie, warum und in welchem Tempo sich neue Ideen und Technologien in einer Gesellschaft verbreiten. Diffusion verläuft als S-Kurve: langsamer Start, steiles Wachstum in der Mitte, Abflachung zur Sättigung hin.
+
+![Diffusiontheorie Gemini 07.06.2026.png](/img/user/Bilder/Diffusiontheorie%20Gemini%2007.06.2026.png)
+
+Ursprünglich in der Agrarsoziologie verwurzelt, vereinte Rogers in seiner Theorie Erkenntnisse aus über 508 empirischen Studien – von Anthropologie über Soziologie bis hin zu Medizin und Bildung. Sein Modell entwickelte sich zum meistzitierten Ansatz, um die Übernahme von Innovationen zu erklären.
+
+## Die fünf Adoptergruppen
+
+Rogers teilt die Bevölkerung anhand des _Übernahmezeitpunkts_ in fünf Gruppen:
+
+### Innovatoren (~2,5 %)
+
+Erste Übernehmer. Risikofreudig, technikbegeistert, gut vernetzt mit anderen Innovatoren. Kaufen Produkte oft noch im experimentellen Stadium. Spielen eine Gatekeeper-Rolle: Sie bringen Innovationen ins soziale System.
+
+### Early Adopters (~13,5 %)
+
+Frühe Übernehmer kurz nach den Innovatoren. Meinungsführer in ihrem Umfeld, suchen konkreten Nutzen und sind bereit, Kinderkrankheiten zu tolerieren. Entscheidend für den Übergang zur breiten Masse – sie legitimieren die Innovation durch ihre Akzeptanz.
+### Early Majority (~34 %)
+
+Pragmatisch orientiert. Warten auf Beweis der Praxistauglichkeit, verlassen sich auf Empfehlungen der Early Adopters. Ihr Einstieg markiert den Wendepunkt zur Massenadoption.
+
+### Late Majority (~34 %)
+
+Skeptisch und kostengetrieben. Übernehmen erst, wenn die Innovation zum Standard geworden ist und der soziale Druck steigt. Oft preissensibel.
+
+### Laggards (~16 %)
+
+Spät- oder Nicht-Übernehmer. Traditionsbewusst, misstrauisch gegenüber Neuerungen. Wenn sie adoptieren, ist die nächste Innovation oft schon in Sicht.
+
+## Der Chasm (Geoffrey Moore)
+
+Moore erweiterte Rogers' Modell (1991) um den **Chasm** – eine Lücke zwischen Early Adopters und Early Majority, die viele Innovationen nicht überwinden. Sie entsteht, weil Early Adopters technikbegeistert und risikobereit sind - sie lieben Innovation um der Innovation willen. 
+
+Die Early Majority hingegen verlangt nach praktischen, ausgereiften Lösungen mit klarem Nutzen. Ohne das Eingehen auf ihre Bedürfnisse scheitern viele Produkte am Übergang zum Massenmarkt.
+## Quelle
+
+[Rogers, E. M. (1962): _Diffusion of Innovations_](https://teddykw2.wordpress.com/wp-content/uploads/2012/07/everett-m-rogers-diffusion-of-innovations.pdf)
