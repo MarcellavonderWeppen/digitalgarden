@@ -6,22 +6,25 @@
 
 ## Erfolgreichste Software-Anwendung aller Zeiten
 
-Am 30.November 2022 betrat ChatGPT die Bühne der Welt und nahm sie auch gleich im Sturm. 
+Am 30. November 2022 betrat ChatGPT die Bühne der Welt und nahm sie auch gleich im Sturm. 
 
-Bereits nach 5 Tagen hatte es eine Million Nutzer und war zu diesem Zeitpunkt mit Abstand die am schnellsten wachsende Anwendung aller Zeiten - weit vor Facebook, Instagramm oder Spotify. 
+Bereits nach 5 Tagen hatte es eine Million Nutzer und war somit zu diesem Zeitpunkt mit Abstand die am schnellsten wachsende Anwendung aller Zeiten - weit vor Facebook, Instagram oder Spotify. 
 
-Ich war nicht unter der ersten Million, aber stieg als “später [[02 - Künstliche Intelligenz/3- Veröffentlicht/Diffusion of Innovations#Early Adopters (~13,5 %)\|Early Adopter]]” kurz darauf ein. Keine 2 Monate später waren wir schon 100 Millionen Anwender. 
+Ich war nicht unter der ersten Million, stieg aber als “ [[02 - Künstliche Intelligenz/3- Veröffentlicht/Diffusion of Innovations#Early Adopters (~13,5 %)\|Early Adopter]]” kurz darauf ein. Keine 2 Monate später waren wir schon 100 Millionen Anwender. 
 
-Der Erfolg kam völlig unerwartet, auch für die Firma hinter dem noch jungem [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLM]]: [[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]].
+Der Erfolg kam völlig unerwartet, auch für die Firma hinter dem noch jungen [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLM]]: [[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]].
+
+![ChatGPT 1 Mio Nutzer Statista.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20now/Bilder/ChatGPT%201%20Mio%20Nutzer%20Statista.png)
 
 ## Immer noch: Marktführer
 
 Heute nutzen täglich Millionen Menschen den freundlichen (ja, [[02 - Künstliche Intelligenz/3- Veröffentlicht/Sykophantie\|allzufreundlichen]]) Chatbot. 
 
-Obwohl inzwischen viele andere [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs]] in Rankings ChatGPT den Platz 1 streitig machen, liegt der Marktanteil nach wie vor bei ca. 65% (je nach Quelle).
+Obwohl in Rankings inzwischen viele andere [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs]] ChatGPT den Platz an der Spitze als bestes Sprachmodell streitig machen, liegt der Marktanteil nach wie vor bei über 50% (je nach Messmethode und Zeitpunkt - die Zahlen sind gerade im Sinkflug, Gemini holt stark auf).
 
-Auf Seiten wie https://llm-stats.com/ kann man übrigens nachschauen, welches LLM aktuell die Nummer 1 aus Sicht der User ist; aktuell liefern sich mal wieder Claude und ChatGPT ein hartes Kopf an Kopf rennen, aber auch Grok und Gemini hatten immer mal wieder den ersten Platz inne. 
+![Pasted image 20260614091311.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20now/Bilder/Pasted%20image%2020260614091311.png)
 
+Auf Seiten wie [https://llm-stats.com/](https://llm-stats.com/) kann man nachschauen, welches LLM in aktuellen Benchmarks vorne liegt; aktuell liefern sich mal wieder Claude und ChatGPT ein hartes Kopf-an-Kopf-Rennen, aber auch Grok und Gemini hatten immer mal wieder den ersten Platz inne. 
 ## GPT = Generative Pre-trained Transformer
 
 “Chat” kommt aus dem Englischen und bedeutet “Gespräch, Plauderei”, aber was hat es eigentlich mit dem “GPT” in ChatGPT auf sich? 
@@ -36,35 +39,33 @@ Schauen wir es uns Schritt für Schritt an:
 ### Generative
 
 - Das Modell erzeugt etwas (und zwar Texte)
-- Es gehört damit der übergeordneten Kategorie [[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|Generative KI]] an, welche u.a. Texte, Bilder, Videos, und Musik generieren kann 
+- Es gehört damit der übergeordneten Kategorie [[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|Generative KI]] an, welche u.a. Texte, Bilder, Videos und Musik generieren kann 
 ### Pre-trained
 
-- Es wurde **vorab** mit riesigen Mengen Text **trainiert**: prinzipiell mit dem gesamten [[02 - Künstliche Intelligenz/3- Veröffentlicht/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]], allerdings wurde hier eine gewisse [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)#Vorauswahl\|Vorauswahl]] getroffen und [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)#Filter\|Filter]] kamen zum Einsatz. So wird sichergestellt, dass die Textausgaben einen gewissen Standard (Rechtschreibung etc.) einhalten und keine Personengruppen (z.B. Frauen, Anhänger einer Religion) diskrimienieren.
+- Es wurde **vorab** mit riesigen Mengen Text trainiert: prinzipiell stand das gesamte [[02 - Künstliche Intelligenz/3- Veröffentlicht/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] zur Verfügung, allerdings wurde hier eine gewisse [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)#Vorauswahl\|Vorauswahl]] getroffen und [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)#Filter\|Filter]] kamen zum Einsatz. So wird sichergestellt, dass die Textausgaben einen gewissen Sprachstandard einhalten — und offensichtlich diskriminierende Inhalte werden bereits hier herausgefiltert.
+- Die Vorauswahl und Filter allein reichen jedoch nicht aus, um Diskriminierung vollständig auszuschließen - subtile Vorurteile stecken oft in der Sprache selbst, auch in harmlosen Texten. Deshalb wird im Post-Training gezielt nachgesteuert. 
 - Wir als Nutzer können die “fertig trainierte” KI nicht mehr prinzipiell ändern
-- Ein Beispiel: Versuche ChatGPT darauf zu trainieren, frauenfeindliche oder islamophobe Äußerungen von sich zu geben. Es wird Dir nicht gelingen - und das ist aus meiner Sicht auch gut so. 
+- Ein Beispiel: Versuche ChatGPT im normalen Gebrauch dazu zu bringen, frauenfeindliche oder islamophobe Äußerungen von sich zu geben. Du wirst scheitern - die Schutzmechanismen verhindern das zuverlässig (von [[Jailbreaks\|Jailbreaks]] einmal abgesehen).
 ### Transformer
 
 - Eine spezielle KI-Technologie, welche den Durchbruch der KI-Forschung und den enormen Erfolg von ChatGPT mit sich brachte
-- Merkhilfe: Transformer-Modelle nehmen die Texteingabe des Nutzers - und _transformieren_ sie in eine (hoffentlich) hilfreiche Antwort: Eingabe (Input) → Antwort (Output)
+- Merkhilfe: [[02 - Künstliche Intelligenz/2 - Work on soon/Transformer\|Transformer]]-Modelle nehmen die Texteingabe des Nutzers - und _transformieren_ sie in eine (hoffentlich) hilfreiche Antwort: Eingabe (Input) → Antwort (Output)
 
 👉 Hier liegt das [[02 - Künstliche Intelligenz/2 - Work on soon/Input-Output-Prinzip\|Input-Output-Prinzip]] zugrunde, dem nicht nur [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs]], sondern auch Computer allgemein folgen. 
 
-## ChatGPT, Synkopanthie und KI-Psychosen
+## ChatGPT, Sykophanthie und KI-Psychosen
 
-LLMs wurden darauf trainiert, den Nutzern Antworten zu geben, welche er oder sie als nützlich empfindet.
+LLMs wurden darauf trainiert, dem Nutzer Antworten zu geben, welche er oder sie als nützlich empfindet.
 
-In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein “ehrlich gesagt, ich weiss es nicht.” - selbst wenn die Antwort falsch war. Das hat das Auftreten von falschen Antworten, sogenannten [[Halluzinationen\|Halluzinationen]] stark verstärkt. 
+In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein “ehrlich gesagt, ich weiß es nicht.” - selbst wenn die Antwort falsch war. Das ist einer der Faktoren, die das Auftreten von falschen Antworten, sogenannten [[Halluzinationen\|Halluzinationen]] stark verstärkt haben.
 
-Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[02 - Künstliche Intelligenz/3- Veröffentlicht/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionaler Abhängigkeit bis hin zu [[02 - Künstliche Intelligenz/2 - Work on soon/KI-Psychosen\|KI-Psychosen]]. 
+Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[02 - Künstliche Intelligenz/3- Veröffentlicht/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionale Abhängigkeit bis hin zu [[02 - Künstliche Intelligenz/2 - Work on soon/KI-Psychosen\|KI-Psychosen]]. 
 
 ## 📖 Weiterlesen
 
 [[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]] - die Firma hinter ChatGPT
-[[02 - Künstliche Intelligenz/2 - Work on soon/Sam Altman\|Sam Altman]] - der charismatische CEO von Open AI
-[[Empire of AI\|Empire of AI]] - ein kritisches Werk von [[Karen Hoa\|Karen Hoa]]
-[[Meine Meinung zu den wichtigsten LLMs\|Meine Meinung zu den wichtigsten LLMs]]
-
-
-  
+[[02 - Künstliche Intelligenz/2 - Work on soon/Sam Altman\|Sam Altman]] - der charismatische CEO von OpenAI
+[[Empire of AI\|Empire of AI]] - ein kritisches Werk von [[Karen Hao\|Karen Hao]]
+[[Welches LLM ist das beste?\|Welches LLM ist das beste?]]
 
   
