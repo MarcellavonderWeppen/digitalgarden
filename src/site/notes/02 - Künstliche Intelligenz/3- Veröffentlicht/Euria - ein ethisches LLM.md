@@ -10,5 +10,5 @@ Das System wird vollständig in der Schweiz betrieben und nutzt ein nachhaltiges
 
 Die Firma dahinter ist [[02 - Künstliche Intelligenz/3- Veröffentlicht/Infomaniak\|Infomaniak]]: eine europäischen Alternative zu den US-amerikanischen [[02 - Künstliche Intelligenz/3- Veröffentlicht/Hyperscaler\|Hyperscalern]]. 
 
-Im Mai 2026 habe ich meinen bezahlten [[02 - Künstliche Intelligenz/1 - Work on now/ChatGPT\|ChatGPT]]-Account gekündigt und mich für ein Experiment entschieden: Euria sollte einen Monat lang meine neue Haupt-KI werden. Kann das gut gehen? 👉 [[02 - Künstliche Intelligenz/2 - Work on soon/Euria im Test (Mai 2026)\|Euria im Test (Mai 2026)]]
+Im Mai 2026 habe ich meinen bezahlten [[02 - Künstliche Intelligenz/0 - Final Check/ChatGPT\|ChatGPT]]-Account gekündigt und mich für ein Experiment entschieden: Euria sollte einen Monat lang meine neue Haupt-KI werden. Kann das gut gehen? 👉 [[02 - Künstliche Intelligenz/2 - Work on soon/Euria im Test (Mai 2026)\|Euria im Test (Mai 2026)]]
 
