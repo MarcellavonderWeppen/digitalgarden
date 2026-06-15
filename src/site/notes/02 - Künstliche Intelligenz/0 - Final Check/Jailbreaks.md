@@ -4,7 +4,13 @@
 
 ## Was sind Jailbreaks?
 
-Jedes Sprachmodell hat eine Art innere Hausordnung. Bestimmte Dinge tut es einfach nicht - keine Anleitung zur Drogenherstellung, keine Hetze, keine Hilfe beim Betrug. Diese Regeln stehen nicht in einem klassischen Regelwerk, sondern sind dem Modell antrainiert und über Systemanweisungen mitgegeben.
+Jedes Sprachmodell hat eine Art innere Hausordnung. Bestimmte Dinge tut es einfach nicht: 
+
+- keine Hilfe bei Betrug 
+- keine Anleitung zur Drogenherstellung
+- keine Hetze usw.
+
+Diese Regeln stehen nicht in einem klassischen Regelwerk, sondern sind dem Modell antrainiert und über Systemanweisungen mitgegeben.
 
 Ein **Jailbreak** (engl. _jail_ = Gefängnis, _break_ = Ausbruch) ist der Versuch, das Modell dazu zu bringen, diese Regeln zu umgehen - nicht durch Hacking im technischen Sinne, sondern durch geschickte Formulierung. Man redet dem Modell sozusagen aus, sich an seine eigenen Grundsätze zu halten. 
 
