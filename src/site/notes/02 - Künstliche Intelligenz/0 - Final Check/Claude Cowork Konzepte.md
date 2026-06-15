@@ -1,5 +1,5 @@
 ---
-{"title":"Unbenannt","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 100%"],"created":"2026-06-15","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/claude-cowork-konzepte/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Unbenannt","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 100%"],"created":"2026-06-15","updated":null,"status":null}}
+{"title":"Claude Cowork Konzepte","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 100%"],"created":"2026-06-15","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/claude-cowork-konzepte/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Claude Cowork Konzepte","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 100%"],"created":"2026-06-15","updated":null,"status":null}}
 ---
 
 

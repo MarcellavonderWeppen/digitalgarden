@@ -45,7 +45,7 @@ Schauen wir es uns Schritt für Schritt an:
 - Es wurde **vorab** mit riesigen Mengen Text trainiert: prinzipiell stand das gesamte [[02 - Künstliche Intelligenz/3- Veröffentlicht/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] zur Verfügung, allerdings wurde hier eine gewisse [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)#Vorauswahl\|Vorauswahl]] getroffen und [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)#Filter\|Filter]] kamen zum Einsatz. So wird sichergestellt, dass die Textausgaben einen gewissen Sprachstandard einhalten — und offensichtlich diskriminierende Inhalte werden bereits hier herausgefiltert.
 - Die Vorauswahl und Filter allein reichen jedoch nicht aus, um Diskriminierung vollständig auszuschließen - subtile Vorurteile stecken oft in der Sprache selbst, auch in harmlosen Texten. Deshalb wird im Post-Training gezielt nachgesteuert. 
 - Wir als Nutzer können die “fertig trainierte” KI nicht mehr prinzipiell ändern
-- Ein Beispiel: Versuche ChatGPT im normalen Gebrauch dazu zu bringen, frauenfeindliche oder islamophobe Äußerungen von sich zu geben. Du wirst scheitern - die Schutzmechanismen verhindern das zuverlässig (von [[02 - Künstliche Intelligenz/0 - Final Check/Jailbreaks\|Jailbreaks]] einmal abgesehen).
+- Ein Beispiel: Versuche ChatGPT im normalen Gebrauch dazu zu bringen, frauenfeindliche oder islamophobe Äußerungen von sich zu geben. Du wirst scheitern - die Schutzmechanismen verhindern das zuverlässig (von [[02 - Künstliche Intelligenz/3- Veröffentlicht/Jailbreaks\|Jailbreaks]] einmal abgesehen).
 ### Transformer
 
 - Eine spezielle KI-Technologie, welche den Durchbruch der KI-Forschung und den enormen Erfolg von ChatGPT mit sich brachte
