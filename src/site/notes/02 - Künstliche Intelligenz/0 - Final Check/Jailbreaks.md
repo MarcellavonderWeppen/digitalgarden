@@ -26,7 +26,7 @@ Ein paar gängige Methoden:
 
 ### Nicht verwechseln: Jailbreak vs. Prompt Injection
 
-Das landet oft im selben Topf, ist aber zweierlei:
+Das wird oft gleichgesetzt, ist aber zweierlei:
 
 - Beim **Jailbreak** ist der Nutzer selbst derjenige, der die Regeln aushebeln will.
 - Bei der [[02 - Künstliche Intelligenz/0 - Final Check/Prompt Injection\|Prompt Injection]] schmuggelt ein Dritter Anweisungen in Inhalte ein, die das Modell verarbeitet - etwa versteckt in einer Webseite oder E-Mail. Das Opfer ist der ahnungslose Nutzer, dessen KI plötzlich fremden Befehlen folgt.
