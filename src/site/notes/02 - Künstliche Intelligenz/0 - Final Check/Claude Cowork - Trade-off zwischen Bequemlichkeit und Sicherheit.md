@@ -67,7 +67,7 @@ Je mächtiger und integrierter ein Tool, desto höher der Preis in Sachen **Priv
 **Die Wahl liegt bei dir:** Willst du **maximale Sicherheit** (aber weniger Funktionen) oder **maximale Bequemlichkeit** (mit bewusster Akzeptanz der Risiken)?
 
 
-## Hintergrund dieses Artikels
+## *Hintergrund dieses Artikels*
 
 - Dieser Artikel wurde ursprünglich von Mistral geschrieben: [[02 - Künstliche Intelligenz/0 - Final Check/Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit 1.0\|Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit 1.0]]. 
 - Ich hatte ihn Claude zum Faktencheck gegeben, welcher heftig protestierte. 

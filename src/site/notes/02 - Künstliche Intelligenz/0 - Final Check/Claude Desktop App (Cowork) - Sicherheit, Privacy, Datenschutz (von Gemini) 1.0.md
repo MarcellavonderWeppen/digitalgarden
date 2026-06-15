@@ -1,8 +1,10 @@
 ---
-{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini) 1.0","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%","Claude 20%"],"created":"2026-06-12","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/claude-desktop-app-cowork-sicherheit-privacy-datenschutz-von-gemini-1-0/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini) 1.0","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%","Claude 20%"],"created":"2026-06-12","updated":null,"status":null}}
+{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini) 1.0","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 100%"],"created":"2026-06-12","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/claude-desktop-app-cowork-sicherheit-privacy-datenschutz-von-gemini-1-0/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini) 1.0","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 100%"],"created":"2026-06-12","updated":null,"status":null}}
 ---
 
 
+> [!warning] Faktencheck
+> Dieser Artikel wurde ursprünglich von Gemini geschrieben. Nach Faktencheck durch Claude wurde er weiter entwickelt zu [[02 - Künstliche Intelligenz/0 - Final Check/Claude Desktop App (Cowork)- Sicherheit, Privacy, Datenschutz (von Gemini)\|Claude Desktop App (Cowork)- Sicherheit, Privacy, Datenschutz (von Gemini)]]
 # Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini) 1.0
 
 
@@ -50,7 +52,3 @@ Die Sicherheits-Community ist sich einig, dass man das Werkzeug nicht einfach �
 **Fazit:** Die Funktion ist technisch beeindruckend, aber aus Sicherheits- und Datenschutzsicht wird sie derzeit als „hochsensibel“ eingestuft. Unternehmen und sicherheitsbewusste Nutzer sollten den Zugriff auf sensible Daten für die KI **physisch oder systemseitig beschränken**, anstatt sich nur auf die Sicherheitsvorkehrungen der Software zu verlassen.
 
 
-## 📖 Weiterlesen 
-
-- [[02 - Künstliche Intelligenz/0 - Final Check/Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit\|Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit]]
-- [[02 - Künstliche Intelligenz/0 - Final Check/Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini) 2.0\|Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini) 2.0]]
