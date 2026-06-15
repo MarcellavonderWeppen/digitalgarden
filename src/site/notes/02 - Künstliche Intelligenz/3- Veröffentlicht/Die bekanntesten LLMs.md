@@ -11,7 +11,7 @@ Im Folgenden ein Überblick über die wichtigsten [[02 - Künstliche Intelligenz
 ## 1. Die führenden Closed-Source- und Proprietären Modelle
 ### ChatGPT: Der Funke, der die KI-Revolution entzündete
 
-[[02 - Künstliche Intelligenz/0 - Final Check/ChatGPT\|ChatGPT]] markiert den Beginn einer neuen Ära in der KI-Kommunikation. Als erstes Sprachmodell, das einer breiten Öffentlichkeit zugänglich war, setzte es Maßstäbe für Leistung, Nutzerfreundlichkeit und die Möglichkeiten generativer KI. Mit seiner Einführung im November 2022 wurde nicht nur ein technologischer Durchbruch erzielt - es veränderte auch, wie wir KI wahrnehmen und in unserem Alltag einsetzen.
+[[02 - Künstliche Intelligenz/1 - Work on now/ChatGPT\|ChatGPT]] markiert den Beginn einer neuen Ära in der KI-Kommunikation. Als erstes Sprachmodell, das einer breiten Öffentlichkeit zugänglich war, setzte es Maßstäbe für Leistung, Nutzerfreundlichkeit und die Möglichkeiten generativer KI. Mit seiner Einführung im November 2022 wurde nicht nur ein technologischer Durchbruch erzielt - es veränderte auch, wie wir KI wahrnehmen und in unserem Alltag einsetzen.
 
 ### Claude: KI mit Verantwortung
 

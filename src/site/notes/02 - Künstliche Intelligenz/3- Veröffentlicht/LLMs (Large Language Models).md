@@ -73,7 +73,7 @@ Die Landkarte ist nicht die Wirklichkeit. Somit sind auch große Sprachmodelle k
 
 ## 📖 Weiterlesen
 
-- [[02 - Künstliche Intelligenz/0 - Final Check/ChatGPT\|ChatGPT]]
+- [[02 - Künstliche Intelligenz/1 - Work on now/ChatGPT\|ChatGPT]]
 - [[02 - Künstliche Intelligenz/3- Veröffentlicht/Die bekanntesten LLMs\|Die bekanntesten LLMs]]
 - [[Auf der Suche nach ChatGPT-Alternativen\|Auf der Suche nach ChatGPT-Alternativen]]
 

@@ -4,7 +4,7 @@
 
 # Künstliche Intelligenz 
 
-Die sogenannte “Künstliche Intelligenz” ist erst mit dem Startschuss von [[02 - Künstliche Intelligenz/0 - Final Check/ChatGPT\|ChatGPT]]  wirklich in das öffentliche Bewusstsein gerückt - dabei wird spätestens seit den 1950er Jahren intensiv daran geforscht. 
+Die sogenannte “Künstliche Intelligenz” ist erst mit dem Startschuss von [[02 - Künstliche Intelligenz/1 - Work on now/ChatGPT\|ChatGPT]]  wirklich in das öffentliche Bewusstsein gerückt - dabei wird spätestens seit den 1950er Jahren intensiv daran geforscht. 
 
 KI ist schon sehr viel länger unter uns als gemeinhin angenommen!
 
@@ -16,7 +16,7 @@ Die klassische KI machte den Anfang und dominierte die Forschung von den **1950e
 
 ## Statistische KI
 
-Diese Art von Künstlicher Intelligenz ist meistens gemeint, wenn Menschen von “KI” reden. **Statistische KI** beruht auf Verfahren, die aus großen Datenmengen mithilfe von Wahrscheinlichkeiten und Mustern lernen, anstatt auf fest programmierten Regeln. [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie [[02 - Künstliche Intelligenz/0 - Final Check/ChatGPT\|ChatGPT]] sind eine Form davon.
+Diese Art von Künstlicher Intelligenz ist meistens gemeint, wenn Menschen von “KI” reden. **Statistische KI** beruht auf Verfahren, die aus großen Datenmengen mithilfe von Wahrscheinlichkeiten und Mustern lernen, anstatt auf fest programmierten Regeln. [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie [[02 - Künstliche Intelligenz/1 - Work on now/ChatGPT\|ChatGPT]] sind eine Form davon.
 
 👉 Mehr lesen über [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|Statistische KI]]
 
