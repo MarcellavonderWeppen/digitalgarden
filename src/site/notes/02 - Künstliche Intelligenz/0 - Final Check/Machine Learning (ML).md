@@ -16,10 +16,20 @@
 
 ### Neuronale Netze
 
-- Derzeit der wichtigste Teilbereich des ML
+- Derzeit der wichtigste Teilbereich und leistungsstärkste Ansatz des ML
 - Neuronale Netze sind lose dem menschlichen Gehirn nachempfunden: viele einfache Recheneinheiten („Neuronen"), die in Schichten verbunden sind und ihre Verbindungen beim Lernen anpassen.
 
+## Deep Learning
+
+- Bezeichnet neuronale Netze mit besonders **vielen Schichten** - „deep" (tief) meint genau das: viele hintereinandergeschaltete Ebenen, nicht etwa ein tieferes „Verständnis".
+- Frühe Schichten erkennen einfachste Bausteine (Kanten, Formen), spätere setzen daraus komplexere Muster zusammen - die nötigen Regeln lernt das Netz dabei selbst aus den Daten.
+
+![Neural network cat dog.png\|1000](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Neural%20network%20cat%20dog.png)
+
+![deep neural network.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/deep%20neural%20network.png)
+
 >[!info] Zusammenfassung
->- Statistische KI ist das übergeordnete Paradigma 
+>- Statistische KI ist das übergeordnete [[02 - Künstliche Intelligenz/0 - Final Check/Paradigma (Denkmodell)\|Paradigma (Denkmodell)]]
 >- Machine Learning ist seine wichtigste praktische Ausprägung
 >- Neuronale Netze sind der wichtigste Teilbereich von ML
+>- Deep Learning bezeichnet neuronale Netze mit vielen Schichten

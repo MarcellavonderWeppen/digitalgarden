@@ -1,5 +1,5 @@
 ---
-{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini)","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-15","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/claude-desktop-app-cowork-sicherheit-privacy-datenschutz-von-gemini/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini)","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-15","updated":null,"status":null}}
+{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini)","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%","Claude 20%"],"created":"2026-06-15","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/claude-desktop-app-cowork-sicherheit-privacy-datenschutz-von-gemini/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini)","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%","Claude 20%"],"created":"2026-06-15","updated":null,"status":null}}
 ---
 
 
@@ -26,7 +26,7 @@ Um auf dem Host-System navigieren zu können, fertigt Claude fortlaufend und in 
 
 ### 2. Das ungelöste Tech-Risiko: Indirect Prompt Injection
 
-Das mit Abstand größte Sicherheitsrisiko ist und bleibt „Indirect [[02 - Künstliche Intelligenz/0 - Final Check/Prompt Injection\|Prompt Injection]]“. Es ist das Einbruchstor für Angreifer.
+Das mit Abstand größte Sicherheitsrisiko ist und bleibt „Indirect [[02 - Künstliche Intelligenz/3- Veröffentlicht/Prompt Injection\|Prompt Injection]]“. Es ist das Einbruchstor für Angreifer.
 
 - **Die Gefahr:** Wenn Claude über „Computer Use“ den Browser steuert, um für dich zu recherchieren, und dabei auf eine manipulierte Webseite gerät, kann dort versteckter, für das menschliche Auge unsichtbarer Text platziert sein. Da KI-Modelle bis heute nicht zuverlässig zwischen „Daten, die ich nur lesen soll“ und „Befehlen, die ich ausführen soll“ unterscheiden können, übernimmt die Seite die Kontrolle.
     

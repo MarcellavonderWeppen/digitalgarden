@@ -4,7 +4,7 @@
 
 # Statistische Künstliche Intelligenz 
 
-**Synonym**: Datengetriebene KI
+***Synonym**: Datengetriebene KI*
 
 Die **statistische KI** begegnet uns heute überall - in der Sprachverarbeitung, der Bilderkennung, hinter Empfehlungssystemen.
 
@@ -16,7 +16,7 @@ Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichke
 ## Entstehung
 
 - Die mathematischen Grundlagen (Wahrscheinlichkeitsrechnung, Bayes, Regression) reichen bis ins 18. und 19. Jahrhundert zurück
-- Aufstieg statistischer Methoden in der KI ab den späten 1980er Jahren, als die regelbasierte KI an ihre Grenzen stieß
+- Aufstieg statistischer Methoden in der KI ab den späten 1980er Jahren, als die [[02 - Künstliche Intelligenz/3- Veröffentlicht/Klassische KI\|klassische KI]] an ihre Grenzen stieß
 - Starker Aufschwung: **1990er bis heute**
 - Ermöglicht durch den immensen Fortschritt in:
     - Rechenleistung
