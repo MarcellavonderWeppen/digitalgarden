@@ -15,13 +15,15 @@ Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichke
 - Entscheidungen werden nicht strikt logisch, sondern nach Wahrscheinlichkeiten getroffen
 ## Entstehung
 
-- Die mathematischen Grundlagen (Wahrscheinlichkeitsrechnung, Bayes, Regression) reichen bis ins 18. und 19. Jahrhundert zurück
+- Die mathematischen Grundlagen (Wahrscheinlichkeitsrechnung, Bayes, Regression) reichen bis ins 18. Jahrhundert zurück
 - Aufstieg statistischer Methoden in der KI ab den späten 1980er Jahren, als die [[02 - Künstliche Intelligenz/3- Veröffentlicht/Klassische KI\|klassische KI]] an ihre Grenzen stieß
 - Starker Aufschwung: **1990er bis heute**
-- Ermöglicht durch den immensen Fortschritt in:
-    - Rechenleistung
-    - Verfügbarkeit großer Datenmengen („Big Data“)
-    - Algorithmen und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze)
+
+> [!info] Voraussetzungen
+Ermöglicht wurde diese Form der KI erst durch immense Fortschritte in:
+>-  Verfügbarkeit großer Datenmengen („Big Data“)
+>- Rechenleistung, um diese Datenmengen verarbeiten zu können 
+>- [[02 - Künstliche Intelligenz/1 - Work on now/Algorithmen\|Algorithmen]] und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und gegebene Rechenleistung optimal zu nutzen.
 ## Klassische vs. statistische KI
 
 | Aspekt       | Klassische KI       | Statistische KI              |
