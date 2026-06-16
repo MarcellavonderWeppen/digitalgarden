@@ -4,7 +4,9 @@
 
 # Was ist Machine Learning (ML)?
 
-## Statistische KI ist ein [[02 - Künstliche Intelligenz/0 - Final Check/Paradigma (Denkmodell)\|Paradigma]]
+Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines größeren Denkmodells: der [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistischen KI]] . Es setzt dieses [[02 - Künstliche Intelligenz/0 - Final Check/Paradigma (Denkmodell)\|Paradigma]] in konkrete [[02 - Künstliche Intelligenz/1 - Work on now/Algorithmen\|Algorithmen]] um - Verfahren, die aus Daten lernen, statt nach vorgegebenen Regeln zu arbeiten.
+
+## Statistische KI ist ein Paradigma
 
 - Sie arbeitet mit Wahrscheinlichkeiten, Datenanalyse und Statistik.
 - Kernidee: Nicht mit festen Regeln arbeiten, sondern Muster erkennen und Vorhersagen treffen.
@@ -12,11 +14,11 @@
 ## Machine Learning (ML) ist eine praktische Methode
 
 - Es setzt statistische Verfahren ein, um aus Daten zu lernen.
-- ML ist also eine Umsetzung statistischer KI - in Form von Algorithmen, wie sie z.B. hinter Sprachmodellen wie ChatGPT arbeiten.
+- ML ist also eine Umsetzung statistischer KI - in Form von [[02 - Künstliche Intelligenz/1 - Work on now/Algorithmen\|Algorithmen]], wie sie z.B. hinter Sprachmodellen wie ChatGPT arbeiten.
 
 ### Neuronale Netze
 
-- Derzeit der wichtigste Teilbereich und leistungsstärkste Ansatz des ML
+- Derzeit der wichtigste Teilbereich und leistungsstärkste Ansatz des ML.
 - Neuronale Netze sind lose dem menschlichen Gehirn nachempfunden: viele einfache Recheneinheiten („Neuronen"), die in Schichten verbunden sind und ihre Verbindungen beim Lernen anpassen.
 
 ## Deep Learning
