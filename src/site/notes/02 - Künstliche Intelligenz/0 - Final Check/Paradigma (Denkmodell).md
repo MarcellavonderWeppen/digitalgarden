@@ -12,7 +12,9 @@ Ein Paradigma ist der grundlegende Denkrahmen, durch den eine Gruppe oder ein Fa
 
 ## Paradigmenwechsel
 
-Den heutigen Sinn prägte der Wissenschaftstheoretiker Thomas Kuhn. Sein Punkt: Felder entwickeln sich nicht nur Schritt für Schritt weiter, sondern springen manchmal in einen ganz neuen Denkrahmen. Ein Beispiel ist der Wandel von der [[02 - Künstliche Intelligenz/3- Veröffentlicht/Klassische KI\|klassischen KI]]  (regelbasiert: Wissen und Regeln werden von Hand programmiert) hin zur [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistischen KI]] (das System lernt Muster selbst aus Daten). Dieselbe Aufgabe - eine Maschine soll intelligent handeln -, aber eine völlig andere Grundannahme darüber, woher dieses Können kommt. Genau das ist ein Paradigmenwechsel: Nicht ein Detail ändert sich, sondern die Brille, durch die alles betrachtet wird.
+Den heutigen Sinn prägte der Wissenschaftstheoretiker Thomas Kuhn. Sein Punkt: Felder entwickeln sich nicht nur Schritt für Schritt weiter, sondern springen manchmal in einen ganz neuen Denkrahmen. 
+
+Ein Beispiel ist der Wandel von der [[02 - Künstliche Intelligenz/3- Veröffentlicht/Klassische KI\|klassischen KI]]  (regelbasiert: Wissen und Regeln werden von Hand programmiert) hin zur [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistischen KI]] (das System lernt Muster selbst aus Daten). Dieselbe Aufgabe - eine Maschine soll intelligent handeln -, aber eine völlig andere Grundannahme darüber, woher dieses Können kommt. Genau das ist ein Paradigmenwechsel: Nicht ein Detail ändert sich, sondern die Brille, durch die alles betrachtet wird.
 
 > [!tip] Im Kern  
 > Ein Paradigma ist keine einzelne Methode, sondern die Grundhaltung dahinter - die Spielregeln, die bestimmen, welche Methoden überhaupt sinnvoll erscheinen.

@@ -4,7 +4,7 @@
 
 # Was ist Machine Learning (ML)?
 
-## Statistische KI ist ein Paradigma
+## Statistische KI ist ein [[02 - Künstliche Intelligenz/0 - Final Check/Paradigma (Denkmodell)\|Paradigma]]
 
 - Sie arbeitet mit Wahrscheinlichkeiten, Datenanalyse und Statistik.
 - Kernidee: Nicht mit festen Regeln arbeiten, sondern Muster erkennen und Vorhersagen treffen.
