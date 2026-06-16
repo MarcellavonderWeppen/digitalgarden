@@ -8,7 +8,7 @@ Dieser Bestseller von [Bernhard Moestl](https://www.moestl.com/de/profil/) besch
 
 In seinem Bestseller _„Shaolin – Du musst nicht kämpfen, um zu siegen!"_ führt Bernhard Moestl, ehemaliger Schüler der Shaolin-Mönche, Leser in die Philosophie des kampflosen Siegens ein. Das Buch vermittelt 13 Prinzipien, die auf uraltem asiatischem Wissen basieren, aber direkt im modernen Alltag anwendbar sind. Moestl zeigt, dass wahre Stärke nicht durch körperliche Kraft, sondern durch die Kontrolle des eigenen Denkens und der Emotionen erreicht wird. Die Lektionen reichen von Achtsamkeit und Gelassenheit bis hin zur strategischen Überlegenheit und helfen dem Einzelnen, Konflikte zu lösen, Führungsstärke zu entwickeln und innere Ruhe auch in stressigen Zeiten zu bewahren. Es ist ein Ratgeber für mentale Stärke, Klarheit und Durchsetzungskraft ohne Aggression.
 
-![Buchcover Shaolin - Du musst nicht kämpfen.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Buchcover%20Shaolin%20-%20Du%20musst%20nicht%20k%C3%A4mpfen.png)
+![Buchcover Shaolin - Du musst nicht kämpfen.png\|500](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Buchcover%20Shaolin%20-%20Du%20musst%20nicht%20k%C3%A4mpfen.png)
 
 ## Die 13 Prinzipien
 
