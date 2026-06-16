@@ -57,14 +57,14 @@ Schauen wir es uns Schritt für Schritt an:
 
 LLMs wurden darauf trainiert, dem Nutzer Antworten zu geben, welche er oder sie als nützlich empfindet.
 
-In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein “ehrlich gesagt, ich weiß es nicht.” - selbst wenn die Antwort falsch war. Das ist einer der Faktoren, die das Auftreten von falschen Antworten, sogenannten [[02 - Künstliche Intelligenz/2 - Work on soon/Halluzinationen\|Halluzinationen]] stark verstärkt haben.
+In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein “ehrlich gesagt, ich weiß es nicht.” - selbst wenn die Antwort falsch war. Das ist einer der Faktoren, die das Auftreten von falschen Antworten, sogenannten [[02 - Künstliche Intelligenz/1 - Work on now/Halluzinationen\|Halluzinationen]] stark verstärkt haben.
 
-Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[02 - Künstliche Intelligenz/3- Veröffentlicht/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionale Abhängigkeit bis hin zu [[02 - Künstliche Intelligenz/2 - Work on soon/KI-Psychosen\|KI-Psychosen]]. 
+Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[02 - Künstliche Intelligenz/3- Veröffentlicht/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionale Abhängigkeit bis hin zu [[02 - Künstliche Intelligenz/1 - Work on now/KI-Psychosen\|KI-Psychosen]]. 
 
 ## 📖 Weiterlesen
 
 [[02 - Künstliche Intelligenz/1 - Work on now/OpenAI\|OpenAI]] - die Firma hinter ChatGPT
 [[02 - Künstliche Intelligenz/1 - Work on now/Sam Altman\|Sam Altman]] - der charismatische CEO von OpenAI
-[[02 - Künstliche Intelligenz/2 - Work on soon/Empire of AI\|Empire of AI]] - ein kritisches Werk von [[Karen Hao\|Karen Hao]]
-[[Welches LLM ist das beste?\|Welches LLM ist das beste?]]
-[[Training von LLMs\|Training von LLMs]]
+[[02 - Künstliche Intelligenz/1 - Work on now/Empire of AI\|Empire of AI]] - ein kritisches Werk von [[02 - Künstliche Intelligenz/1 - Work on now/Karen Hao\|Karen Hao]]
+[[02 - Künstliche Intelligenz/2 - Work on soon/Welches LLM ist das beste?\|Welches LLM ist das beste?]]
+[[02 - Künstliche Intelligenz/2 - Work on soon/Training von LLMs\|Training von LLMs]]

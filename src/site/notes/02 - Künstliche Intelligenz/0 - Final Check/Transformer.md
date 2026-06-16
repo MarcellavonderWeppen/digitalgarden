@@ -20,7 +20,7 @@ Beispiel: Im Satz "Die Katze saß auf der Matte, weil sie müde war" schenkt "si
 
 Und hier wird es spannend: Woher weiß das Modell das? Nicht, weil irgendwo gespeichert wäre "Katze gehört zu müde". Das käme bei den unendlich vielen möglichen Wortkombinationen nie hin. Stattdessen trägt jedes Wort eine Art Steckbrief mit Eigenschaften mit sich: "Katze" ist ein Lebewesen, das Zustände haben kann; "müde" ist so ein Zustand; "Matte" ist ein unbelebter Gegenstand. Attention vergleicht diese Steckbriefe - und wo sie zusammenpassen, fließt viel Aufmerksamkeit.
 
-Diese Steckbriefe sind das, was beim Training gelernt wurde. Während des Trainings stellt sich das Netz über seine Gewichte - Millionen von Stellschrauben - nach und nach so ein, dass jedes Wort am Ende sinnvolle Eigenschaften bekommt. Die Gewichte stehen nach dem Training fest. Der Vergleich über Attention dagegen läuft bei jedem neuen Satz frisch ab. Deshalb funktioniert er auch bei Sätzen, die so nie in den Trainingsdaten standen.
+Diese Steckbriefe sind das, was beim Training gelernt wurde. Während des Trainings stellt sich das [[02 - Künstliche Intelligenz/0 - Final Check/Machine Learning (ML)#Neuronale Netze\|Netz]] über seine Gewichte - Millionen von Stellschrauben - nach und nach so ein, dass jedes Wort am Ende sinnvolle Eigenschaften bekommt. Die Gewichte stehen nach dem Training fest. Der Vergleich über Attention dagegen läuft bei jedem neuen Satz frisch ab. Deshalb funktioniert er auch bei Sätzen, die so nie in den Trainingsdaten standen.
 
 ## Warum "Transformer"?
 
