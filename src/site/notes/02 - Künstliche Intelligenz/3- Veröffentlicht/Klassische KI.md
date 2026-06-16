@@ -4,7 +4,7 @@
 
 # Klassische KI
 
-Die **klassische künstliche Intelligenz** (auch **symbolische KI**) basiert auf der Idee, dass Intelligenz durch **explizite Regeln und Symbole** beschrieben werden kann.
+Die **klassische künstliche Intelligenz** basiert auf der Idee, dass Intelligenz durch **explizite Regeln und Symbole** beschrieben werden kann.
 
 - Wissen wird **formal repräsentiert** (z. B. als Regeln, Fakten, Logik)
 - Systeme arbeiten mit **Wenn-Dann-Regeln**
@@ -30,4 +30,6 @@ Die **klassische künstliche Intelligenz** (auch **symbolische KI**) basiert auf
 
 ## Einordnung
 
-Die klassische KI dominierte die Forschung von den **1950er bis ca. 1990er Jahren**. Danach gewann **datengetriebene KI (Machine Learning, neuronale Netze)** zunehmend an Bedeutung.
+Die klassische KI dominierte die Forschung von den **1950er bis ca. 1990er Jahren**. Danach gewann [[02 - Künstliche Intelligenz/3- Veröffentlicht/Statistische KI\|datengetriebene KI (Machine Learning, neuronale Netze)]] zunehmend an Bedeutung.
+
+

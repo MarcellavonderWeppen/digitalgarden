@@ -2,7 +2,6 @@
 {"title":"Input-Output-Prinzip","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/input-output-prinzip/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Input-Output-Prinzip","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":null}}
 ---
 
-
 # Input-Output-Prinzip
 
 Wir geben bei ChatGPT einen Text ein – das ist der Input. Das Modell verarbeitet diesen Input und gibt uns als Output eine passende Antwort zurück.

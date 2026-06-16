@@ -1,5 +1,5 @@
 ---
-{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini)","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%","Claude 20%"],"created":"2026-06-15","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/claude-desktop-app-cowork-sicherheit-privacy-datenschutz-von-gemini/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini)","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%","Claude 20%"],"created":"2026-06-15","updated":null,"status":null}}
+{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini)","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%","Claude 20%"],"created":"2026-06-15","updated":"2026-06-16","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/claude-desktop-app-cowork-sicherheit-privacy-datenschutz-von-gemini/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini)","aliases":null,"tags":null,"gen_ai_anteil":["Gemini 80%","Claude 20%"],"created":"2026-06-15","updated":"2026-06-16","status":null}}
 ---
 
 # Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini)

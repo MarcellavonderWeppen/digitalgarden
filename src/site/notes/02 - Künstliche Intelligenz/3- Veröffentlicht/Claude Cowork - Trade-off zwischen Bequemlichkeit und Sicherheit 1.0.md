@@ -1,5 +1,5 @@
 ---
-{"title":"Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit 1.0","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-06-12","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/claude-cowork-trade-off-zwischen-bequemlichkeit-und-sicherheit-1-0/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit 1.0","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-06-12","updated":null,"status":null}}
+{"title":"Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit 1.0","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-06-12","updated":"2026-06-15","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-veroeffentlicht/claude-cowork-trade-off-zwischen-bequemlichkeit-und-sicherheit-1-0/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit 1.0","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-06-12","updated":"2026-06-15","status":null}}
 ---
 
 > [!warning] Inhaltliche Fehler
