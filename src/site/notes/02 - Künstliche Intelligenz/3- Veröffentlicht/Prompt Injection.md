@@ -38,8 +38,8 @@ Prompt Injection ist kein Randthema, sondern ein echtes Sicherheitsproblem - und
 > - Noch heikler sind KI-Anwendungen direkt auf dem Rechner - etwa Desktop-Apps wie die von Claude: Sie haben oft weitreichenden Zugriff auf lokale Dateien und Programme, teils mit vollen Systemrechten. Was bei einem reinen Chat nur eine seltsame Antwort wäre, kann hier dazu führen, dass eine versteckte Anweisung Dateien ausliest oder weitergibt.
 ## 📖 Weiterlesen
 
- - [[02 - Künstliche Intelligenz/0 - Final Check/Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit\|Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit]]
- - [[02 - Künstliche Intelligenz/0 - Final Check/Claude Desktop App (Cowork)- Sicherheit, Privacy, Datenschutz (von Gemini)\|Claude Desktop App (Cowork)- Sicherheit, Privacy, Datenschutz (von Gemini)]]
+ - [[02 - Künstliche Intelligenz/3- Veröffentlicht/Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit\|Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit]]
+ - [[02 - Künstliche Intelligenz/3- Veröffentlicht/Claude Desktop App (Cowork)- Sicherheit, Privacy, Datenschutz (von Gemini)\|Claude Desktop App (Cowork)- Sicherheit, Privacy, Datenschutz (von Gemini)]]
  - KI verstehen auf die verspielte Art und Weise: Überrede die KI, das Passwort zu verraten! 👉 https://www.lakera.ai/gandalf
 
 
