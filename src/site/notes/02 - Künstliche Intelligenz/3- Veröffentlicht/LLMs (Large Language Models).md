@@ -77,3 +77,10 @@ Die Landkarte ist nicht die Wirklichkeit. Somit sind auch große Sprachmodelle k
 - [[02 - Künstliche Intelligenz/3- Veröffentlicht/Die bekanntesten LLMs\|Die bekanntesten LLMs]]
 - [[Auf der Suche nach ChatGPT-Alternativen\|Auf der Suche nach ChatGPT-Alternativen]]
 
+## 📺 Aus der YouTube-Academy
+
+Eine fundierte und umfassend Einführung (3,5 Std.) von [[02 - Künstliche Intelligenz/0 - Final Check/Andrej Karpathy\|Andrej Karpathy]] in das Thema:  [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI). Für alle, die das Thema wirklich durchdringen wollen!
+
+Aus den Kommentaren zum Video: 
+
+>   *In an era where almost everyone is trying to monetize every ounce of knowledge they have, this pure genius is releasing a 3-hour, 31-minute, and 23-second-long video for free (I am sure it would have taken at least five times that to compile this content). His videos are the most knowledge-rich content available on this topic. Andrej Karpathy, you are my favorite person on the internet. More power to you, brother.*

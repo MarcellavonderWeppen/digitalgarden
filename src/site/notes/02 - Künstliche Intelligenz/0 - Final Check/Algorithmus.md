@@ -1,5 +1,5 @@
 ---
-{"title":"Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 60"],"created":"2026-06-16","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/algorithmus/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 60"],"created":"2026-06-16","updated":null,"status":null}}
+{"title":"Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-16","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/algorithmus/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-16","updated":null,"status":null}}
 ---
 
 # Algorithmus
@@ -47,15 +47,18 @@ Ergebnis: ein fertiges Rezept zum Loslegen.
 
 Das ist eine klare, endliche Schritt-für-Schritt-Anweisung - dieselbe Grundstruktur wie ganz oben in der Definition.
 
+Natürlich kann man mit KI nicht nur für Rezepte, sondern auch für das Programmieren ganzer Apps und Webseiten verwenden - das sogenannte [[02 - Künstliche Intelligenz/3- Veröffentlicht/Vibecoding 1.0 (Euria)\|Vibecoding 1.0 (Euria)]].
+
 ### Praxiswissen für gute Prompts
 
+- Ein guter Prompt führt - so wie ein guter Algorithmus - vom Problem zur Lösung. 
 - Formuliere das Problem so genau wie möglich - denn im Formulieren des Problems ist die Lösung oft schon vorhanden
 - Beschreibe die gewünschte Lösung / das Ergebnis möglichst klar und eindeutig
-- Ein guter Prompt skaliert- einmal formuliert kann er ein ähnliches Problem wieder und wieder lösen.
+- Ein guter Algorithmus ist allgemein. Einmal geschrieben, funktioniert er für zahllose gleichartige Anwendungsfälle. Auch ein guter Prompt skaliert - er kann ein ähnliches Problem wieder und wieder lösen.
 
 ![Prompt Algorithmus 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Prompt%20Algorithmus%201.png)
 ### Prompts sind Algorithmen … fast
 
 Ein klassischer Algorithmus liefert bei gleicher Eingabe immer dasselbe Ergebnis. Ein Prompt nicht - dieselbe Anweisung kann zwei verschiedene Antworten erzeugen.
 
-Ein Prompt ist also kein Algorithmus im strengen Sinn, aber er teilt mit ihm den Kern: das Denken in klaren, nachvollziehbaren Schritten. Wer schon einmal einen Algorithmus durchdacht hat, schreibt auch bessere Prompts.
+Ein Prompt ist also kein Algorithmus im strengen Sinn, aber er teilt mit ihm den Kern: das Denken in klaren, nachvollziehbaren Schritten. 

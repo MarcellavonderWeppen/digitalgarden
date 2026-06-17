@@ -35,3 +35,9 @@ Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines gr�
 >- Machine Learning ist seine wichtigste praktische Ausprägung
 >- Neuronale Netze sind der wichtigste Teilbereich von ML
 >- Deep Learning bezeichnet neuronale Netze mit vielen Schichten
+
+## 📺 Aus der YouTube-Academy
+
+Hier der Deep Dive von [[02 - Künstliche Intelligenz/0 - Final Check/Andrej Karpathy\|Andrej Karpathy]] zum Thema, für alle, die das Thema wirklich in der Tiefe verstehen wollen:
+
+[Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 🐇
