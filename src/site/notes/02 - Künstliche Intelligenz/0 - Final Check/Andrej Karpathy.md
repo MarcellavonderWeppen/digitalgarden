@@ -1,5 +1,5 @@
 ---
-{"title":"Andrej Karpathy","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-06-17","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/andrej-karpathy/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Andrej Karpathy","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-06-17","updated":null,"status":null}}
+{"title":"Andrej Karpathy","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%","Gemini 20%"],"created":"2026-06-17","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/andrej-karpathy/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Andrej Karpathy","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%","Gemini 20%"],"created":"2026-06-17","updated":null,"status":null}}
 ---
 
 # Andrej Karpathy
@@ -7,9 +7,6 @@
 Andrej Karpathy (geboren 1986 in Bratislava) ist ein bekannter KI-Forscher. 
 
 Bemerkenswert an ihm ist seine Doppelrolle. Er ist anerkannter Spitzenforscher und zugleich Lehrer, der komplexe Themen für ein breites Publikum aufbereitet.
-
-- **Forschung:** gilt als einer der frühen Pioniere generativer KI mit Beiträgen in den Bereichen [[02 - Künstliche Intelligenz/3- Veröffentlicht/Machine Learning (ML)#Deep Learning\|Deep Learning]], Computer Vision und [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs]] 
-- **Vermittlung:** entwarf und unterrichtete den ersten Deep-Learning-Kurs an Stanford (“CS231n”), der zu einer der beliebtesten Vorlesungen der Universität wurde; bekannt auch für seine YouTube-Lehrvideos, u.a. die Reihe „Zero to Hero"
 
 ## Stationen 
 
@@ -30,16 +27,16 @@ Karpathy war einer der ersten Doktoranden von Fei-Fei Li an der Stanford Univers
 
 ## Demokratisierung von KI-Wissen
 
-Karpathy hat eine seltene Gabe, komplexe Konzepte so aufzubereiten, dass sie verständlich werden. Vielleicht ist sein größter Einfluss auf die KI-Bewegung gar nicht seine Forschung, sondern seine Rolle als Mentor für eine ganze Generation von KI-Entwicklern:
+Karpathy hat eine seltene Gabe, komplexe Konzepte so aufzubereiten, dass sie verständlich werden. Er verkörpert eine optimistische, aber bodenständige Haltung: KI ist ein mächtiges Tool, das man tief verstehen und verantwortungsvoll einsetzen sollte.
+
+Vielleicht ist sein größter Einfluss auf die KI-Bewegung gar nicht seine Forschung, sondern seine Rolle als Mentor für eine ganze Generation von KI-Entwicklern:
 
 - **CS231n in Stanford:** Sein dort entwickelter Kurs über _Convolutional Neural Networks_ (CNNs) ist bis heute die absolute Standard-Einführung in die Computer Vision. Die Vorlesungen wurden millionenfach auf YouTube geklickt.
 - **Die „Zero to Hero“-Serie:** Nach seinem Abschied von Tesla startete er eine legendäre Video-Reihe. Darin baut er hochkomplexe Systeme wie _nanoGPT_ von Grund auf in reinem Python-Code nach – ohne dicke Bibliotheken zu nutzen. Seine Videos entzaubern die Magie der LLMs und zeigen Entwicklern weltweit die mathematische Realität hinter dem Hype.
 
+## Begriffsprägung
 
-
-## 📖 Weiterlesen
-
-- [[02 - Künstliche Intelligenz/0 - Final Check/Andrej Karpathy - Ein umfassendes Portrait\|Andrej Karpathy - Ein umfassendes Portrait]]
+Eigenständiges Paradigma
 
 
 ## 📺 Aus der YouTube-Academy
@@ -48,7 +45,7 @@ Andrej bietet mit den besten kostenlosen Content zum Thema KI, den das Internet 
 
 Hier ist der Link zu seinem Kanal, für alle, die sich umfassend weiterbilden wollen 👇
 
-[Andrej’s YouTubeKanal](https://www.youtube.com/@AndrejKarpathy)
+[Andrej’s YouTube-Kanal](https://www.youtube.com/@AndrejKarpathy)
 
 
 

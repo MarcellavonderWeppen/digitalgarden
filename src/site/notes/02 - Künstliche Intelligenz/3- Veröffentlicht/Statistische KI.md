@@ -23,7 +23,7 @@ Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichke
 Ermöglicht wurde diese Form der KI erst durch immense Fortschritte in:
 >-  Verfügbarkeit großer Datenmengen („Big Data“)
 >- Rechenleistung, um diese Datenmengen verarbeiten zu können 
->- [[02 - Künstliche Intelligenz/0 - Final Check/Algorithmus\|Algorithmus]] und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen.
+>- [[02 - Künstliche Intelligenz/3- Veröffentlicht/Algorithmus\|Algorithmus]] und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen.
 ## Klassische vs. statistische KI
 
 | Aspekt       | Klassische KI       | Statistische KI              |
