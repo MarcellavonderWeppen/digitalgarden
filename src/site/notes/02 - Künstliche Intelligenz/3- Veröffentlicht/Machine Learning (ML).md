@@ -38,6 +38,6 @@ Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines gr�
 
 ## 📺 Aus der YouTube-Academy
 
-Hier der Deep Dive von [[02 - Künstliche Intelligenz/0 - Final Check/Andrej Karpathy\|Andrej Karpathy]] zum Thema, für alle, die das Thema wirklich in der Tiefe verstehen wollen:
+Hier der Deep Dive von [[02 - Künstliche Intelligenz/2 - Work on soon/Andrej Karpathy\|Andrej Karpathy]] zum Thema, für alle, die das Thema wirklich in der Tiefe verstehen wollen:
 
 [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 🐇

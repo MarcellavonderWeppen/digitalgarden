@@ -79,7 +79,7 @@ Die Landkarte ist nicht die Wirklichkeit. Somit sind auch große Sprachmodelle k
 
 ## 📺 Aus der YouTube-Academy
 
-Eine fundierte und umfassend Einführung (3,5 Std.) von [[02 - Künstliche Intelligenz/0 - Final Check/Andrej Karpathy\|Andrej Karpathy]] in das Thema:  [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI). Für alle, die das Thema wirklich durchdringen wollen!
+Eine fundierte und umfassend Einführung (3,5 Std.) von [[02 - Künstliche Intelligenz/2 - Work on soon/Andrej Karpathy\|Andrej Karpathy]] in das Thema:  [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI). Für alle, die das Thema wirklich durchdringen wollen!
 
 Aus den Kommentaren zum Video: 
 
