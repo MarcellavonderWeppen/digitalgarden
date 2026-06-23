@@ -10,8 +10,8 @@ Bemerkenswert an ihm ist seine Doppelrolle. Er ist anerkannter Spitzenforscher u
 
 ## Stationen 
 
-- Promotion 2015 an der an der Stanford University bei Fei-Fei Li, mit Schwerpunkt auf Deep Learning und Computer Vision
--  Gründungsmitglied von [[02 - Künstliche Intelligenz/1 - Work on now/OpenAI\|OpenAI]] im selben Jahr
+- Promotion 2015 an der Stanford University bei Fei-Fei Li, mit Schwerpunkt auf Deep Learning und Computer Vision
+-  Gründungsmitglied von [[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]] im selben Jahr
 - 2017 Wechsel zu Tesla, wo er als Director of AI das Computer-Vision-Team hinter dem Autopilot leitete
 - 2023 kurze Rückkehr zu OpenAI
 - 2024 Gründung seiner KI-Bildungsplattform Eureka Labs
@@ -36,8 +36,13 @@ Vielleicht ist sein größter Einfluss auf die KI-Bewegung gar nicht seine Forsc
 
 ## Begriffsprägung
 
-Eigenständiges Paradigma
+Anfang 2025 wirft Karpathy den Begriff [[02 - Künstliche Intelligenz/0 - Final Check/Vibecoding\|Vibecoding]] beiläufig in die Welt und gibt damit einem Ding einen Namen, welches unzählige Programmierer zu diesem Zeitpunkt praktizierten - vielfach mit schlechtem Gewissen und dem Gefühl, keine “richtigen” Programmierer zu sein. 
 
+Indem er das Zusammenspiel von Mensch und KI in ein alltagstaugliches Konzept verpackte, machte er es auch außerhalb der Tech-Blase greifbar. Diese begriffliche Klarheit wirkte wie ein Katalysator: Sie nahm der neuen Arbeitsweise das Stigma, beschleunigte die Akzeptanz in der Industrie und trieb die Marktreife neuer Produkte rasant voran.
+
+Damit gewinnt Karpathy eine intellektuelle Wette, die er schon vor fast einem Jahrzehnt geschlossen hatte. 2017 schrieb er seinen berühmten Essay über **Software 2.0**. Seine These war: In Zukunft schreiben wir keinen Code mehr, wir trainieren Netze.
+
+_Vibe Coding_ und (später von ihm nachgeliefert) _[[02 - Künstliche Intelligenz/0 - Final Check/Agentic Engineering\|Agentic Engineering]]_ sind die menschliche und die systemische Konsequenz dieser Prophezeiung. Er wirft diese Begriffe nicht einfach so in die Welt – er dokumentiert damit das historische Ende der klassischen Software-Ära (Software 1.0) und gibt der neuen Ära ihr Gesicht.
 
 ## 📺 Aus der YouTube-Academy
 
