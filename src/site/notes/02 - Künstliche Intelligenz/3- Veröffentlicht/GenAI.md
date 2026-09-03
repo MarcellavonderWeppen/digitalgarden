@@ -36,11 +36,10 @@ Allerdings bringt GenAI auch Herausforderungen mit sich: Sie verbraucht enorme R
 
 #### Unterkategorien von GenAI
 
-[[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
-
 [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs (Large Language Models)]]
 
-[[02 - Künstliche Intelligenz/1 - Work on now/KI-Sprachtechnologie\|KI-Sprachtechnologie]]
+[[KI-Sprachtechnologie \| KI-Sprachtechnologie - inkl. SST (Speech-to-Text))]]
+
 
 
 </div></div>
