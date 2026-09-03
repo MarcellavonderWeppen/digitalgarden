@@ -30,9 +30,7 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von “KI” d
 
 ### GenAI
 
-[[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|GenAI]] ist kurz für "generative AI" – also KI, die "generieren" kann, beispielsweise Texte, Musik, Bilder oder Videos. 
-
-Generative KI ist der bekannteste Teilbereich der statistischen KI. [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|Large Language Models]], also “große Sprachmodelle” wie ChatGPT, sind die bekannteste Ausprägung davon. 
+[[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|GenAI]] ist kurz für "generative AI" – also KI, die "generieren" kann, beispielsweise Texte, Musik, Bilder oder Videos. Sie ist der Teilbereich der statistischen KI, der heute die meiste Aufmerksamkeit bekommt – vor allem durch Large Language Models, also „große Sprachmodelle“ wie ChatGPT.
 
 #### Unterkategorien von GenAI
 
