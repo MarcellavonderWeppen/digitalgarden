@@ -1,12 +1,12 @@
 ---
-{"title":"Künstliche Intelligenz","aliases":["KI"],"tags":null,"gen_ai_anteil":null,"created":"2026-04-03","updated":"2026-06-03","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/kuenstliche-intelligenz-1/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Künstliche Intelligenz","aliases":["KI"],"tags":null,"gen_ai_anteil":null,"created":"2026-04-03","updated":"2026-06-03","status":null}}
+{"title":"Künstliche Intelligenz","aliases":["KI"],"tags":null,"gen_ai_anteil":null,"created":"2026-04-03","updated":"2026-09-03","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/kuenstliche-intelligenz-1/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Künstliche Intelligenz","aliases":["KI"],"tags":null,"gen_ai_anteil":null,"created":"2026-04-03","updated":"2026-09-03","status":null}}
 ---
 
 # Künstliche Intelligenz 
 
 Die sogenannte “künstliche Intelligenz” ist erst mit dem Startschuss von [[02 - Künstliche Intelligenz/3- Veröffentlicht/ChatGPT\|ChatGPT]]  wirklich in das öffentliche Bewusstsein gerückt. 
 
-Meistens wird hier KI mit dem jüngsten Geschwisterchen in dieser großen Familie gleichgesetzt – der [[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|generativen KI]], welche Texte, Bilder oder Videos erstellen kann. 
+Meistens wird hier KI mit dem jüngsten Geschwisterchen dieser großen Familie gleichgesetzt – der [[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|generativen KI]], welche Texte, Bilder oder Videos erstellen kann. 
 
 Doch das große Bild ist sehr viel umfassender; spätestens seit den 50er Jahren wird intensiv auf diesem Gebiet geforscht. 
 
@@ -30,7 +30,7 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von “KI” d
 
 ### GenAI
 
-[[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|GenAI]] ist kurz für "generative AI" – also KI, die "generieren" kann, beispielsweise Text, Musik, Bilder oder Videos. Ein Teilbereich der statistischen KI. [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|Large Language Models]], also “Große Sprachmodelle” wie ChatGPT, sind die bekannteste Ausprägung davon. 
+[[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|GenAI]] ist kurz für "generative AI" – also KI, die "generieren" kann, beispielsweise Texte, Musik, Bilder oder Videos. Ein Teilbereich der statistischen KI. [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|Large Language Models]], also “große Sprachmodelle” wie ChatGPT, sind die bekannteste Ausprägung davon. 
 
 #### Unterkategorien von GenAI
 
