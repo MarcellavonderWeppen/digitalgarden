@@ -8,7 +8,7 @@ Wenn die meisten Menschen vom „Internet“ sprechen, meinen sie meist nur das 
 
 Vom Dark Web haben viele schon gehört, obwohl es nur ein winziger Teil ist. Tatsächlich entfällt ein Großteil von **über 90 %** auf das Deep Web. Schauen wir uns die einzelnen Schichten des Internets einmal genauer an. 
 
-![Internet Eisberg.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20now/Bilder/Internet%20Eisberg.png)
+![[Internet Eisberg.png\|Internet Eisberg.png]]
 
 ## Surface Web – Die Spitze des Eisbergs
 

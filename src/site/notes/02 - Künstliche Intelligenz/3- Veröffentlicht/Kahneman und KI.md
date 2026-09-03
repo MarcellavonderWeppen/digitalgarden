@@ -28,7 +28,7 @@ Mit diesem Wissen kann ich die KI bei Bedarf ein wenig in die richtige Richtung 
 
 Kahnemans Werk beleuchtet, wie menschliche Intelligenz funktioniert - und wirft damit unweigerlich die Frage auf: Was fehlt der KI noch, um wirklich intelligent zu sein?
 
-Soll [[02 - Künstliche Intelligenz/3- Veröffentlicht/Künstliche Intelligenz\|KI]] so etwas wie echte Intelligenz entwickeln, müssen zukünftige Systeme klassische und statistische Ansätze kombinieren - und lernen zu erkennen, welcher gerade angemessen ist. 
+Soll [[02 - Künstliche Intelligenz/1 - Work on now/Künstliche Intelligenz\|KI]] so etwas wie echte Intelligenz entwickeln, müssen zukünftige Systeme klassische und statistische Ansätze kombinieren - und lernen zu erkennen, welcher gerade angemessen ist. 
 
 Wirklich spannend wird es, wenn Roboter mit LLMs verschmelzen, ihre eigenen Erfahrungen in der realen Welt machen und Sprache mit diesen Erfahrungen verknüpfen. 
 
@@ -48,6 +48,6 @@ Mit Vollgas gegen die nächste Wand fahren macht den Aufprall auch nicht besser.
 
 Ob KI prinzipiell so etwas wie Bewusstsein entwickeln kann, bleibt eine offene Frage - ebenso, ob sie ab einem gewissen Punkt die Menschheit vernichten könnte. Und dennoch treibt Big Tech diese Entwicklung mit immer größerer Beschleunigung voran. Eine Entscheidung, die von einer selbsternannten Tech-Elite getroffen wurde, ohne dass der Rest von uns gefragt wurde, ob wir diesen Weg überhaupt gehen wollen.
 
-Vielleicht ist es an der Zeit, dass wir alle Langsamkeit wieder zu einem wichtigen Wert erklären und das ganze Projekt [[02 - Künstliche Intelligenz/3- Veröffentlicht/Künstliche Intelligenz\|Künstliche Intelligenz]] mit Umsicht und Bedacht angehen. 
+Vielleicht ist es an der Zeit, dass wir alle Langsamkeit wieder zu einem wichtigen Wert erklären und das ganze Projekt [[02 - Künstliche Intelligenz/1 - Work on now/Künstliche Intelligenz\|Künstliche Intelligenz]] mit Umsicht und Bedacht angehen. 
 
 

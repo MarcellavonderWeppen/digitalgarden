@@ -17,7 +17,7 @@ Karpathy nennt Dezember 2025 als persönlichen Wendepunkt: Über die Feiertage t
 
 ## Merkmale von Agentic Engineering
 
-- **Der Mensch als Dirigent (Human-in-the-Loop):** Man schreibt den Code nicht mehr mühsam Zeile für Zeile selbst. Stattdessen wird der Mensch zum Manager, der die KI-Systeme steuert, deren Ergebnisse prüft und am Ende die Freigabe gibt.
+- **Der Mensch als Dirigent** ([[Human-in-the-Loop\|Human-in-the-Loop]]): Man schreibt den Code nicht mehr mühsam Zeile für Zeile selbst. Stattdessen wird der Mensch zum Manager, der die KI-Systeme steuert, deren Ergebnisse prüft und am Ende die Freigabe gibt.
     
 - **Ein ganzes Team aus KI-Spezialisten (Multi-Agenten):** Statt nur mit einem einzigen Chatbot zu schreiben, arbeiten hier mehrere KI-„Agenten“ Hand in Hand. Einer plant das Projekt, einer schreibt den Code und ein dritter sucht gezielt nach Fehlern – wie in einer echten Software-Firma.
     

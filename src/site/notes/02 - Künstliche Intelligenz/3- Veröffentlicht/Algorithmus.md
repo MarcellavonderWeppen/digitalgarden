@@ -18,7 +18,7 @@ Lösung: Omas Apfelkuchen Rezept
 
 Ein Backrezept ist ein Algorithmus - es beschreibt exakt, in welcher Reihenfolge welche Schritte ausgeführt werden, damit am Ende (hoffentlich) ein Kuchen herauskommt.
 
-![Omas Apfelkuchen.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Omas%20Apfelkuchen.png)
+![[Omas Apfelkuchen.png\|Omas Apfelkuchen.png]]
 ## Algorithmus vs. Computerprogramm
 
 Ein Algorithmus ist die **Idee** - abstrakt, sprachunabhängig. Ein Computerprogramm ist die **Umsetzung** dieser Idee in einer konkreten Programmiersprache, die ein Computer ausführen kann.
@@ -26,7 +26,7 @@ Ein Algorithmus ist die **Idee** - abstrakt, sprachunabhängig. Ein Computerprog
 - Dasselbe Rezept lässt sich auf Deutsch, Englisch oder Französisch aufschreiben. 
 - Derselbe Algorithmus lässt sich in Python, Java oder C++ implementieren.
  
-![Algorithmus Spamfilter.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Algorithmus%20Spamfilter.png)
+![[Algorithmus Spamfilter.png\|Algorithmus Spamfilter.png]]
 
 ## Im Zeitalter der KI sind wir alle Programmierer
 
@@ -52,11 +52,11 @@ Natürlich kann man mit KI nicht nur für Rezepte, sondern auch für das Program
 ### Praxiswissen für gute Prompts
 
 - Ein guter Prompt führt - so wie ein guter Algorithmus - vom Problem zur Lösung. 
-- Formuliere das Problem so genau wie möglich - denn im Formulieren des Problems ist die Lösung oft schon vorhanden
-- Beschreibe die gewünschte Lösung / das Ergebnis möglichst klar und eindeutig
+- Formuliere das Problem so genau wie möglich - denn im Formulieren des Problems ist die Lösung oft schon vorhanden.
+- Beschreibe die gewünschte Lösung / das Ergebnis möglichst klar und eindeutig.
 - Ein guter Algorithmus ist allgemein. Einmal geschrieben, funktioniert er für zahllose gleichartige Anwendungsfälle. Auch ein guter Prompt skaliert - er kann ein ähnliches Problem wieder und wieder lösen.
 
-![Prompt Algorithmus 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Prompt%20Algorithmus%201.png)
+![[Prompt Algorithmus 1.png\|Prompt Algorithmus 1.png]]
 ### Prompts sind Algorithmen … fast
 
 Ein klassischer Algorithmus liefert bei gleicher Eingabe immer dasselbe Ergebnis. Ein Prompt nicht - dieselbe Anweisung kann zwei verschiedene Antworten erzeugen.
