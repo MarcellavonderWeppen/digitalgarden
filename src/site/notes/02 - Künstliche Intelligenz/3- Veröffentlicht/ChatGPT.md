@@ -39,7 +39,7 @@ Schauen wir es uns Schritt für Schritt an:
 ### Generative
 
 - Das Modell erzeugt etwas (und zwar Texte)
-- Es gehört damit der übergeordneten Kategorie [[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|Generative KI]] an, welche u.a. Texte, Bilder, Videos und Musik generieren kann 
+- Es gehört damit der übergeordneten Kategorie [[02 - Künstliche Intelligenz/2 - Work on soon/GenAI\|Generative KI]] an, welche u.a. Texte, Bilder, Videos und Musik generieren kann 
 ### Pre-trained
 
 - Es wurde **vorab** mit riesigen Mengen Text trainiert: prinzipiell stand das gesamte [[02 - Künstliche Intelligenz/3- Veröffentlicht/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] zur Verfügung, allerdings wurde hier eine gewisse [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)#Vorauswahl\|Vorauswahl]] getroffen und [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)#Filter\|Filter]] kamen zum Einsatz. So wird sichergestellt, dass die Textausgaben einen gewissen Sprachstandard einhalten — und offensichtlich diskriminierende Inhalte werden bereits hier herausgefiltert.
@@ -51,13 +51,13 @@ Schauen wir es uns Schritt für Schritt an:
 - Eine spezielle KI-Technologie, welche den Durchbruch der KI-Forschung und den enormen Erfolg von ChatGPT mit sich brachte
 - Merkhilfe: [[02 - Künstliche Intelligenz/3- Veröffentlicht/Transformer\|Transformer]]-Modelle nehmen die Texteingabe des Nutzers - und _transformieren_ sie in eine (hoffentlich) hilfreiche Antwort: Eingabe (Input) → Antwort (Output)
 
-👉 Hier liegt das [[02 - Künstliche Intelligenz/1 - Work on now/Input-Output-Prinzip\|Input-Output-Prinzip]] zugrunde, dem nicht nur [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs]], sondern auch Computer allgemein folgen. 
+👉 Hier liegt das [[02 - Künstliche Intelligenz/2 - Work on soon/Input-Output-Prinzip\|Input-Output-Prinzip]] zugrunde, dem nicht nur [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs]], sondern auch Computer allgemein folgen. 
 
 ## ChatGPT, Sykophanthie und KI-Psychosen
 
 LLMs wurden darauf trainiert, dem Nutzer Antworten zu geben, welche er oder sie als nützlich empfindet.
 
-In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein “ehrlich gesagt, ich weiß es nicht.” - selbst wenn die Antwort falsch war. Das ist einer der Faktoren, die das Auftreten von falschen Antworten, sogenannten [[02 - Künstliche Intelligenz/1 - Work on now/Halluzinationen\|Halluzinationen]] stark verstärkt haben.
+In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein “ehrlich gesagt, ich weiß es nicht.” - selbst wenn die Antwort falsch war. Das ist einer der Faktoren, die das Auftreten von falschen Antworten, sogenannten [[02 - Künstliche Intelligenz/2 - Work on soon/Halluzinationen\|Halluzinationen]] stark verstärkt haben.
 
 Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[02 - Künstliche Intelligenz/3- Veröffentlicht/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionale Abhängigkeit bis hin zu [[02 - Künstliche Intelligenz/2 - Work on soon/KI-Psychosen\|KI-Psychosen]]. 
 

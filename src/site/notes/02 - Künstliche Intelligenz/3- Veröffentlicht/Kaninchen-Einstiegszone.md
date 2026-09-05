@@ -25,7 +25,7 @@ Man kennt dieses Internetphänomen auch unter den Namen [[02 - Künstliche Intel
 
 Dieses Projekt wurde übrigens mit der Software [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]] 🐇 gebaut - perfekt für Nerds und alle, die es werden wollen. Es folgt dem Ansatz des vernetzten Denkens und entspricht damit besser der natürlichen Funktionsweise unseres Gehirns als hierarchische, lineare Ansätze.
 
-### Speech-To-Text-KIs, Whispr Flow und Darkpatterns 🐇👑
+### Speech-To-Text-KIs, Wispr Flow und Darkpatterns 🐇👑
 
 Eigentlich wollte ich nur kurz ein [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]-Tool downloaden, um schneller und produktiver zu arbeiten. Ich dachte, [[02 - Künstliche Intelligenz/Wispr Flow\|Wispr Flow]] wäre das einzige ernstzunehmende Tool dieser Art. Dieser Irrtum ist von Wispr Flow vermutlich nicht ganz unbeabsichtigt. Bei meiner Recherche wurde ich nicht nur mit Dutzenden [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]-Tools konfrontiert, sondern auch mit der Thematik [[02 - Künstliche Intelligenz/2 - Work on soon/Cloud vs lokal\|Cloud vs lokal]].
 
@@ -42,7 +42,7 @@ Hier könnte ihr einige meiner Empfehlungen entdecken:
 
 ### Alternative LLMs 🕳️🐇
 
- [[02 - Künstliche Intelligenz/1 - Work on now/Künstliche Intelligenz\|KI]] begleitet uns schon lange, aber erst der Durchbruch der [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|Large Language Models]] - eine Form der [[02 - Künstliche Intelligenz/3- Veröffentlicht/Statistische KI\|statistischen KI]] -  hat sie ins Rampenlicht gerückt. [[02 - Künstliche Intelligenz/3- Veröffentlicht/ChatGPT\|ChatGPT]] hat den Start gemacht und unverkennbar einen Hype ausgelöst. Aber machen wir uns nichts vor: die [[02 - Künstliche Intelligenz/3- Veröffentlicht/Kritik an GenAI\|Kritik]] an [[02 - Künstliche Intelligenz/3- Veröffentlicht/GenAI\|generativer KI]] ist absolut berechtigt! 
+ [[02 - Künstliche Intelligenz/2 - Work on soon/Künstliche Intelligenz\|KI]] begleitet uns schon lange, aber erst der Durchbruch der [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|Large Language Models]] - eine Form der [[02 - Künstliche Intelligenz/3- Veröffentlicht/Statistische KI\|statistischen KI]] -  hat sie ins Rampenlicht gerückt. [[02 - Künstliche Intelligenz/3- Veröffentlicht/ChatGPT\|ChatGPT]] hat den Start gemacht und unverkennbar einen Hype ausgelöst. Aber machen wir uns nichts vor: die [[02 - Künstliche Intelligenz/3- Veröffentlicht/Kritik an GenAI\|Kritik]] an [[02 - Künstliche Intelligenz/2 - Work on soon/GenAI\|generativer KI]] ist absolut berechtigt! 
 
 Ich denke, ihre negativen Seiten sind keineswegs ein inhärentes Merkmal dieser Technologie, sondern vielmehr systemischer Natur: unvermeidliche Begleiterscheinung, wenn wir profit- und machtorientierten Konzernen freies Spiel lassen. Aus diesem Grund recherchiere und teste ich viel, ob wir denn tatsächlich auf diese [[02 - Künstliche Intelligenz/3- Veröffentlicht/Open Source vs Proprietär\|proprietären]] Riesen angewiesen sind. 
  
