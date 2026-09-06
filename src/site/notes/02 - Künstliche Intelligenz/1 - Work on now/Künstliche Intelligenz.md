@@ -6,7 +6,7 @@
 
 Die sogenannte „künstliche Intelligenz“ ist erst mit dem Startschuss von [[02 - Künstliche Intelligenz/3- Veröffentlicht/ChatGPT\|ChatGPT]]  wirklich in das öffentliche Bewusstsein gerückt. 
 
-Meistens wird hier KI mit dem jüngsten Geschwisterchen dieser großen Familie gleichgesetzt – der [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\|generativen KI]], welche Texte, Bilder oder Videos erstellen kann. 
+Häufig wird hier KI mit dem jüngsten Geschwisterchen dieser großen Familie gleichgesetzt – der [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\|generativen KI]], welche Texte, Bilder oder Videos erstellen kann. 
 
 Doch das große Bild ist sehr viel umfassender; spätestens seit den 50er Jahren wird intensiv auf diesem Gebiet geforscht. 
 
