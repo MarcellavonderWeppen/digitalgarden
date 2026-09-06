@@ -13,7 +13,7 @@ Das Wort „Sprache“ ist dabei doppeldeutig. Das Englische unterscheidet zwisc
 
 ## Die wichtigsten Teilgebiete
 
-**Speech-to-Text (STT)**, auch Automatic Speech Recognition (ASR) genannt, wandelt gesprochene Sprache in geschriebenen Text um. Es ist das bekannteste Teilgebiet – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. Ein verbreitetes Modell ist Whisper von OpenAI.
+**Speech-to-Text (STT)**, auch Automatic Speech Recognition (ASR) genannt, wandelt gesprochene Sprache in geschriebenen Text um. Es ist das bekannteste Teilgebiet – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. Ein verbreitetes Modell ist Whisper von [[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]].
 
 **Text-to-Speech (TTS)** ist der umgekehrte Weg: Text wird in natürlich klingende Sprache umgesetzt. Moderne Sprachsynthese ist kaum noch von menschlichen Sprechern zu unterscheiden.
 
@@ -25,7 +25,7 @@ Das Wort „Sprache“ ist dabei doppeldeutig. Das Englische unterscheidet zwisc
 
 ## KI-Sprachtechnologie ist statistische KI
 
-Alle fünf Teilgebiete gehören der **statistischen KI** an, aber in zwei verschiedenen Bereichen: Prädiktive und generative KI.
+Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der prädiktiven, teils der generativen KI.
 
 ![Statistische KI Diagramm.png](/img/user/Statistische%20KI%20Diagramm.png)
 
