@@ -1,11 +1,13 @@
 ---
-{"title":"KI-Sprachtechnologie","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/ki-sprachtechnologie/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI-Sprachtechnologie","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":null,"status":null}}
+{"title":"KI-Sprachtechnologie","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":"2026-09-06","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/ki-sprachtechnologie/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI-Sprachtechnologie","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":"2026-09-06","status":null}}
 ---
 
 
 # KI-Sprachtechnologie
 
 KI-Sprachtechnologie ist der Oberbegriff für alle Verfahren, mit denen Maschinen gesprochene Sprache verarbeiten, verstehen oder erzeugen. Sie ist die Brücke zwischen der Stimme des Menschen und den textbasierten Systemen, mit denen Computer intern arbeiten.
+
+## *Speech* vs. *language*
 
 Das Wort „Sprache“ ist dabei doppeldeutig. Das Englische unterscheidet zwischen _language_ (Sprache als System: Text, Grammatik, Bedeutung) und _speech_ (Sprache als Gesprochenes: Stimme und Audio). „Sprachtechnologie“ kann im Deutschen beides meinen. Dieser Artikel behandelt den engen Sinn, also Speech AI; die Verarbeitung von geschriebenem Text durch große Sprachmodelle ist ein eigenes Feld.
 
