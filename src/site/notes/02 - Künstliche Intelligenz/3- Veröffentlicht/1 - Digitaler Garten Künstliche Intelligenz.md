@@ -7,7 +7,7 @@
 
 # Herzlich Willkommen in meinem "Digital Garden" zum Thema Künstliche Intelligenz 🌱🌿🌳
 
-Hier ist mein persönlicher "digitaler Garten" am Wachsen: Ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/1 - Work on now/Künstliche Intelligenz\|Künstlicher Intelligenz]].
+Hier ist mein persönlicher "digitaler Garten" am Wachsen: Ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/0 - Final Check/Künstliche Intelligenz\|Künstlicher Intelligenz]].
 
 Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Art Blog?
 
