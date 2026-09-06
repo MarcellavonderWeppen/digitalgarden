@@ -4,7 +4,7 @@
 
 # Was ist Machine Learning (ML)?
 
-Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines größeren Denkmodells: der [[02 - Künstliche Intelligenz/3- Veröffentlicht/Statistische KI\|statistischen KI]]. Es setzt dieses [[02 - Künstliche Intelligenz/3- Veröffentlicht/Paradigma (Denkmodell)\|Paradigma]] in konkrete [[02 - Künstliche Intelligenz/3- Veröffentlicht/Algorithmus\|Algorithmus]] um - Verfahren, die aus Daten lernen, statt nach vorgegebenen Regeln zu arbeiten.
+Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines größeren Denkmodells: der [[02 - Künstliche Intelligenz/1 - Work on now/Statistische KI\|statistischen KI]]. Es setzt dieses [[02 - Künstliche Intelligenz/3- Veröffentlicht/Paradigma (Denkmodell)\|Paradigma]] in konkrete [[02 - Künstliche Intelligenz/3- Veröffentlicht/Algorithmus\|Algorithmus]] um - Verfahren, die aus Daten lernen, statt nach vorgegebenen Regeln zu arbeiten.
 
 ## Statistische KI ist ein Paradigma
 
