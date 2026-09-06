@@ -38,7 +38,7 @@ Sprache hat Regeln – ganze Bibliotheken voll: Grammatik, Rechtschreibung, Synt
 
 Die klassische KI hat jahrzehntelang versucht, Sprache über Regeln zu knacken, und ist daran  gescheitert. 
 
-#### Der Grund: Die Regeln reichen nicht aus, um Sprache wirklich zu beherrschen.
+#### Der Grund: Sprache lässt sich durch Regeln nicht vollständig beschreiben.
 
 Ein paar Beispiele machen das anschaulich:
 
