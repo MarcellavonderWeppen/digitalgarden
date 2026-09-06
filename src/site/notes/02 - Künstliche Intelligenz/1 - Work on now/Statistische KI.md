@@ -42,10 +42,9 @@ Die datengetriebene KI konnte ihren Siegeszug keinen Augenblick früher antreten
 
 ## Hat die statistische KI die klassische verdrängt?
 
-Die statistische KI hat die klassische KI **nicht vollständig ersetzt**, sondern erweitert. Moderne Systeme rund um heutige Sprachmodelle kombinieren häufig:
+**Nein - heutige Anwendungen kombinieren häufig beides:** 
 
-- **statistische Verfahren (dominant)**
-- mit Elementen symbolischer Ansätze (zunehmend wieder relevant)
+Das Sprachmodell versteht und formuliert (statistisch), während klassische Komponenten rechnen, nachschlagen oder Regeln durchsetzen (regelbasiert). Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code ausführt, ist genau so ein Hybrid.
 
 ## 📖 Weiterlesen
 
