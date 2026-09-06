@@ -16,9 +16,9 @@ KI ist schon sehr viel länger unter uns als gemeinhin angenommen!
 
 ## Klassische KI
 
-Die klassische KI machte den Anfang und dominierte die Forschung von den **1950er bis ca. 1990er Jahren**. Danach gewann **statistische KI** zunehmend an Bedeutung.
+Die klassische KI machte den Anfang und dominierte die Forschung von den **1950er bis ca. 1980er Jahren**. Danach gewann **statistische KI** zunehmend an Bedeutung.
 
-#### Unterkategorien 
+#### Teilbereiche 
 
 - Regelbasierte Systeme
 - Such- und Planungsverfahren
@@ -31,7 +31,7 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von „KI“ d
 
 **Statistische KI** beruht auf Verfahren, die aus großen Datenmengen mithilfe von Wahrscheinlichkeiten und Mustern lernen, anstatt auf fest programmierten Regeln.
 
-#### Unterkategorien 
+#### Teilbereiche 
 
 - [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\| Generative KI (GenAI)]] inkl. [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs (Large Language Models)]]
 - [[02 - Künstliche Intelligenz/1 - Work on now/KI-Sprachtechnologie\| KI-Sprachtechnologie]] inkl. [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
