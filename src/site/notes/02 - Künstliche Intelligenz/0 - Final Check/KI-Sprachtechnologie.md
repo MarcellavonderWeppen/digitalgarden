@@ -1,5 +1,5 @@
 ---
-{"title":"KI-Sprachtechnologie","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":"2026-09-06","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/ki-sprachtechnologie/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI-Sprachtechnologie","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":"2026-09-06","status":null}}
+{"title":"KI-Sprachtechnologie","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-03","updated":"2026-09-06","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/ki-sprachtechnologie/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI-Sprachtechnologie","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-03","updated":"2026-09-06","status":null}}
 ---
 
 
