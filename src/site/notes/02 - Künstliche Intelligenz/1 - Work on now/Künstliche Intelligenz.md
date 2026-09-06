@@ -33,7 +33,7 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von „KI“ d
 
 #### Teilbereiche 
 
-- [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\| Generative KI (GenAI)]] inkl. [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs (Large Language Models)]]
+- [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\| Generative KI (GenAI)]] inkl. [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie ChatGPT
 - [[02 - Künstliche Intelligenz/1 - Work on now/KI-Sprachtechnologie\| KI-Sprachtechnologie]] inkl. [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 - Prädiktive KI
 
