@@ -12,7 +12,7 @@ Bereits nach 5 Tagen hatte es eine Million Nutzer und war somit zu diesem Zeitpu
 
 Ich war nicht unter der ersten Million, stieg aber als “ [[02 - Künstliche Intelligenz/3- Veröffentlicht/Diffusion of Innovations#Early Adopters (~13,5 %)\|Early Adopter]]” kurz darauf ein. Keine 2 Monate später waren wir schon 100 Millionen Anwender. 
 
-Der Erfolg kam völlig unerwartet, auch für die Firma hinter dem noch jungen [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLM]]: [[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]].
+Der Erfolg kam völlig unerwartet, auch für die Firma hinter dem noch jungen [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLM]]: [[02 - Künstliche Intelligenz/2b - Work on later/OpenAI\|OpenAI]].
 
 ![ChatGPT 1 Mio Nutzer Statista.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20now/Bilder/ChatGPT%201%20Mio%20Nutzer%20Statista.png)
 
@@ -51,20 +51,20 @@ Schauen wir es uns Schritt für Schritt an:
 - Eine spezielle KI-Technologie, welche den Durchbruch der KI-Forschung und den enormen Erfolg von ChatGPT mit sich brachte
 - Merkhilfe: [[02 - Künstliche Intelligenz/3- Veröffentlicht/Transformer\|Transformer]]-Modelle nehmen die Texteingabe des Nutzers - und _transformieren_ sie in eine (hoffentlich) hilfreiche Antwort: Eingabe (Input) → Antwort (Output)
 
-👉 Hier liegt das [[02 - Künstliche Intelligenz/2 - Work on soon/Input-Output-Prinzip\|Input-Output-Prinzip]] zugrunde, dem nicht nur [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs]], sondern auch Computer allgemein folgen. 
+👉 Hier liegt das [[02 - Künstliche Intelligenz/2b - Work on later/Input-Output-Prinzip\|Input-Output-Prinzip]] zugrunde, dem nicht nur [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs]], sondern auch Computer allgemein folgen. 
 
 ## ChatGPT, Sykophanthie und KI-Psychosen
 
 LLMs wurden darauf trainiert, dem Nutzer Antworten zu geben, welche er oder sie als nützlich empfindet.
 
-In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein “ehrlich gesagt, ich weiß es nicht.” - selbst wenn die Antwort falsch war. Das ist einer der Faktoren, die das Auftreten von falschen Antworten, sogenannten [[02 - Künstliche Intelligenz/2 - Work on soon/Halluzinationen\|Halluzinationen]] stark verstärkt haben.
+In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein “ehrlich gesagt, ich weiß es nicht.” - selbst wenn die Antwort falsch war. Das ist einer der Faktoren, die das Auftreten von falschen Antworten, sogenannten [[02 - Künstliche Intelligenz/2b - Work on later/Halluzinationen\|Halluzinationen]] stark verstärkt haben.
 
-Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[02 - Künstliche Intelligenz/3- Veröffentlicht/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionale Abhängigkeit bis hin zu [[02 - Künstliche Intelligenz/2 - Work on soon/KI-Psychosen\|KI-Psychosen]]. 
+Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[02 - Künstliche Intelligenz/3- Veröffentlicht/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionale Abhängigkeit bis hin zu [[02 - Künstliche Intelligenz/2b - Work on later/KI-Psychosen\|KI-Psychosen]]. 
 
 ## 📖 Weiterlesen
 
-[[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]] - die Firma hinter ChatGPT
-[[02 - Künstliche Intelligenz/2 - Work on soon/Sam Altman\|Sam Altman]] - der charismatische CEO von OpenAI
-[[02 - Künstliche Intelligenz/2 - Work on soon/Empire of AI\|Empire of AI]] - ein kritisches Werk von [[02 - Künstliche Intelligenz/2 - Work on soon/Karen Hao\|Karen Hao]]
-[[02 - Künstliche Intelligenz/2 - Work on soon/Welches LLM ist das beste?\|Welches LLM ist das beste?]]
-[[02 - Künstliche Intelligenz/2 - Work on soon/Training von LLMs\|Training von LLMs]]
+[[02 - Künstliche Intelligenz/2b - Work on later/OpenAI\|OpenAI]] - die Firma hinter ChatGPT
+[[02 - Künstliche Intelligenz/2b - Work on later/Sam Altman\|Sam Altman]] - der charismatische CEO von OpenAI
+[[02 - Künstliche Intelligenz/2b - Work on later/Empire of AI\|Empire of AI]] - ein kritisches Werk von [[02 - Künstliche Intelligenz/2b - Work on later/Karen Hao\|Karen Hao]]
+[[02 - Künstliche Intelligenz/2b - Work on later/Welches LLM ist das beste?\|Welches LLM ist das beste?]]
+[[02 - Künstliche Intelligenz/2b - Work on later/Training von LLMs\|Training von LLMs]]

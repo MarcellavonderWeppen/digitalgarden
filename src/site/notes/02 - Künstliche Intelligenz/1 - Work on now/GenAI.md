@@ -17,7 +17,7 @@ Die Technologie hinter GenAI sind meist neuronale Netze, insbesondere [[02 - Kü
 - Videogeneratoren wie Google Veo
 - Musiktools wie Suno
 
-![[genai.png\|genai.png]]
+![genai.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20now/Bilder/genai.png)
 
 ## Potential und Problematik
 

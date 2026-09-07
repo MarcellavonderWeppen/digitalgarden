@@ -46,7 +46,7 @@ Obsidian wird aufgrund der rasanten Entwicklung im Bereich der KI immer wieder f
 - **Zweck:** Ein „denkender Partner“ statt eines statischen Gehirns
 - **Besonderheit:** Anstatt Notizen zu verwalten, lässt man die KI auf Kalender, E-Mails, Dokumente und Meetings zugreifen. Man stellt direkte Fragen wie „Was habe ich letzte Woche entschieden?“ und erhält sofort die Antwort, ohne jemals selbst in den Notizen suchen zu müssen
 
-🤓 **Meine Gedanken dazu**: Je mehr ich über [[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]] erfahre, desto größer mein Wunsch, die Flucht zu ergreifen.
+🤓 **Meine Gedanken dazu**: Je mehr ich über [[02 - Künstliche Intelligenz/2b - Work on later/OpenAI\|OpenAI]] erfahre, desto größer mein Wunsch, die Flucht zu ergreifen.
 
 ## 🤔 Ich liebe KI, aber ...
 
@@ -159,7 +159,7 @@ KI liefert die Bausteine, während die räumliche Organisation in Tools wie Obsi
 | **4. Reflect**       | 🟢              | ab 15$                               | 🟢 Gering bis Mittel |
 | **5. ChatGPT Stack** | 🔴              | ab 8€ \| kostenlose Basisversion ✅  | 🔴 Extrem hoch       |
 
-Hinweis: Alle diese Tools laufen in der [[02 - Künstliche Intelligenz/2 - Work on soon/Cloud vs lokal\|Cloud]]. Selbst das "Grün" für Reflect ist also relativ.
+Hinweis: Alle diese Tools laufen in der [[02 - Künstliche Intelligenz/2b - Work on later/Cloud vs lokal\|Cloud]]. Selbst das "Grün" für Reflect ist also relativ.
 
 Der Grund, warum **Reflect** als einziges die Bestbewertung 🟢 erhält, lässt sich in einem technischen Begriff zusammenfassen: **Ende-zu-Ende-Verschlüsselung (E2EE)**.
 

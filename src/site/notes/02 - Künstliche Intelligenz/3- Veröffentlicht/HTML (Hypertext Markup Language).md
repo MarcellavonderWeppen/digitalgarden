@@ -20,7 +20,7 @@ Der Browser wird über die Struktur der Seite informiert: Was sind Überschrifte
 
 Ohne CSS würden alle Seiten immer noch wie beim Aufkommen des Internets in den 90ern aussehen:
 
-![Website ohne HTML 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/2%20-%20Work%20on%20soon/Bilder/Website%20ohne%20HTML%201.png)
+![Website ohne HTML 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/2b%20-%20Work%20on%20later/Bilder/Website%20ohne%20HTML%201.png)
 
 ## Hypertext
 

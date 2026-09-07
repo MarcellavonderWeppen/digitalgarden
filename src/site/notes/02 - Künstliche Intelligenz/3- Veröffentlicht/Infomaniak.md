@@ -35,7 +35,7 @@ Weitere Hightlights:
 
 Damit finde ich diese Firma unglaublich inspierend, denn sie gehen mit gutem Beispiel voran und zeigen, dass Innovation nicht auf Kosten unseres Planeten gehen muss. Ein Beispiel, dass hoffentlich Schule macht!
 
-👉 Ich habe mal ein bisschen länger mit Gemini zum Konzept geträumt: [[02 - Künstliche Intelligenz/2 - Work on soon/Rechenzentren als Wärmequelle - Konzepte & Visionen\|Rechenzentren als Wärmequelle]]
+👉 Ich habe mal ein bisschen länger mit Gemini zum Konzept geträumt: [[02 - Künstliche Intelligenz/2b - Work on later/Rechenzentren als Wärmequelle - Konzepte & Visionen\|Rechenzentren als Wärmequelle]]
 
 ## Infomaniak & Euria kennenlernen
 
@@ -46,5 +46,5 @@ Hier geht es zur Seite der Firma mit allen Angeboten: [www.infomaniak.com](https
 
 ## 📖 Weiterlesen
 
-Ich versuche einen Monat lang, Euria als meine neue “Haupt-KI” anstelle von ChatGPT zu verwenden! Kann das gut gehen? 👉 [[02 - Künstliche Intelligenz/2 - Work on soon/Euria im Test (Mai 2026)\|Euria im Test (Mai 2026)]]
+Ich versuche einen Monat lang, Euria als meine neue “Haupt-KI” anstelle von ChatGPT zu verwenden! Kann das gut gehen? 👉 [[02 - Künstliche Intelligenz/2b - Work on later/Euria im Test (Mai 2026)\|Euria im Test (Mai 2026)]]
 

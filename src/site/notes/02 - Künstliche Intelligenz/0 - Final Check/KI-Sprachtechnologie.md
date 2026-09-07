@@ -13,7 +13,7 @@ Das Wort „Sprache“ ist dabei doppeldeutig. Das Englische unterscheidet zwisc
 
 ## Die wichtigsten Teilgebiete
 
-**Speech-to-Text (STT)**, auch Automatic Speech Recognition (ASR) genannt, wandelt gesprochene Sprache in geschriebenen Text um. Es ist das bekannteste Teilgebiet – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. Ein verbreitetes Modell ist Whisper von [[02 - Künstliche Intelligenz/2 - Work on soon/OpenAI\|OpenAI]].
+**Speech-to-Text (STT)**, auch Automatic Speech Recognition (ASR) genannt, wandelt gesprochene Sprache in geschriebenen Text um. Es ist das bekannteste Teilgebiet – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. Ein verbreitetes Modell ist Whisper von [[02 - Künstliche Intelligenz/2b - Work on later/OpenAI\|OpenAI]].
 
 **Text-to-Speech (TTS)** ist der umgekehrte Weg: Text wird in natürlich klingende Sprache umgesetzt. Moderne Sprachsynthese ist kaum noch von menschlichen Sprechern zu unterscheiden.
 
@@ -27,7 +27,7 @@ Das Wort „Sprache“ ist dabei doppeldeutig. Das Englische unterscheidet zwisc
 
 Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der prädiktiven, teils der generativen KI.
 
-![Statistische KI Diagramm.png](/img/user/Statistische%20KI%20Diagramm.png)
+![Statistische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Statistische%20KI%20Diagramm.png)
 
 | Teilgebiet               | Zuhause im Baum                         |
 | ------------------------ | --------------------------------------- |
@@ -47,19 +47,19 @@ Die Teilgebiete sind Bausteine. Was man im Alltag als Produkt erlebt, kombiniert
 
 ### Diktieren statt Tippen
 
-Man spricht, der Computer schreibt, in jedes beliebige Textfeld, ob E-Mail, Chat oder Dokument. Moderne Tools glätten dabei gleich den Text, entfernen Füllwörter und setzen Satzzeichen. Im Kern STT; neuere Tools ergänzen ein Sprachmodell zur Nachbearbeitung.
+Man spricht, der Computer schreibt – in jedes beliebige Textfeld, ob E-Mail, Chat oder Dokument. Moderne Tools glätten dabei gleich den Text, entfernen Füllwörter und setzen Satzzeichen. Im Kern STT; neuere Tools ergänzen ein [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|Sprachmodell]] zur Nachbearbeitung.
 
-**Beispiele:** Wispr Flow, Apples Diktierfunktion, Dragon
+**Beispiele:** [[02 - Künstliche Intelligenz/Wispr Flow\|Wispr Flow]], Apples Diktierfunktion, Dragon
 
  👉 Mehr zu [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
 ### Meeting-Assistenten
 
-Ein Programm hört bei Videokonferenzen mit, schreibt alles mit, ordnet die Beiträge den Teilnehmern zu und erstellt danach eine Zusammenfassung mit den vereinbarten Aufgaben. Kombiniert STT, Sprecherzuordnung und ein Sprachmodell.
+Ein Programm hört bei Videokonferenzen mit, ordnet die Beiträge den Teilnehmern zu und erstellt danach eine Zusammenfassung mit den vereinbarten Aufgaben. Kombiniert STT, Sprecherzuordnung und ein Sprachmodell.
 
 **Beispiele:** Otter, Fireflies, Microsoft Teams Copilot
 
-👉 Mehr zu [[02 - Künstliche Intelligenz/2 - Work on soon/Meeting Intelligence\|Meeting Intelligence]]
+👉 Mehr zu [[02 - Künstliche Intelligenz/2b - Work on later/Meeting Intelligence\|Meeting Intelligence]]
 
 ### Sprachassistenten und Voice Agents
 
@@ -85,7 +85,7 @@ Beim Telefonbanking erkennt das System den Anrufer an der Stimme. Reine Sprecher
 
 ## Was bringt die Zukunft?
 
-**Sprache ohne Umweg über Text.** Neue Modelle verarbeiten Audio direkt, ohne es erst in Text zu verwandeln. Das macht Sprachassistenten schneller und erhält, was bei einer Transkription verloren geht: Tonfall, Zögern, Ironie. Die bisherige Kette aus STT, Sprachmodell und TTS beginnt sich damit aufzulösen. Diese Zukunft hat bereits begonnen: Erste Sprachassistenten arbeiten heute schon so.
+**Sprache ohne Umweg über Text.** Neue Modelle verarbeiten Audio direkt, ohne es erst in Text zu verwandeln. Das macht Sprachassistenten schneller und erhält, was bei einer Transkription verloren geht: Tonfall, Zögern, Ironie. Die bisherige Kette aus STT, Sprachmodell und TTS beginnt sich damit aufzulösen. Erste Sprachassistenten arbeiten heute schon so.
 
 **Sprechen mit jedem, in jeder Sprache.** Ein Ohrhörer, der ein Gespräch in Echtzeit dolmetscht, und zwar mit der eigenen Stimme des Gegenübers, nicht mit einer Computerstimme. Die Bausteine dafür existieren alle schon, und erste Produkte übersetzen Telefonate bereits mit der Originalstimme. Was noch fehlt, ist die Zuverlässigkeit im Alltag.
 

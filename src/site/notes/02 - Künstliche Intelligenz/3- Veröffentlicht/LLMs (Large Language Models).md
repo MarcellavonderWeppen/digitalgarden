@@ -57,7 +57,7 @@ Sie können genau 2 Dinge:
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Videos zusammenfassen | Das geht nur, wenn in den Videos Subtitel zurückgelegt sind.                                                                                    |
 | Websites erstellen    | Websites beruhen auf Code: Text in einer Programmiersprache geschrieben.                                                                        |
-| Bilder erstellen      | Können sie nicht. Aber Anwendungen wie ChatGPT haben oft zusätzlich eine weitere Form von KI integriert, die sogenannten [[02 - Künstliche Intelligenz/2 - Work on soon/Diffusion-Modelle\|Diffusion-Modelle]]. |
+| Bilder erstellen      | Können sie nicht. Aber Anwendungen wie ChatGPT haben oft zusätzlich eine weitere Form von KI integriert, die sogenannten [[02 - Künstliche Intelligenz/2b - Work on later/Diffusion-Modelle\|Diffusion-Modelle]]. |
 
 ## Model
 
@@ -79,7 +79,7 @@ Die Landkarte ist nicht die Wirklichkeit. Somit sind auch große Sprachmodelle k
 
 ## 📺 Aus der YouTube-Academy
 
-Eine fundierte und umfassend Einführung (3,5 Std.) von [[02 - Künstliche Intelligenz/2 - Work on soon/Andrej Karpathy\|Andrej Karpathy]] in das Thema:  [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI). Für alle, die das Thema wirklich durchdringen wollen!
+Eine fundierte und umfassend Einführung (3,5 Std.) von [[02 - Künstliche Intelligenz/2b - Work on later/Andrej Karpathy\|Andrej Karpathy]] in das Thema:  [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI). Für alle, die das Thema wirklich durchdringen wollen!
 
 Aus den Kommentaren zum Video: 
 
