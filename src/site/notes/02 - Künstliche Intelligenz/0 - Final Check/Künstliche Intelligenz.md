@@ -4,7 +4,7 @@
 
 # Künstliche Intelligenz 
 
-Die sogenannte „künstliche Intelligenz“ ist erst mit dem Startschuss von [[02 - Künstliche Intelligenz/3- Veröffentlicht/ChatGPT\|ChatGPT]]  wirklich in das öffentliche Bewusstsein gerückt. 
+Die sogenannte „künstliche Intelligenz“ ist erst mit dem Startschuss von [[02 - Künstliche Intelligenz/3 - Veröffentlicht (last check)/ChatGPT\|ChatGPT]]  wirklich in das öffentliche Bewusstsein gerückt. 
 
 Häufig wird hier KI mit dem jüngsten Geschwisterchen dieser großen Familie gleichgesetzt – der [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\|generativen KI]], welche Texte, Bilder oder Videos erstellen kann. 
 
@@ -34,8 +34,8 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von „KI“ d
 #### Teilbereiche 
 
 - Prädiktive KI
-- [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\| Generative KI (GenAI)]] inkl. [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie ChatGPT
-- Teils prädiktive, teils generativ: [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie\| KI-Sprachtechnologie]] inkl. [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
+- [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\| Generative KI (GenAI)]] inkl. [[02 - Künstliche Intelligenz/3 - Veröffentlicht (last check)/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie ChatGPT
+- Teils prädiktive, teils generativ: [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie\| KI-Sprachtechnologie]] inkl. [[02 - Künstliche Intelligenz/4 - Review/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
 
 👉 Mehr lesen über [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|Statistische KI]]
