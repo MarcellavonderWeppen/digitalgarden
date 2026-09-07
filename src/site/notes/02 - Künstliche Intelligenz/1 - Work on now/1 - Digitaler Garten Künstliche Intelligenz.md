@@ -50,7 +50,7 @@ Ich habe mich schon an beiden Enden des Spektrums wiedergefunden - in dieser Rei
 
 Und ja - vieles was da passiert ist mehr als bedenklich und besorgniserregend, doch ich glaube:
 
-[[02 - Künstliche Intelligenz/5 - Review/KI - es geht auch anders\|KI - es geht auch anders]]!
+[[02 - Künstliche Intelligenz/KI - es geht auch anders\|KI - es geht auch anders]]!
 
 ### Mitmachen erwünscht
 
