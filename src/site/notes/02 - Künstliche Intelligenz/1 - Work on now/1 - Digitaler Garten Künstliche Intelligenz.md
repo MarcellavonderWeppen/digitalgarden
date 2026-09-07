@@ -3,11 +3,11 @@
 ---
 
 
-![Digital Garden Gemini 14.05.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)
+![Digital Garden Gemini 14.05.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/4%20-%20Ver%C3%B6ffentlicht%20(last%20check)/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)
 
 # Herzlich Willkommen in meinem "Digital Garden" zum Thema Künstliche Intelligenz 🌱🌿🌳
 
-Hier ist mein persönlicher "digitaler Garten" am Wachsen: Ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/0 - Final Check/Künstliche Intelligenz\|Künstlicher Intelligenz]].
+Hier ist mein persönlicher "digitaler Garten" am Wachsen: Ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/Künstliche Intelligenz\|Künstlicher Intelligenz]].
 
 Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Art Blog?
 
@@ -35,9 +35,9 @@ Ihr könnt mir also beim Lernen zugucken und vielleicht nach und nach, während 
 
 ## Hier geht’s zu den Kaninchenlöchern👇
 
-Folge dem weissen Kaninchen in die [[02 - Künstliche Intelligenz/3- Veröffentlicht/Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
+Folge dem weissen Kaninchen in die [[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
 
-![Kaninchenloch ChatGPT 14-05-26.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Bilder/Kaninchenloch%20ChatGPT%2014-05-26.png)
+![Kaninchenloch ChatGPT 14-05-26.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/4%20-%20Ver%C3%B6ffentlicht%20(last%20check)/Bilder/Kaninchenloch%20ChatGPT%2014-05-26.png)
 
 ## Mehr über diesen Garten
 
@@ -50,11 +50,11 @@ Ich habe mich schon an beiden Enden des Spektrums wiedergefunden - in dieser Rei
 
 Und ja - vieles was da passiert ist mehr als bedenklich und besorgniserregend, doch ich glaube:
 
-[[02 - Künstliche Intelligenz/KI - es geht auch anders\|KI - es geht auch anders]]!
+[[02 - Künstliche Intelligenz/5 - Review/KI - es geht auch anders\|KI - es geht auch anders]]!
 
 ### Mitmachen erwünscht
 
-Es wäre schön, wenn hier so ein bisschen Community-Feeling aufkommt und ihr euch in den Kommentaren und gerne auch mit Fragen beteiligt! 👉 [[02 - Künstliche Intelligenz/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
+Es wäre schön, wenn hier so ein bisschen Community-Feeling aufkommt und ihr euch in den Kommentaren und gerne auch mit Fragen beteiligt! 👉 [[02 - Künstliche Intelligenz/5 - Review/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
 
 ---
 

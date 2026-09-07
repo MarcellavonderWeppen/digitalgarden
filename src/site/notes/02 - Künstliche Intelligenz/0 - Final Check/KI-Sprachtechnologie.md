@@ -13,7 +13,7 @@ Das Wort „Sprache“ ist dabei doppeldeutig. Das Englische unterscheidet zwisc
 
 ## Die wichtigsten Teilgebiete
 
-**Speech-to-Text (STT)**, auch Automatic Speech Recognition (ASR) genannt, wandelt gesprochene Sprache in geschriebenen Text um. Es ist das bekannteste Teilgebiet – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. Ein verbreitetes Modell ist Whisper von [[02 - Künstliche Intelligenz/2b - Work on later/OpenAI\|OpenAI]].
+**Speech-to-Text (STT)**, auch Automatic Speech Recognition (ASR) genannt, wandelt gesprochene Sprache in geschriebenen Text um. Es ist das bekannteste Teilgebiet – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. Ein verbreitetes Modell ist Whisper von [[02 - Künstliche Intelligenz/3 - Work on tomorrow/OpenAI\|OpenAI]].
 
 **Text-to-Speech (TTS)** ist der umgekehrte Weg: Text wird in natürlich klingende Sprache umgesetzt. Moderne Sprachsynthese ist kaum noch von menschlichen Sprechern zu unterscheiden.
 
@@ -47,11 +47,11 @@ Die Teilgebiete sind Bausteine. Was man im Alltag als Produkt erlebt, kombiniert
 
 ### Diktieren statt Tippen
 
-Man spricht, der Computer schreibt – in jedes beliebige Textfeld, ob E-Mail, Chat oder Dokument. Moderne Tools glätten dabei gleich den Text, entfernen Füllwörter und setzen Satzzeichen. Im Kern STT; neuere Tools ergänzen ein [[02 - Künstliche Intelligenz/3- Veröffentlicht/LLMs (Large Language Models)\|Sprachmodell]] zur Nachbearbeitung.
+Man spricht, der Computer schreibt – in jedes beliebige Textfeld, ob E-Mail, Chat oder Dokument. Moderne Tools glätten dabei gleich den Text, entfernen Füllwörter und setzen Satzzeichen. Im Kern STT; neuere Tools ergänzen ein [[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/LLMs (Large Language Models)\|Sprachmodell]] zur Nachbearbeitung.
 
-**Beispiele:** [[02 - Künstliche Intelligenz/Wispr Flow\|Wispr Flow]], Apples Diktierfunktion, Dragon
+**Beispiele:** [[02 - Künstliche Intelligenz/5 - Review/Wispr Flow\|Wispr Flow]], Apples Diktierfunktion, Dragon
 
- 👉 Mehr zu [[02 - Künstliche Intelligenz/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
+ 👉 Mehr zu [[02 - Künstliche Intelligenz/5 - Review/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
 ### Meeting-Assistenten
 
@@ -59,7 +59,7 @@ Ein Programm hört bei Videokonferenzen mit, ordnet die Beiträge den Teilnehmer
 
 **Beispiele:** Otter, Fireflies, Microsoft Teams Copilot
 
-👉 Mehr zu [[02 - Künstliche Intelligenz/2b - Work on later/Meeting Intelligence\|Meeting Intelligence]]
+👉 Mehr zu [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Meeting Intelligence\|Meeting Intelligence]]
 
 ### Sprachassistenten und Voice Agents
 

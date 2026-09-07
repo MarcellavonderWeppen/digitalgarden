@@ -53,13 +53,13 @@ Selbst wenn man all das in Regeln fassen wollte – niemand hat es je geschafft.
 
 Die Regeln, die Menschen beim Sprechen tatsächlich anwenden, sind zu viele, zu vage, zu kontextabhängig und zu ausnahmenreich, als dass sie sich vollständig aufschreiben ließen. 
 
-#### Das Aufkommen eines neuen [[02 - Künstliche Intelligenz/3- Veröffentlicht/Paradigma (Denkmodell)\|Paradigmas]] 
+#### Das Aufkommen eines neuen [[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Paradigma (Denkmodell)\|Paradigmas]] 
 
 Genau an dieser Stelle setzt die statistische KI an: Sie lernt Sprache nicht über Regeln, sondern aus Milliarden von Beispielen.
 
 Die klassische KI dominierte die Forschung von den **50er bis Ende der 80er Jahre**.
 
-Danach gewannen [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistische KI]] und mit ihr [[02 - Künstliche Intelligenz/3- Veröffentlicht/Machine Learning (ML)\|Machine Learning]] zunehmend an Bedeutung. Zwar gab es mit dem **Perceptron** schon 1958 ein erstes lernfähiges neuronales Netz (die Grundidee reicht sogar bis 1943 zurück), und es wurde in den 80ern weiterentwickelt; jedoch kam der breite Durchbruch erst 2012 mit [[02 - Künstliche Intelligenz/3- Veröffentlicht/Machine Learning (ML)#Deep Learning\|Deep Learning]].
+Danach gewannen [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistische KI]] und mit ihr [[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Machine Learning (ML)\|Machine Learning]] zunehmend an Bedeutung. Zwar gab es mit dem **Perceptron** schon 1958 ein erstes lernfähiges neuronales Netz (die Grundidee reicht sogar bis 1943 zurück), und es wurde in den 80ern weiterentwickelt; jedoch kam der breite Durchbruch erst 2012 mit [[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Machine Learning (ML)#Deep Learning\|Deep Learning]].
 
 
 

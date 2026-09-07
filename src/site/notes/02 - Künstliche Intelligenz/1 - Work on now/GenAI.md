@@ -8,7 +8,7 @@ Generative KI (GenAI) ist eine Form der [[02 - Künstliche Intelligenz/0 - Final
 
 Im Gegensatz zu [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
 
-Die Technologie hinter GenAI sind meist neuronale Netze, insbesondere [[02 - Künstliche Intelligenz/3- Veröffentlicht/Transformer\|Transformermodelle]], die durch maschinelles Lernen trainiert werden. 
+Die Technologie hinter GenAI sind meist neuronale Netze, insbesondere [[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Transformer\|Transformermodelle]], die durch maschinelles Lernen trainiert werden. 
 
 ## Bekannte Beispiele
 
@@ -27,7 +27,7 @@ Allerdings bringt GenAI auch Herausforderungen mit sich: Sie verbraucht enorme R
 
 ## 📖 Weiterlesen 👇
 
-[[02 - Künstliche Intelligenz/3- Veröffentlicht/Kritik an GenAI\|Kritik an GenAI]]
+[[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Kritik an GenAI\|Kritik an GenAI]]
 
 
 # Merkzettel: „Generativ“ in zwei Bedeutungen (für den GenAI-Artikel)
