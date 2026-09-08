@@ -9,7 +9,7 @@ Nach Jahren der Ablehnung dieser traditionellen Methode hat sich mir nun wieder 
 
 ## Richard Feynman über Denken auf Papier
 
-Hier ein kurzer Dialog zwischen [[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Richard Feynman\|Richard Feynman]] und dem Historiker Charles Weiner im Jahr 1966.
+Hier ein kurzer Dialog zwischen [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Richard Feynman\|Richard Feynman]] und dem Historiker Charles Weiner im Jahr 1966.
 
 Weiner betrachtete Feynmans Notizen als eine „Aufzeichnung“ seiner Arbeit, aber Feynman korrigierte ihn sofort und sehr bestimmt:
 
@@ -39,7 +39,7 @@ Und gerade hier setzt Denken auf Papier an: es macht das Unsichtbare sichtbar!
 
 Ein Beispiel dafür:
 
-Ich habe jahrelang [[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Mindmaps\|Mindmaps]] abgelehnt, bis mir klar wurde, dass Mindmaps eine Art Spiegel des eigenen Geistes sein können; sie zeigen Lücken im eigenen Verständnis auf.
+Ich habe jahrelang [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Mindmaps\|Mindmaps]] abgelehnt, bis mir klar wurde, dass Mindmaps eine Art Spiegel des eigenen Geistes sein können; sie zeigen Lücken im eigenen Verständnis auf.
 
 #### Metakognition als ein Muskel, den man trainieren kann
 
@@ -59,7 +59,7 @@ Dazu gibt es eine schöne Übung. Teile ein Blatte Papier in zwei Spalten ein un
 | **Zustand**: oberflächliches Lesen, passives Konsumieren, häufiges Abdriften      | **Zustand:** Tiefes Nachdenken, Hinterfragen, Erklären, Visualisieren |
 | **Eintrag hier machen, wenn:**                                                    | **Hier startest du:**                                                 |
 | • Du merkst, dass du gerade 5 Minuten nur auf die Seite gestarrt hast.            | • Du erklärst den Stoff laut, als würdest du unterrichten en          |
-| • Dein Fokus vom Thema zum Handy oder zum Abendessen gewandert ist.               | • Du erstellst ein [[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Mindmaps\|Mindmap]]                              |
+| • Dein Fokus vom Thema zum Handy oder zum Abendessen gewandert ist.               | • Du erstellst ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Mindmaps\|Mindmap]]                              |
 | • usw.                                                                            | • usw.                                                                |
 | **Notiz-Beispiel:** „Abgedriftet bei Seite 12 – dachte an die Serie von gestern.“ | **Fokus:** Aktive Anstrengung des Gehirns                             |
 
@@ -67,4 +67,4 @@ Das Ziel der Übung ist es zu bemerken, dass man in den passiven Modus gefallen 
 
 ## Weiterstöbern
 
-📖 Zum Thema Sprechen vs Tippen: [[02 - Künstliche Intelligenz/5 - Review/Speech-to-Text (STT)#Kleiner Exkurs Nicht immer ist Geschwindigkeit alles 🤔\|Nicht immer ist Geschwindigkeit alles 🤔]]
+📖 Zum Thema Sprechen vs Tippen: [[02 - Künstliche Intelligenz/6 - later/Speech-to-Text (STT)#Kleiner Exkurs Nicht immer ist Geschwindigkeit alles 🤔\|Nicht immer ist Geschwindigkeit alles 🤔]]

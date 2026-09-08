@@ -72,4 +72,3 @@ In diesem Sinne: viel Spaß beim Stöbern!
 
 [[Impressum + Datenschutz\|Impressum + Datenschutz]]
 
-Impact-Site-Verification: 86b156cf-ce54-471a-a658-877575083d9d
