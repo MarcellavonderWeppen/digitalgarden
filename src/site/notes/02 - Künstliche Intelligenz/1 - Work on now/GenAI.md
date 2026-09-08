@@ -4,11 +4,11 @@
 
 #  Was ist Generative KI?
 
-Generative KI (GenAI) ist eine Form der [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistischen KI]]. Sie basiert auf komplexen Algorithmen, die große Datenmengen analysieren, um Muster zu erkennen und daraus neue Inhalte zu erzeugen – sei es Text, Bilder, Musik oder sogar Videos. 
+Generative KI (GenAI) ist eine Form der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistischen KI]]. Sie basiert auf komplexen Algorithmen, die große Datenmengen analysieren, um Muster zu erkennen und daraus neue Inhalte zu erzeugen – sei es Text, Bilder, Musik oder sogar Videos. 
 
-Im Gegensatz zu [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
+Im Gegensatz zu [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
 
-Die Technologie hinter GenAI sind meist neuronale Netze, insbesondere [[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Transformer\|Transformermodelle]], die durch maschinelles Lernen trainiert werden. 
+Die Technologie hinter GenAI sind meist neuronale Netze, insbesondere [Transformermodelle](Transformer), die durch [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|maschinelles Lernen]] trainiert werden. Die bekannteste Ausprägung sind [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|Large Language Models (LLMs)]]: Transformermodelle, die mit riesigen Textmengen trainiert wurden und Sprache Wort für Wort erzeugen. Sie stecken hinter Chatbots wie ChatGPT. Bei Bild, Video und Ton kommt ein zusätzliches Verfahren dazu: [[02 - Künstliche Intelligenz/4 - very soon/Diffusion-Modelle\|Diffusion]].
 
 ## Bekannte Beispiele
 
@@ -27,10 +27,10 @@ Allerdings bringt GenAI auch Herausforderungen mit sich: Sie verbraucht enorme R
 
 ## 📖 Weiterlesen 👇
 
-[[02 - Künstliche Intelligenz/4 - Veröffentlicht (last check)/Kritik an GenAI\|Kritik an GenAI]]
+[[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kritik an GenAI\|Kritik an GenAI]]
 
 
-# Merkzettel: „Generativ“ in zwei Bedeutungen (für den GenAI-Artikel)
+## Begriffliche Klärung
 
 „Gen AI“ ist kein rein technischer Begriff. Es gibt zwei Lesarten, die sich nicht decken. Der Begriff ist deshalb nicht unscharf – man muss nur wissen, welche Lesart gerade gemeint ist.
 
