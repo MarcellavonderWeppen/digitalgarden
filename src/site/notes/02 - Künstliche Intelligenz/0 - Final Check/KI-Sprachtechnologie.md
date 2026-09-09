@@ -13,7 +13,12 @@ Das Wort „Sprache“ ist dabei doppeldeutig.
 
 Das Englische unterscheidet zwischen _language_ (Sprache als System: Text, Grammatik, Bedeutung) und _speech_ (Sprache als Gesprochenes: Stimme und Audio). 
 
-„Sprachtechnologie“ kann im Deutschen beides meinen. Die Textseite (_language_) fällt in den Bereich der [großen Sprachmodelle](LLMs); dieser Artikel behandelt die Audioseite (_speech_).
+„Sprachtechnologie“ kann im Deutschen beides meinen. Die Textseite (_language_) fällt in den Bereich der [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|großen Sprachmodelle]]; dieser Artikel behandelt die Audioseite (_speech_).
+
+| *language*                                            | *speech*         |
+| ----------------------------------------------------- | ---------------- |
+| Text, Grammatik, Bedeutung                            | Stimme und Audio |
+| [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|große Sprachmodelle]] | Speech AI        |
 
 ## Die wichtigsten Teilgebiete
 
