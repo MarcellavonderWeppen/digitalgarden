@@ -10,11 +10,11 @@ Der Vergleich ist nicht ganz zutreffend, denn KI denkt nicht wirklich im menschl
 
 Nützlich finde ich diese Analogie aber dennoch, denn genau wie Menschen spukt die KI mit hoher Geschwindigkeit und großem Selbstbewusstsein Behauptungen aus, die sich bei genauerer Betrachtung als schlichtweg falsch erweisen. 
 
-Das trifft vor allem auf [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistische KI]] zu. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs]] haben kein Verständnis von Wahrheit, sondern liefern vielmehr *wahrscheinlich* richtige Antworten auf Grundlage der Daten, mit denen sie trainiert wurden. Dabei arbeiten sie zwar blitzschnell, man könnte fast sagen intuitiv, unterliegen aber auch logischen Fehlschlüssen: 
+Das trifft vor allem auf [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistische KI]] zu. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs]] haben kein Verständnis von Wahrheit, sondern liefern vielmehr *wahrscheinlich* richtige Antworten auf Grundlage der Daten, mit denen sie trainiert wurden. Dabei arbeiten sie zwar blitzschnell, man könnte fast sagen intuitiv, unterliegen aber auch logischen Fehlschlüssen: 
 
 "Wenn es viele behaupten, dann wird es schon wahr sein."
 
-[[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|Klassische KI]] hingegen geht streng logisch Schritt für Schritt vor und liefert im Rahmen ihrer Möglichkeiten zuverlässige Ergebnisse. 
+[[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|Klassische KI]] hingegen geht streng logisch Schritt für Schritt vor und liefert im Rahmen ihrer Möglichkeiten zuverlässige Ergebnisse. 
 
 Damit ähnelt sie System 2 - allerdings mit einem wichtigen Unterschied: Diese Form von KI zweifelt nie an den eigenen Denkprozessen; sie folgt den ihr einprogrammierten Regeln blind, ohne die Fähigkeit, die eigenen Prämissen zu hinterfragen. Mit anderen Worten, ihr fehlt die Fähigkeit zur [[02 - Künstliche Intelligenz/Obsidian/Denken auf Papier#Metakognition\|Metakognition]].
 

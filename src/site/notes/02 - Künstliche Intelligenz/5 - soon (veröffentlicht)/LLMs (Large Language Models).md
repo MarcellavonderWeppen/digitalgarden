@@ -4,7 +4,7 @@
 
 # LLMs (Large Language Models)
 
-Large Language Models - oder zu deutsch: große Sprachmodelle - ist die Bezeichnung für die Modelle hinter Sprachbots wie ChatGPT. Es handelt sich um eine Unterkategorie der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistischen KI]], welche mit Menschen in **natürlicher Sprache** kommunizieren kann.
+Large Language Models - oder zu deutsch: große Sprachmodelle - ist die Bezeichnung für die Modelle hinter Sprachbots wie ChatGPT. Es handelt sich um eine Unterkategorie der [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistischen KI]], welche mit Menschen in **natürlicher Sprache** kommunizieren kann.
 
 Nehmen wir das Wort einmal auseinander, um die Bedeutung besser zu verstehen: 
 ## Large 
