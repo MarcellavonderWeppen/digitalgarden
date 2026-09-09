@@ -9,7 +9,11 @@ KI-Sprachtechnologie ist der Oberbegriff für alle Verfahren, mit denen Maschine
 
 ## *Speech* vs. *language*
 
-Das Wort „Sprache“ ist dabei doppeldeutig. Das Englische unterscheidet zwischen _language_ (Sprache als System: Text, Grammatik, Bedeutung) und _speech_ (Sprache als Gesprochenes: Stimme und Audio). „Sprachtechnologie“ kann im Deutschen beides meinen. Dieser Artikel behandelt den engen Sinn, also Speech AI; die Verarbeitung von geschriebenem Text durch große Sprachmodelle ist ein eigenes Feld.
+Das Wort „Sprache“ ist dabei doppeldeutig. 
+
+Das Englische unterscheidet zwischen _language_ (Sprache als System: Text, Grammatik, Bedeutung) und _speech_ (Sprache als Gesprochenes: Stimme und Audio). 
+
+„Sprachtechnologie“ kann im Deutschen beides meinen. Die Textseite (_language_) fällt in den Bereich der [großen Sprachmodelle](LLMs); dieser Artikel behandelt die Audioseite (_speech_).
 
 ## Die wichtigsten Teilgebiete
 
@@ -92,3 +96,5 @@ Beim Telefonbanking erkennt das System den Anrufer an der Stimme. Reine Sprecher
 **Stimme statt Benutzeroberfläche.** Wenn Maschinen Sprache so gut verstehen wie Menschen, braucht vieles keinen Bildschirm und keine Tastatur mehr. Ein Assistent, der Termine vereinbart, für einen anruft und Ergebnisse mündlich berichtet, ist technisch schon möglich; ob wir das wollen, ist eine andere Frage.
 
 **Die Kehrseite wächst mit:** Je perfekter Stimmen nachgebildet werden können, desto wichtiger wird es, echte von gefälschten zu unterscheiden.
+
+
