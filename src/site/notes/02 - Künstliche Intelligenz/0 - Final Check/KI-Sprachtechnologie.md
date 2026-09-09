@@ -26,7 +26,7 @@ Das Englische unterscheidet zwischen _language_ (Sprache als System: Text, Gramm
 
 **Text-to-Speech (TTS)** ist der umgekehrte Weg: Text wird in natürlich klingende Sprache umgesetzt. Moderne Sprachsynthese ist kaum noch von menschlichen Sprechern zu unterscheiden.
 
-**Voice Cloning** bildet die Stimme einer konkreten Person nach, oft schon aus wenigen Sekunden Aufnahme. Wer seine Stimme durch eine Krankheit verliert, kann so weiterhin mit der eigenen Stimme sprechen. Gleichzeitig ist dieselbe Technik aber auch Grundlage für Audio-Deepfakes.
+**Voice Cloning** bildet die Stimme einer konkreten Person nach, oft schon aus wenigen Sekunden Aufnahme. Wer seine Stimme durch Krankheit verliert, kann so weiterhin mit der eigenen Stimme sprechen. Gleichzeitig ist dieselbe Technik aber auch Grundlage für Audio-Deepfakes.
 
 **Sprechererkennung** beantwortet die Frage, wer spricht – zum Beispiel zur Authentifizierung per Stimme oder um in einer Aufnahme mehrere Personen auseinanderzuhalten.
 
@@ -48,8 +48,7 @@ Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der prä
 
 Die Faustregel dahinter: Kommt etwas _Neues_ heraus (eine Stimme), ist es GenAI. Kommt eine _Einordnung_ heraus (wer, welche Stimmung), ist es prädiktiv.
 
-STT ist der Mischling, weil beides zutrifft: Es ordnet ein, was gesagt wurde, aber das Ergebnis ist erzeugter Text. Modelle wie Whisper sind technisch genauso gebaut wie Übersetzer, also generativ. 
-
+STT ist der Mischling, weil beides zutrifft: Es ordnet ein, was gesagt wurde, aber das Ergebnis ist erzeugter Text. 
 ## Die wichtigsten Anwendungen
 
 Die Teilgebiete sind Bausteine. Was man im Alltag als Produkt erlebt, kombiniert meist mehrere davon.
@@ -66,7 +65,7 @@ Man spricht, der Computer schreibt – in jedes beliebige Textfeld, ob E-Mail, C
 
 Ein Programm hört bei Videokonferenzen mit, ordnet die Beiträge den Teilnehmern zu und erstellt danach eine Zusammenfassung mit den vereinbarten Aufgaben. Kombiniert STT, Sprecherzuordnung und ein Sprachmodell.
 
-**Beispiele:** Otter, Fireflies, Microsoft Teams Copilot
+**Beispiele:** Otter, Fireflies, Zoom AI Companion 
 
 👉 Mehr zu [[02 - Künstliche Intelligenz/4 - very soon/Meeting Intelligence\|Meeting Intelligence]]
 
@@ -86,11 +85,11 @@ Gesprochene Sprache wird in Echtzeit gedolmetscht oder ein Video nachträglich i
 
 Screenreader lesen Menschen mit eingeschränktem Sehvermögen den Bildschirm vor (TTS), Live-Transkription macht Gespräche für Hörgeschädigte lesbar (STT), und wer seine Stimme durch Krankheit verliert, kann sie vorher aufnehmen und weiter nutzen (Voice Cloning).
 
-**Beispiele:** Apple Personal Voice, Live-Untertitel in Teams und Zoom
+**Beispiele:** Apple Personal Voice, Live-Untertitel in Zoom
 
 ### Stimme als Passwort
 
-Beim Telefonbanking erkennt das System den Anrufer an der Stimme. Reine Sprechererkennung, die allerdings durch Voice Cloning zunehmend unter Druck gerät und als alleiniges Sicherheitsmerkmal nicht mehr ausreicht.
+Reine Sprechererkennung: Beim Telefonbanking erkennt das System den Anrufer an der Stimme. Gerät durch Voice Cloning zunehmend unter Druck und reicht als alleiniges Sicherheitsmerkmal nicht mehr aus.
 
 ## Was bringt die Zukunft?
 
@@ -98,7 +97,7 @@ Beim Telefonbanking erkennt das System den Anrufer an der Stimme. Reine Sprecher
 
 **Sprechen mit jedem, in jeder Sprache.** Ein Ohrhörer, der ein Gespräch in Echtzeit dolmetscht, und zwar mit der eigenen Stimme des Gegenübers, nicht mit einer Computerstimme. Die Bausteine dafür existieren alle schon, und erste Produkte übersetzen Telefonate bereits mit der Originalstimme. Was noch fehlt, ist die Zuverlässigkeit im Alltag.
 
-**Stimme statt Benutzeroberfläche.** Wenn Maschinen Sprache so gut verstehen wie Menschen, braucht vieles keinen Bildschirm und keine Tastatur mehr. Ein Assistent, der Termine vereinbart, für einen anruft und Ergebnisse mündlich berichtet, ist technisch schon möglich; ob wir das wollen, ist eine andere Frage.
+**Stimme statt Benutzeroberfläche.** Wenn Maschinen Sprache so gut verstehen wie Menschen, braucht vieles keinen Bildschirm und keine Tastatur mehr. Ein Assistent, der Termine vereinbart, für einen anruft und Ergebnisse mündlich berichtet, ist technisch schon möglich.
 
 **Die Kehrseite wächst mit:** Je perfekter Stimmen nachgebildet werden können, desto wichtiger wird es, echte von gefälschten zu unterscheiden.
 
