@@ -35,14 +35,14 @@ So wird dann aus einem 5-Minuten-Punkt aus der To-Do-Liste ein wochenlanges Proj
 
 ### Marktplatz: Marcellas kleiner Shop 🐰🐣
 
-“[[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/KI - es geht auch anders\|KI - es geht auch anders]]” hatte ich behauptet. Auf der Suche nach dem “anders” begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[02 - Künstliche Intelligenz/6 - later/Affiliate\|Affiliate]]-Partner unterstützen möchte.
+“[[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]]” hatte ich behauptet. Auf der Suche nach dem “anders” begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[02 - Künstliche Intelligenz/6 - later/Affiliate\|Affiliate]]-Partner unterstützen möchte.
 
 Hier könnte ihr einige meiner Empfehlungen entdecken:
 [[Marcellas kleiner Shop\|Marcellas kleiner Shop]] 🏠
 
 ### Alternative LLMs 🕳️🐇
 
- [[02 - Künstliche Intelligenz/Künstliche Intelligenz\|KI]] begleitet uns schon lange, aber erst der Durchbruch der [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|Large Language Models]] - eine Form der [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistischen KI]] -  hat sie ins Rampenlicht gerückt. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/ChatGPT\|ChatGPT]] hat den Start gemacht und unverkennbar einen Hype ausgelöst. Aber machen wir uns nichts vor: die [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kritik an GenAI\|Kritik]] an [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|generativer KI]] ist absolut berechtigt! 
+ [[02 - Künstliche Intelligenz/Künstliche Intelligenz\|KI]] begleitet uns schon lange, aber erst der Durchbruch der [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|Large Language Models]] - eine Form der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistischen KI]] -  hat sie ins Rampenlicht gerückt. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/ChatGPT\|ChatGPT]] hat den Start gemacht und unverkennbar einen Hype ausgelöst. Aber machen wir uns nichts vor: die [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kritik an GenAI\|Kritik]] an [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|generativer KI]] ist absolut berechtigt! 
 
 Ich denke, ihre negativen Seiten sind keineswegs ein inhärentes Merkmal dieser Technologie, sondern vielmehr systemischer Natur: unvermeidliche Begleiterscheinung, wenn wir profit- und machtorientierten Konzernen freies Spiel lassen. Aus diesem Grund recherchiere und teste ich viel, ob wir denn tatsächlich auf diese [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Open Source vs Proprietär\|proprietären]] Riesen angewiesen sind. 
  
