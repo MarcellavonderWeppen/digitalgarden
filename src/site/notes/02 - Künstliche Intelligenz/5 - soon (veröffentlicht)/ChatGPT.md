@@ -39,7 +39,7 @@ Schauen wir es uns Schritt für Schritt an:
 ### Generative
 
 - Das Modell erzeugt etwas (und zwar Texte)
-- Es gehört damit der übergeordneten Kategorie [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\|Generative KI]] an, welche u.a. Texte, Bilder, Videos und Musik generieren kann 
+- Es gehört damit der übergeordneten Kategorie [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|Generative KI]] an, welche u.a. Texte, Bilder, Videos und Musik generieren kann 
 ### Pre-trained
 
 - Es wurde **vorab** mit riesigen Mengen Text trainiert: prinzipiell stand das gesamte [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] zur Verfügung, allerdings wurde hier eine gewisse [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)#Vorauswahl\|Vorauswahl]] getroffen und [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)#Filter\|Filter]] kamen zum Einsatz. So wird sichergestellt, dass die Textausgaben einen gewissen Sprachstandard einhalten — und offensichtlich diskriminierende Inhalte werden bereits hier herausgefiltert.
