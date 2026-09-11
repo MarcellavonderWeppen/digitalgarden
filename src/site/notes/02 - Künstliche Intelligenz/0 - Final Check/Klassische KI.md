@@ -33,9 +33,11 @@ In Abhandlungen über klassische KI heißt es oft, Wissen wird formal oder expli
 
 Explizit heißt: Das Wissen steht lesbar im System. Man kann hineinschauen und findet Zeile für Zeile, was das Programm „weiß“: Fakten wie „Tweety ist ein Vogel“ und Regeln wie „Vögel können fliegen“. Ein Mensch hat sie hingeschrieben, ein Mensch kann sie lesen, prüfen und korrigieren.
 
-Formal heißt hier nicht „förmlich“, sondern „auf die Form bezogen“. Das Wissen ist in einer präzisen Kunstsprache notiert, in der allein die Gestalt der Zeichen festlegt, was daraus folgt. Aus „Alle Vögel fliegen“ und „Tweety ist ein Vogel“ ergibt sich „Tweety fliegt“ – nach dem Muster „Alle A sind B, x ist A, also x ist B“. Das Muster funktioniert für beliebige A, B und x. Was ein Vogel ist, muss dafür niemand wissen.
+Formal heißt hier nicht „förmlich“, sondern „die Form betreffend“. Das Wissen ist in einer eindeutigen Kunstsprache notiert, und was sich daraus ableiten lässt, ergibt sich allein aus dem Aufbau der Sätze, nicht aus ihrer Bedeutung.
 
-Genau das macht den Ansatz für Computer tauglich: Ein Rechner versteht nichts, er kann nur Zeichen vergleichen und nach Regeln umbauen. Ist das Wissen formal notiert, wird Schlussfolgern zu einem rein mechanischen Vorgang.
+Was das heißt, zeigt ein kleiner Test: „Alle Flurbs sind Gnaks. Zork ist ein Flurb. Also ist Zork ein Gnak.“ Niemand weiß, was ein Flurb oder ein Gnak ist. Trotzdem sieht jeder sofort, dass der Schluss stimmt. Wir erkennen nur das Muster: „Alle A sind B, x ist A, also ist x B.“ Mit Tweety funktioniert es genauso: Aus „Alle Vögel fliegen“ und „Tweety ist ein Vogel“ folgt „Tweety fliegt“. Dass wir hier zufällig wissen, was ein Vogel ist, spielt für den Schluss keine Rolle.
+
+Genau das macht den Ansatz für Computer tauglich: Ein Rechner versteht nichts. Für ihn ist „Vogel“ genauso bedeutungslos wie „Flurb“. Er kann nur Zeichen vergleichen und nach Regeln umbauen. Ist das Wissen formal notiert, wird Schlussfolgern zu einem rein mechanischen Vorgang.
 
 Ein medizinisches Expertensystem arbeitet so: „Wenn Fieber und Husten und Rasselgeräusche, dann Verdacht auf Lungenentzündung.“ Ein Arzt würde dasselbe eher als „kommt drauf an“ mit vielen Wenn und Aber formulieren. Formalisieren heißt, dieses „kommt drauf an“ in eindeutige Bedingungen zu übersetzen – oder wegzulassen.
 
