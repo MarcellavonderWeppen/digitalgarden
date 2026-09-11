@@ -8,7 +8,7 @@
 
 Die **statistische KI** begegnet uns heute überall – in der Sprachverarbeitung, der Bilderkennung, hinter Empfehlungssystemen.
 
-Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichkeit, Statistik und Datenanalyse** basieren – im Gegensatz zur [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassischen KI]].
+Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichkeit, Statistik und Datenanalyse** basieren – im Gegensatz zur [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|klassischen KI]].
 
 - Systeme lernen aus **Daten statt aus festen Regeln**
 - Modelle erkennen **Muster, Korrelationen und Wahrscheinlichkeiten**
@@ -22,7 +22,7 @@ Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichke
 
 ## Warum überhaupt ein neues [[Paradigma\|Paradigma]]?
 
-Die klassische KI hat eine Grundvoraussetzung: Jemand muss das notwendige Wissen als konkrete Regeln ausformulieren. Das ist jedoch nicht immer möglich. Menschen erkennen Gesichter, verstehen Sprache und deuten Tonfall, aber sie können nicht sagen, wie. Das Wissen ist da, nur nicht in einer Form, die sich in Regeln übersetzen ließe. Die Expertensysteme der 1980er Jahre scheiterten genau daran: Selbst dort, wo Fachleute ihr Wissen zu Papier brachten, blieben die Regelwerke lückenhaft und versagten bei allem, was nicht abgedeckt war. Am Beispiel Sprache ist das im Artikel [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI#\|Klassische KI]] ausgeführt.
+Die klassische KI hat eine Grundvoraussetzung: Jemand muss das notwendige Wissen als konkrete Regeln ausformulieren. Das ist jedoch nicht immer möglich. Menschen erkennen Gesichter, verstehen Sprache und deuten Tonfall, aber sie können nicht sagen, wie. Das Wissen ist da, nur nicht in einer Form, die sich in Regeln übersetzen ließe. Die Expertensysteme der 1980er Jahre scheiterten genau daran: Selbst dort, wo Fachleute ihr Wissen zu Papier brachten, blieben die Regelwerke lückenhaft und versagten bei allem, was nicht abgedeckt war. Am Beispiel Sprache ist das im Artikel [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI#\|Klassische KI]] ausgeführt.
 
 Die statistische KI dreht das Vorgehen um. Statt dass ein Mensch die Regeln vorgibt, bekommt das System Beispiele und findet die Muster selbst. Was niemand formulieren konnte, muss so niemand mehr formulieren.
 ## Voraussetzungen
