@@ -36,17 +36,17 @@ Dieser Artikel behandelt _Speech AI_; der Aspekt _language_ fällt in die Domän
 
 ## KI-Sprachtechnologie ist statistische KI
 
-Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der prädiktiven, teils der generativen KI.
+Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der prädiktiven, teils der [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generativen KI]].
 
 ![Statistische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Statistische%20KI%20Diagramm.png)
 
-| Teilgebiet               | Zuhause im Baum                         |
-| ------------------------ | --------------------------------------- |
-| Text-to-Speech (TTS)     | GenAI (Audio)                           |
-| Voice Cloning            | GenAI (Audio)                           |
-| Sprechererkennung        | Prädiktive KI (Klassifikation)          |
-| Emotions- und Tonanalyse | Prädiktive KI (Klassifikation)          |
-| Speech-to-Text (STT)     | teils Prädiktive KI, teils GenAI (Text) |
+| Teilgebiet               | Zuhause im Baum                  |
+| ------------------------ | -------------------------------- |
+| Text-to-Speech (TTS)     | GenAI                            |
+| Voice Cloning            | GenAI                            |
+| Sprechererkennung        | Prädiktive KI                    |
+| Emotions- und Tonanalyse | Prädiktive KI                    |
+| Speech-to-Text (STT)     | teils Prädiktive KI, teils GenAI |
 
 Die Faustregel dahinter: Kommt etwas _Neues_ heraus (eine Stimme), ist es GenAI. Kommt eine _Einordnung_ heraus (wer, welche Stimmung), ist es prädiktiv.
 
