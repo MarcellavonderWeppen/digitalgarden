@@ -74,7 +74,7 @@ Die Regeln, die Menschen beim Sprechen tatsächlich anwenden, sind zu viele, zu 
 
 #### Das Aufkommen eines neuen [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Paradigma (Denkmodell)\|Paradigmas]] 
 
-Genau an dieser Stelle setzt die [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistische KI]] an: Sie lernt Sprache nicht über Regeln, sondern aus Milliarden von Beispielen.  
+Genau an dieser Stelle setzt die [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistische KI]] an: Sie lernt Sprache nicht über Regeln, sondern aus Milliarden von Beispielen.  
 
 Die Idee künstlicher Neuronen reicht bis 1943 zurück, mit dem Perceptron gab es 1958 ein erstes lernfähiges neuronales Netz. Neuen Schwung bekam die Forschung daran in den 80ern, als die Grenzen der klassischen KI immer deutlicher wurden. Der breite Durchbruch ließ allerdings bis 2012 auf sich warten: Mit [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]gelang er zunächst in der Bilderkennung, wenige Jahre später auch bei Sprache.
 

@@ -38,7 +38,7 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von „KI“ d
 - Teils prädiktive, teils generativ: [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie\| KI-Sprachtechnologie]] inkl. [[02 - Künstliche Intelligenz/6 - later/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
 
-👉 Mehr lesen über [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|Statistische KI]]
+👉 Mehr lesen über [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|Statistische KI]]
 
 
 

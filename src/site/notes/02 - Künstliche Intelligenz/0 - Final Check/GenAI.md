@@ -4,7 +4,7 @@
 
 # Was ist Generative KI?
 
-Generative KI (GenAI) ist eine Form der [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistischen KI]]. Sie basiert auf komplexen Algorithmen, die große Datenmengen analysieren, um Muster zu erkennen und daraus neue Inhalte zu erzeugen – sei es Text, Bilder, Musik oder sogar Videos. 
+Generative KI (GenAI) ist eine Form der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistischen KI]]. Sie basiert auf komplexen Algorithmen, die große Datenmengen analysieren, um Muster zu erkennen und daraus neue Inhalte zu erzeugen – sei es Text, Bilder, Musik oder sogar Videos. 
 
 Im Gegensatz zu [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
 
@@ -32,17 +32,17 @@ Im technischen Sinn ist generativ, was neue Daten erzeugt, statt vorhandene nur 
 
 Diese Systeme haben das Potenzial, Arbeitsprozesse zu beschleunigen, kreative Arbeit zu unterstützen und Dinge zu ermöglichen, die bislang an fehlenden finanziellen Mitteln gescheitert sind: beispielsweise individualisiertes Lernmaterial, wie es sonst nur Privatunterricht bietet, oder Übersetzungen in Sprachen, für die sich das nie gelohnt hat.
 
-Allerdings hat GenAI einen hohen Preis, der oft übersehen wird: Weltweit werden  Rechenzentren aus dem Boden gestampft, welche enorme Mengen an Strom, Wasser und Landflächen verschlingen, oft [[02 - Künstliche Intelligenz/4 - very soon/über die Köpfe der Menschen vor Ort hinweg\|über die Köpfe der Menschen vor Ort hinweg]]. Dazu kommen ungelöste ethische Fragen wie Urheberrecht, Datenschutz und Deepfakes.
+Allerdings hat GenAI einen hohen Preis, der oft übersehen wird: Weltweit werden  Rechenzentren aus dem Boden gestampft, welche enorme Mengen an Strom, Wasser und Land verschlingen, oft [[02 - Künstliche Intelligenz/4 - very soon/über die Köpfe der Menschen vor Ort hinweg\|über die Köpfe der Menschen vor Ort hinweg]]. Dazu kommen ungelöste Fragen wie Urheberrecht, Datenschutz und Deepfakes.
 
  📖 Weiterlesen: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kritik an GenAI\|Kritik an GenAI]]
 ## Es geht auch anders
 
-Aus meiner Sicht ist das Problem nicht die Technologie an sich, sondern die Logik  profitmaximierender Konzerne, welche unkontrolliertes Wachstum über Menschen und die Erhaltung unserer Lebensgrundlagen stellt. 
+Aus meiner Sicht ist das Problem nicht die Technologie an sich, sondern die Logik  profitmaximierender Konzerne, welche bedingungsloses Wachstum über das Wohlergehen von Menschen oder auch nur die Erhaltung unserer Lebensgrundlagen stellt. 
 
 Bereits heute gibt es Unternehmen, die andere Prioritäten setzten und Alternativen aufzeigen:
 
-- Cloudanbieter wie [Hetzner](https://www.hetzner.com/de/unternehmen/nachhaltigkeit/) setzen auf erneuerbare Energien, der Schweizer Anbieter [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Infomaniak\|Infomaniak]] beheizt mit der Abwärme seines Genfer Rechenzentrums sogar tausende Haushalte
-- [[02 - Künstliche Intelligenz/4 - very soon/DeepSeek\|DeepSeek]] hat sein [offenes](Open Source vs Proprietär) Modell V3 mit einem Bruchteil der Rechenleistung trainiert, die üblicherweise für das Training eines LLMs verwendet wird
+- Cloudanbieter wie [Hetzner](https://www.hetzner.com/de/unternehmen/nachhaltigkeit/) setzen auf erneuerbare Energien. Der Schweizer Anbieter [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Infomaniak\|Infomaniak]] beheizt mit der Abwärme seines Genfer Rechenzentrums zudem tausende Haushalte
+- [[02 - Künstliche Intelligenz/4 - very soon/DeepSeek\|DeepSeek]] hat sein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Open Source vs Proprietär\|offenes]] Modell V3 mit einem Bruchteil der Rechenleistung trainiert, die üblicherweise für das Training eines LLMs verwendet wird
 - Intelligentere Architekturen und Verfahren wie Mixture of Experts (siehe [[Mistral\|Mistral]] oder DeepSeek) arbeiten wesentlich effizienter
 - [[SLMs (kleine Sprachmodelle)\|SLMs (kleine Sprachmodelle)]] wie Phi oder Gemma stellen das Narrativ „größer ist besser“ in Frage
 - Dienste wie Lumo von [[02 - Künstliche Intelligenz/4 - very soon/Proton\|Proton]] betreiben offene Modelle auf eigenen Servern in Europa und setzen auf Datenschutz statt Datensammeln

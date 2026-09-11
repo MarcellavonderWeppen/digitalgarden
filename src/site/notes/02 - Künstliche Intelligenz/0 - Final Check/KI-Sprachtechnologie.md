@@ -2,7 +2,6 @@
 {"title":"KI-Sprachtechnologie","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-03","updated":"2026-09-06","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/ki-sprachtechnologie/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI-Sprachtechnologie","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-03","updated":"2026-09-06","status":null}}
 ---
 
-
 # KI-Sprachtechnologie
 
 KI-Sprachtechnologie ist der Oberbegriff für alle Verfahren, mit denen Maschinen gesprochene Sprache verarbeiten, verstehen oder erzeugen. Sie ist die Brücke zwischen der Stimme des Menschen und den textbasierten Systemen, mit denen Computer intern arbeiten.
@@ -18,10 +17,10 @@ Unser deutsches Wort „Sprache“ hat im Englischen zwei Entsprechungen:
 
 Dieser Artikel behandelt _Speech AI_; der Aspekt _language_ fällt in die Domäne der [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|großen Sprachmodelle]].
 
-| *language*                                            | *speech*         |
-| ----------------------------------------------------- | ---------------- |
-| Text, Grammatik, Bedeutung                            | Stimme und Audio |
-| [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|große Sprachmodelle]] | Speech AI        |
+| *language*                 | *speech*         |
+| -------------------------- | ---------------- |
+| Text, Grammatik, Bedeutung | Stimme und Audio |
+| große Sprachmodelle        | Speech AI        |
 
 ## Die wichtigsten Teilgebiete
 
@@ -88,7 +87,7 @@ Gesprochene Sprache wird in Echtzeit gedolmetscht oder ein Video nachträglich i
 
 ### Barrierefreiheit
 
-Screenreader lesen Menschen mit eingeschränktem Sehvermögen den Bildschirm vor (TTS), Live-Transkription macht Gespräche für Hörgeschädigte lesbar (STT). wer seine Stimme durch eine Krankheit zu verlieren droht, kann sie vorher aufnehmen und weiter nutzen (Voice Cloning), und Menschen mit Asperger-Autismus profitieren von einer Emotions- und Tonanalyse.
+Screenreader lesen Menschen mit eingeschränktem Sehvermögen den Bildschirm vor (TTS), Live-Transkription macht Gespräche für Hörgeschädigte lesbar (STT). Wer seine Stimme durch eine Krankheit zu verlieren droht, kann sie vorher aufnehmen und weiter nutzen (Voice Cloning), und Menschen mit Asperger-Autismus profitieren von einer Emotions- und Tonanalyse.
 
 **Beispiele:** Apple Personal Voice, Live-Untertitel in Zoom
 
