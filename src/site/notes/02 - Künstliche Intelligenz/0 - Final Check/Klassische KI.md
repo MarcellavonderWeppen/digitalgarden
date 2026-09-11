@@ -13,19 +13,19 @@ Die **klassische künstliche Intelligenz** basiert auf der Idee, dass Intelligen
 
 - Wissen wird formal dargestellt, z. B. als Fakten und Wenn-Dann-Regeln
 - Dieses Wissen wird mit zwei zentralen, oft kombinierten Verfahren verarbeitet:
-    - Logisches Ableiten: Aus Fakten und Regeln werden neue Schlüsse gezogen
-    - Suche: Mögliche Lösungswege werden durchprobiert und bewertet
+    - **Logisches Ableiten**: Aus Fakten und Regeln werden neue Schlüsse gezogen
+    - **Suche**: Mögliche Lösungswege werden durchprobiert und bewertet
 
 ## Typische Beispiele
 
-- Expertensysteme (z. B. medizinische Diagnosesysteme)
-- Logikbasierte Programme 
-- Schach (klassische Schachprogramme wie Deep Blue, das 1997 Kasparow schlug)
+- Expertensysteme, z. B. MYCIN (1970er Jahre), das bakterielle Infektionen diagnostizierte und passende Antibiotika empfahl
+- Logikbasierte Programme, z. B. der „Logic Theorist“ (1956), der mathematische Lehrsätze selbstständig bewies
+- Klassische Schachprogramme, z. B. Deep Blue, das 1997 den Schachweltmeister Kasparow schlug
 
-| Verfahren          | Grundidee                                              | Typisches Beispiel                                  |
-| ------------------ | ------------------------------------------------------ | --------------------------------------------------- |
-| Logisches Ableiten | Wenn-Dann-Regeln werden auf bekannte Fakten angewendet | Expertensysteme wie MYCIN für medizinische Diagnose |
-| Suche              | Mögliche Lösungswege werden schrittweise erkundet      | Routenplaner, klassische Schachprogramme            |
+| Verfahren          | Grundidee                                              | Typisches Beispiel                        |     |
+| ------------------ | ------------------------------------------------------ | ----------------------------------------- | --- |
+| Logisches Ableiten | Wenn-Dann-Regeln werden auf bekannte Fakten angewendet | logikbasiertes Programme, Expertensysteme |     |
+| Suche              | Mögliche Lösungswege werden schrittweise erkundet      | klassische Schachprogramme, Routenplaner  |     |
 
 ## Formal repräsentiert
 
