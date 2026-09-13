@@ -6,6 +6,8 @@
 
 > [!info] Synonyme und verwandte Begriffe: Datengetriebene KI, subsymbolische KI
 
+![Statistische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Statistische%20KI%20Diagramm.png)
+
 Die **statistische KI** begegnet uns heute überall – in der Sprachverarbeitung, der Bilderkennung, hinter Empfehlungssystemen.
 
 Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichkeit, Statistik und Datenanalyse** basieren – im Gegensatz zur [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassischen KI]].
@@ -54,4 +56,6 @@ Das Sprachmodell versteht und formuliert (statistisch), während klassische Komp
 
 ## 📖 Weiterlesen
 
-- In diesem Zusammenhang fällt auch oft der Begriff [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning (ML)]] als praktische Umsetzung der statistischen KI. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Neuronale Netze\|Neuronale Netze]] sind eine Unterkategorie von ML.
+- Im Zusammenhang mit statistischer KI fällt auch oft der Begriff [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning (ML)]] als praktische Umsetzung der statistischen KI. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Neuronale Netze\|Neuronale Netze]] sind eine Unterkategorie von ML.
+- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/0 - Final Check/Prädiktive KI\|Prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]]
+
