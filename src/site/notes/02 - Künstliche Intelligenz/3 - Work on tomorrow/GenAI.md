@@ -1,5 +1,5 @@
 ---
-{"title":"GenAI","aliases":["Generative KI"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-04","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-work-on-tomorrow/gen-ai/","dgPassFrontmatter":true,"dg-note-properties":{"title":"GenAI","aliases":["Generative KI"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-04","status":null}}
+{"title":"GenAI","aliases":["generative KI"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-04","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-work-on-tomorrow/gen-ai/","dgPassFrontmatter":true,"dg-note-properties":{"title":"GenAI","aliases":["generative KI"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-04","status":null}}
 ---
 
 # Was ist Generative KI?
