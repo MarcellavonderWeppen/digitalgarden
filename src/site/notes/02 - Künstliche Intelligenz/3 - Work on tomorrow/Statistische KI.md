@@ -37,7 +37,7 @@ Die datengetriebene KI konnte ihren Siegeszug keinen Augenblick früher antreten
 - Rechenleistung, um diese Datenmengen verarbeiten zu können („Compute“)
 - [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Algorithmus\|Algorithmen]] und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen.
 
-![3 Voraussetzungen für statistische KI.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/3%20Voraussetzungen%20f%C3%BCr%20statistische%20KI.png)
+![3 Voraussetzungen für statistische KI.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Einstieg/3%20Voraussetzungen%20f%C3%BCr%20statistische%20KI.png)
 
 
 ## Klassische vs. statistische KI

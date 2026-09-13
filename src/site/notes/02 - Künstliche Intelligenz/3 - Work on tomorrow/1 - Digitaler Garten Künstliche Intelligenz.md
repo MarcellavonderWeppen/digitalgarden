@@ -7,7 +7,7 @@
 
 # Herzlich willkommen in meinem „Digital Garden“ zum Thema Künstliche Intelligenz 🌱🌿🌳
 
-Hier ist mein persönlicher „digitaler Garten“ am Wachsen: Ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/Künstliche Intelligenz\|Künstlicher Intelligenz]].
+Hier ist mein persönlicher „digitaler Garten“ am Wachsen: Ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/Einstieg/Künstliche Intelligenz\|Künstlicher Intelligenz]].
 
 Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Art Blog?
 
@@ -72,7 +72,7 @@ Vielleicht ist die Frage aber auch anders gemeint:
 
 *Eine Art Blog über KI, wie viel ist da überhaupt selbst geschrieben?* 
 
-Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI darin – mehr darüber [[02 - Künstliche Intelligenz/2 - Work on today/Wieviel\|hier]].
+Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI darin – mehr darüber [[02 - Künstliche Intelligenz/2 - Work on today/Wieviel KI in Texten, Transparenz,\|hier]].
 
 **Und nun viel Spaß beim Stöbern!**
 

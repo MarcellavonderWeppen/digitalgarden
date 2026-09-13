@@ -21,9 +21,9 @@ Nicht alle Kaninchenlöcher sind gleich gut ausgebaut. Orientierung geben die fo
 
 ### Mehr über digitale Gärten 🕳️🐇
 
-Man kennt dieses Internetphänomen auch unter den Namen [[02 - Künstliche Intelligenz/Obsidian/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]] oder "Second Brain". Letzteren Begriff hat [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Tiago Forte\|Tiago Forte]] geprägt - er hat mich sehr inspiriert, ein solches Unterfangen zu starten.
+Man kennt dieses Internetphänomen auch unter den Namen [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]] oder "Second Brain". Letzteren Begriff hat [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Tiago Forte\|Tiago Forte]] geprägt - er hat mich sehr inspiriert, ein solches Unterfangen zu starten.
 
-Dieses Projekt wurde übrigens mit der Software [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Was ist Obsidian?]] 🐇 gebaut - perfekt für Nerds und alle, die es werden wollen. Es folgt dem Ansatz des vernetzten Denkens und entspricht damit besser der natürlichen Funktionsweise unseres Gehirns als hierarchische, lineare Ansätze.
+Dieses Projekt wurde übrigens mit der Software [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Was ist Obsidian?]] 🐇 gebaut - perfekt für Nerds und alle, die es werden wollen. Es folgt dem Ansatz des vernetzten Denkens und entspricht damit besser der natürlichen Funktionsweise unseres Gehirns als hierarchische, lineare Ansätze.
 
 ### Speech-To-Text-KIs, Wispr Flow und Darkpatterns 🐇👑
 
@@ -42,7 +42,7 @@ Hier könnte ihr einige meiner Empfehlungen entdecken:
 
 ### Alternative LLMs 🕳️🐇
 
- [[02 - Künstliche Intelligenz/Künstliche Intelligenz\|KI]] begleitet uns schon lange, aber erst der Durchbruch der [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|Large Language Models]] - eine Form der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistischen KI]] -  hat sie ins Rampenlicht gerückt. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/ChatGPT\|ChatGPT]] hat den Start gemacht und unverkennbar einen Hype ausgelöst. Aber machen wir uns nichts vor: die [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kritik an GenAI\|Kritik]] an [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|generativer KI]] ist absolut berechtigt! 
+ [[02 - Künstliche Intelligenz/Einstieg/Künstliche Intelligenz\|KI]] begleitet uns schon lange, aber erst der Durchbruch der [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|Large Language Models]] - eine Form der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistischen KI]] -  hat sie ins Rampenlicht gerückt. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/ChatGPT\|ChatGPT]] hat den Start gemacht und unverkennbar einen Hype ausgelöst. Aber machen wir uns nichts vor: die [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kritik an GenAI\|Kritik]] an [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|generativer KI]] ist absolut berechtigt! 
 
 Ich denke, ihre negativen Seiten sind keineswegs ein inhärentes Merkmal dieser Technologie, sondern vielmehr systemischer Natur: unvermeidliche Begleiterscheinung, wenn wir profit- und machtorientierten Konzernen freies Spiel lassen. Aus diesem Grund recherchiere und teste ich viel, ob wir denn tatsächlich auf diese [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Open Source vs Proprietär\|proprietären]] Riesen angewiesen sind. 
  

@@ -5,7 +5,7 @@
 
 # KI – es geht auch anders!
 
-Als 2022 ChatGPT aufkam, begann meine große Liebesaffäre mit dieser neuen Technologie. Ich war verliebt - so heftig, dass beschloss KI zu meinem Beruf zu machen. (👉 siehe auch [[02 - Künstliche Intelligenz/2 - Work on today/Über mich\|Über mich]])
+Als 2022 ChatGPT aufkam, begann meine große Liebesaffäre mit dieser neuen Technologie. Ich war verliebt - so heftig, dass beschloss KI zu meinem Beruf zu machen. (👉 siehe auch [[02 - Künstliche Intelligenz/2 - Work on today/Über mich\|02 - Künstliche Intelligenz/2 - Work on today/Über mich]])
 
 Kaum war jedoch der Entschluss gefasst und alles in Bewegung gesetzt, zeigten sich schon erste Risse in meiner neuen schönen KI-Welt:
 
