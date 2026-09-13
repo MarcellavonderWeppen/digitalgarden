@@ -72,7 +72,7 @@ Vielleicht ist die Frage aber auch anders gemeint:
 
 *Eine Art Blog über KI, wie viel ist da überhaupt selbst geschrieben?* 
 
-Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI darin – mehr darüber [[02 - Künstliche Intelligenz/2 - Work on today/Wieviel KI in Texten, Transparenz,\|hier]].
+Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI darin – mehr darüber [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Schreiben mit KI\|hier]].
 
 **Und nun viel Spaß beim Stöbern!**
 
