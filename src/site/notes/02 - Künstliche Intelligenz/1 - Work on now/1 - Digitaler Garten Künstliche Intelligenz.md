@@ -29,35 +29,17 @@ Man kann den Garten durch Links erkunden – die Pfade, die alles verbinden. So 
 
 Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 
-- ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob er ihn wirklich verstanden hat oder ob da noch ein paar Wurzeln fehlen.
-- 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck, kein „erst veröffentlichen, wenn es fertig ist“. Ein Setzling darf ein Setzling sein und in Ruhe wachsen.
-- 🍄 **Verbindungen statt Timeline:** Statt im Archiv zu verschwinden, verzweigen sich die Ideen und finden zueinander, wie ein Pilzgeflecht unter der Erde. Oft entstehen gerade an den Kreuzungen der Pfade die spannendsten Einsichten.
-- 🏡 **Ein eigenes Stück Land:** Kein Algorithmus entscheidet, was sichtbar ist, und kein Feed spült Inhalte nach zwei Tagen weg. Hier bestimme ich selbst, was wächst.
-- 📚 **Ein Gedächtnis zum Nachschlagen:** Was ich einmal verstanden habe, finde ich hier wieder, auch wenn es mir längst wieder entfallen ist.
-- 🐝 **Gemeinsam gärtnern:** Ein offener Garten lädt zum Vorbeischauen ein. Fragen, Hinweise und auch Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
-
-**Variante A: alle sechs Punkte, umsortiert und gestrafft**
-
-- ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob er ihn wirklich verstanden hat oder ob noch Wurzeln fehlen.
-- 🐿️ **Vorräte anlegen:** Wie ein Eichhörnchen sammle ich Wissen für später, nur dass ich meine Vorräte auch wiederfinde.
-- 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck, kein „erst veröffentlichen, wenn es fertig ist“. Ein Setzling darf ein Setzling sein.
-- 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Gerade dort, wo sie sich berühren, entsteht oft das Spannendste.
-- 🏡 **Ein eigenes Stück Land:** Kein Algorithmus entscheidet, was sichtbar bleibt, kein Feed spült etwas weg. Hier bestimme ich selbst, was wächst.
-- 🐝 **Gemeinsam gärtnern:** Ein offener Garten lädt zum Vorbeischauen ein. Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
-
-**Variante B: fünf Punkte, ✍️ und 📚 verschmolzen**
-
 - ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob noch Wurzeln fehlen. Und was einmal Wurzeln geschlagen hat, finde ich später wieder.
 - 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck. Ein Setzling darf ein Setzling sein.
 - 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Gerade dort, wo sie sich berühren, entsteht oft das Spannendste.
 - 🏡 **Ein eigenes Stück Land:** Kein Algorithmus entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
 - 🐝 **Gemeinsam gärtnern:** Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
 
-Für mich ist es die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso für mich, warum also nicht andere daran teilhaben lassen? Sharing is caring ❤️ 
+Für mich ist es vor allem die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso für mich, warum also nicht andere daran teilhaben lassen? Sharing is caring ❤️
 
-Doch es geht in beide Richtungen – vielleicht habt ihr Fragen, Anregungen oder konstruktive Kritik? Auch das erweitert mein Verständnis und bereichert meine kleine Ecke hier im Internet. Ich freue mich über jeden Kommentar!
+Doch ich lerne auch von euch! Ich habe alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare - euere Perspektive, konstruktive Kritik, aber auch Fragen und Anregungen. Was gibt es schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben?🐝
 
- 👉 [[02 - Künstliche Intelligenz/6 - later/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
+ 👉 So geht’s: [[02 - Künstliche Intelligenz/6 - later/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
 
 Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und vielleicht nach und nach, während dieses Projekt wächst, das ein oder andere Kaninchenloch entdecken 🐇
 ## Hier geht’s zu den Kaninchenlöchern 👇
