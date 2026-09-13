@@ -36,7 +36,7 @@ Dieser Artikel behandelt _Speech AI_; der Aspekt _language_ fällt in die Domän
 
 ## KI-Sprachtechnologie ist statistische KI
 
-Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der prädiktiven, teils der [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generativen KI]].
+Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der prädiktiven, teils der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|generativen KI]].
 
 ![Statistische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Statistische%20KI%20Diagramm.png)
 
@@ -52,7 +52,7 @@ Die Faustregel dahinter: Kommt etwas _Neues_ heraus (eine Stimme), ist es GenAI.
 
 STT ist der Mischling, weil beides zutrifft: Es ordnet ein, was gesagt wurde, aber das Ergebnis ist erzeugter Text. 
 
-👉 mehr zur Einordnung unter [[02 - Künstliche Intelligenz/0 - Final Check/GenAI#Begriffliche Klärung\|GenAI]]
+👉 mehr zur Einordnung unter [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI#Begriffliche Klärung\|GenAI]]
 ## Die wichtigsten Anwendungen
 
 Die Teilgebiete sind Bausteine. Was man im Alltag als Produkt erlebt, kombiniert meist mehrere davon.
