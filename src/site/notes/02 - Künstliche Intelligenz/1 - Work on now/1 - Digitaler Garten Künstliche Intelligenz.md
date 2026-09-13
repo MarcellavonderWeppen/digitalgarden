@@ -35,7 +35,9 @@ Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 - 🏡 **Ein eigenes Stück Land:** Kein Algorithmus entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
 - 🐝 **Gemeinsam gärtnern:** Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
 
-Für mich ist es vor allem die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso für mich, warum dann nicht andere daran teilhaben lassen? Sharing is caring ❤️
+## Gemeinsam Lernen - Mitmachen willkommen
+
+Meine Motivation ist vor allem die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso für mich, warum dann nicht andere daran teilhaben lassen? Sharing is caring ❤️
 
 Doch ich lerne auch von euch! Ich habe alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare - euere Perspektive, konstruktive Kritik, aber auch Fragen und Anregungen. Was gibt es schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben?🐝
 
@@ -74,7 +76,7 @@ Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI dari
 
 Und nun viel Spaß beim Stöbern!
 
-👉 zur [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone\|Karnickel-Einstiegszone]] 🕳️🐇
+## 👉 zur [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone\|Karnickel-Einstiegszone]] 🕳️🐇
 
 ---
 
