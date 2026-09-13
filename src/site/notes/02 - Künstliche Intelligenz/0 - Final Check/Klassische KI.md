@@ -8,6 +8,7 @@
 > symbolische KI, regelbasierte KI, „Good Old-Fashioned AI“ (GOFAI), wissensbasierte Systeme
 
 Viele Jahrzehnte bevor ChatGPT das Licht der Welt erblickte und einen ungeahnten KI-Hype auslöste, gab es KI schon als Forschungsfeld und entwickelte sich ohne große öffentliche Aufmerksamkeit. Ins Leben gerufen wurde sie 1956 auf der Dartmouth Conference, als sich einige Größen der Computerwissenschaften trafen und John McCarthy ihr mit dem Begriff „Artificial Intelligence“ offiziell ihren Namen gab.
+## Die Grundidee: Wissen in Regeln fassen
 
 Die **klassische künstliche Intelligenz** basiert auf der Idee, dass Intelligenz durch **explizite Regeln und Symbole** beschrieben werden kann:
 
@@ -15,6 +16,8 @@ Die **klassische künstliche Intelligenz** basiert auf der Idee, dass Intelligen
 - Dieses Wissen wird mit zwei zentralen, oft kombinierten Verfahren verarbeitet:
     - **Logisches Ableiten**: Aus Fakten und Regeln werden neue Schlüsse gezogen
     - **Suche**: Mögliche Lösungswege werden durchprobiert und bewertet
+
+## Zwei Spielarten: Ableiten und Suchen
 
 ![Klassische KI Diagramm.png](/img/user/Klassische%20KI%20Diagramm.png)
 
@@ -32,13 +35,15 @@ In Abhandlungen über klassische KI heißt es oft, Wissen wird formal oder expli
 
 Explizit heißt: Das Wissen steht lesbar im System. Man kann hineinschauen und findet Zeile für Zeile, was das Programm „weiß“: Fakten wie „Tweety ist ein Vogel“ und Regeln wie „Vögel können fliegen“. Ein Mensch hat sie hingeschrieben, ein Mensch kann sie lesen, prüfen und korrigieren.
 
-Formal heißt hier nicht „förmlich“, sondern „die Form betreffend“. Das Wissen ist in einer eindeutigen Kunstsprache notiert, und was sich daraus ableiten lässt, ergibt sich allein aus dem Aufbau der Sätze, nicht aus ihrer Bedeutung.
+Formal heißt hier nicht „förmlich“, sondern „die Form betreffend“. Das Wissen ist in einer Kunstsprache notiert: einer künstlich festgelegten Sprache mit einem festen Vorrat an Zeichen und klaren Regeln, wie sich diese Zeichen verknüpfen lassen. Ähnlich wie in der Mathematik oder in einer Programmiersprache. Was sich daraus ableiten lässt, ergibt sich allein aus dem Aufbau der Sätze, nicht aus ihrer Bedeutung.
 
-Was das heißt, zeigt ein kleiner Test: „Alle Flurbs sind Gnaks. Zork ist ein Flurb. Also ist Zork ein Gnak.“ Niemand weiß, was ein Flurb oder ein Gnak ist. Trotzdem erkennen logisch denkende Menschen sofort, dass der Schluss stimmt. Wir brauchen nur das Muster: „Alle A sind B, x ist A, also ist x B.“ Mit Tweety funktioniert es genauso: Aus „Alle Vögel fliegen“ und „Tweety ist ein Vogel“ folgt „Tweety fliegt“. Dass wir hier zufällig wissen, was ein Vogel ist, spielt für die Schlussfolgerung keine Rolle.
+Das klang jetzt vielleicht ein wenig abstrakt, also schauen wir uns ein konkretes Beispiel an :„Alle Flurbs sind Gnaks. Zork ist ein Flurb. Also ist Zork ein Gnak.“ Niemand weiß, was ein Flurb oder ein Gnak ist. Trotzdem erkennen logisch denkende Menschen sofort, dass der Schluss stimmt. Wir brauchen nur das Muster: „Alle A sind B, x ist A, also ist x B.“ Mit Tweety funktioniert es genauso: Aus „Alle Vögel fliegen“ und „Tweety ist ein Vogel“ folgt „Tweety fliegt“. Dass wir hier zufällig wissen, was ein Vogel ist, spielt für die Schlussfolgerung keine Rolle.
 
 Genau das macht den Ansatz für Computer tauglich: Ein Rechner versteht nichts. Für ihn ist „Vogel“ genauso bedeutungslos wie „Flurb“. Er kann nur Zeichen vergleichen und nach Regeln umbauen. Ist das Wissen formal notiert, wird Schlussfolgern zu einem rein mechanischen Vorgang.
 
-Ein medizinisches Expertensystem arbeitet genau so: „Wenn Fieber und Husten und Rasselgeräusche, dann Verdacht auf Lungenentzündung.“ Ein Arzt würde eher ein „kommt drauf an“ mit vielen Wenn und Aber formulieren. Formalisieren heißt, dieses „kommt drauf an“ in eindeutige Bedingungen zu übersetzen – oder wegzulassen.
+Diese Zeichen nennt man in der KI **Symbole** – daher auch symbolische KI als Synonym für klassische KI. Ein Symbol ist ein Platzhalter, der für etwas in der Welt steht: „Vogel“, „Fieber“,„Tweety“. Für den Computer sind es leere Hüllen, die er nach Regeln hin- und herschiebt. Die Bedeutung steckt allein im Kopf des Menschen, der sie hingeschrieben hat.
+
+Ein medizinisches Expertensystem arbeitet genau so: „Wenn Fieber und Husten und Rasselgeräusche, dann Verdacht auf Lungenentzündung.“ Ein menschlicher Arzt würde eher ein „kommt drauf an“ mit vielen Wenn und Aber schlussfolgern. Formalisieren heißt, dieses „kommt drauf an“ in eindeutige Bedingungen zu übersetzen – oder wegzulassen.
 
 Bei Schach gelingt das restlos. Bei Sprache, wie wir gleich sehen werden, nicht.
 
