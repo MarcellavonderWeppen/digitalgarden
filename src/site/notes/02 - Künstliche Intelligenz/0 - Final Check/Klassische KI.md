@@ -16,20 +16,15 @@ Die **klassische künstliche Intelligenz** basiert auf der Idee, dass Intelligen
     - **Logisches Ableiten**: Aus Fakten und Regeln werden neue Schlüsse gezogen
     - **Suche**: Mögliche Lösungswege werden durchprobiert und bewertet
 
-## Typische Beispiele
-
-- Expertensysteme, z. B. MYCIN (1970er Jahre), das bakterielle Infektionen diagnostizierte und passende Antibiotika empfahl
-- Logikbasierte Programme, z. B. der „Logic Theorist“ (1956), der mathematische Lehrsätze selbstständig bewies
-- Klassische Schachprogramme, z. B. Deep Blue, das 1997 den Schachweltmeister Kasparow schlug
-
-## Teilbereiche der klassischen KI
-
 ![Klassische KI Diagramm.png](/img/user/Klassische%20KI%20Diagramm.png)
 
-| Verfahren          | Grundidee                                              | Typisches Beispiel                        |
-| ------------------ | ------------------------------------------------------ | ----------------------------------------- |
-| Logisches Ableiten | Wenn-Dann-Regeln werden auf bekannte Fakten angewendet | logikbasiertes Programme, Expertensysteme |
-| Suche              | Mögliche Lösungswege werden schrittweise erkundet      | klassische Schachprogramme, Routenplaner  |
+|                      | Regelbasierte Systeme                                                                                                                                                           | Such- und Planungsverfahren                                                                                                       |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **Prinzip**          | Logisches Ableiten                                                                                                                                                              | Suche                                                                                                                             |
+| **Grundidee**        | Das System wendet vorformulierte Wenn-Dann-Regeln auf bekannte Fakten an und leitet daraus neue Schlüsse ab                                                                     | Das System erkundet mögliche Lösungswege Schritt für Schritt, bewertet sie und verfolgt die aussichtsreichsten weiter             |
+| **Wissen kommt**     | von Fachleuten, die ihr Wissen in Regeln übersetzt haben                                                                                                                        | von Menschen, die Spielregeln und Bewertungsmaßstäbe vorgeben                                                                     |
+| **Typische Systeme** | Expertensysteme, logikbasierte Programme                                                                                                                                        | klassische Schachprogramme, Routenplaner                                                                                          |
+| **Beispiele**        | **MYCIN** (1970er): diagnostizierte bakterielle Infektionen und empfahl passende Antibiotika  <br>  <br>**Logic Theorist** (1956): bewies mathematische Lehrsätze selbstständig | **Deep Blue** (1997): schlug Schachweltmeister Kasparow  <br>  <br>**Google Maps**: findet die kürzeste Verbindung im Straßennetz |
 
 ## Formal repräsentiert
 
