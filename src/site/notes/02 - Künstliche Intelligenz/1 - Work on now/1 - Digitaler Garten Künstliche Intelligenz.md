@@ -15,8 +15,8 @@ Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Ar
 
 Die digitale Gärtnerei ist verwandt mit dem Bloggen, funktioniert aber anders:
 
-- Ein Blog folgt einer linearen Timeline. Sorgsam ausgearbeitete Artikel werden zu einem bestimmten Zeitpunkt veröffentlicht und in der Regel nicht mehr bearbeitet.
-- Ganz anders ein digitaler Garten: Mal wird hier ein Setzling gepflanzt, mal dort eine Idee angelegt. Setzlinge können zu zarten Pflänzchen werden und vielleicht irgendwann zu ausgewachsenen Artikeln. Inhalte wachsen organisch und sind selten vollendet.
+- **Ein Blog folgt einer linearen Timeline.** Sorgsam ausgearbeitete Artikel werden zu einem bestimmten Zeitpunkt veröffentlicht und in der Regel nicht mehr bearbeitet.
+- **Ganz anders ein digitaler Garten:** Mal wird hier ein Setzling gepflanzt, mal dort eine Idee angelegt. Setzlinge können zu zarten Pflänzchen werden und vielleicht irgendwann zu ausgewachsenen Artikeln. Inhalte wachsen organisch und sind selten vollendet.
 
 > [!info] Die Lebensphasen eines Artikels:
 > 🌱 **Setzling**: Frisch gepflanzt. Wenig sichtbar, viel Potenzial.
@@ -36,9 +36,26 @@ Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 - 📚 **Ein Gedächtnis zum Nachschlagen:** Was ich einmal verstanden habe, finde ich hier wieder, auch wenn es mir längst wieder entfallen ist.
 - 🐝 **Gemeinsam gärtnern:** Ein offener Garten lädt zum Vorbeischauen ein. Fragen, Hinweise und auch Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
 
-Für mich ist es die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso mit [[02 - Künstliche Intelligenz/Obsidian/Was ist Obsidian?\|Obsidian]], warum also nicht andere daran teilhaben lassen? Sharing is caring ❤️ 
+**Variante A: alle sechs Punkte, umsortiert und gestrafft**
 
-Doch es geht in beide Richtungen – vielleicht habt ihr Fragen, Anregungen oder konstruktive Kritik für mich? Ich freue mich über jeden Kommentar!
+- ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob er ihn wirklich verstanden hat oder ob noch Wurzeln fehlen.
+- 🐿️ **Vorräte anlegen:** Wie ein Eichhörnchen sammle ich Wissen für später, nur dass ich meine Vorräte auch wiederfinde.
+- 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck, kein „erst veröffentlichen, wenn es fertig ist“. Ein Setzling darf ein Setzling sein.
+- 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Gerade dort, wo sie sich berühren, entsteht oft das Spannendste.
+- 🏡 **Ein eigenes Stück Land:** Kein Algorithmus entscheidet, was sichtbar bleibt, kein Feed spült etwas weg. Hier bestimme ich selbst, was wächst.
+- 🐝 **Gemeinsam gärtnern:** Ein offener Garten lädt zum Vorbeischauen ein. Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
+
+**Variante B: fünf Punkte, ✍️ und 📚 verschmolzen**
+
+- ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob noch Wurzeln fehlen. Und was einmal Wurzeln geschlagen hat, finde ich später wieder.
+- 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck. Ein Setzling darf ein Setzling sein.
+- 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Gerade dort, wo sie sich berühren, entsteht oft das Spannendste.
+- 🏡 **Ein eigenes Stück Land:** Kein Algorithmus entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
+- 🐝 **Gemeinsam gärtnern:** Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
+
+Für mich ist es die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso für mich, warum also nicht andere daran teilhaben lassen? Sharing is caring ❤️ 
+
+Doch es geht in beide Richtungen – vielleicht habt ihr Fragen, Anregungen oder konstruktive Kritik? Auch das erweitert mein Verständnis und bereichert meine kleine Ecke hier im Internet. Ich freue mich über jeden Kommentar!
 
  👉 [[02 - Künstliche Intelligenz/6 - later/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
 
