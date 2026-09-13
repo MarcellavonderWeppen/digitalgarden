@@ -29,13 +29,13 @@ Man kann den Garten durch Links erkunden – die Pfade, die alles verbinden. So 
 
 Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 
-- ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob noch Wurzeln fehlen. Und was einmal Wurzeln geschlagen hat, finde ich später wieder.
+- ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob noch Wurzeln fehlen. 
 - 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck. Ein Setzling darf ein Setzling sein.
 - 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Gerade dort, wo sie sich berühren, entsteht oft das Spannendste.
 - 🏡 **Ein eigenes Stück Land:** Kein Algorithmus entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
 - 🐝 **Gemeinsam gärtnern:** Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
 
-Für mich ist es vor allem die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso für mich, warum also nicht andere daran teilhaben lassen? Sharing is caring ❤️
+Für mich ist es vor allem die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso für mich, warum dann nicht andere daran teilhaben lassen? Sharing is caring ❤️
 
 Doch ich lerne auch von euch! Ich habe alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare - euere Perspektive, konstruktive Kritik, aber auch Fragen und Anregungen. Was gibt es schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben?🐝
 
@@ -75,19 +75,6 @@ Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI dari
 Und nun viel Spaß beim Stöbern!
 
 👉 zur [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone\|Karnickel-Einstiegszone]] 🕳️🐇
-
-
----
-
-## Disclaimer
-
-Ich habe alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt.
-
-Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive.
-
-Vertraue niemandem, auch mir nicht – prüfe Dinge selbst nach.
-
-
 
 ---
 
