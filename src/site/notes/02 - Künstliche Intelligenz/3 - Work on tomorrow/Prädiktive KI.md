@@ -24,4 +24,4 @@ Prädiktive KI bezeichnet KI-Systeme, die aus vorhandenen Daten Muster lernen, u
 
 > Auch LLMs (Large Language Models) sind technisch gesehen Vorhersagemaschinen: Sie berechnen, welches Wortstück (Token) am wahrscheinlichsten als Nächstes folgt. Die Grenze verläuft also weniger über die Technik als über den Zweck.
 
-Anwendungen wie [STTs (eine KI-Sprachtechnologie)](KI-Sprachtechnologie#KI-Sprachtechnologie ist statistische KI) können je nach Umsetzung entweder in den prädiktiven oder den generativen Bereich fallen.
+Anwendungen wie [STTs (eine KI-Sprachtechnologie)](KI-Sprachtechnologie#KI-Sprachtechnologie ist statistische KI) können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
