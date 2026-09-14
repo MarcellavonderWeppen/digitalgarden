@@ -20,7 +20,7 @@ Prädiktive KI bezeichnet KI-Systeme, die aus vorhandenen Daten Muster lernen, u
 ## Abgrenzung zu generativer KI
 
 - **Prädiktive KI** schätzt, bewertet und ordnet ein: „Ist diese Mail Spam?“
-- [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generative KI]] erzeugt neue Inhalte wie Texte, Bilder oder Code: „Schreib mir eine Mail.“
+- [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|generative KI]] erzeugt neue Inhalte wie Texte, Bilder oder Code: „Schreib mir eine Mail.“
 
 > Auch LLMs (Large Language Models) sind technisch gesehen Vorhersagemaschinen: Sie berechnen, welches Wortstück (Token) am wahrscheinlichsten als Nächstes folgt. Die Grenze verläuft also weniger über die Technik als über den Zweck.
 
