@@ -8,7 +8,7 @@ Auch bekannt als: **Diffusionstheorie**, **Innovationsdiffusionsmodell**, **Roge
 
 Theorie von Everett Rogers (1962), die erklärt, wie, warum und in welchem Tempo sich neue Ideen und Technologien in einer Gesellschaft verbreiten. Diffusion verläuft als S-Kurve: langsamer Start, steiles Wachstum in der Mitte, Abflachung zur Sättigung hin.
 
-![Diffusiontheorie Gemini 07.06.2026.png](/img/user/Bilder/Diffusiontheorie%20Gemini%2007.06.2026.png)
+![Diffusiontheorie Gemini 07.06.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/5%20-%20soon%20(ver%C3%B6ffentlicht)/Bilder/Diffusiontheorie%20Gemini%2007.06.2026.png)
 
 Ursprünglich in der Agrarsoziologie verwurzelt, vereinte Rogers in seiner Theorie Erkenntnisse aus über 508 empirischen Studien – von Anthropologie über Soziologie bis hin zu Medizin und Bildung. Sein Modell entwickelte sich zum meistzitierten Ansatz, um die Übernahme von Innovationen zu erklären.
 

@@ -78,7 +78,7 @@ Ein freundlicher Mensch (ja, es war meine Mentorin! Sie ist die Beste ❤️) ha
 
 Bis auf den heutigen Tag praktiziere ich Mindmaps und finde sie wirklich sehr, sehr hilfreich!
 
-Ein Jahr später flammte meine Begeisterung für [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] wieder so richtig auf und ich entdeckte in diesem Kontext [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]] und [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Excalidraw\|Excalidraw]].
+Ein Jahr später flammte meine Begeisterung für [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] wieder so richtig auf und ich entdeckte in diesem Kontext [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]] und [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Excalidraw\|Excalidraw]].
 
 ## Empfohlenes Handwerkszeug für Mindmaps
 
@@ -101,7 +101,7 @@ Das ist alles jedoch Jammern auf hohen Niveau:
 
 ### Obsidian
 
-Wie gesagt, liebe ich mein [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]].
+Wie gesagt, liebe ich mein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]].
 
 Ich mag die Gestaltungsfreiheit: Ich bin nicht an einen strikt hierarchischen Aufbau gebunden und kann beliebige Querverbindungen schaffen. Dadurch fühlt es sich weniger nach klassischer Mindmap an und mehr wie freies, vernetztes Denken – genau das, was Obsidian so charakteristisch macht.
 
@@ -109,12 +109,12 @@ Xmind _kann_ Querverbindungen und non-hierarchische Elemente; aber es bleibt gru
 
 **Natürlich gibt es auch hier Nachteile:**
 
-- Vor allem die steile Lernkurve. Nicht jeder hat Lust, ein Nerd zu werden und sich intensiv in [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] einzuarbeiten.
+- Vor allem die steile Lernkurve. Nicht jeder hat Lust, ein Nerd zu werden und sich intensiv in [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] einzuarbeiten.
 - Obwohl viel machbar ist, können diese Mindmaps rein visuell wahrscheinlich nicht mit einem spezialisierten Tool wie Xmind mithalten.
 
 ### Von Hand zeichnen
 
-Absolut nichts spricht dagegen, einfach zu Stift und Papier zu greifen! Ich empfehle [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]] ausdrücklich.
+Absolut nichts spricht dagegen, einfach zu Stift und Papier zu greifen! Ich empfehle [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]] ausdrücklich.
 
 Mir persönlich macht es einfach mehr Spaß, an einer digitalen Mindmap zu feilen und am Ende ein repräsentables Ergebnis zu haben, anstatt herum zu kritzeln und wieder von vorne anzufangen, wenn es zu chaotisch wird.
 
@@ -123,4 +123,4 @@ Mir persönlich macht es einfach mehr Spaß, an einer digitalen Mindmap zu feile
 Ohne Zweifel gibt es auch andere Mindmap-Software, die gut ist (z.B. MindMeister, Miro oder FreeMind), aber diese beiden habe ich selber intensiv genutzt und lieben gelernt.
 
 👉 Wenn Du ein intuitives, visuell ansprechendes Tool suchst, mit dem Du schnell strukturierte Mindmaps erstellen kannst, dann ist **Xmind** eine gute Wahl für Dich.
-👉 Wenn Du hingegen vernetztes Denken liebst, maximale Freiheit willst und bereit bist, Dich etwas tiefer einzuarbeiten, dann ist [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] (mit [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]] oder [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Excalidraw\|Excalidraw]]) die bessere Wahl für Dich.
+👉 Wenn Du hingegen vernetztes Denken liebst, maximale Freiheit willst und bereit bist, Dich etwas tiefer einzuarbeiten, dann ist [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] (mit [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]] oder [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Excalidraw\|Excalidraw]]) die bessere Wahl für Dich.

@@ -21,6 +21,6 @@ Er unterrichtet regelmäßig an großen Unternehmen wie Genentech und hat über 
 Quelle: [Forte Labs Blog](https://fortelabs.com/blog/author/fortelabs/), [Simon & Schuster](https://www.simonandschuster.com/books/Building-a-Second-Brain/Tiago-Forte/9781982167387), [Amazon](https://www.amazon.com/Building-Second-Brain-Organize-Potential/dp/1982167386).
 
 > [!info] Weiterstöbern
-> 📖 [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]]
+> 📖 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]]
 >
 > 📺 [Tiago's YouTube Kanal](https://www.youtube.com/@TiagoForte)

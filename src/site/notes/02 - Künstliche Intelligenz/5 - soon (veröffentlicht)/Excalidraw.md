@@ -5,9 +5,9 @@
 
 # Excalidraw
 
-Excalidraw erweitert Obsidian um ein **unendliches Whiteboard** - im Grunde ähnlich wie [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]].
+Excalidraw erweitert Obsidian um ein **unendliches Whiteboard** - im Grunde ähnlich wie [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]].
 
-Anstatt mit starren Text zu arbeiten kann man sich hier eine lebendige, visuelle Wissenslandschaft gestalten. Handgezeichnete Skizzen und [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Markdown\|Markdown]]-Notizen verschmelzen durch Verlinkung zu einem interaktiven Netzwerk, in dem Gedanken räumlich strukturiert werden können.
+Anstatt mit starren Text zu arbeiten kann man sich hier eine lebendige, visuelle Wissenslandschaft gestalten. Handgezeichnete Skizzen und [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Markdown\|Markdown]]-Notizen verschmelzen durch Verlinkung zu einem interaktiven Netzwerk, in dem Gedanken räumlich strukturiert werden können.
 
 Da alle Zeichnungen im Kern auf Text basieren, bleibt das gesamte visuelle System voll durchsuchbar.
 
@@ -55,7 +55,7 @@ Hier ein Beispiel wie so eine Skizze aussehen kann (geleakter Geheimplan, bitte 
 
 ![Cats & Dragons Game Level 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Excalidraw/Cats%20&%20Dragons%20Game%20Level%201.png)
 
-Und zum Vergleich noch, wie ein [[02 - Künstliche Intelligenz/Kaninchenlöcher/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]] aussehen kann: [[02 - Künstliche Intelligenz/4 - very soon/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]] 👉 Der Unterschied dürfte klar werden!
+Und zum Vergleich noch, wie ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]] aussehen kann: [[02 - Künstliche Intelligenz/4 - very soon/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]] 👉 Der Unterschied dürfte klar werden!
 ## Kostenlos + abendfüllend 🐇
 
 Der Entwickler von Excalidraw stellt das Plugin **kostenlos** zur Verfügung und hat eine ganze Bibliothek mit einer Vielzahl von Videos zu den Möglichkeiten zusammengestellt. Hier geht's zum Rabbithole 🐇 👉 https://excalidraw-obsidian.online/wiki/catalogue
