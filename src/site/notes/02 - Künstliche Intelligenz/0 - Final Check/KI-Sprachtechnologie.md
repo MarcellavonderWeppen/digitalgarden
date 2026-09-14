@@ -22,21 +22,31 @@ Dieser Artikel behandelt _Speech AI_; der Aspekt _language_ fällt in die Domän
 | Text, Grammatik, Bedeutung | Stimme und Audio |
 | große Sprachmodelle        | Speech AI        |
 
-## Die wichtigsten Teilgebiete
+## Die wichtigsten Teilgebiete 
 
-**Speech-to-Text (STT)**, auch Automatic Speech Recognition (ASR) genannt, wandelt gesprochene Sprache in geschriebenen Text um. Es ist das bekannteste Teilgebiet – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. Ein verbreitetes Modell ist [[Whisper\|Whisper]] von [[02 - Künstliche Intelligenz/4 - very soon/OpenAI\|OpenAI]].
+### Speech-to-Text (STT)
 
-**Text-to-Speech (TTS)** ist der umgekehrte Weg: Text wird in natürlich klingende Sprache umgesetzt. Moderne Sprachsynthese ist kaum noch von menschlichen Sprechern zu unterscheiden.
+Auch Automatic Speech Recognition (ASR) genannt. Wandelt gesprochene Sprache in geschriebenen Text um. Es ist das bekannteste Teilgebiet – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. Ein verbreitetes Modell ist Whisper von OpenAI.
 
-**Voice Cloning** bildet die Stimme einer konkreten Person nach, oft schon aus wenigen Sekunden Aufnahme. Wer seine Stimme durch Krankheit verliert, kann so weiterhin mit der eigenen Stimme sprechen. Gleichzeitig ist dieselbe Technik aber auch Grundlage für Audio-Deepfakes.
+### Text-to-Speech (TTS)
 
-**Sprechererkennung** beantwortet die Frage, wer spricht – zum Beispiel zur Authentifizierung per Stimme oder um in einer Aufnahme mehrere Personen auseinanderzuhalten.
+Der umgekehrte Weg: Text wird in natürlich klingende Sprache umgesetzt. Moderne Sprachsynthese ist kaum noch von menschlichen Sprechern zu unterscheiden.
 
-**Emotions- und Tonanalyse** wertet aus, wie etwas gesagt wird: Stimmung, Betonung, Dringlichkeit.
+### Voice Cloning
+
+Bildet die Stimme einer konkreten Person nach, oft schon aus wenigen Sekunden Aufnahme. Wer seine Stimme durch Krankheit verliert, kann so weiterhin mit der eigenen Stimme sprechen. Gleichzeitig ist dieselbe Technik aber auch Grundlage für Audio-Deepfakes.
+
+### Sprechererkennung
+
+Beantwortet die Frage, wer spricht – zum Beispiel zur Authentifizierung per Stimme oder um in einer Aufnahme mehrere Personen auseinanderzuhalten.
+
+### Emotions- und Tonanalyse
+
+Wertet aus, wie etwas gesagt wird: Stimmung, Betonung, Dringlichkeit.
 
 ## KI-Sprachtechnologie ist statistische KI
 
-Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der prädiktiven, teils der [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generativen KI]].
+Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der prädiktiven, teils der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|generativen KI]].
 
 ![Statistische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Statistische%20KI%20Diagramm.png)
 
@@ -55,7 +65,7 @@ Die Faustregel dahinter: Kommt etwas _Neues_ heraus (eine Stimme), ist es GenAI.
 - Modelle wie Whisper schreiben den Text Wort für Wort wie ein Sprachmodell. Das ist Herstellung, also GenAI – genau spiegelbildlich zum Voice Cloning: Dort ist der Text vorgegeben und die Stimme wird erzeugt, hier ist das Gesprochene vorgegeben und der Text wird erzeugt. Man erkennt diese Modelle daran, dass sie [[02 - Künstliche Intelligenz/4 - very soon/Halluzinationen\|halluzinieren]] können.
 - Modelle wie [[Whisper\|Whisper]] stellen den Text Wort für Wort her. Das ist generativ im technischen Sinne, genau wie beim Voice Cloning: Was gesagt wird, ist vorgegeben, aber die Daten dazu werden erzeugt. Man erkennt diese Modelle daran, dass sie [[02 - Künstliche Intelligenz/4 - very soon/Halluzinationen\|halluzinieren]] können.
 
-👉 Weiterlesen: [[02 - Künstliche Intelligenz/0 - Final Check/GenAI#Begriffliche Klärung\|Begriffliche Klärung GenAI: technisch vs Alltagsverständnis]]
+👉 Weiterlesen: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI#Begriffliche Klärung\|Begriffliche Klärung GenAI: technisch vs Alltagsverständnis]]
 ## Die wichtigsten Anwendungen
 
 Die Teilgebiete sind Bausteine. Was man im Alltag als Produkt erlebt, kombiniert meist mehrere davon.
