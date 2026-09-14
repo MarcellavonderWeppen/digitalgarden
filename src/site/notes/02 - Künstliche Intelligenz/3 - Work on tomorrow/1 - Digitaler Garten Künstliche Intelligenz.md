@@ -7,7 +7,7 @@
 
 # Herzlich willkommen in meinem „Digital Garden“ zum Thema Künstliche Intelligenz 🌱🌿🌳
 
-Hier ist mein persönlicher „digitaler Garten“ am Wachsen: Ich dokumentiere hier meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[Marcellas Digitaler Garten/Grundlagen KI/Künstliche Intelligenz\|Künstlicher Intelligenz]].
+Hier ist mein „digitaler Garten“ am Wachsen: Ich dokumentiere meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[Marcellas Digitaler Garten/Grundlagen KI/Künstliche Intelligenz\|Künstlicher Intelligenz]].
 
 Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Art Blog?
 
@@ -34,11 +34,11 @@ Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 - 🏡 **Ein eigenes Stück Land:** Kein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Algorithmus\|Algorithmus]] entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
 - 🐝 **Gemeinsam gärtnern:** Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
 
-## Gemeinsam Lernen - Mitmachen willkommen
+## Gemeinsam lernen – Mitmachen willkommen
 
 Meine Motivation ist vor allem die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso für mich, warum dann nicht andere daran teilhaben lassen? 
 
-Doch ich lerne auch von euch! Ich habe alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare - euere Perspektive, konstruktive Kritik, aber auch Fragen und Anregungen. Was gibt es schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben?🐝
+Doch ich lerne auch von euch! Ich habe alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare – konstruktive Kritik, eure Perspektive, aber auch Fragen und Anregungen. Was gibt es Schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben?🐝
 
  👉 So geht’s: [[02 - Künstliche Intelligenz/6 - later/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
 
@@ -58,24 +58,24 @@ die anderen verfluchen sie.
 
 Beides kann ich verstehen, habe ich mich doch schon an beiden Enden des Spektrums wiedergefunden.
 
-Es lässt sich überhaupt nicht wegdiskutieren, dass einiges [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kritik an GenAI\|schiefläuft]] – ganz, ganz schief!
+Es lässt sich nicht wegdiskutieren, dass einiges [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kritik an GenAI\|schiefläuft]] – ganz, ganz schief!
 
 Und dennoch glaube ich:
 
 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]]
 ## Wer schreibt hier eigentlich?
 
-Gute Frage!  Na gut, dann schreibe ich mal ein paar Zeilen [[02 - Künstliche Intelligenz/2 - Work on today/Über mich\|über mich]].
+Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[02 - Künstliche Intelligenz/2 - Work on today/Über mich\|über mich]].
 
 Vielleicht ist die Frage aber auch anders gemeint: 
 
-*Eine Art Blog über KI, wie viel ist da überhaupt selbst geschrieben? Ist es ein Mensch oder die KI, die hier schreibt und kann man in dem Zusammenhang überhaupt von schreiben reden?* 
+*Eine Art Blog über KI – wie viel ist da überhaupt selbst geschrieben? Ist es ein Mensch oder die KI, die hier schreibt und kann man in dem Zusammenhang überhaupt von schreiben reden?* 
 
 Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI darin – mehr darüber [[02 - Künstliche Intelligenz/2 - Work on today/Schreiben mit KI\|hier]].
 
 **Und nun viel Spaß beim Stöbern!**
 
-> 👉 zur [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone\|Karnickel-Einstiegszone]] 🕳️🐇
+## 👉 zur [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone\|Karnickel-Einstiegszone]] 🕳️🐇
 
 
 ---
