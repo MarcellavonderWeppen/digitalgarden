@@ -19,7 +19,7 @@ Die **klassische künstliche Intelligenz** basiert auf der Idee, dass Intelligen
 
 ## Zwei Spielarten: Ableiten und Suchen
 
-![Klassische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Einstieg/Bilder/Klassische%20KI%20Diagramm.png)
+![Klassische KI Diagramm.png](/img/user/Marcellas%20Digitaler%20Garten/Bilder/Klassische%20KI%20Diagramm.png)
 
 |                      | Regelbasierte Systeme                                                                                                                                               | Such- und Planungsverfahren                                                                                                                                        |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

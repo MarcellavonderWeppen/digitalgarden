@@ -24,8 +24,6 @@ Die digitale Gärtnerei ist verwandt mit dem Bloggen, funktioniert aber anders:
 > 🌳 **Baum**: Eine große Pflanze mit vielen Verzweigungen, gut vernetzt im Biotop des Wissens.
 
 Man kann den Garten durch Links erkunden – die Pfade, die alles verbinden. So entsteht nach und nach ein Netzwerk des Wissens.
-
-Apropos Pfade. Hier ist die der Schnelleinstieg für wiederkehrende Gartenbesucher: 
 ### Warum digitale Gärten?
 
 Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
