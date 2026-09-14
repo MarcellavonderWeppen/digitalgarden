@@ -16,7 +16,7 @@ Prädiktive KI bezeichnet KI-Systeme, die aus vorhandenen Daten Muster lernen, u
 - **Betrugserkennung:** Die Bank sperrt die Karte, weil eine Zahlung nicht zum üblichen Muster passt
 - **Streaming-Empfehlungen:** „Das könnte dir auch gefallen“
 - **Wortvorschläge** auf der Handytastatur
-- [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie\|KI-Sprachtechnologie]]: teils prädiktiv, teils generativ
+- [[02 - Künstliche Intelligenz/3 - Work on tomorrow/KI-Sprachtechnologie\|KI-Sprachtechnologie]]: teils prädiktiv, teils generativ
 ## Abgrenzung zu generativer KI
 
 - **Prädiktive KI** schätzt, bewertet und ordnet ein: „Ist diese Mail Spam?“
@@ -24,4 +24,4 @@ Prädiktive KI bezeichnet KI-Systeme, die aus vorhandenen Daten Muster lernen, u
 
 > Auch LLMs (Large Language Models) sind technisch gesehen Vorhersagemaschinen: Sie berechnen, welches Wortstück (Token) am wahrscheinlichsten als Nächstes folgt. Die Grenze verläuft also weniger über die Technik als über den Zweck.
 
-Anwendungen wie [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie#KI-Sprachtechnologie ist statistische KI\|SSTs (eine KI-Sprachtechnologie)]] sind eine können sowohl als generative als auch prädiktiver KI auftreten.
+Anwendungen wie [[02 - Künstliche Intelligenz/3 - Work on tomorrow/KI-Sprachtechnologie#KI-Sprachtechnologie ist statistische KI\|SSTs (eine KI-Sprachtechnologie)]] sind eine können sowohl als generative als auch prädiktiver KI auftreten.
