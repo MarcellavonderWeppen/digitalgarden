@@ -5,23 +5,31 @@
 
 # Prädiktive KI
 
->[!info] Wortherkunft
-> Von lat. *praedicere* = „vorhersagen“ (*prae* = „vor“, *dicere* = „sagen“).
 
-Prädiktive KI bezeichnet KI-Systeme, die aus vorhandenen Daten Muster lernen, um Wahrscheinlichkeiten für Zukünftiges oder Unbekanntes zu schätzen. Das Ergebnis ist eine Einschätzung, etwa eine Kategorie, ein Wert oder ein Risiko, aber kein neuer Inhalt.
+Prädiktive KI bezeichnet KI-Systeme, die aus vorhandenen Daten Muster lernen, um Aussagen über Zukünftiges oder Unbekanntes zu treffen. Das Ergebnis ist eine Einschätzung, etwa eine Kategorie, ein Wert oder ein Risiko, aber kein neuer Inhalt.
+
+## Begriffsklärung
+
+**Der Begriff ist ein Retronym.**  Er entstand erst, nachdem [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generative KI]] populär wurde und man ein Wort für diese „andere KI" brauchte. „Prädiktive KI“ war vor 2022 kaum gebräuchlich; man sagte einfach [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]], Klassifikation, Regression.Etabliert war allenfalls „Predictive Analytics“ als Sammelbegriff für datengestützte Prognosen in Unternehmen.
+
+>[!info] Wortherkunft
+> Von lat. _praedicere_ = „vorhersagen“ (_prae_ = „vor“, _dicere_ = „sagen“). Ich halte den Begriff für schlecht gewählt, und zwar aus einem einfachen Grund: Es wird nichts vorhergesagt. Ein Spamfilter beurteilt eine Mail, die längst im Postfach liegt. Im Fachgebrauch meint „Prediction“ eben nicht die Zukunft, sondern eine begründete Vermutung: Das Modell hat die richtige Antwort nicht, es schätzt sie aus Mustern, die es kennt.
+
+## Abgrenzung zu generativer KI
+
+- **Prädiktive KI** schätzt, bewertet und ordnet ein: „Ist diese Mail Spam?“
+- **generative KI** erzeugt neue Inhalte wie Texte, Bilder oder Code: „Schreib mir eine Mail.“
+
+>[!info] Definition über den Zweck
+> Auch [[LLMs\|LLMs (Large Language Models)]] sind technisch gesehen Vorhersagemaschinen: Sie berechnen, welches Wortstück (Token) am wahrscheinlichsten als Nächstes folgt. Die Grenze verläuft also weniger über die Technik als über den Zweck.
+
+Anwendungen wie [STTs (eine KI-Sprachtechnologie)](KI-Sprachtechnologie#KI-Sprachtechnologie ist statistische KI) können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
 
 ## Typische Anwendungen 
 
 - **Spamfilter:** schätzt, wie wahrscheinlich eine Mail Spam ist
 - **Betrugserkennung:** Die Bank sperrt die Karte, weil eine Zahlung nicht zum üblichen Muster passt
 - **Streaming-Empfehlungen:** „Das könnte dir auch gefallen“
-- **Wortvorschläge** auf der Handytastatur
 - [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie\|KI-Sprachtechnologie]]: teils prädiktiv, teils generativ
-## Abgrenzung zu generativer KI
+- **Wortvorschläge** auf der Handytastatur: technisch gesehen ein Sprachmodell, nur um Größenordnungen kleiner als ein LLM und ohne generativen Zweck
 
-- **Prädiktive KI** schätzt, bewertet und ordnet ein: „Ist diese Mail Spam?“
-- [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generative KI]] erzeugt neue Inhalte wie Texte, Bilder oder Code: „Schreib mir eine Mail.“
-
-> Auch LLMs (Large Language Models) sind technisch gesehen Vorhersagemaschinen: Sie berechnen, welches Wortstück (Token) am wahrscheinlichsten als Nächstes folgt. Die Grenze verläuft also weniger über die Technik als über den Zweck.
-
-Anwendungen wie [STTs (eine KI-Sprachtechnologie)](KI-Sprachtechnologie#KI-Sprachtechnologie ist statistische KI) können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
