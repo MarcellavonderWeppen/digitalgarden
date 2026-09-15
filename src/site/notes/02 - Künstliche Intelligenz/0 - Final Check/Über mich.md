@@ -11,7 +11,7 @@ Was ich sonst so mache, wenn ich nicht gerade an meinem Digital Garden baue:
 
 Ich habe mich lange für „technik-unbegabt“ gehalten – bis ich vor vielen Jahren durch ein privates Blogprojekt mit dem Programmieren begann. Ich erinnere mich noch gut daran, wie anspruchsvoll der Einstieg für Menschen ohne technischen Hintergrund sein kann, und so habe ich mir die Fähigkeit erhalten, technische Sachverhalte in einfachen Worten zu vermitteln.
 
-Meine Kurse wenden sich sowohl an Menschen, die den Einstieg suchen (und sich vielleicht wie ich damals für „technik-unbegabt“ halten) als auch an Anwender mit Vorerfahrung, die [[Marcellas Digitaler Garten/Grundlagen KI/Künstliche Intelligenz#Gen AI\|genAI]] meistern und KI verstehen wollen. 
+Meine Kurse wenden sich sowohl an Menschen, die den Einstieg suchen (und sich vielleicht wie ich damals für „technik-unbegabt“ halten) als auch an Anwender mit Vorerfahrung, die [[02 - Künstliche Intelligenz/Marcellas Digitaler Garten/Grundlagen KI/Künstliche Intelligenz#Gen AI\|genAI]] meistern und KI verstehen wollen. 
 
 Es fing alles an mit meiner Begeisterung für ChatGPT, aber inzwischen habe ich den Fokus auf andere [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs]] gelegt. (👉 Mehr dazu hier: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]])
 
