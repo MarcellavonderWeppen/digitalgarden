@@ -78,7 +78,7 @@ Dazu kommen Dialekte, Slang, neue Wörter, Tippfehler, unvollständige Sätze, A
 Die Regeln, die Menschen beim Sprechen tatsächlich anwenden, sind zu viele, zu vage, zu kontextabhängig und zu ausnahmenreich, als dass sie sich vollständig aufschreiben ließen.
 #### Das Aufkommen eines neuen [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Paradigma (Denkmodell)\|Paradigmas]]
 
-Was für Sprache gilt, trifft auch auf viele andere Felder zu, wie zum Beispiel die Bilderkennung: Wie unterscheide ich einen Hund von einer Katze? Für Menschen ist es intuitiv einfach, auch wenn wir wahrscheinlich nicht erklären können, wie wir das machen. Für klassische KI ein unlösbares Problem.
+Was für Sprache gilt, trifft auch auf viele andere Felder zu, wie zum Beispiel die Bilderkennung: Wie unterscheide ich einen Hund von einer Katze? Uns Menschen gelingt das mühelos, auch wenn wir wahrscheinlich nicht erklären können, wie wir das machen. Für klassische KI: ein unlösbares Problem.
 
 Genau an dieser Stelle setzt die [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistische KI]] an: Sie lernt nicht über Regeln, sondern aus Milliarden von Beispielen.
 
