@@ -7,7 +7,7 @@
 > [!info] **Synonyme und verwandte Begriffe**:
 > symbolische KI, regelbasierte KI, „Good Old-Fashioned AI“ (GOFAI), wissensbasierte Systeme
 
-Viele Jahrzehnte bevor ChatGPT das Licht der Welt erblickte und einen ungeahnten KI-Hype auslöste, existierte KI längst als Forschungsfeld und entwickelte sich weitgehend ohne öffentliche Aufmerksamkeit. Ins Leben gerufen wurde sie 1956 auf der Dartmouth Conference, wo sich einige Größen der Computerwissenschaften trafen. Der Begriff „Artificial Intelligence“, von John McCarthy geprägt, wurde dort zum offiziellen Namen der noch jungen Disziplin. Diese frühe KI nennen wir rückblickend klassisch. Sie dominierte das Feld bis in die 80er Jahre, danach gewann der [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistische Ansatz]] zunehmend an Bedeutung.
+Viele Jahrzehnte bevor ChatGPT das Licht der Welt erblickte und einen ungeahnten KI-Hype auslöste, existierte KI längst als Forschungsfeld und entwickelte sich weitgehend ohne öffentliche Aufmerksamkeit. Ins Leben gerufen wurde sie 1956 auf der Dartmouth Conference, wo sich einige Größen der Computerwissenschaften trafen. Der Begriff „Artificial Intelligence“, von John McCarthy geprägt, wurde dort zum offiziellen Namen der noch jungen Disziplin. Diese frühe KI nennen wir rückblickend klassisch. Sie dominierte das Feld bis in die 80er Jahre, danach gewann der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistische Ansatz]] zunehmend an Bedeutung.
 
 ## Die Grundidee: Wissen in Regeln fassen
 
