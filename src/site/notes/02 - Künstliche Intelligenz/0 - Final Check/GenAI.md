@@ -6,7 +6,7 @@
 
 Generative KI (GenAI) ist eine Form der [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistischen KI]]. Sie basiert auf komplexen Algorithmen, die im Training große Datenmengen ausgewertet und die Muster darin gelernt haben. Aus diesen Mustern erzeugen sie neue Inhalte – sei es Text, Bilder, Musik oder sogar Videos.
 
-Im Gegensatz zu [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
+Im Gegensatz zu [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
 
 Technologisch beruht GenAI meist auf neuronalen Netzen, allen voran auf [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Transformer\|Transformermodellen]]. Die bekannteste Anwendung sind [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|große Sprachmodelle (LLMs)]] (LLMs), die hinter Chatbots wie [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/ChatGPT\|ChatGPT]] stehen: Transformer, die mit riesigen Textmengen trainiert wurden und Text Wort für Wort erzeugen.
 

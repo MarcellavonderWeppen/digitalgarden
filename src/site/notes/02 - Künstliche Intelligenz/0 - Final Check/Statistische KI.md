@@ -11,7 +11,7 @@
 
 Die **statistische KI** begegnet uns heute überall – in der Sprachverarbeitung, der Bilderkennung, hinter Empfehlungssystemen.
 
-Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichkeit, Statistik und Datenanalyse** basieren – im Gegensatz zur [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|klassischen KI]].
+Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichkeit, Statistik und Datenanalyse** basieren – im Gegensatz zur [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassischen KI]].
 
 - Systeme lernen aus **Daten statt aus festen Regeln**
 - Modelle erkennen **Muster, Korrelationen und Wahrscheinlichkeiten**
@@ -45,7 +45,7 @@ Das Sprachmodell versteht und formuliert (statistisch), während klassische Komp
 
 ## 📖 Weiterlesen
 
-- [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI#Komplexität von Sprachen klassische KI stößt an ihre Grenzen\|Warum die klassische KI bei Sprache an ihre Grenzen stieß]]
-- Woran erkennt man einen Hund oder eine Katze? Ein lustiges [[02 - Künstliche Intelligenz/0 - Final Check/Hund oder Katze? Das Experiment\|Experiment]]
+- [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI#Komplexität von Sprachen klassische KI stößt an ihre Grenzen\|Warum die klassische KI bei Sprache an ihre Grenzen stieß]]
+- Woran erkennt man einen Hund oder eine Katze? Ein lustiges [[02 - Künstliche Intelligenz/2 - Work on today/Hund oder Katze? Das Experiment\|Experiment]]
 - Im Zusammenhang mit statistischer KI fällt auch oft der Begriff [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning (ML)]] als praktische Umsetzung der statistischen KI. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Neuronale Netze\|Neuronale Netze]] sind eine Unterkategorie von ML.
 - Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/0 - Final Check/Prädiktive KI\|Prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]]
