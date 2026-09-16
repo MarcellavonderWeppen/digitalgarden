@@ -10,11 +10,13 @@ Prädiktive KI bezeichnet KI-Systeme, die aus vorhandenen Daten Muster lernen, u
 
 ## Begriffsklärung
 
-**Der Begriff ist ein Retronym.**  Er entstand erst, nachdem [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generative KI]] populär wurde und man ein Wort für diese „andere KI" brauchte. „Prädiktive KI“ war vor 2022 kaum gebräuchlich; man sagte einfach [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]], Klassifikation, Regression.Etabliert war allenfalls „Predictive Analytics“ als Sammelbegriff für datengestützte Prognosen in Unternehmen.
+**Der Begriff ist ein Retronym:**  Er entstand erst, nachdem [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generative KI]] populär wurde und man ein Wort für diese „andere KI" brauchte. „Prädiktive KI“ war vor 2022 kaum gebräuchlich; man sagte einfach [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]], Klassifikation, Regression.Etabliert war allenfalls „Predictive Analytics“ als Sammelbegriff für datengestützte Prognosen in Unternehmen.
 
 >[!info] Wortherkunft
-> Von lat. _praedicere_ = „vorhersagen“ (_prae_ = „vor“, _dicere_ = „sagen“). Ich halte den Begriff für schlecht gewählt, und zwar aus einem einfachen Grund: Es wird nichts vorhergesagt. Ein Spamfilter beurteilt eine Mail, die längst im Postfach liegt. Im Fachgebrauch meint „Prediction“ eben nicht die Zukunft, sondern eine begründete Vermutung: Das Modell hat die richtige Antwort nicht, es schätzt sie aus Mustern, die es kennt.
-
+>
+>lat. _praedicere_ = „vorhersagen“ (_prae_ = „vor“, _dicere_ = „sagen“)
+>
+> Ich halte den Begriff für schlecht gewählt, denn ‚Prediction‘ meint im maschinellen Lernen nicht zwingend die Zukunft, sondern das Schätzen eines unbekannten Werts. Das Modell kennt die richtige Antwort nicht, es leitet sie aus Mustern ab, die es gelernt hat. Manchmal liegt dieser Wert in der Zukunft (Absatzprognose), oft aber nicht (ist auf dem Bild eine Katze?).
 ## Abgrenzung zu generativer KI
 
 - **Prädiktive KI** schätzt, bewertet und ordnet ein: „Ist diese Mail Spam?“
@@ -23,7 +25,9 @@ Prädiktive KI bezeichnet KI-Systeme, die aus vorhandenen Daten Muster lernen, u
 >[!info] Definition über den Zweck
 > Auch [[LLMs\|LLMs (Large Language Models)]] sind technisch gesehen Vorhersagemaschinen: Sie berechnen, welches Wortstück (Token) am wahrscheinlichsten als Nächstes folgt. Die Grenze verläuft also weniger über die Technik als über den Zweck.
 
-Anwendungen wie [STTs (eine KI-Sprachtechnologie)](KI-Sprachtechnologie#KI-Sprachtechnologie ist statistische KI) können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
+Anwendungen wie [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie#KI-Sprachtechnologie ist statistische KI\|STTs (eine KI-Sprachtechnologie)]] können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
+
+👉 Siehe dazu auch [[02 - Künstliche Intelligenz/0 - Final Check/GenAI#Begriffliche Klärung\|GenAI – Begriffliche Klärung]]
 
 ## Typische Anwendungen 
 
