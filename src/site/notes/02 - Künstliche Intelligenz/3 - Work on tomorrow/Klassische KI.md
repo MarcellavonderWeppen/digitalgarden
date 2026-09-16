@@ -86,6 +86,13 @@ Die Idee künstlicher Neuronen reicht bis 1943 zurück; mit dem Perceptron gab e
 
 
 > [!tip] Selbst ausprobiert
-> Warum ausgerechnet die Bilderkennung so lange ein Problem war, lässt sich an einem Nachmittag mit etwas Albernheit zeigen: Ich habe eine KI alle Regeln aufschreiben lassen, an denen man einen Hund von einer Katze unterscheidet – und dann geprüft, ob die Regeln halten, was sie versprechen.
+> Warum ausgerechnet die Bilderkennung so lange ein Problem war, zeigt ein kleines, leicht verspieltes Experiment: Ich habe eine KI alle Regeln aufschreiben lassen, an denen man einen Hund von einer Katze unterscheidet – und dann geprüft, ob die Regeln halten, was sie versprechen.
+> 
+> 👉 [[02 - Künstliche Intelligenz/2 - Work on today/Hund oder Katze? Das Experiment\|Das Experiment]]
+
+
+
+> [!tip] Selbst ausprobiert
+> Warum ausgerechnet die Bilderkennung so lange ein Problem war, zeigt ein kleines Experiment, das mich zum Schmunzeln gebracht hat: Ich habe eine KI alle Regeln aufschreiben lassen, an denen man einen Hund von einer Katze unterscheidet – und dann geprüft, ob die Regeln halten, was sie versprechen.
 > 
 > 👉 [[02 - Künstliche Intelligenz/2 - Work on today/Hund oder Katze? Das Experiment\|Das Experiment]]
