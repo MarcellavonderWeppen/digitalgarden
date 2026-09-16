@@ -35,7 +35,7 @@ So wird dann aus einem 5-Minuten-Punkt aus der To-Do-Liste ein wochenlanges Proj
 
 ### Marktplatz: Marcellas kleiner Shop 🐰🐣
 
-“[[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]]” hatte ich behauptet. Auf der Suche nach dem “anders” begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[02 - Künstliche Intelligenz/6 - later/Affiliate\|Affiliate]]-Partner unterstützen möchte.
+“[[02 - Künstliche Intelligenz/3 - Work on tomorrow/KI – es geht auch anders!\|KI – es geht auch anders!]]” hatte ich behauptet. Auf der Suche nach dem “anders” begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[02 - Künstliche Intelligenz/6 - later/Affiliate\|Affiliate]]-Partner unterstützen möchte.
 
 Hier könnte ihr einige meiner Empfehlungen entdecken:
 [[Marcellas kleiner Shop\|Marcellas kleiner Shop]] 🏠

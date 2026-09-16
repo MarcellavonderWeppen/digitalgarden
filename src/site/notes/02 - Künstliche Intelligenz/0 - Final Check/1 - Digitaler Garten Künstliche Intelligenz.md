@@ -62,7 +62,7 @@ Es lässt sich nicht wegdiskutieren, dass einiges [[02 - Künstliche Intelligenz
 
 Und dennoch glaube ich:
 
-[[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]]
+[[02 - Künstliche Intelligenz/3 - Work on tomorrow/KI – es geht auch anders!\|KI – es geht auch anders!]]
 ## Wer schreibt hier eigentlich?
 
 Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[02 - Künstliche Intelligenz/2 - Work on today/Über mich\|über mich]].
