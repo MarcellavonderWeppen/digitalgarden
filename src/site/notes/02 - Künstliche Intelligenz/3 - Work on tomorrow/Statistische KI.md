@@ -51,14 +51,14 @@ Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code 
 - [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI#Komplexität von Sprachen klassische KI stößt an ihre Grenzen\|Warum die klassische KI bei Sprache an ihre Grenzen stieß]]
 - Woran erkennt man einen Hund oder eine Katze? Ein niedliches [[02 - Künstliche Intelligenz/2 - Work on today/Hund oder Katze? Das Experiment\|Experiment]]
 - Im Zusammenhang mit statistischer KI fällt auch oft der Begriff [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning (ML)]] als praktische Umsetzung der statistischen KI. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Neuronale Netze\|Neuronale Netze]] sind eine Unterkategorie von ML.
-- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/0 - Final Check/Prädiktive KI\|Prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]]
+- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|Prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]]
 
 ## 📖 Weiterlesen
 
 - [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
 - Woran erkennt man einen Hund oder eine Katze? Ein niedliches [[02 - Künstliche Intelligenz/2 - Work on today/Hund oder Katze? Das Experiment\|Experiment]]
 - Die praktische Umsetzung von statistischer KI: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning (ML)]] und seine Unterform [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
-- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/0 - Final Check/Prädiktive KI\|Prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]]
+- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|Prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]]
 
 
 
@@ -67,7 +67,7 @@ Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code 
 - [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
 - [[02 - Künstliche Intelligenz/2 - Work on today/Hund oder Katze? Das Experiment\|Hund oder Katze?]] – ein niedliches Experiment zur Frage, wie man Hund und Katze eigentlich unterscheidet
 - [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning (ML)]] – die Methode hinter statistischer KI: Muster aus Daten lernen statt Regeln vorgeben. Eine besonders leistungsfähige Unterform ist [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]].
-- [[02 - Künstliche Intelligenz/0 - Final Check/Prädiktive KI\|Prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]] – zwei große Anwendungsfelder der statistischen KI
+- [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|Prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]] – zwei große Anwendungsfelder der statistischen KI
 
 
 ## 📖 Weiterlesen
@@ -75,6 +75,6 @@ Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code 
 - Warum stieß die klassische KI bei Sprache an ihre Grenzen? → [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI#Komplexität von Sprachen klassische KI stößt an ihre Grenzen\|Klassische KI]]
 - Woran erkennt man einen Hund oder eine Katze? → [[02 - Künstliche Intelligenz/2 - Work on today/Hund oder Katze? Das Experiment\|Ein niedliches Experiment]]
 - Wie wird statistische KI praktisch umgesetzt? → [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning (ML)]], mit [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Neuronale Netze\|neuronalen Netzen]] als wichtiger Unterkategorie
-- Was kann statistische KI konkret? → [[02 - Künstliche Intelligenz/0 - Final Check/Prädiktive KI\|Prädiktive KI]] (Vorhersagen treffen) und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]] (neue Inhalte erzeugen
+- Was kann statistische KI konkret? → [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|Prädiktive KI]] (Vorhersagen treffen) und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]] (neue Inhalte erzeugen
 
 - Wie lernt eine KI aus Daten? → [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning (ML)]] und seine Unterform [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
