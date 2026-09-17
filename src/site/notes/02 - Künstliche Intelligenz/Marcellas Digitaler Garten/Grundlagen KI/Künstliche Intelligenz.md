@@ -1,5 +1,5 @@
 ---
-{"title":"Künstliche Intelligenz","aliases":["KI"],"tags":null,"gen_ai_anteil":null,"created":"2026-04-03","updated":"2026-09-06","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/marcellas-digitaler-garten/grundlagen-ki/kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Künstliche Intelligenz","aliases":["KI"],"tags":null,"gen_ai_anteil":null,"created":"2026-04-03","updated":"2026-09-06","status":null}}
+{"title":"Künstliche Intelligenz","aliases":["KI","künstliche Intelligenz"],"tags":null,"gen_ai_anteil":null,"created":"2026-04-03","updated":"2026-09-06","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/marcellas-digitaler-garten/grundlagen-ki/kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Künstliche Intelligenz","aliases":["KI","künstliche Intelligenz"],"tags":null,"gen_ai_anteil":null,"created":"2026-04-03","updated":"2026-09-06","status":null}}
 ---
 
 # Künstliche Intelligenz 
