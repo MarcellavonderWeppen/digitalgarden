@@ -55,6 +55,6 @@ Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code 
 - [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
 - Woran erkennt man einen Hund oder eine Katze? Ein niedliches [[02 - Künstliche Intelligenz/2 - Work on today/Hund oder Katze? Das Experiment\|Experiment]]
 - Die praktische Umsetzung von statistischer KI: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning (ML)]] und seine Unterform [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
-- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\|GenAI]]
+- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|GenAI]]
 
 

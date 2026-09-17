@@ -45,7 +45,7 @@ Wertet aus, wie etwas gesagt wird: Stimmung, Betonung, Dringlichkeit.
 
 ## KI-Sprachtechnologie ist statistische KI
 
-Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|prädiktiven]], teils der [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\|generativen KI]].
+Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|prädiktiven]], teils der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|generativen KI]].
 
 ![Statistische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Statistische%20KI%20Diagramm.png)
 
@@ -63,7 +63,7 @@ Die Faustregel dahinter: Kommt etwas _Neues_ heraus (eine Stimme), ist es GenAI.
 - Manche Modelle ordnen jedem Audio-Abschnitt ein Zeichen zu und setzen den Text daraus zusammen. Das ist Klassifikation, also prädiktive KI. 
 -  Modelle wie [[Whisper\|Whisper]] stellen den Text Wort für Wort her. Das ist generativ im technischen Sinne, genau wie beim Voice Cloning: Was gesagt wird, ist vorgegeben, aber die Daten dazu werden erzeugt. Man erkennt diese Modelle daran, dass sie [[02 - Künstliche Intelligenz/4 - very soon/Halluzinationen\|halluzinieren]] können. 
 
-👉 Mehr dazu: [[02 - Künstliche Intelligenz/1 - Work on now/GenAI#Begriffliche Klärung\|Zwei Bedeutungen von „generativ“]]
+👉 Mehr dazu: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI#Begriffliche Klärung\|Zwei Bedeutungen von „generativ“]]
 ## Die wichtigsten Anwendungen
 
 Die Teilgebiete sind Bausteine. Was man im Alltag als Produkt erlebt, kombiniert meist mehrere davon.
