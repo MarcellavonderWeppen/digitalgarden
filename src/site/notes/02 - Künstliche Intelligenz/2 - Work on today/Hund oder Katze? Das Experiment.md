@@ -32,7 +32,7 @@ In einem neuen Chat habe ich die KI beauftragt, ein Bild zu generieren: „Kreie
 
 Das Ergebnis war ein wirklich niedlicher Hund: 
 
-![Hund mit Katzenseele.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/3%20-%20Work%20on%20tomorrow/Bilder/Hund%20mit%20Katzenseele.png)
+![Hund mit Katzenseele.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Hund%20mit%20Katzenseele.png)
 
 ## Typisch Hund!
 

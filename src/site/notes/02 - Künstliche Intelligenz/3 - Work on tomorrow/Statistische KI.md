@@ -7,7 +7,7 @@
 > [!info] Synonyme und verwandte Begriffe: 
 > datengetriebene KI, subsymbolische KI
 
-![Statistische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Statistische%20KI%20Diagramm.png)
+![Statistische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Statistische%20KI%20Diagramm.png)
 
 Die **statistische KI** begegnet uns heute überall – in der Sprachverarbeitung, der Bilderkennung, hinter Empfehlungssystemen.
 
@@ -39,7 +39,7 @@ Die datengetriebene KI konnte ihren Siegeszug keinen Augenblick früher antreten
 - Rechenleistung, um diese Datenmengen verarbeiten zu können („**Compute**“)
 - **[[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Algorithmus\|Algorithmen]]** und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen.
 
-![3 Voraussetzungen für statistische KI.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Marcellas%20Digitaler%20Garten/Bilder/3%20Voraussetzungen%20f%C3%BCr%20statistische%20KI.png)
+![3 Voraussetzungen für statistische KI.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/3%20Voraussetzungen%20f%C3%BCr%20statistische%20KI.png)
 
 ## Hat die statistische KI die klassische verdrängt?
 
@@ -55,6 +55,6 @@ Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code 
 - [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
 - Woran erkennt man einen Hund oder eine Katze? Ein niedliches [[02 - Künstliche Intelligenz/2 - Work on today/Hund oder Katze? Das Experiment\|Experiment]]
 - Die praktische Umsetzung von statistischer KI: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning (ML)]] und seine Unterform [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
-- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/0 - Final Check/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\|GenAI]]
+- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/1 - Work on now/GenAI\|GenAI]]
 
 

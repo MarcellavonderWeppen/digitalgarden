@@ -9,7 +9,7 @@ CSS ist das schicke Geschwisterchen von [[02 - Künstliche Intelligenz/5 - soon 
 
 Ohne CSS würden das gesamte Internet noch immer wie in den 90ern aussehen:
 
-![Website without HTML 2.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/3%20-%20Work%20on%20tomorrow/Bilder/Website%20without%20HTML%202.png)
+![Website without HTML 2.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Website%20without%20HTML%202.png)
 
 Gut, dass wir CSS erfunden haben!
 

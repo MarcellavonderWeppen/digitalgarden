@@ -28,7 +28,7 @@ Bei Bild, Video und Ton kommt ein zusätzliches Verfahren dazu: [[02 - Künstlic
 
 Im Alltagsverständnis ist generativ, was einen neuen Inhalt hervorbringt: ChatGPT schreibt einen Text, den es vorher nicht gab, Midjourney malt ein Bild, das niemand vorgegeben hat.
 
-Im technischen Sinn ist generativ, was neue Daten erzeugt, statt vorhandene nur zu erkennen oder einzuordnen. Ob der Inhalt dabei neu ist, spielt keine Rolle. Danach ist auch [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie#Voice Cloning\|Voice Cloning]] generativ: Gesagt wird nur, was man vorgibt, aber die Stimme dazu wird künstlich erzeugt. 
+Im technischen Sinn ist generativ, was neue Daten erzeugt, statt vorhandene nur zu erkennen oder einzuordnen. Ob der Inhalt dabei neu ist, spielt keine Rolle. Danach ist auch [[02 - Künstliche Intelligenz/3 - Work on tomorrow/KI-Sprachtechnologie#Voice Cloning\|Voice Cloning]] generativ: Gesagt wird nur, was man vorgibt, aber die Stimme dazu wird künstlich erzeugt. 
 ## Bekannte Beispiele
 
 - Chatbots wie ChatGPT 
@@ -36,7 +36,7 @@ Im technischen Sinn ist generativ, was neue Daten erzeugt, statt vorhandene nur 
 - Videogeneratoren wie Google Veo
 - Musiktools wie Suno
 
-![genai.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20now/Bilder/genai.png)
+![genai.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/genai.png)
 
 ## Potenzial und Problematik
 

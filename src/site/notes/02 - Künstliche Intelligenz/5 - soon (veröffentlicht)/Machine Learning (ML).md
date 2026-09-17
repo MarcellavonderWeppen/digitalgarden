@@ -26,9 +26,9 @@ Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines gr�
 - Bezeichnet neuronale Netze mit besonders **vielen Schichten** - „deep" (tief) meint genau das: viele hintereinandergeschaltete Ebenen, nicht etwa ein tieferes „Verständnis".
 - Frühe Schichten erkennen einfachste Bausteine (Kanten, Formen), spätere setzen daraus komplexere Muster zusammen - die nötigen Regeln lernt das Netz dabei selbst aus den Daten.
 
-![Neural network cat dog.png\|1000](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/Neural%20network%20cat%20dog.png)
+![Neural network cat dog.png\|1000](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Neural%20network%20cat%20dog.png)
 
-![deep neural network.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/deep%20neural%20network.png)
+![deep neural network.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/deep%20neural%20network.png)
 
 >[!info] Zusammenfassung
 >- Statistische KI ist das übergeordnete [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Paradigma (Denkmodell)\|Paradigma (Denkmodell)]]

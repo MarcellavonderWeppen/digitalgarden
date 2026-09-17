@@ -14,7 +14,7 @@ Ich war nicht unter der ersten Million, stieg aber als “ [[02 - Künstliche In
 
 Der Erfolg kam völlig unerwartet, auch für die Firma hinter dem noch jungen [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLM]]: [[02 - Künstliche Intelligenz/4 - very soon/OpenAI\|OpenAI]].
 
-![ChatGPT 1 Mio Nutzer Statista.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/1%20-%20Work%20on%20now/Bilder/ChatGPT%201%20Mio%20Nutzer%20Statista.png)
+![ChatGPT 1 Mio Nutzer Statista.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/ChatGPT%201%20Mio%20Nutzer%20Statista.png)
 
 ## Immer noch: Marktführer
 
@@ -22,7 +22,7 @@ Heute nutzen täglich Millionen Menschen den freundlichen (ja, [[02 - Künstlich
 
 Obwohl in Rankings inzwischen viele andere [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs]] ChatGPT den Platz an der Spitze als bestes Sprachmodell streitig machen, liegt der Marktanteil nach wie vor bei über 50% (je nach Messmethode und Zeitpunkt - die Zahlen sind gerade im Sinkflug, Gemini holt stark auf).
 
-![LLMs Marktanteil 06 26.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/Bilder/LLMs%20Marktanteil%2006%2026.png)
+![LLMs Marktanteil 06 26.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/LLMs%20Marktanteil%2006%2026.png)
 
 Auf Seiten wie [https://llm-stats.com/](https://llm-stats.com/) kann man nachschauen, welches LLM in aktuellen Benchmarks vorne liegt; aktuell liefern sich mal wieder Claude und ChatGPT ein hartes Kopf-an-Kopf-Rennen, aber auch Grok und Gemini hatten immer mal wieder den ersten Platz inne. 
 ## GPT = Generative Pre-trained Transformer
