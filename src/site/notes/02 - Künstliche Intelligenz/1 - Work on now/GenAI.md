@@ -4,7 +4,7 @@
 
 # Was ist Generative KI (GenAI)?
 
-Eine Form der [statistischen KI](Statistische KI): GenAI-Modelle werden mit großen Datenmengen trainiert und lernen die darin enthaltenen Muster. Auf dieser Grundlage erzeugen sie neue Inhalte – seien es Texte, Bilder, Musik oder sogar Videos.
+Eine Form der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistischen KI]]: GenAI-Modelle werden mit großen Datenmengen trainiert und lernen die darin enthaltenen Muster. Auf dieser Grundlage erzeugen sie neue Inhalte – seien es Texte, Bilder, Musik oder sogar Videos.
 
 Im Gegensatz zu [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
 
