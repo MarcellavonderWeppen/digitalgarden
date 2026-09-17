@@ -1,5 +1,5 @@
 ---
-{"title":"Unbenannt","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-work-on-today/schreiben-mit-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Unbenannt","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":null,"status":null}}
+{"title":"Schreiben mit KI","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-work-on-today/schreiben-mit-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Schreiben mit KI","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":null,"status":null}}
 ---
 
 
