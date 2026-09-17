@@ -2,9 +2,9 @@
 {"title":"GenAI","aliases":["generative KI"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-04","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/gen-ai/","dgPassFrontmatter":true,"dg-note-properties":{"title":"GenAI","aliases":["generative KI"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-04","status":null}}
 ---
 
-# Was ist Generative KI?
+# Was ist Generative KI (GenAI)?
 
-Generative KI (GenAI) ist eine Form der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Statistische KI\|statistischen KI]]. Sie basiert auf Modellen, die mit großen Datenmengen trainiert wurden und die Muster darin gelernt haben. Auf dieser Grundlage erzeugen sie neue Inhalte – sei es Text, Bilder, Musik oder Videos.
+Eine Form der [statistischen KI](Statistische KI): GenAI-Modelle werden mit großen Datenmengen trainiert und lernen die darin enthaltenen Muster. Auf dieser Grundlage erzeugen sie neue Inhalte – sei es Text, Bilder, Musik oder Videos.
 
 Im Gegensatz zu [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
 
