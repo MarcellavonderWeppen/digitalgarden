@@ -6,7 +6,7 @@
 
 > [!info] Synom: GenAI 
 
-Als eine Form der [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistischen KI]] wird sie mittels großer Datenmengen trainiert und lernt die darin enthaltenen Muster. Auf dieser Grundlage kann sie neue Inhalte erzeugen – seien es Texte, Bilder, Musik oder sogar Videos.
+Als eine Form der [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Statistische KI\|statistischen KI]] wird sie mittels großer Datenmengen trainiert und lernt die darin enthaltenen Muster. Auf dieser Grundlage kann sie neue Inhalte erzeugen – seien es Texte, Bilder, Musik oder sogar Videos.
 
 Im Gegensatz zu [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
 

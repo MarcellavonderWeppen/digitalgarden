@@ -45,7 +45,7 @@ Wertet aus, wie etwas gesagt wird: Stimmung, Betonung, Dringlichkeit.
 
 ## KI-Sprachtechnologie ist statistische KI
 
-Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Prädiktive KI\|prädiktiven]], teils der [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generativen KI]].
+Alle fünf Teilgebiete gehören der statistischen KI an, und zwar teils der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|prädiktiven]], teils der [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generativen KI]].
 
 ![Statistische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Statistische%20KI%20Diagramm.png)
 

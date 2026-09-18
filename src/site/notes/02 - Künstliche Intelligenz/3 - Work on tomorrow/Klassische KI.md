@@ -7,7 +7,7 @@
 > [!info] **Synonyme und verwandte Begriffe**:
 > symbolische KI, regelbasierte KI, „Good Old-Fashioned AI“ (GOFAI), wissensbasierte Systeme
 
-Viele Jahrzehnte bevor ChatGPT das Licht der Welt erblickte und einen ungeahnten KI-Hype auslöste, existierte KI längst als Forschungsfeld und entwickelte sich weitgehend ohne öffentliche Aufmerksamkeit. Ins Leben gerufen wurde sie 1956 auf der Dartmouth Conference, wo sich einige Größen der Computerwissenschaften trafen. Der Begriff „Artificial Intelligence“, von John McCarthy geprägt, wurde dort zum offiziellen Namen der noch jungen Disziplin. Diese frühe KI nennen wir rückblickend klassisch. Sie dominierte das Feld bis in die 80er Jahre, danach gewann der [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistische Ansatz]] zunehmend an Bedeutung.
+Viele Jahrzehnte bevor ChatGPT das Licht der Welt erblickte und einen ungeahnten KI-Hype auslöste, existierte KI längst als Forschungsfeld und entwickelte sich weitgehend ohne öffentliche Aufmerksamkeit. Ins Leben gerufen wurde sie 1956 auf der Dartmouth Conference, wo sich einige Größen der Computerwissenschaften trafen. Der Begriff „Artificial Intelligence“, von John McCarthy geprägt, wurde dort zum offiziellen Namen der noch jungen Disziplin. Diese frühe KI nennen wir rückblickend klassisch. Sie dominierte das Feld bis in die 80er Jahre, danach gewann der [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Statistische KI\|statistische Ansatz]] zunehmend an Bedeutung.
 
 ## Die Grundidee: Wissen in Regeln fassen
 
@@ -81,7 +81,7 @@ Die Regeln, die Menschen beim Sprechen tatsächlich anwenden, sind zu viele, zu 
 
 Was für Sprache gilt, trifft auch auf viele andere Felder zu, wie zum Beispiel die Bilderkennung: Wie unterscheide ich einen Hund von einer Katze? Uns Menschen gelingt das mühelos, auch wenn wir wahrscheinlich nicht erklären können, wie wir das machen. Für klassische KI: ein quasi unlösbares Problem.
 
-Genau an dieser Stelle setzt die [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistische KI]] an: Anstatt mit vorgegebenen Regeln zu arbeiten, lernt sie Muster aus unzähligen Beispielen.
+Genau an dieser Stelle setzt die [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Statistische KI\|statistische KI]] an: Anstatt mit vorgegebenen Regeln zu arbeiten, lernt sie Muster aus unzähligen Beispielen.
 
 Die Idee künstlicher Neuronen reicht bis 1943 zurück; mit dem Perceptron gab es 1958 ein erstes lernfähiges neuronales Netz. Neuen Schwung bekam die Forschung in den 80ern, als die Grenzen der klassischen KI immer deutlicher wurden. Der breite Durchbruch ließ allerdings noch bis 2012 auf sich warten: Mit [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]] gelang er zunächst in der Bilderkennung, wenige Jahre später auch bei Sprache.
 
