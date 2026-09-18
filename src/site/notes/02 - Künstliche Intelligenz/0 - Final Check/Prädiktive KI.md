@@ -20,12 +20,12 @@ Prädiktive [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Künstliche In
 ## Abgrenzung zu generativer KI
 
 - **Prädiktive KI** schätzt, bewertet und ordnet ein: „Zeigt das Bild einen Hund oder eine Katze?“
-- **generative KI** erzeugt neue Inhalte wie Texte, Bilder oder Code: „Erstelle ein Bild von einer Katze.”
+- **Generative KI** erzeugt neue Inhalte wie Texte, Bilder oder Code: „Erstelle ein Bild von einer Katze.”
 
 >[!info] Definition über den Zweck
 > Auch [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs (Large Language Models)]] sind technisch gesehen Vorhersagemaschinen: Sie berechnen, welches [[Token\|Token]] am wahrscheinlichsten als Nächstes folgt. Die Grenze verläuft also weniger über die Technik als über den Zweck.
 
-Anwendungen wie [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie#KI-Sprachtechnologie ist statistische KI\|STTs (eine KI-Sprachtechnologie)]] können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
+Anwendungen wie [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie#STT gibt es in zwei Varianten\|STTs]] (eine KI-Sprachtechnologie) können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
 
 👉 Siehe dazu auch [[02 - Künstliche Intelligenz/0 - Final Check/GenAI#Begriffliche Klärung\|GenAI – Begriffliche Klärung]]
 

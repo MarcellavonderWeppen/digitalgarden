@@ -8,7 +8,7 @@
 
 Als eine Form der [[02 - Künstliche Intelligenz/0 - Final Check/Statistische KI\|statistischen KI]] wird sie mittels großer Datenmengen trainiert und lernt die darin enthaltenen Muster. Auf dieser Grundlage kann sie neue Inhalte erzeugen – seien es Texte, Bilder, Musik oder sogar Videos.
 
-Im Gegensatz zu [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
+Im Gegensatz zu [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|klassischen KI-Systemen]], die auf festen Regeln basieren, kann GenAI kreativ sein: Sie erzeugt neue, gelegentlich sogar originelle Inhalte – basierend auf den Mustern, die sie aus den Trainingsdaten gelernt hat.
 
 Technologisch beruht GenAI meist auf neuronalen Netzen, insbesondere[[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Transformer\|Transformermodellen]]. Die bekannteste Anwendung sind [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|große Sprachmodelle (LLMs)]], die hinter Chatbots wie [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/ChatGPT\|ChatGPT]] stehen.
 

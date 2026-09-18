@@ -23,7 +23,7 @@ Die klassische KI machte den Anfang und dominierte die Forschung von den **1950e
 - Regelbasierte Systeme (Expertensysteme)
 - Such- und Planungsverfahren
 
-👉 Mehr lesen über [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|Klassische KI]]
+👉 Mehr lesen über [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|Klassische KI]]
 
 ## Statistische KI
 
