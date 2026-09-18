@@ -5,9 +5,9 @@
 
 ![Digital Garden Gemini 14.05.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/5%20-%20soon%20(ver%C3%B6ffentlicht)/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)
 
-# Herzlich willkommen in meinem „Digital Garden“ zum Thema Künstliche Intelligenz 🌱🌿🌳
+# Herzlich willkommen in meinem „Digital Garden“ zum Thema künstliche Intelligenz 🌱🌿🌳
 
-Hier ist mein „digitaler Garten“ am Wachsen: Ich dokumentiere meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Künstliche Intelligenz\|Künstlicher Intelligenz]].
+Hier ist mein „digitaler Garten“ am Wachsen: Ich dokumentiere meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Künstliche Intelligenz\|künstlicher Intelligenz]].
 
 Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Art Blog?
 
@@ -31,14 +31,14 @@ Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 - ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob noch Wurzeln fehlen. 
 - 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck. Ein Setzling darf ein Setzling sein.
 - 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Gerade dort, wo sie sich berühren, entsteht oft das Spannendste.
-- 🏡 **Ein eigenes Stück Land:** Kein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Algorithmus\|Algorithmus]] entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
+- 🏡 **Ein eigenes Stück Land:** Kein [[02 - Künstliche Intelligenz/4 - very soon/Algorithmus\|Algorithmus]] entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
 - 🐝 **Gemeinsam gärtnern:** Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
 
-## Gemeinsam lernen – Mitmachen willkommen
+## Schreibend lernen – Mitmachen willkommen
 
 Meine Motivation ist vor allem die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso für mich, warum dann nicht andere daran teilhaben lassen? 
 
-Doch ich lerne auch von euch! Ich habe alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare – konstruktive Kritik, eure Perspektive, aber auch Fragen und Anregungen. Was gibt es Schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben?🐝
+Doch ich lerne auch von euch! Zwar habe ich alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare – konstruktive Kritik, *eure* Perspektive, aber auch Fragen und Anregungen. Was gibt es Schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben?🐝
 
  👉 So geht’s: [[02 - Künstliche Intelligenz/6 - later/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
 
@@ -56,13 +56,15 @@ Kaum ein Thema polarisiert unseren Zeitgeist so sehr wie die sogenannte Künstli
 Die einen verherrlichen sie,
 die anderen verfluchen sie.
 
-Beides kann ich verstehen, habe ich mich doch schon an beiden Enden des Spektrums wiedergefunden.
+Beides kann ich verstehen, habe ich mich doch schon an beiden Enden des Spektrums wiedergefunden. Und beides halte ich für nicht besonders hilfreich.
 
 Es lässt sich nicht wegdiskutieren, dass einiges [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kritik an GenAI\|schiefläuft]] – ganz, ganz schief!
 
 Und dennoch glaube ich:
 
 [[02 - Künstliche Intelligenz/2 - Work on today/KI – es geht auch anders!\|KI – es geht auch anders!]]
+
+Ich stehe für einen differenzierten Blick auf das Thema und das Erkunden alternativer Wege.
 ## Wer schreibt hier eigentlich?
 
 Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[02 - Künstliche Intelligenz/2 - Work on today/Über mich\|über mich]].
