@@ -30,7 +30,7 @@ So hat sich in den letzten Jahren langsam aber sicher die Überzeugung herauskri
 - Respektvoller Umgang mit Mensch, Tier und Natur
 - Ehrliche, transparente Kommunikation statt [[02 - Künstliche Intelligenz/6 - later/Dark Patterns (Deceptive Patterns)\|Dark Patterns]]
 
-![Solarpunk AI 14.05.26 Gemini.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/5%20-%20soon%20(ver%C3%B6ffentlicht)/Bilder/Solarpunk%20AI%2014.05.26%20Gemini.png)
+![Solarpunk AI 14.05.26 Gemini.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Solarpunk%20AI%2014.05.26%20Gemini.png)
 
 ## Nur ein Werkzeug?
 

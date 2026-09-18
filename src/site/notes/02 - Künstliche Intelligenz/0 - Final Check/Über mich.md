@@ -6,7 +6,7 @@
 
 Was ich sonst so mache, wenn ich nicht gerade an meinem Digital Garden baue: 
 
-![Obsidian Nerd Q2 2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/5%20-%20soon%20(ver%C3%B6ffentlicht)/Bilder/Obsidian%20Nerd%20Q2%202026.png)
+![Obsidian Nerd Q2 2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Obsidian%20Nerd%20Q2%202026.png)
 ## KI-Kurse 👩‍🏫
 
 Ich habe mich lange für „technik-unbegabt“ gehalten – bis ich vor vielen Jahren durch ein privates Blogprojekt mit dem Programmieren begann. Ich erinnere mich noch gut daran, wie anspruchsvoll der Einstieg für Menschen ohne technischen Hintergrund sein kann, und so habe ich mir die Fähigkeit erhalten, technische Sachverhalte in einfachen Worten zu vermitteln.

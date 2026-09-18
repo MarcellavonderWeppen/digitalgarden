@@ -15,7 +15,7 @@ Nicht alle Kaninchenlöcher sind gleich gut ausgebaut. Orientierung geben die fo
 > Junges neugieriges Kaninchen am Graben 🕳️🐇
 > Weises Kanin 🐇👑
 >
-> ![Kaninchen Lebensphasen.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/5%20-%20soon%20(ver%C3%B6ffentlicht)/Bilder/Kaninchen%20Lebensphasen.png)
+> ![Kaninchen Lebensphasen.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Kaninchen%20Lebensphasen.png)
 
 ## Kaninchenlöcher für den Einstieg
 
