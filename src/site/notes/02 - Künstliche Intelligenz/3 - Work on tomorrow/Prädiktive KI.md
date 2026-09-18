@@ -10,7 +10,7 @@ Es handelt sich um [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Statist
 
 ## Begriffsklärung
 
-**Der Begriff ist ein Retronym:**  Er entstand erst, nachdem [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generative KI]] populär wurde und man ein Wort für diese „andere KI" brauchte. „Prädiktive KI“ war vor 2022 kaum gebräuchlich; man sagte einfach [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]], Klassifikation, Regression. Etabliert war allenfalls „Predictive Analytics“ als Sammelbegriff für datengestützte Prognosen in Unternehmen.
+**Der Begriff ist ein Retronym:**  Er entstand erst, nachdem [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|generative KI]] populär wurde und man ein Wort für diese „andere KI" brauchte. „Prädiktive KI“ war vor 2022 kaum gebräuchlich; man sagte einfach [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]], Klassifikation, Regression. Etabliert war allenfalls „Predictive Analytics“ als Sammelbegriff für datengestützte Prognosen in Unternehmen.
 
 >[!info] Wortherkunft
 >
@@ -27,7 +27,7 @@ Es handelt sich um [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Statist
 
 Anwendungen wie [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie#STT gibt es in zwei Varianten\|STTs]] (eine KI-Sprachtechnologie) können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
 
-👉 Siehe dazu auch [[02 - Künstliche Intelligenz/0 - Final Check/GenAI#Begriffliche Klärung\|GenAI – Begriffliche Klärung]]
+👉 Siehe dazu auch [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI#Begriffliche Klärung\|GenAI – Begriffliche Klärung]]
 
 ## Typische Anwendungen
 
