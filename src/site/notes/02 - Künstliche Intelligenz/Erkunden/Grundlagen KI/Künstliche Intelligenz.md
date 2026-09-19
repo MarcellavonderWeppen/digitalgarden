@@ -34,7 +34,7 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von „KI“ d
 
 ### Teilbereiche
 
-- [[02 - Künstliche Intelligenz/0 - Final Check/Prädiktive KI\|Prädiktive KI]]
+- [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Prädiktive KI\|Prädiktive KI]]
 - [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|Generative KI (GenAI)]] inkl. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie ChatGPT
 - Teils prädiktiv, teils generativ: [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie\|KI-Sprachtechnologie]] inkl. [[02 - Künstliche Intelligenz/6 - later/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 

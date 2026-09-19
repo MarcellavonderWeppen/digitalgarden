@@ -1,5 +1,5 @@
 ---
-{"title":"Klassische KI","aliases":["klassische KI","symbolische KI","regelbasierte KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 20%"],"created":"2026-04-07","updated":"2026-06-06","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/erkunden/grundlagen-ki/klassische-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Klassische KI","aliases":["klassische KI","symbolische KI","regelbasierte KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 20%"],"created":"2026-04-07","updated":"2026-06-06","status":null}}
+{"title":"Klassische KI","aliases":["klassische KI","symbolische KI","regelbasierte KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 20%"],"created":"2026-04-07","updated":"2026-09-19","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/erkunden/grundlagen-ki/klassische-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Klassische KI","aliases":["klassische KI","symbolische KI","regelbasierte KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 20%"],"created":"2026-04-07","updated":"2026-09-19","status":null}}
 ---
 
 # Klassische KI
@@ -22,14 +22,12 @@ Die **klassische künstliche Intelligenz** basiert auf der Idee, dass Intelligen
 
 ![Klassische KI Diagramm.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Klassische%20KI%20Diagramm.png)
 
-|                      | Regelbasierte Systeme                                                                                                                                           | Such- und Planungsverfahren                                                                                                                                                       |
-| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Prinzip**          | Logisches Ableiten                                                                                                                                              | Suche                                                                                                                                                                             |
-| **Grundidee**        | Das System wendet vorformulierte Wenn-Dann-Regeln auf bekannte Fakten an und leitet daraus neue Schlüsse ab                                                     | Das System erkundet mögliche Lösungswege Schritt für Schritt, bewertet sie und verfolgt die aussichtsreichsten weiter                                                             |
-| **Typische Systeme** | logikbasierte Programme, Expertensysteme                                                                                                                        | klassische Schachprogramme, Routenplaner                                                                                                                                          |
+|                      | Regelbasierte Systeme                                                                                                                                                 | Such- und Planungsverfahren                                                                                                                                                             |
+| -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Prinzip**          | Logisches Ableiten                                                                                                                                                    | Suche                                                                                                                                                                                   |
+| **Grundidee**        | Das System wendet vorformulierte Wenn-Dann-Regeln auf bekannte Fakten an und leitet daraus neue Schlüsse ab                                                           | Das System erkundet mögliche Lösungswege Schritt für Schritt, bewertet sie und verfolgt die aussichtsreichsten weiter                                                                   |
+| **Typische Systeme** | logikbasierte Programme, Expertensysteme                                                                                                                              | klassische Schachprogramme, Routenplaner                                                                                                                                                |
 | **Beispiel**         | **Logic Theorist** (1956):<br>bewies mathematische Lehrsätze <br> <br>**MYCIN** (1970er):<br>diagnostizierte bakterielle Infektionen und empfahl passende Antibiotika | **Deep Blue** (1997):<br>schlug Schachweltmeister Kasparow <br> <br>**Dijkstra-Algorithmus** (1959):<br>bis heute grundlegendes Prinzip der Routenplanung, von Google Maps bis zum Navi |
-|                      |                                                                                                                                                                 |                                                                                                                                                                                   |
-
 
 ## Was heißt „formal repräsentiert“?
 
@@ -41,7 +39,7 @@ Formal heißt hier nicht „förmlich“, sondern „die Form betreffend“. Das
 
 Schauen wir uns zum besseren Verständnis ein Beispiel dazu an: „Alle Flurbs sind Gnaks. Zork ist ein Flurb. Also ist Zork ein Gnak.“ Niemand weiß, was ein Flurb oder ein Gnak ist. Trotzdem erkennen logisch denkende Menschen sofort, dass der Schluss folgerichtig ist. Wir brauchen nur das Muster: „Alle A sind B, x ist A, also ist x B.“ Mit Tweety funktioniert es genauso: Aus „Alle Vögel fliegen“ und „Tweety ist ein Vogel“ folgt „Tweety fliegt“. Dass wir hier zufällig wissen, was ein Vogel ist, spielt für die Schlussfolgerung keine Rolle.
 
-![Kunstsprache Logik.png](/img/user/Kunstsprache%20Logik.png)
+![Kunstsprache Logik.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Kunstsprache%20Logik.png)
 
 Genau das macht den Ansatz für Computer tauglich: Ein Rechner versteht nichts. Für ihn ist „Vogel“ genauso bedeutungslos wie „Flurb“. Er kann nur Zeichen vergleichen und Sätze nach festen Regeln umbauen. Ist das Wissen formal notiert, wird Schlussfolgern zu einem rein mechanischen Vorgang.
 

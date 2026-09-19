@@ -2,7 +2,7 @@
 {"title":"Startseite","aliases":null,"tags":["gardenEntry"],"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-05-05","status":null,"dg-publish":true,"dg-home":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/startseite/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Startseite","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-05-05","status":null}}
 ---
 
-![Digital Garden Gemini 14.05.2026.png](/img/user/Digital%20Garden%20Gemini%2014.05.2026.png)
+![Digital Garden Gemini 14.05.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)
 # Herzlich willkommen in meinem „Digital Garden“ zum Thema künstliche Intelligenz 🌱🌿🌳
 
 Hier ist mein „digitaler Garten“ am Wachsen: Ich dokumentiere meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Künstliche Intelligenz\|künstlicher Intelligenz]].
