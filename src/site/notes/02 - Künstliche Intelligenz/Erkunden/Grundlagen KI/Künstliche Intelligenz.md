@@ -1,5 +1,5 @@
 ---
-{"title":"Künstliche Intelligenz","aliases":["KI","künstliche Intelligenz"],"tags":null,"gen_ai_anteil":null,"created":"2026-04-03","updated":"2026-09-18","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/erkunden/grundlagen-ki/kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Künstliche Intelligenz","aliases":["KI","künstliche Intelligenz"],"tags":null,"gen_ai_anteil":null,"created":"2026-04-03","updated":"2026-09-18","status":null}}
+{"title":"Künstliche Intelligenz","aliases":["KI","künstliche Intelligenz"],"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-04-03","updated":"2026-09-18","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/erkunden/grundlagen-ki/kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Künstliche Intelligenz","aliases":["KI","künstliche Intelligenz"],"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-04-03","updated":"2026-09-18","status":null}}
 ---
 
 
@@ -36,7 +36,7 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von „KI“ d
 
 - [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Prädiktive KI\|Prädiktive KI]]
 - [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|Generative KI (GenAI)]] inkl. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie ChatGPT
-- Teils prädiktiv, teils generativ: [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie\|KI-Sprachtechnologie]] inkl. [[02 - Künstliche Intelligenz/6 - later/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
+- Teils prädiktiv, teils generativ: [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/KI-Sprachtechnologie\|KI-Sprachtechnologie]] inkl. [[02 - Künstliche Intelligenz/6 - later/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
 👉 Mehr lesen über [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Statistische KI\|Statistische KI]]
 

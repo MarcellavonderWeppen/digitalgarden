@@ -42,7 +42,7 @@ Das Lied gibt es übrigens wirklich - ich veröffentliche es gerne bei Interesse
 
 ### Beispiel 2: Schreiben mit KI
 
-Als zweites Beispiel ein Artikel, den ich gerade geschrieben habe: [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie\|KI-Sprachtechnologie]].
+Als zweites Beispiel ein Artikel, den ich gerade geschrieben habe: [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/KI-Sprachtechnologie\|KI-Sprachtechnologie]].
 
 > [!note] **Funfact**
 >

@@ -1,5 +1,5 @@
 ---
-{"title":"Prädiktive KI","aliases":["prädiktive KI"],"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-09-11","updated":"2026-09-18","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/erkunden/grundlagen-ki/praediktive-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Prädiktive KI","aliases":["prädiktive KI"],"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-09-11","updated":"2026-09-18","status":null}}
+{"title":"Prädiktive KI","aliases":["prädiktive KI"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-11","updated":"2026-09-18","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/erkunden/grundlagen-ki/praediktive-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Prädiktive KI","aliases":["prädiktive KI"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-11","updated":"2026-09-18","status":null}}
 ---
 
 # Prädiktive KI
@@ -24,7 +24,7 @@ Es handelt sich um [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Statist
 > [!info] Definition über den Zweck
 > Auch [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs (Large Language Models)]] sind technisch gesehen Vorhersagemaschinen: Sie berechnen, welches [[Token\|Token]] am wahrscheinlichsten als Nächstes folgt. Die Grenze verläuft also weniger über die Technik als über den Zweck.
 
-Anwendungen wie [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie#STT gibt es in zwei Varianten\|STTs]] (eine KI-Sprachtechnologie) können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
+Anwendungen wie [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/KI-Sprachtechnologie#STT gibt es in zwei Varianten\|STTs]] (eine KI-Sprachtechnologie) können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
 
 👉 Siehe dazu auch [[02 - Künstliche Intelligenz/0 - Final Check/GenAI#Begriffliche Klärung\|GenAI – Begriffliche Klärung]]
 
@@ -33,5 +33,5 @@ Anwendungen wie [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnolo
 - **Spamfilter:** schätzt, wie wahrscheinlich eine Mail Spam ist
 - **Betrugserkennung:** sperrt die Bankkarte, wenn eine Zahlung nicht zum üblichen Muster passt
 - **Streaming-Empfehlungen:** „Das könnte dir auch gefallen“
-- **[[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie\|KI-Sprachtechnologie]]**: teils prädiktiv, teils generativ
+- **[[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/KI-Sprachtechnologie\|KI-Sprachtechnologie]]**: teils prädiktiv, teils generativ
 - **Wortvorschläge** auf der Handytastatur: technisch ein winziges Sprachmodell, jedoch ohne generativen Zweck
