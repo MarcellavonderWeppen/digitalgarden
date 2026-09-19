@@ -62,7 +62,7 @@ Es lässt sich nicht wegdiskutieren, dass einiges [[02 - Künstliche Intelligenz
 
 Und dennoch glaube ich:
 
-[[02 - Künstliche Intelligenz/3 - Work on tomorrow/KI – es geht auch anders!\|KI – es geht auch anders!]]
+[[02 - Künstliche Intelligenz/0 - Final Check/KI – es geht auch anders!\|KI – es geht auch anders!]]
 
 Ich stehe für einen differenzierten Blick auf das Thema und das Erkunden alternativer Wege.
 
