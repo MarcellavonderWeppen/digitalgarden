@@ -8,7 +8,7 @@
 
 Du weißt es in einer Zehntelsekunde. Aber kannst du es aufschreiben? So genau, dass jemand, der noch nie eine Katze gesehen hat, allein nach deiner Liste eine erkennen würde?
 
-Genau darauf ist die [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassische KI]] angewiesen: auf umfassende, ausformulierte Regeln.
+Genau darauf ist die [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Klassische KI\|klassische KI]] angewiesen: auf umfassende, ausformulierte Regeln.
 
 Also habe ich ChatGPT gebeten, es zu versuchen: Alles, was Hund und Katz so ausmacht, von den Ohren bis zu den Krallen, in einer Tabelle zusammengefasst.
 
@@ -109,7 +109,7 @@ _**Der auffälligste Hinweis ist aber der Kopf**: Augen, Nase, Schnauze und die 
 
 ## Schlussfolgerung
 
-Das Beispiel zeigt, warum [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassische KI]] an Themen wie Bilderkennung oder Bildgenerierung scheitert.
+Das Beispiel zeigt, warum [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Klassische KI\|klassische KI]] an Themen wie Bilderkennung oder Bildgenerierung scheitert.
 
 Diese Form der KI ist auf explizite, also aufschreibbare, Regeln angewiesen. Aber selbst eine gründliche Merkmalsliste legt nicht eindeutig fest, was ein Hund ist und was eine Katze.
 

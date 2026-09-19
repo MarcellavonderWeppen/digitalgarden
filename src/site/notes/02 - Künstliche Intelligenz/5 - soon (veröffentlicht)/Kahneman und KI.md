@@ -15,7 +15,7 @@ Das trifft vor allem auf [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/S
 
 "Wenn es viele behaupten, dann wird es schon wahr sein."
 
-[[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|Klassische KI]] hingegen geht streng logisch Schritt für Schritt vor und liefert im Rahmen ihrer Möglichkeiten zuverlässige Ergebnisse.
+[[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Klassische KI\|Klassische KI]] hingegen geht streng logisch Schritt für Schritt vor und liefert im Rahmen ihrer Möglichkeiten zuverlässige Ergebnisse.
 
 Damit ähnelt sie System 2 - allerdings mit einem wichtigen Unterschied: Diese Form von KI zweifelt nie an den eigenen Denkprozessen; sie folgt den ihr einprogrammierten Regeln blind, ohne die Fähigkeit, die eigenen Prämissen zu hinterfragen. Mit anderen Worten, ihr fehlt die Fähigkeit zur [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Denken auf Papier#Metakognition\|Metakognition]].
 

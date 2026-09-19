@@ -12,7 +12,7 @@
 
 Die **statistische KI** begegnet uns heute überall – in der Sprachverarbeitung, der Bilderkennung, hinter Empfehlungssystemen.
 
-Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichkeit, Statistik und Datenanalyse** basieren – im Gegensatz zur [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassischen KI]].
+Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichkeit, Statistik und Datenanalyse** basieren – im Gegensatz zur [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Klassische KI\|klassischen KI]].
 
 - Systeme lernen aus **Daten statt aus festen Regeln**
 - Modelle erkennen **Muster, Korrelationen und Wahrscheinlichkeiten**
@@ -53,7 +53,7 @@ Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code 
 
 ## 📖 Weiterlesen
 
-- [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
+- [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
 - Woran erkennt man einen Hund oder eine Katze? Ein niedliches [[02 - Künstliche Intelligenz/0 - Final Check/Hund oder Katze? Das Experiment\|Experiment]]
 - Die praktische Umsetzung von statistischer KI: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]] und seine Unterform [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
 - Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/0 - Final Check/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]]
