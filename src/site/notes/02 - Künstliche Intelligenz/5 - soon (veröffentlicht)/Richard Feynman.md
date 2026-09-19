@@ -13,7 +13,7 @@ Hier ein Überblick über den Mann und sein Vermächtnis:
 
 **Der Lehrer** Feynman war legendär für seine Fähigkeit, komplexe Ideen verständlich zu machen. Seine _Feynman Lectures on Physics_ gelten bis heute als eines der besten Physiklehrbücher aller Zeiten. Sein Credo: Wenn man etwas nicht einfach erklären kann, hat man es selbst noch nicht wirklich verstanden.
 
-**Der Mensch** Abseits der Physik war Feynman eine außergewöhnliche Persönlichkeit – Bongospieler, Safe-Knacker im Manhattan-Projekt, Liebhaber von Stripclubs als Arbeitsorte und unerschrockener Geschichtenerzähler. Seine Bücher _„Sie belieben wohl zu scherzen, Mr. Feynman!"_ und _„Was soll das alles?"_ sind bis heute Bestseller.
+**Der Mensch** Abseits der Physik war Feynman eine außergewöhnliche Persönlichkeit – Bongospieler, Safe-Knacker im Manhattan-Projekt, Liebhaber von Stripclubs als Arbeitsorte und unerschrockener Geschichtenerzähler. Seine Bücher _“Sie belieben wohl zu scherzen, Mr. Feynman!"_ und _“Was soll das alles?"_ sind bis heute Bestseller.
 
 ## Prinzipien des Lernens: Feynman-Methode
 
@@ -35,6 +35,6 @@ Ein paar seiner Kerngedanken:
 
 ## Weiterstöbern
 
-📺 Schöne Dokumentation auf YouTube: [The "Notebook Method" That Made Feynman A Genius (Think on Paper)](https://www.youtube.com/@feynmanarchives)
+📺 Schöne Dokumentation auf YouTube: [The „Notebook Method“ That Made Feynman A Genius (Think on Paper)](https://www.youtube.com/@feynmanarchives)
 
 📖 Von Feynman inspiriert: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]]

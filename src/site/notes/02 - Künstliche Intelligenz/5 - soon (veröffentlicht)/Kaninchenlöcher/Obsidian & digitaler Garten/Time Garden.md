@@ -11,7 +11,7 @@ Als ich dann folgendes Video sah, war mir sofort klar: Das muss ich haben 😍�
 
 📺 [The Free Obsidian Journal that took 400 hours to build](https://www.youtube.com/watch?v=_Q_UEvWxwNw&t=187s)
 
-Nun nutze ich den “Time Garden” täglich und bin überglücklich damit!
+Nun nutze ich den „Time Garden“ täglich und bin überglücklich damit!
 
 Damit kann ich nun nach und nach Notion als Tool für meine tägliche Organisation durch Obsidian ersetzen.
 

@@ -5,7 +5,7 @@
 
 # Canvas in Obsidian
 
-... ist eine **visuelle Arbeitsfläche**, auf der Notizen frei angeordnet und miteinander verknüpft werden können. Es fungiert als digitales, „unendliches" **Whiteboard**.
+... ist eine **visuelle Arbeitsfläche**, auf der Notizen frei angeordnet und miteinander verknüpft werden können. Es fungiert als digitales, „unendliches“ **Whiteboard**.
 
 Anstatt mit linearen Texten (wie in normalen [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Markdown\|Markdown]]-Dateien) zu arbeiten, erfolgt die Nutzung im Canvas über **Karten**, die frei platziert und miteinander verbunden werden.
 
@@ -40,7 +40,7 @@ Obsidian hat das Format nicht nur entwickelt, sondern auch **quelloffen** auf Gi
 1. Probiere es gleich aus und schau, wie weit Du kommst - ich finde es sehr intuitiv. Obsidian-Erfahrung und vorhandene Notizen von Vorteil.
 2. Schau Dir ein paar YouTube-Videos an, um zu sehen, was Du noch herausholen kannst und für Inspiration, was andere Menschen damit anstellen
 3. Nutze das [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLM]] Deines Vertrauens, wenn Du nicht weiter kommst
-4. Wenn Du das Gefühl hast, Du möchtest "mehr" - mehr Möglichkeiten, mehr Kreativität, mehr Verspieltheit - dann ist es vielleicht an der Zeit [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Excalidraw\|Excalidraw]] zu probieren.
+4. Wenn Du das Gefühl hast, Du möchtest „mehr“ - mehr Möglichkeiten, mehr Kreativität, mehr Verspieltheit - dann ist es vielleicht an der Zeit [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Excalidraw\|Excalidraw]] zu probieren.
 
 ## Weiterbildung in der YouTube-Academy 📺
 
@@ -52,6 +52,6 @@ Für alle Interessierten, hier geht's in den Kaninchenbau 🐇👇
 - [Why Obsidian Canvas is THE BEST Mind Mapping Tool](https://www.youtube.com/@creadevlabs) Neben weiteren Tipps zur Anwendung werden hier auch zwei interessante Usecases vorgestellt, die über reines Mindmapping hinausgehen:
   - Produktions-Dashboard für einen YouTube-Kanal [08:50](http://www.youtube.com/watch?v=NqfABACJ8fs&t=530)
   - Moodboards & Projektplanung: für die Entwicklung einer App [11:01](http://www.youtube.com/watch?v=NqfABACJ8fs&t=661)
-- Ich liebe es, wenn Menschen Tools abweichend von ihrem beabsichtigten Verwendungszweck verwenden: [Using Obsidian Canvas to Create Custom Dashboards](https://www.youtube.com/watch?v=qPgZTiA69y4) und [How to Do a Personal Retreat in Obsidian](https://www.youtube.com/watch?v=D2VfeT1dsxY) Außerdem werden hier weitere **Plugins** vorgestellt, um Canvas "aufzuhübschen" bzw. für Präsentationen zu verwenden. [5:36](https://youtu.be/qPgZTiA69y4?si=YGKCjBUeNJzqq-hI&t=336)
+- Ich liebe es, wenn Menschen Tools abweichend von ihrem beabsichtigten Verwendungszweck verwenden: [Using Obsidian Canvas to Create Custom Dashboards](https://www.youtube.com/watch?v=qPgZTiA69y4) und [How to Do a Personal Retreat in Obsidian](https://www.youtube.com/watch?v=D2VfeT1dsxY) Außerdem werden hier weitere **Plugins** vorgestellt, um Canvas „aufzuhübschen“ bzw. für Präsentationen zu verwenden. [5:36](https://youtu.be/qPgZTiA69y4?si=YGKCjBUeNJzqq-hI&t=336)
 - Wer lieber auf deutsch gucken möchte: 🇩🇪 [Obsidian Canvas Plugin Tutorial (deutsch)](<[https://www.youtube.com/watch?v=ybzn8ch4_4Q](https://www.youtube.com/watch?v=ybzn8ch4_4Q)>) Hier wird auch noch mal super erklärt, warum räumliches / graphisches Denken für das Lernen so wesentlich ist (siehe [1:36](https://youtu.be/ybzn8ch4_4Q?si=GtxZnXXT_8PdxPxf&t=96) und [11:22](https://youtu.be/ybzn8ch4_4Q?si=QUnqf8lCNOM3_LVb&t=682))
 - Langweiliges Video, aber das einzige welches erklärt, wie man Präsentationen mit Canvas erstellt: [Obsidian Canvas - Presentations, Flowcharts and more!](https://youtu.be/KIDt5hlmjWg?si=HR9Rj2AciH2eR829&t=336)

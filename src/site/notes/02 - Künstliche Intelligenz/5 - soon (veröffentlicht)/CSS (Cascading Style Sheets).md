@@ -24,7 +24,7 @@ font-size: 20px;
 }
 ```
 
-Das bedeutet: "Mache alle Hauptüberschriften (`h1`) blau und gib ihnen eine Größe von 20 Pixeln."
+Das bedeutet: „Mache alle Hauptüberschriften (`h1`) blau und gib ihnen eine Größe von 20 Pixeln."
 
 ## Warum zwei Sprachen?
 

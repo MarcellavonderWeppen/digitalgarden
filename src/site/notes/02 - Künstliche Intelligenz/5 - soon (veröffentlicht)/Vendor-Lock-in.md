@@ -5,7 +5,7 @@
 
 # Vendor-Lock-In
 
-Auch bekannt als “Lock-in-Effekt”.
+Auch bekannt als „Lock-in-Effekt“.
 
 Vendor Lock-In beschreibt eine Situation, in der Kunden, Nutzer oder Eigentümer stark an ein Produkt, einen Dienstleister, eine Technologie oder eine finanzielle Vereinbarung gebunden sind. Ein Wechsel zu einer Alternative wird durch hohe Wechselkosten, technische Abhängigkeiten oder andere Barrieren erschwert oder unattraktiv gemacht.
 

@@ -7,28 +7,28 @@
 
 ![Schnelles Denken, langsames Denken.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Schnelles%20Denken,%20langsames%20Denken.png)
 
-In seinem bahnbrechenden Werk _„Schnelles Denken, langsames Denken“_ beschreibt der Psychologe und Nobelpreisträger **Daniel Kahneman** zwei grundlegende Modi des menschlichen Denkens:
+In seinem bahnbrechenden Werk _“Schnelles Denken, langsames Denken“_ beschreibt der Psychologe und Nobelpreisträger **Daniel Kahneman** zwei grundlegende Modi des menschlichen Denkens:
 
 ## System 1: schnelles Denken
 
-_Automatisch, intuitiv, emotional und fast mühelos._ 
+_Automatisch, intuitiv, emotional und fast mühelos._
 
-Es arbeitet blitzschnell, steuert Routinehandlungen wie Autofahren oder Gesichtererkennen und reagiert auf Reize – oft unbewusst. 
+Es arbeitet blitzschnell, steuert Routinehandlungen wie Autofahren oder Gesichtererkennen und reagiert auf Reize – oft unbewusst.
 
-System 1 ist anfällig für **kognitive Verzerrungen** (z. B. Vorurteile, optische Täuschungen) und nutzt **Heuristiken** („Daumenregeln“), die zu schnellen, aber mitunter fehlerhaften Urteilen führen.
-    
+System 1 ist anfällig für **kognitive Verzerrungen** (z. B. Vorurteile, optische Täuschungen) und nutzt **Heuristiken** (“Daumenregeln“), die zu schnellen, aber mitunter fehlerhaften Urteilen führen.
+
 ## System 2: langsames Denken
 
-_Bewusst, logisch, anstrengend und analytisch._ Es wird aktiviert, wenn wir komplexe Probleme lösen, rechnen oder unsere Impulse kontrollieren. 
+_Bewusst, logisch, anstrengend und analytisch._ Es wird aktiviert, wenn wir komplexe Probleme lösen, rechnen oder unsere Impulse kontrollieren.
 
 System 2 ist präzise, aber langsam und energieintensiv – wir setzen es nur ein, wenn nötig.
 
 ## Ein Experiment: Schnelles Denken in Aktion
 
-Bist Du bereit, Dein eigenes Denken zu testen? 
+Bist Du bereit, Dein eigenes Denken zu testen?
 
 > [!Info] Frage
-  _Ein Schläger und ein Ball kosten zusammen 1,10 €. Der Schläger kostet 1 € mehr als der Ball. Wie viel kostet der Ball?_
+> _Ein Schläger und ein Ball kosten zusammen 1,10 €. Der Schläger kostet 1 € mehr als der Ball. Wie viel kostet der Ball?_
 
 Wahrscheinlich hast Du - wie die meisten Menschen - spontan eine intuitive Antwort parat gehabt. Überprüfe sie und rechne nach. Du hast gerade System 1 in Aktion erlebt!
 
@@ -37,7 +37,6 @@ Wahrscheinlich hast Du - wie die meisten Menschen - spontan eine intuitive Antwo
 Kahneman zeigt, wie beide Systeme ineinandergreifen – und warum wir uns oft auf System 1 verlassen, selbst wenn es uns in die Irre führt. Das Buch erklärt, wie diese Dynamik unser **Urteilsvermögen, unsere Entscheidungen und sogar unser Glücksempfinden** prägt – und warum wir unsere eigenen Fähigkeiten häufig überschätzen.
 
 > Unser Denken ist kein rein rationaler Prozess, sondern ein Wechselspiel zwischen Intuition und Kontrolle – mit weitreichenden Folgen für Wirtschaft, Politik und den Alltag.
-
 
 ## 📖 Weiterlesen
 

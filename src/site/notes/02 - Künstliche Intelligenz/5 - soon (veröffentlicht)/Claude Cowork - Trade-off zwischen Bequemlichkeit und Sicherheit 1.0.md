@@ -2,8 +2,9 @@
 {"title":"Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit 1.0","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-06-12","updated":"2026-06-15","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/5-soon-veroeffentlicht/claude-cowork-trade-off-zwischen-bequemlichkeit-und-sicherheit-1-0/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit 1.0","aliases":null,"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-06-12","updated":"2026-06-15","status":null}}
 ---
 
+
 > [!warning] Inhaltliche Fehler
-> Dies ist ein Erstentwurf von Mistral. Nach Faktencheck durch Claude und Mistral entstand ein zweiter Entwurf, der inhaltlich “der Wahrheit” wohl näher kommt: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit\|Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit]].
+> Dies ist ein Erstentwurf von Mistral. Nach Faktencheck durch Claude und Mistral entstand ein zweiter Entwurf, der inhaltlich „der Wahrheit“ wohl näher kommt: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit\|Claude Cowork - Trade-off zwischen Bequemlichkeit und Sicherheit]].
 
 # Claude Cowork: Trade-off zwischen Bequemlichkeit und Sicherheit 1.0
 
@@ -18,11 +19,11 @@ Claude Cowork und die Desktop-App stehen für den klassischen Trade-off zwischen
 
 ## Die größten Risiken der Desktop-App
 
-|Risiko|Beschreibung|Auswirkung|
-|---|---|---|
-|**Browser-Hooks**|Automatische Registrierung in Browsern (ohne explizite Zustimmung)|Sessions in anderen Tabs können ausgelesen oder manipuliert werden|
-|**Prompt-Injection**|Versteckte Befehle in Dateien/Webseiten|Unerwünschte Aktionen (Datenübertragung, Öffnen lokaler Dateien)|
-|**DSGVO-Problematik**|US-Server + automatische Datenverarbeitung|Rechtlich riskant, besonders für EU-Nutzer:innen und Unternehmen|
+| Risiko                | Beschreibung                                                       | Auswirkung                                                         |
+| --------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| **Browser-Hooks**     | Automatische Registrierung in Browsern (ohne explizite Zustimmung) | Sessions in anderen Tabs können ausgelesen oder manipuliert werden |
+| **Prompt-Injection**  | Versteckte Befehle in Dateien/Webseiten                            | Unerwünschte Aktionen (Datenübertragung, Öffnen lokaler Dateien)   |
+| **DSGVO-Problematik** | US-Server + automatische Datenverarbeitung                         | Rechtlich riskant, besonders für EU-Nutzer:innen und Unternehmen   |
 
 ---
 
@@ -36,11 +37,11 @@ Claude Cowork und die Desktop-App stehen für den klassischen Trade-off zwischen
 
 ## Entscheidungshilfe: Was passt zu dir?
 
-|Priorität|Empfehlung|
-|---|---|
-|**Maximale Sicherheit**|Keine Desktop-App, nur Browser-Version + isolierte Nutzung (separates Profil/VM).|
-|**Praktikabilität mit Risikobewusstsein**|Desktop-App nur mit strikten Einschränkungen (deaktivierte Hooks, separates Nutzerprofil, keine sensiblen Daten).|
-|**Bequemlichkeit über alles**|Desktop-App + Cowork – aber akzeptiere die Risiken (Daten auf US-Servern, Prompt-Injection, Browser-Hooks).|
+| Priorität                                 | Empfehlung                                                                                                        |
+| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| **Maximale Sicherheit**                   | Keine Desktop-App, nur Browser-Version + isolierte Nutzung (separates Profil/VM).                                 |
+| **Praktikabilität mit Risikobewusstsein** | Desktop-App nur mit strikten Einschränkungen (deaktivierte Hooks, separates Nutzerprofil, keine sensiblen Daten). |
+| **Bequemlichkeit über alles**             | Desktop-App + Cowork – aber akzeptiere die Risiken (Daten auf US-Servern, Prompt-Injection, Browser-Hooks).       |
 
 ---
 

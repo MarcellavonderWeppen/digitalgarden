@@ -52,18 +52,18 @@ Die wahre Stärke liegt in der Verbindung von Grafik und Text:
 
 ## 3. Fortgeschrittene Medien-Integration
 
-Excalidraw kann als "Sammelbecken" für verschiedene Quellen dienen:
+Excalidraw kann als „Sammelbecken“ für verschiedene Quellen dienen:
 
 - **PDFs**: Können als Bilder (für Annotationen) oder als interaktive, scrollbare Rahmen eingebettet werden.
 - **Webseiten**: Mit `Alt/Option` beim Reinziehen lassen sich voll interaktive Web-Frames erstellen.
-- **GIFs**: Werden als "Embeddable" animiert auf der Leinwand abgespielt.
+- **GIFs**: Werden als „Embeddable“ animiert auf der Leinwand abgespielt.
 - **Markdown-Karten**: Notizen können innerhalb der Zeichnung bearbeitet werden, ohne die Ansicht zu verlassen.
 
-## 4. "Back of Note Card" (Die Rückseite der Zeichnung)
+## 4. „Back of Note Card“ (Die Rückseite der Zeichnung)
 
 Jede Excalidraw-Datei ist im Kern eine Markdown-Datei.
 
-- Über das Menü kann eine "Rückseite" (Back of Note Card) aktiviert werden.
+- Über das Menü kann eine „Rückseite“ (Back of Note Card) aktiviert werden.
 - Hier lassen sich ausführliche Texte, Gedanken oder Quellen zur Zeichnung im klassischen Markdown-Format festhalten.
 - Die Zeichnung ist die visuelle Ebene, der Text die inhaltliche Tiefe – beide existieren in derselben Datei.
 

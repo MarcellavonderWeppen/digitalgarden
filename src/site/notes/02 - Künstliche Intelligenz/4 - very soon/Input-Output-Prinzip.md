@@ -2,30 +2,20 @@
 {"title":"Input-Output-Prinzip","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/4-very-soon/input-output-prinzip/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Input-Output-Prinzip","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":null}}
 ---
 
+
 # Input-Output-Prinzip
 
 Wir geben bei ChatGPT einen Text ein – das ist der Input. Das Modell verarbeitet diesen Input und gibt uns als Output eine passende Antwort zurück.
 
-  
-
 Daraus folgt:
-
-  
 
 💡Der Output kann nur so gut sein, wie der Input
 
-  
-
 💡Die Antwort ist irrelevant, wenn man nicht die richtige Frage stellt
 
-  
+👉 **Die Kunst, die richtigen Fragen zu stellen nennt sich „Prompting“.** 
 
-👉 **Die Kunst, die richtigen Fragen zu stellen nennt sich “Prompting”.** 
-
-  
-
-Es ist die wichtigste Fähigkeit, die wir uns als KI-Magiers aneignen können - und darüber hinaus auch im “echten Leben” sehr wertvoll.
-
+Es ist die wichtigste Fähigkeit, die wir uns als KI-Magiers aneignen können - und darüber hinaus auch im „echten Leben“ sehr wertvoll.
 
 Das Grundprinzip hinter ChatGPT und anderen KI-Systemen ist im Kern ganz einfach - und orientiert sich an etwas, das wir alle ständig tun: Informationen aufnehmen, verarbeiten und darauf reagieren.
 
@@ -34,8 +24,6 @@ Das Grundprinzip hinter ChatGPT und anderen KI-Systemen ist im Kern ganz einfach
 - Wir Menschen nehmen Reize aus unserer Umwelt über unsere Sinnesorgane wahr (**Input** durch Sehen, Hören, usw.)
 - Unser Gehirn verarbeitet die Informationen: Es denkt nach, bewertet, erinnert und kombiniert (**Verarbeitung**)
 - Wir sagen oder tun etwas als Reaktion (**Output**)
-
-  
 
 **So funktionieren auch Computer im Allgemeinen:**
 

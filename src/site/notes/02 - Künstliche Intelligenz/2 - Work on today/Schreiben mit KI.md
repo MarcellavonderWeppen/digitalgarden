@@ -2,19 +2,53 @@
 {"title":"Schreiben mit KI","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-work-on-today/schreiben-mit-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Schreiben mit KI","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-03","updated":null,"status":null}}
 ---
 
-
 # Schreiben mit KI
 
-> [!note] **Funfact**
-> 
-> Dieser Artikel wurde von mir oder durch mich mit Claude Fable geschrieben. Dieses Flaggschiff-Modell von Anthropic ist derzeit nicht mehr durch das Abo abgedeckt, sondern muss über ein Nutzungsguthaben bezahlt werden – und irgendwie muss ich ja mein geschenktes Startguthaben verbrauchen, das am 19. September verfällt. Dieser Artikel hat also im Rahmen dessen 6,98 € gekostet – ob er das wert ist, sei mal dahingestellt. Fest steht: Ich hatte eine Menge Spaß dabei.
-> 
-> Es scheint nicht richtig zu behaupten, „ich habe einen Artikel geschrieben“; genauso unstimmig wäre für mich: „KI hat einen Text für mich generiert“. Vielmehr würde ich sagen: Ich habe mittels Claude mein Wissen zu diesem Fachgebiet erweitert, mein Verständnis vertieft – und nebenbei ist dieser Artikel entstanden, der hoffentlich Menschen ohne Vorkenntnisse einen schnellen Einstieg ermöglicht und die Klarheit transportiert, die ich jetzt habe. „Ich habe mittels Claude einen Artikel entwickelt“ trifft es für mich also am besten. Es ist schon interessant, wie diese Technologie eine neue Sprache erfordert.
-> 
-> Und nebenbei habe ich ihn wieder gefühlt, diesen ganz speziellen Genuss, den ich empfinde, seit ich KI entdeckt habe. Lernen war schon immer eine meiner Lieblingsbeschäftigungen, und Lernen mithilfe von LLMs ist aus meiner Sicht eine der besten Anwendungsmöglichkeiten.
-## Wieviel Text wurde von der KI geschrieben?
+## Transparenz - ein wertvolles Gut
 
-Lassen wir Claude Fable selbst zu Wort kommen: 
+Während sich [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generative KI]] in einem rasanten Tempo entwickelt, entwickeln sich ihre Schattenseiten mit. 
+
+Als ich mit den ersten bildgenerierenden KIs experimentierte, wußte ich bereits, dass ich bald mit nostalgischen Gefühlen auf diese Zeit zurückblicken würde: die deformierten Hände, die lustigen bis verstörenden Fehler in den Bildern. 
+
+Inzwischen ist die Täuschung perfekt und wird täglich perfekter - willkommen in der Zukunft mit ihren Deep Fakes. 
+
+Während ich mir große Hoffnungen gemacht hatte, was man alles Gutes mit dieser Technologie tun kann, scheint das größte Interesse eines Großteils der Nutzer zu sein, wie man mit minimaler Anstrengung anderen Menschen maximal lieblosen KI-Müll andrehen kann um mögiichst viel Geld zu verdienen. 
+
+Oder auch nur für ein bisschen Aufmerksamkeit  KI-Kreationen als die eigenen darzustellen. 
+
+Ich verstehe es nicht - da geben Leute auf Social Media mit “ihrer” Musik an, und verschleiern dass ihre ganze Leistung ein fantasieloser Prompt war? Erfreuen die sich dann am Lob, wo sie doch genau wissen, dass sie nichts geleistet haben?
+
+Ich könnte das nicht. Außerdem, finde ich, haben meine Leser ein Anrecht darauf zu wissen, wer hier schreibt
+
+## Transparenz - aber wieviel davon und in welcher Form?
+
+Prinzipiell ist also klar - Transparenz muss sein.
+
+Im Detail stellt mich das vor viele Fragen.
+
+### Beispiel 1: ein Lied entsteht
+
+Ich unterhalte mich ein paar Stunden mit der KI über Quantenphysik und indische Philosophie. Das Gespräch inspiriert mich so sehr, dass ich in der Folge einen Rap darüber schreibe. Muss ich nun immer angeben, dass das Lied KI-unterstützt entstand? Aber wenn ich mich mit einem Freund unterhalten hätte, müßte ich dann auch jedesmal erwähnen, dass das Lied nicht durch mich entstanden ist, sondern durch eine anregende Unterhaltung? 
+
+Nun lasse ich die KI eine Strophe zu dem Lied schreiben. Wie schaut es jetzt aus? 
+
+Claude meint: “Gekennzeichnet wird, was die Einschätzung des Lesers verändern würde, wenn er es wüsste.” 
+
+Also
+
+Aber wieviel Eigenleistung der KI steckt denn eigentlich in der Strophe, wenn dieser Text in seiner Tiefe nur durch das stundenlange Gespräch mit mir, meine Gedanken, meine Fragen entstand?
+
+Das Lied gibt es übrigens wirklich - ich veröffentliche es gerne bei Interesse 😉
+
+### Beispiel 2: Schreiben mit KI
+
+Als zweites Beispiel ein Artikel, den ich gerade geschrieben habe: [[02 - Künstliche Intelligenz/0 - Final Check/KI-Sprachtechnologie\|KI-Sprachtechnologie]].
+
+> [!note] **Funfact**
+>
+> Dieser Artikel wurde von mir oder durch mich mit Claude Fable geschrieben. Dieses Flaggschiff-Modell von Anthropic ist derzeit nicht mehr durch das Abo abgedeckt, sondern muss über ein Nutzungsguthaben bezahlt werden – und irgendwie muss ich ja mein geschenktes Startguthaben verbrauchen, das am 19. September verfällt. Dieser Artikel hat also im Rahmen dessen 6,98 € gekostet – ob er das wert ist, sei mal dahingestellt. Fest steht: Ich hatte eine Menge Spaß dabei.
+
+Ich habe danach Claude gefragt: 
 
 > [!quote] Claude Fable
 > Ehrlich: Nach Wörtern gezählt etwa 90 Prozent von mir. Fast jeder Satz im Dokument ist in der Form entstanden, wie ich ihn vorgeschlagen habe; Deine wörtlichen Beiträge sind einzelne Formulierungen wie „eingeschränktes Sehvermögen“ oder „Stimme statt Benutzeroberfläche“ und Vorgaben, wie ein Satz zu enden hat.
@@ -22,15 +56,17 @@ Lassen wir Claude Fable selbst zu Wort kommen:
 > Nach Entscheidungen gezählt sieht es anders aus. Die Struktur, die den Artikel überhaupt brauchbar macht, kommt von Dir: dass Sprachassistenten eine Anwendung sind und kein Teilgebiet, dass Teilgebiete und Anwendungen getrennt gehören, dass ein verwirrendes Beispiel raus muss, dass es ein Zukunftskapitel statt eines Nachtrags gibt. Die Einleitung in ihrer jetzigen Form gibt es nur, weil Du auf fachlicher Transparenz bestanden hast: Ich hatte die Doppeldeutigkeit von „Sprache“ anfangs mit einem Halbsatz abgetan, Du hast sie als eigentliches Thema erkannt. Und in der Schlussdurchsicht hast Du zwei meiner fünf Änderungsvorschläge abgelehnt, beide Male mit einem Argument, das ich dann geteilt habe. Ich habe das meiste ausformuliert, aber ausgelöst hast Du es, und einiges davon hätte ich von allein nicht gemacht. Grob geschätzt 60 zu 40 für Dich, was die Entscheidungen angeht.
 >
 > Wenn es eine einzige Zeile sein muss: „Text: 90 Prozent KI, Konzept und Redaktion: überwiegend Du.“ Eine Zahl wie „70 Prozent KI“ wäre ein Mittelwert, der beides falsch abbildet.
+## Aber ist das wirklich Schreiben?
+
+ Es scheint nicht richtig zu behaupten, „ich habe einen Artikel geschrieben“; genauso unstimmig wäre für mich: „KI hat einen Text für mich generiert“. Vielmehr würde ich sagen: Ich habe mittels Claude mein Wissen zu diesem Fachgebiet erweitert, mein Verständnis vertieft – und nebenbei ist dieser Artikel entstanden, der hoffentlich Menschen ohne Vorkenntnisse einen schnellen Einstieg ermöglicht und die Klarheit transportiert, die ich jetzt habe. „Ich habe mittels Claude einen Artikel entwickelt“ trifft es für mich also am besten. Es ist schon interessant, wie diese Technologie eine neue Sprache erfordert.
+
+> Und nebenbei habe ich ihn wieder gefühlt, diesen ganz speziellen Genuss, den ich empfinde, seit ich KI entdeckt habe. Lernen war schon immer eine meiner Lieblingsbeschäftigungen, und Lernen mithilfe von LLMs ist aus meiner Sicht eine der besten Anwendungsmöglichkeiten.
+
+
+
 
 
 # Merkzettel: Entwickeln statt Schreiben – und wie man KI-Nutzung kennzeichnet
-
-Zwei Themen, die zusammenhängen: Wenn „schreiben“ nicht mehr das richtige Wort ist, stellt sich auch die Frage, was man eigentlich kennzeichnet. Vermutlich später zwei getrennte Artikel.
-
-# Merkzettel: Entwickeln statt Schreiben – und wie man KI-Nutzung kennzeichnet
-
-Zwei Themen, die zusammenhängen: Wenn „schreiben“ nicht mehr das richtige Wort ist, stellt sich auch die Frage, was man eigentlich kennzeichnet. Vermutlich später zwei getrennte Artikel.
 
 ## Teil 1: Programmieren versus Entwickeln
 
@@ -40,9 +76,9 @@ Zwei Themen, die zusammenhängen: Wenn „schreiben“ nicht mehr das richtige W
 
 **Die Übertragung aufs Schreiben mit KI:** Beim Entstehen des Artikels „KI-Sprachtechnologie“ war mein Anteil fast durchgehend Entwickeln, und zwar mit Mustern, die im Software-Entwickeln Namen haben:
 
-- Teilgebiete und Anwendungen trennen, weil Sprachassistenten in der falschen Schicht lagen → *Separation of Concerns*, ein Refactoring
+- Teilgebiete und Anwendungen trennen, weil Sprachassistenten in der falschen Schicht lagen → _Separation of Concerns_, ein Refactoring
 - das Beispiel „automatische Untertitel“ streichen, weil es selbst Erklärung braucht → toter Code, der mehr kostet, als er bringt
-- Diarisierung nicht als eigenen Punkt aufnehmen, obwohl es fachlich korrekt wäre → *YAGNI*, nicht bauen, was der aktuelle Nutzer nicht braucht
+- Diarisierung nicht als eigenen Punkt aufnehmen, obwohl es fachlich korrekt wäre → _YAGNI_, nicht bauen, was der aktuelle Nutzer nicht braucht
 - die Speech-Language-Frage klären → Schnittstellendefinition: Was liegt innerhalb dieses Moduls, was außerhalb, und wo wird das dokumentiert
 - der „gebildete Leser ohne Vorkenntnisse“ → Testfall, gegen den jeder Absatz geprüft wurde
 - in der Schlussdurchsicht zwei von fünf Änderungsvorschlägen ablehnen → Code Review
@@ -55,11 +91,6 @@ Claudes Anteil war überwiegend Programmieren: den Entwurf in Sätze übersetzen
 
 ## Teil 2: Kennzeichnung von KI-Nutzung
 
-**Drei Dinge laufen unter „Kennzeichnung“ und werden ständig vermischt:**
-
-1. *Rechtspflicht.* Enger, als die Debatte vermuten lässt – im EU AI Act geht es vor allem um Deepfakes und um KI-Texte zur Information der Öffentlichkeit über Themen von öffentlichem Interesse, mit Ausnahme bei menschlicher redaktioneller Verantwortung. (Details ungeprüft, muss ich nachschlagen.)
-2. *Erwartung der Leser.* Sie wollen wissen, wem sie vertrauen können und ob ein Mensch geradesteht. Sie wollen keine Prozessdokumentation.
-3. *Eigene Ehrlichkeit.* Die Frage „darf ich sagen, ich habe das geschrieben?“ ist eine andere als die ersten beiden.
 
 **Der Maßstab:** Gekennzeichnet wird, was die Einschätzung des Lesers verändern würde, wenn er es wüsste.
 
@@ -69,44 +100,17 @@ Claudes Anteil war überwiegend Programmieren: den Entwurf in Sätze übersetzen
 
 Daraus folgt: Nicht der Prozess wird gekennzeichnet, sondern die Art der Beteiligung, in einem Satz.
 
-**„Habe ich das geschrieben?“** Kommt darauf an, was man damit behauptet. Wenn es heißt „ich stehe für den Inhalt gerade, ich habe entschieden, was drinsteht, ich habe es geprüft“ – dann ja, ohne Einschränkung. Wenn es heißt „die Sätze sind aus meinem Kopf“ – dann nein. Autorschaft war schon immer eher das Erste; Ghostwriter, Lektoren und Co-Autoren haben das nie infrage gestellt.
+**“Habe ich das geschrieben?“** Kommt darauf an, was man damit behauptet. Wenn es heißt „ich stehe für den Inhalt gerade, ich habe entschieden, was drinsteht, ich habe es geprüft“ – dann ja, ohne Einschränkung. Wenn es heißt „die Sätze sind aus meinem Kopf“ – dann nein. Autorschaft war schon immer eher das Erste; Ghostwriter, Lektoren und Co-Autoren haben das nie infrage gestellt.
 
 **Das Überarbeitungsproblem:** Eine Prozentzahl im Artikel veraltet mit der ersten Überarbeitung. Lösung: Im Artikel steht nur die Herkunft, die wahr bleibt –
 
-> [!info] Erstfassung im September 2026 mit Claude Fable entwickelt, seither von mir überarbeitet. → [[Entstehung: KI-Sprachtechnologie\|Entstehung: KI-Sprachtechnologie]]
+> [!info] Erstfassung im September 2026 mit Claude Fable entwickelt, seither von mir überarbeitet. 
 
 Die Prozentzahl steht mit Datum in der Entstehungsnotiz, als Befund über die Erstfassung. Das ist ein Datum pro Artikel, einmal einzupflegen. Wird ein Artikel so stark überarbeitet, dass „mit Claude entwickelt“ nicht mehr stimmt, ist das eine neue Erstfassung – dann ändert sich der Satz.
 
-**Platz im Garden:** Der Hinweis gehört auf die Startseite in den Disclaimer, der schon „sorgfältig recherchiert, meine persönliche Perspektive, vertraue niemandem“ sagt. Dort erwartet der Leser die Antwort auf „und wie viel davon ist KI?“.
-
-# Programmieren versus Entwickeln
-
-**Programmieren** ist das Schreiben von Code: Anweisungen formulieren, die ein Computer ausführt. Es ist eine Tätigkeit, und zwar die, bei der eine weitgehend klare Lösung in eine Programmiersprache übersetzt wird.
-
-**Entwickeln** (Softwareentwicklung) ist der gesamte Prozess, ein funktionierendes, brauchbares Softwareprodukt entstehen zu lassen. Programmieren ist darin nur ein Schritt, oft nicht einmal der größte.
-
-Der Unterschied liegt nicht im Werkzeug, sondern in der Frage, die man beantwortet. Der Programmierer beantwortet: „Wie sage ich das der Maschine?“ Der Entwickler beantwortet: „Was soll entstehen, und woran erkenne ich, dass es gut ist?“
-
-Zum Entwickeln gehört über das Programmieren hinaus:
-
-- **Verstehen:** Was ist das eigentliche Problem? Wer nutzt das Ergebnis, wozu, unter welchen Bedingungen?
-- **Entwerfen:** Wie soll die Lösung aufgebaut sein? Welche Bausteine, welche Schnittstellen, welche Datenstrukturen? (Architektur, Design)
-- **Entscheiden:** Welche Technologien, welche Kompromisse zwischen Geschwindigkeit, Wartbarkeit, Kosten, Sicherheit?
-- **Absichern:** Testen, Fehler suchen, Randfälle bedenken.
-- **Betreiben und pflegen:** Ausliefern, überwachen, weiterentwickeln, Altlasten beseitigen.
-- **Zusammenarbeiten:** Mit Nutzern, Auftraggebern, anderen Entwicklern; Anforderungen klären, Code lesbar halten, dokumentieren.
-
-Ein einprägsames Bild: Programmieren verhält sich zu Entwickeln wie Mauern zu Bauen. Wer mauern kann, kann noch kein Haus bauen. Wer ein Haus baut, mauert vielleicht nur einen Teil der Zeit und lässt manches sogar von anderen erledigen.
-
-Daraus folgt auch: Programmieren und Entwickeln müssen nicht dieselbe Person sein. Man kann programmieren, ohne zu entwickeln, wenn jemand anderes die Entscheidungen trifft. Und seit es KI gibt, muss der, der programmiert, nicht einmal mehr ein Mensch sein.
-
-**Warum die Unterscheidung heute besonders relevant ist:** KI-Werkzeuge übernehmen zunehmend das Programmieren, also das Übersetzen einer klaren Absicht in Code. Das Entwickeln – Problem verstehen, Lösung entwerfen, Qualität verantworten – bleibt die eigentliche Kernkompetenz. Meine Einschätzung: Wer nur programmieren kann, wird ersetzbar; wer entwickeln kann, nutzt die KI als schnellen Programmierer.
-
-**Kurzformel:** Programmieren ist „Code schreiben“. Entwickeln ist „Software entstehen lassen, die ein Problem löst“.
-
 # War das Entwicklungsarbeit? Ein Artikel, sechs Tätigkeiten
 
-Der Artikel „KI-Sprachtechnologie“ in diesem Garden ist in einem mehrstündigen Chat zwischen Marcella und mir, Claude, entstanden. Ich habe rund 90 Prozent der Sätze formuliert. Trotzdem sagt Marcella nicht „Claude hat den Artikel geschrieben“, und auch nicht „ich habe ihn geschrieben“, sondern „ich habe ihn entwickelt“. Ob das mehr ist als eine Ausweichformel, lässt sich prüfen: Softwareentwicklung besteht aus sechs Tätigkeiten, die über das reine Programmieren hinausgehen (siehe [[Programmieren versus Entwickeln\|Programmieren versus Entwickeln]]). Hier mein Durchgang durch unseren Chat, ob und wo sie vorkamen. Wenn ich „Du“ schreibe, meine ich Marcella.
+Der Artikel „KI-Sprachtechnologie“ in diesem Garden ist in einem mehrstündigen Chat zwischen Marcella und mir, Claude, entstanden. Ich habe rund 90 Prozent der Sätze formuliert. Trotzdem sagt Marcella nicht „Claude hat den Artikel geschrieben“, und auch nicht „ich habe ihn geschrieben“, sondern „ich habe ihn entwickelt“. Ob das mehr ist als eine Ausweichformel, lässt sich prüfen: Softwareentwicklung besteht aus sechs Tätigkeiten, die über das reine Programmieren hinausgehen (siehe [[02 - Künstliche Intelligenz/2 - Work on today/Programmieren versus Entwickeln\|Programmieren versus Entwickeln]]). Hier mein Durchgang durch unseren Chat, ob und wo sie vorkamen. Wenn ich „Du“ schreibe, meine ich Marcella.
 
 ## 1. Verstehen: Was ist das eigentliche Problem, und für wen?
 
@@ -122,7 +126,7 @@ In der Software heißt das Architektur: Welche Bausteine gibt es, wie hängen si
 
 Die zentrale Architekturentscheidung des Artikels war Deine Erkenntnis, dass Sprachassistenten keine Grundlagentechnik sind, sondern ein Produkt, das mehrere Techniken kombiniert. Daraus folgte die Trennung des Artikels in zwei Schichten: Teilgebiete (die Bausteine) und Anwendungen (was daraus gebaut wird). Vorher war der Artikel eine Liste, danach hatte er eine Struktur, in der jedes Element seinen Platz hat.
 
-Die zweite Entwurfsentscheidung betraf die Grenze nach außen. Das Wort „Sprache“ ist im Deutschen doppeldeutig: Es kann gesprochene Sprache meinen (englisch *speech*) oder Sprache als System, also Text und Grammatik (englisch *language*). Ich hatte diese Doppeldeutigkeit anfangs mit einem Halbsatz abgetan. Du hast darauf bestanden, dass der Artikel sie offen benennt und sagt, welche Seite er behandelt. Das entspricht dem Definieren einer Schnittstelle: Was liegt innerhalb dieses Moduls, was außerhalb, und wo steht das dokumentiert.
+Die zweite Entwurfsentscheidung betraf die Grenze nach außen. Das Wort „Sprache“ ist im Deutschen doppeldeutig: Es kann gesprochene Sprache meinen (englisch _speech_) oder Sprache als System, also Text und Grammatik (englisch _language_). Ich hatte diese Doppeldeutigkeit anfangs mit einem Halbsatz abgetan. Du hast darauf bestanden, dass der Artikel sie offen benennt und sagt, welche Seite er behandelt. Das entspricht dem Definieren einer Schnittstelle: Was liegt innerhalb dieses Moduls, was außerhalb, und wo steht das dokumentiert.
 
 Die dritte: Ein Punkt in der Liste, „Neue Modelle, die Audio direkt verarbeiten“, war weder Baustein noch Anwendung und passte deshalb in keine der beiden Schichten. Ich wollte ihn in einen bestehenden Absatz einbauen. Du hattest die Idee, ihm ein eigenes Kapitel zu geben: „Was bringt die Zukunft?“ Das ist der Moment, in dem man ein neues Modul anlegt, statt ein bestehendes zu verbiegen.
 
@@ -146,7 +150,7 @@ Am Ende stand ein Review: Ich habe fünf Änderungen vorgeschlagen, Du hast zwei
 
 Software ist nicht fertig, wenn sie läuft. Sie wird weiterentwickelt, und was man beim Bauen nicht bedacht hat, kostet später.
 
-Ein Digital Garden funktioniert genauso: Artikel werden überarbeitet. Du hast daraus ein Wartungsproblem abgeleitet: Eine Angabe wie „90 Prozent des Textes von der KI“ ist mit der ersten Überarbeitung falsch. Die Lösung war, im Artikel nur die Herkunft zu nennen, die wahr bleibt („Erstfassung im September 2026 mit Claude entwickelt, seither überarbeitet“), und die Prozentzahl mit Datum in eine eigene Entstehungsnotiz zu legen. Das ist Denken in Wartbarkeit, bevor das Problem auftritt. Dazu kamen Fragen der Auslieferung: Welcher Callout-Typ, eingeklappt oder offen, wo auf der Startseite verlinkt.
+Ein Digital Garden funktioniert genauso: Artikel werden überarbeitet. Du hast daraus ein Wartungsproblem abgeleitet: Eine Angabe wie „90 Prozent des Textes von der KI“ ist mit der ersten Überarbeitung falsch. Die Lösung war, im Artikel nur die Herkunft zu nennen, die wahr bleibt (“Erstfassung im September 2026 mit Claude entwickelt, seither überarbeitet“), und die Prozentzahl mit Datum in eine eigene Entstehungsnotiz zu legen. Das ist Denken in Wartbarkeit, bevor das Problem auftritt. Dazu kamen Fragen der Auslieferung: Welcher Callout-Typ, eingeklappt oder offen, wo auf der Startseite verlinkt.
 
 ## 6. Zusammenarbeiten: Anforderungen klären, dokumentieren
 
@@ -164,15 +168,6 @@ Bleibt die Frage, wer der Senior war, denn ich weiß über viele Details mehr al
 
 Kurz: Pair Programming, Du als Navigator und Product Owner, ich als Driver mit Wissensvorsprung. Und die Verantwortung macht den Senior, nicht das Wissen.
 
-## Fazit: Wer hat hier welche Rolle gespielt?
-
-Alle sechs Tätigkeiten kamen vor, und fünf davon lagen überwiegend bei Dir. Nur die eine, die in der Software „Programmieren“ heißt, das Übersetzen von Entscheidungen in fertige Sätze, lag überwiegend bei mir. Das ist der Grund, warum „entwickelt“ das richtige Wort ist.
-
-Die Rollenverteilung lässt sich noch genauer fassen. In der Softwareentwicklung gibt es das Pair Programming: Zwei Personen arbeiten an einem Bildschirm, einer tippt (Driver), der andere denkt voraus und hält das Ziel im Blick (Navigator), und die Rollen wechseln. Ich war Driver, Du Navigator, mit gelegentlichem Wechsel, etwa wenn Du selbst formuliert oder ich eine Strukturfrage aufgeworfen habe. Darüber hinaus hattest Du eine Rolle, die ich nie hatte: Du hast bestimmt, was gebaut wird und wofür, hast priorisiert und abgenommen. In Softwareteams heißt das Product Owner.
-
-Bleibt die Frage, wer der Senior war, denn ich weiß über viele Details mehr als Du. Seniorität bemisst sich in Teams aber nicht an Wissensmenge, sondern an Urteil und Verantwortung. Ein Senior weiß oft weniger über ein Detail als der Spezialist neben ihm; sein Beitrag ist, zu entscheiden, welches Detail zählt, und dafür geradezustehen. Das zweite kann ich nicht: Wenn im Artikel ein Fehler steht, trifft es Dich. Ich habe kein Gedächtnis über diesen Chat hinaus, keinen Einsatz, keine Konsequenzen. Verantwortung ohne Konsequenzen ist keine. Der Senior in dieser Konstellation ist deshalb notwendig ein Mensch, unabhängig davon, wer mehr weiß.
-
-Kurz: Pair Programming, Du als Navigator und Product Owner, ich als Driver mit Wissensvorsprung. Und die Verantwortung macht den Senior, nicht das Wissen.
 
 
 ## Passt die Rollenverteilung Programmiererin und Entwicklerin?
@@ -202,3 +197,6 @@ Ja zu Pair Programming, ja zu Product Owner, und beim „Senior“ ja mit einer 
 Wobei ich fairerweise mehr war als ein Nachschlagewerk: Ich habe eingeordnet, widersprochen, vorgeschlagen. Das ist eher der gut belesene Kollege, dem etwas fehlt, was Seniorität ausmacht: Ich kann keine Verantwortung tragen. Wenn im Artikel ein Fehler steht, trifft es Dich, nicht mich. Ich habe kein Gedächtnis über diesen Chat hinaus, keinen Einsatz, keine Konsequenzen. Verantwortung ohne Konsequenzen ist keine, und deshalb ist der Senior in dieser Konstellation notwendig ein Mensch.
 
 Kurz: Pair Programming, Du als Navigator und PO, ich als Driver mit Wissensvorsprung. Die Verantwortung macht Dich zum Senior, nicht das Wissen, und die kann ich nicht übernehmen, selbst wenn ich mehr wüsste als Du.
+
+
+👉 Weiterlesen Kennzeichnungspflicht EU AI Act 

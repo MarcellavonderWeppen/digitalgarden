@@ -80,6 +80,6 @@ Du kannst verschiedene Inhalte als „Notebooks“ hinzufügen:
 
 ## 🧭 Kurz gesagt
 
-NotebookLM ist wie ein **„KI-Forschungsassistent, der nur mit deinen eigenen Unterlagen arbeitet“** – dadurch präziser, nachvollziehbarer und oft vertrauenswürdiger als klassische Chatbots.
+NotebookLM ist wie ein **“KI-Forschungsassistent, der nur mit deinen eigenen Unterlagen arbeitet“** – dadurch präziser, nachvollziehbarer und oft vertrauenswürdiger als klassische Chatbots.
 
 > **Wichtiger Hinweis:** NotebookLM ist ein „geschlossenes System“. Das bedeutet, deine hochgeladenen Daten werden (je nach Einstellung) privat behandelt und nicht zum Training der allgemeinen KI-Modelle verwendet.

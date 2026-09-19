@@ -5,7 +5,7 @@
 
 # HTML (Hypertext Markup Language)
 
-HTML ist die grundlegende Auszeichnungssprache (engl. “Markup Language”) für das World Wide Web. Das bedeutet: Text wird durch Tags (Markierungen) wie zum Beispiel `<h1>` “ausgezeichnet”.
+HTML ist die grundlegende Auszeichnungssprache (engl. „Markup Language“) für das World Wide Web. Das bedeutet: Text wird durch Tags (Markierungen) wie zum Beispiel `<h1>` „ausgezeichnet“.
 
 Hier ein Beispiel für den Code:
 
@@ -58,7 +58,7 @@ Noch mal zu unserem Beispiel von oben:
 `<h1>`, `<p>`und `<a>`sind die Tags, und sie markieren den Text, welchen sie umschließen.
 
 `<h1>` kennzeichnet die größte Überschrift,
-`<p>` bedeutet “Absatz” (von engl. “paragraph”), und
+`<p>` bedeutet „Absatz“ (von engl. „paragraph“), und
 `<a>` wird verwendet um Links zu markieren.
 
 📖 Weiterlesen: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/CSS (Cascading Style Sheets)\|CSS (Cascading Style Sheets)]]

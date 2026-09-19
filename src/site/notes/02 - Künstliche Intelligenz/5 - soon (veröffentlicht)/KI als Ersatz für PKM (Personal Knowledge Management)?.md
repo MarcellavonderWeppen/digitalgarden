@@ -25,21 +25,21 @@ Obsidian wird aufgrund der rasanten Entwicklung im Bereich der KI immer wieder f
 - **Zweck:** Synthese von Wissen und Teamarbeit
 - **Besonderheit:** Es liest über alle bereitgestellten Dokumente hinweg und erkennt Zusammenhänge über den gesamten Verlauf. Mit der „Publish“-Funktion lassen sich private Gedanken sofort in eine öffentliche Webseite für Teams umwandeln
 
-❌ Ab 39$, keine kostenlose Basisversion und hoher [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Vendor-Lock-in\|Vendor-Lock-in]]? Ähm, Nö. Keine Empfehlung (siehe dazu auch unten - "Die KI-Tools noch mal im Überblick")
+❌ Ab 39$, keine kostenlose Basisversion und hoher [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Vendor-Lock-in\|Vendor-Lock-in]]? Ähm, Nö. Keine Empfehlung (siehe dazu auch unten - „Die KI-Tools noch mal im Überblick")
 
 ### 3. Mem.ai
 
 - **Zweck:** Ersatz für Notion, Fokus auf Gedankenfluss
 - **Besonderheit:** Es gibt keine Ordner oder manuellen Tags. Man schreibt einfach „unordentliche“ Gedanken auf, und die KI verlinkt Ideen automatisch. Es hilft dabei, Muster in Notizen zu erkennen, ohne dass man selbst zum „Bibliothekar“ werden muss
 
-❌ Ein App, wo ich alle meine Notizen, Links, Dokumente reinwerfen kann und sie organisiert das dann für mich? Klingt verlockend. Bei näherer Betrachtung: Nein, lieber nicht. (siehe auch weiter unten, "räumliches Gedächtnis", "Die KI-Tools noch mal im Überblick")
+❌ Ein App, wo ich alle meine Notizen, Links, Dokumente reinwerfen kann und sie organisiert das dann für mich? Klingt verlockend. Bei näherer Betrachtung: Nein, lieber nicht. (siehe auch weiter unten, „räumliches Gedächtnis", „Die KI-Tools noch mal im Überblick")
 
 ### 4. Reflect
 
 - **Zweck:** Die KI-Alternative zu Obsidian
 - **Besonderheit:** Es bietet die Vorteile von Obsidian (Backlinks, Graphen), aber ohne den Aufwand für Plugins oder Systemwartung . Es nutzt eine KI-Suche, die echtes Verständnis zeigt, anstatt nur nach Keywords zu suchen.
 
-🤓 **Meine Gedanken dazu**: Diese Firma scheint vieles richtig zu machen (s.u. "Die KI-Tools noch mal im Überblick"). Vermutlich eine gute Alternative für Menschen, die den Aufwand eines mächtigen Monsters wie Obsidian scheuen.
+🤓 **Meine Gedanken dazu**: Diese Firma scheint vieles richtig zu machen (s.u. „Die KI-Tools noch mal im Überblick"). Vermutlich eine gute Alternative für Menschen, die den Aufwand eines mächtigen Monsters wie Obsidian scheuen.
 
 ### 5. Der ChatGPT Productivity Stack
 
@@ -62,11 +62,11 @@ Menschen sind zum Glück da sehr wach, und folgen nicht blind der KI-Lemming-Wan
 
 ## Kritik aus der Community
 
-### 1. Kognitiver Verfall & "NPC-Dasein"
+### 1. Kognitiver Verfall & „NPC-Dasein"
 
 Dies ist der am häufigsten genannte Punkt. Viele Zuschauer argumentieren, dass der eigentliche Wert von Notion oder Obsidian nicht in der Ablage von Daten liegt, sondern im **Prozess des Selbermachens**.
 
-- **Lerneffekt geht verloren:** Das Strukturieren, Verlinken und Schreiben von Hand (oder manuellem Tippen) sorgt dafür, dass das Gehirn Informationen verarbeitet. Wer alles an die KI auslagert, wird zum "NPC" (Non-Player-Character) im eigenen Leben.
+- **Lerneffekt geht verloren:** Das Strukturieren, Verlinken und Schreiben von Hand (oder manuellem Tippen) sorgt dafür, dass das Gehirn Informationen verarbeitet. Wer alles an die KI auslagert, wird zum „NPC“ (Non-Player-Character) im eigenen Leben.
 - **Kreativität vs. Effizienz:** Kritiker betonen, dass neue Ideen oft durch Reibung und das langsame Durchforsten von Notizen entstehen. KI optimiert auf Output, aber nicht auf tiefe Einsicht.
 
 ### 2. Datenschutz & Privatsphäre
@@ -76,20 +76,20 @@ Ein riesiges Thema in den Kommentaren ist die Sicherheit persönlicher Daten.
 - **[[Lokal vs Cloud\|Lokal vs Cloud]]:** Während Obsidian die Daten lokal auf dem eigenen Rechner speichert, laden die vorgestellten KI-Tools alles in die Cloud hoch. Die Nutzer haben Angst, dass ihre intimsten Gedanken und Geschäftsgeheimnisse zum Training von KI-Modellen verwendet werden oder bei Firmenpleiten verschwinden.
 - **"File over App":** Viele folgen dem Prinzip, dass Notizen in einfachen Textdateien ([[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Markdown\|Markdown]]) vorliegen sollten, damit sie auch in 20 Jahren noch ohne Abo lesbar sind.
 
-📎 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Clippy\|Clippy]] sagt dazu: "Good luck getting back to your knowledge collection in 5 years!"
+📎 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Clippy\|Clippy]] sagt dazu: „Good luck getting back to your knowledge collection in 5 years!"
 
 ![Clippy.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Clippy.png)
 
-### 3. Kosten & "Abo-Dschungel"
+### 3. Kosten & „Abo-Dschungel"
 
 Die Zuschauer werfen Evan vor, eine kostenlose oder günstige Lösung (wie Obsidian) durch einen teuren Stack aus mehreren Abos ersetzen zu wollen.
 
-- Jedes der vorgestellten Tools (Mem, Reflect, ChatGPT etc.) kostet monatliche Gebühren. Ein "Stack" aus diesen Tools wäre für den Durchschnittsnutzer schlicht zu teuer.
+- Jedes der vorgestellten Tools (Mem, Reflect, ChatGPT etc.) kostet monatliche Gebühren. Ein „Stack“ aus diesen Tools wäre für den Durchschnittsnutzer schlicht zu teuer.
 - **Sponsoring-Verdacht:** Viele Kommentare unterstellen dem Creator, dass das Video weniger eine echte Empfehlung als vielmehr eine bezahlte Werbesendung für Affiliate-Links ist.
 
 ### 4. Die Verlässlichkeit der KI
 
-- **KI-Halluzinationen:** Ein Nutzer merkt an, dass es "gefährlich" sei, der KI blind zu vertrauen, da sie Fakten erfinden kann ("AI Slop"). In einem persönlichen Wissenssystem sei Korrektheit jedoch oberstes Gebot.
+- **KI-Halluzinationen:** Ein Nutzer merkt an, dass es „gefährlich“ sei, der KI blind zu vertrauen, da sie Fakten erfinden kann ("AI Slop"). In einem persönlichen Wissenssystem sei Korrektheit jedoch oberstes Gebot.
 - **Kurzlebigkeit:** Erfahrene IT-Nutzer weisen darauf hin, dass viele dieser neuen KI-Startups in wenigen Jahren wieder vom Markt verschwinden könnten, während die eigenen Notizen in Obsidian sicher verwahrt bleiben.
 
 **Zusammenfassendes Zitat aus den Kommentaren:**
@@ -104,7 +104,7 @@ Die Debatte „KI vs. klassisches [[02 - Künstliche Intelligenz/5 - soon (verö
 
 Während eine KI wie ein unendlich großes Lexikon ist, in dem man alles nachschlagen kann, fungiert ein Tool wie Obsidian eher wie ein **Training für das Gehirn**. Die räumliche Komponente spielt dabei die entscheidende Rolle.
 
-### 1. Der "Memory Palace"-Effekt (Loci-Methode)
+### 1. Der „Memory Palace"-Effekt (Loci-Methode)
 
 Das menschliche Gehirn ist evolutionär darauf spezialisiert, sich Orte und räumliche Beziehungen besser zu merken als abstrakte Fakten.
 
@@ -159,11 +159,11 @@ KI liefert die Bausteine, während die räumliche Organisation in Tools wie Obsi
 | **4. Reflect**       | 🟢              | ab 15$                               | 🟢 Gering bis Mittel |
 | **5. ChatGPT Stack** | 🔴              | ab 8€ \| kostenlose Basisversion ✅  | 🔴 Extrem hoch       |
 
-Hinweis: Alle diese Tools laufen in der [[02 - Künstliche Intelligenz/4 - very soon/Cloud vs lokal\|Cloud]]. Selbst das "Grün" für Reflect ist also relativ.
+Hinweis: Alle diese Tools laufen in der [[02 - Künstliche Intelligenz/4 - very soon/Cloud vs lokal\|Cloud]]. Selbst das „Grün“ für Reflect ist also relativ.
 
 Der Grund, warum **Reflect** als einziges die Bestbewertung 🟢 erhält, lässt sich in einem technischen Begriff zusammenfassen: **Ende-zu-Ende-Verschlüsselung (E2EE)**.
 
-Bei NotebookLM, Mem.ai oder HighNote liegen deine Daten verschlüsselt auf deren Servern, aber der Anbieter besitzt den "Generalschlüssel", um sie für die KI-Verarbeitung aufzusperren.**Bei Reflect** werden Notizen direkt auf dem Gerät verschlüsselt, _bevor_ sie ins Internet gehen. Nur du besitzt den Schlüssel. Das bedeutet: Selbst wenn Hacker die Server von Reflect stürmen oder eine Regierung die Herausgabe deiner Daten verlangt, sieht Reflect nur unlesbaren Zeichensalat. **Sie können deine Notizen technisch nicht lesen.**
+Bei NotebookLM, Mem.ai oder HighNote liegen deine Daten verschlüsselt auf deren Servern, aber der Anbieter besitzt den „Generalschlüssel", um sie für die KI-Verarbeitung aufzusperren.**Bei Reflect** werden Notizen direkt auf dem Gerät verschlüsselt, _bevor_ sie ins Internet gehen. Nur du besitzt den Schlüssel. Das bedeutet: Selbst wenn Hacker die Server von Reflect stürmen oder eine Regierung die Herausgabe deiner Daten verlangt, sieht Reflect nur unlesbaren Zeichensalat. **Sie können deine Notizen technisch nicht lesen.**
 
 ### 1. NotebookLM (Google)
 
@@ -174,13 +174,13 @@ Bei NotebookLM, Mem.ai oder HighNote liegen deine Daten verschlüsselt auf deren
 ### 2. HighNote AI
 
 - **Datenschutz:** Standard-Verschlüsselung (Transit & Rest). Die Privacy Policy ist eher klassisch auf Cloud-Betrieb ausgelegt (Daten werden für den Service-Betrieb verarbeitet). Weniger Fokus auf Anonymität als bei spezialisierten Tools.
-- **Kosten:** Meist Freemium; volle Team-Features und "Publish"-Funktionen kosten oft zwischen **15 und25 / Monat**.
+- **Kosten:** Meist Freemium; volle Team-Features und „Publish"-Funktionen kosten oft zwischen **15 und25 / Monat**.
 - **Lock-in-Effekt:** **Hoch**. Besonders wenn man die „Publish“-Funktion nutzt, um Wissen für Teams bereitzustellen, wird HighNote zum zentralen Hub, den man schwer durch ein simples Datei-Backup ersetzen kann.
 
 ### 3. Mem.ai
 
 - **Datenschutz:** SOC 2 Type II zertifiziert. Daten werden verschlüsselt, aber zur Verarbeitung an KI-Partner (wie OpenAI) gesendet. Mem betont, dass Daten von Individual-Usern nicht für das Training von Basis-Modellen Dritter genutzt werden.
-- **Kosten:** Kostenlose Basisversion; "Mem Personal" ca. **10–15 $ / Monat**.
+- **Kosten:** Kostenlose Basisversion; „Mem Personal“ ca. **10–15 $ / Monat**.
 - **Lock-in-Effekt:** **Sehr hoch**. Da Mem auf eine manuelle Ordnerstruktur verzichtet und die Organisation der KI überlässt, ist ein Export zu einem Tool wie Obsidian (das auf Ordnern basiert) extrem mühsam, da die KI-generierte Struktur verloren geht.
 
 ### 4. Reflect

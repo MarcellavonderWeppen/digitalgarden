@@ -2,31 +2,33 @@
 {"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär","Closed Source"],"tags":null,"gen_ai_anteil":["div. LLMs 60%"],"created":"2026-05-17","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/5-soon-veroeffentlicht/open-source-vs-proprietaer/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Open Source vs Proprietär","aliases":["Open Source","proprietär","Closed Source"],"tags":null,"gen_ai_anteil":["div. LLMs 60%"],"created":"2026-05-17","updated":"2026-05-17","status":null}}
 ---
 
+
 # Open Source vs. proprietärer Code
 
 Im Folgenden möchte ich erst die Begriffe erklären und dann zeigen, warum ich überzeugter Anhänger von Open Source bin.
+
 ## Open Source
 
 Open Source bedeutet, dass der Quellcode einer Anwendung öffentlich einsehbar ist. Im Allgemeinen wird dieser Code kostenlos der Allgemeinheit zur Verfügung gestellt und ist damit ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Common Good (Gemeingut)\|Common Good]]. Ein solches Gemeingut wird von Einzelpersonen oder Teams gepflegt, aber jeder kann Vorschläge zur Verbesserung einreichen. Das hat auch den Vorteil, dass Fehler schneller entdeckt und Sicherheitslücken behoben werden können.
 
-## Closed Source 
+## Closed Source
 
 … bezieht sich im Gegensatz dazu darauf, dass der Quellcode einer Anwendung **nicht öffentlich zugänglich** ist. Die Software selbst kann gelegentlich kostenlos, meistens gegen Gebühr genutzt werden, der Code jedoch bleibt immer geheim.
 
 ## Was ist proprietär?
 
-**Proprietär** geht einen Schritt weiter: Hier gehört die Software  einer Firma oder Organisation. Sie darf in der Regel **nur unter bestimmten Lizenzen** (meist kostenpflichtig) genutzt werden. 
+**Proprietär** geht einen Schritt weiter: Hier gehört die Software einer Firma oder Organisation. Sie darf in der Regel **nur unter bestimmten Lizenzen** (meist kostenpflichtig) genutzt werden.
 
 Fast alle proprietären Programme sind Closed-Source. Allerdings muss Closed-Source-Software nicht zwingend proprietär sein. Ein Beispiel wäre eine Firmen-interne Software, die zwar nicht öffentlich ist, aber kostenlos genutzt werden darf.
 
-> [!info] Zur Wortherkunft 
->  ☝️🤓 Das Wort kommt aus dem Lateinischen:
-> *proprius* = eigen, eigenständig; etwas, das jemandem persönlich gehört oder eigen ist.
-> Proprietär bedeutet also: Privateigentum der Firma. 
-> 
-> "Privat" kommt übrigens von lat. *privare* und bedeutet
-> „berauben", „entbehren lassen" oder „etwas wegnehmen". Es
-> leitet sich vom Adjektiv privus ab, das „einzeln" oder „allein"
+> [!info] Zur Wortherkunft
+> ☝️🤓 Das Wort kommt aus dem Lateinischen:
+> _proprius_ = eigen, eigenständig; etwas, das jemandem persönlich gehört oder eigen ist.
+> Proprietär bedeutet also: Privateigentum der Firma.
+>
+> „Privat“ kommt übrigens von lat. _privare_ und bedeutet
+> „berauben", „entbehren lassen“ oder „etwas wegnehmen". Es
+> leitet sich vom Adjektiv privus ab, das „einzeln“ oder „allein"
 > bedeutet, und steht im Kontrast zu publicus (öffentlich).
 
 ## Ist Open Source oder proprietäre Software besser?
@@ -75,7 +77,7 @@ _Ich bin nicht allein mit dieser Haltung: **Viele Menschen in der digitalen Zivi
 _Sie glauben wie ich daran, dass **Offenheit, Teilhabe und kollektive Verantwortung** eine starke Grundlage für digitale Sicherheit und Vertrauen bilden._
 
 > [!info] Fun-Fact
-> “Mein” Plädoyer oben wurde übrigens von ChatGPT verfasst 😂 Obwohl ich Schreiben liebe und meine Texte am liebsten selber verfasse, finde ich KI manchmal sehr hilfreich um meinen eigenen Standpunkt klarer herauszuarbeiten - dort wo mir Worte (noch) fehlen. Auch hier gilt: Die KI kann Dir nichts geben, was Du nicht bereits schon in Dir trägst. Aber sie kann Lern- und Denkprozesse beschleunigen. KI sollte stets dazu dienen, tiefer zu denken und zu arbeiten, nicht das Denken abzugeben.
+> „Mein“ Plädoyer oben wurde übrigens von ChatGPT verfasst 😂 Obwohl ich Schreiben liebe und meine Texte am liebsten selber verfasse, finde ich KI manchmal sehr hilfreich um meinen eigenen Standpunkt klarer herauszuarbeiten - dort wo mir Worte (noch) fehlen. Auch hier gilt: Die KI kann Dir nichts geben, was Du nicht bereits schon in Dir trägst. Aber sie kann Lern- und Denkprozesse beschleunigen. KI sollte stets dazu dienen, tiefer zu denken und zu arbeiten, nicht das Denken abzugeben.
 
 ## Weiterstöbern
 

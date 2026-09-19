@@ -2,6 +2,7 @@
 {"title":"Statistische KI","aliases":["statistische KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 40%"],"created":"2026-04-07","updated":"2026-09-18","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/erkunden/grundlagen-ki/statistische-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Statistische KI","aliases":["statistische KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 40%"],"created":"2026-04-07","updated":"2026-09-18","status":null}}
 ---
 
+
 # Statistische KI
 
 > [!info] Synonyme und verwandte Begriffe: 
@@ -11,11 +12,11 @@
 
 Die **statistische KI** begegnet uns heute überall – in der Sprachverarbeitung, der Bilderkennung, hinter Empfehlungssystemen.
 
-Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichkeit, Statistik und Datenanalyse** basieren – im Gegensatz zur [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI\|klassischen KI]].
+Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichkeit, Statistik und Datenanalyse** basieren – im Gegensatz zur [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI\|klassischen KI]].
 
 - Systeme lernen aus **Daten statt aus festen Regeln**
 - Modelle erkennen **Muster, Korrelationen und Wahrscheinlichkeiten**
-- Entscheidungen werden nicht nach strikter Logik, sondern nach Wahrscheinlichkeiten getroffen.
+- Entscheidungen werden nicht nach strikter Logik, sondern nach Wahrscheinlichkeiten getroffen
 
 ## Entstehung
 
@@ -27,23 +28,23 @@ Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichke
 
 ## Warum überhaupt ein neues [[Paradigma\|Paradigma]]?
 
-Die klassische KI hat eine Grundvoraussetzung: Jemand muss das notwendige Wissen als konkrete Regeln ausformulieren. Das gelingt jedoch nicht immer. Menschen erkennen Gesichter, verstehen Sprache und deuten Tonfall, aber sie können nicht sagen, wie. Das Wissen ist da, nur nicht in einer Form, die sich in Regeln übersetzen ließe. Die Expertensysteme der 1980er Jahre scheiterten genau daran: Selbst dort, wo Fachleute ihr Wissen zu Papier brachten, blieben die Regelwerke lückenhaft und versagten bei allem, was nicht abgedeckt war. 
+Die klassische KI hat eine Grundvoraussetzung: Jemand muss das notwendige Wissen als konkrete Regeln ausformulieren. Das gelingt jedoch nicht immer. Menschen erkennen Gesichter, verstehen Sprache und deuten Tonfall, aber sie können nicht sagen, wie. Das Wissen ist da, nur nicht in einer Form, die sich in Regeln übersetzen ließe. Die Expertensysteme der 1980er Jahre scheiterten genau daran: Selbst dort, wo Fachleute ihr Wissen zu Papier brachten, blieben die Regelwerke lückenhaft und versagten bei allem, was nicht abgedeckt war.
 
-Die statistische KI dreht das Vorgehen um: Statt dass ein Mensch die Regeln vorgibt, bekommt das System Beispiele und findet Muster in riesigen Datenmengen. 
+Die statistische KI dreht das Vorgehen um: Statt dass ein Mensch die Regeln vorgibt, bekommt das System Beispiele und findet Muster in riesigen Datenmengen.
 
 ## Voraussetzungen
 
 Die datengetriebene KI konnte ihren Siegeszug keinen Augenblick früher antreten, denn ermöglicht wurde ihr immenser Fortschritt erst durch:
 
--  Verfügbarkeit großer Datenmengen („**Big Data**“)
+- Verfügbarkeit großer Datenmengen („**Big Data**“)
 - Rechenleistung, um diese Datenmengen verarbeiten zu können („**Compute**“)
-- **[[02 - Künstliche Intelligenz/4 - very soon/Algorithmus\|Algorithmen]]** und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen.
+- **[[02 - Künstliche Intelligenz/2 - Work on today/Algorithmus\|Algorithmen]]** und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen
 
 ![3 Voraussetzungen für statistische KI.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/3%20Voraussetzungen%20f%C3%BCr%20statistische%20KI.png)
 
 ## Hat die statistische KI die klassische verdrängt?
 
-Nein – heutige Anwendungen kombinieren häufig beides: 
+Nein – heutige Anwendungen kombinieren häufig beides:
 
 - **statistisch**: das Sprachmodell versteht Anfragen und formuliert Antworten
 - **klassisch**: regelbasierte Komponenten rechnen, ziehen logische Schlüsse und schlagen Wissen nach
@@ -52,9 +53,7 @@ Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code 
 
 ## 📖 Weiterlesen
 
-- [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
+- [[02 - Künstliche Intelligenz/0 - Final Check/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
 - Woran erkennt man einen Hund oder eine Katze? Ein niedliches [[02 - Künstliche Intelligenz/0 - Final Check/Hund oder Katze? Das Experiment\|Experiment]]
 - Die praktische Umsetzung von statistischer KI: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]] und seine Unterform [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
-- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/3 - Work on tomorrow/GenAI\|GenAI]]
-
-
+- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/0 - Final Check/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|GenAI]]

@@ -53,7 +53,7 @@ Features: 📺 [The Excalidraw-Obsidian Showcase: 57 key features in just 17 min
 
 Hier ein Beispiel wie so eine Skizze aussehen kann (geleakter Geheimplan, bitte nicht weitersagen 🤫):
 
-![Cats & Dragons Game Level 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Excalidraw/Cats%20&%20Dragons%20Game%20Level%201.png)
+![Cats & Dragons Game Level 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/7%20-%20nicht%20ver%C3%B6ffentlichen/Excalidraw/Cats%20&%20Dragons%20Game%20Level%201.png)
 
 Und zum Vergleich noch, wie ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]] aussehen kann: [[02 - Künstliche Intelligenz/4 - very soon/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]] 👉 Der Unterschied dürfte klar werden!
 ## Kostenlos + abendfüllend 🐇

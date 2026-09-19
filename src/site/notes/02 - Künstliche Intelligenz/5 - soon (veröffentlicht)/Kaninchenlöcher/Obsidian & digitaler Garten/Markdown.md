@@ -12,19 +12,19 @@ Es ist eine nützliche kleine Fähigkeit, die Du in einer Stunde oder weniger le
 Meine ganze Wissensbasis hier auf [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] beruht auf Markdown.
 
 > [!info] Markup Language
-> Wir haben es hier mit einer “leichten Auszeichnungssprache” zu tun - auch bekannt unter der englischen Bezeichnung: “leight-weight markup language”.
+> Wir haben es hier mit einer „leichten Auszeichnungssprache“ zu tun - auch bekannt unter der englischen Bezeichnung: „leight-weight markup language“.
 
 ## Auszeichnungssprache bedeutet,
 
 … dass Du damit Texte formatieren kannst.
 
-Um zum Beispiel einen Text als große Überschrift zu formatieren, wird er mit einer Raute `#` “ausgezeichnet” oder “markiert”:
+Um zum Beispiel einen Text als große Überschrift zu formatieren, wird er mit einer Raute `#` „ausgezeichnet“ oder „markiert“:
 
 `# Ich bin eine große Überschrift`
 
 Betrachten wir einfach mal diese Notiz hier. Du siehst oben formatierten Text mit Überschriften in verschiedenen Größen und einen Link.
 
-Aber “hinter den Kulissen” schaut das Ganze so aus:
+Aber „hinter den Kulissen“ schaut das Ganze so aus:
 
 ```Markdown
 
@@ -37,13 +37,13 @@ Es ist eine nützliche kleine Fähigkeit, die Du in einer Stunde oder weniger le
 Meine ganze Wissensbasis hier auf [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] beruht auf Markdown.
 
 > [!info]  Markup Language
-> Wir haben es hier mit einer “leichten Auszeichnungssprache” zu tun - auch bekannt unter der englischen Bezeichnung: “leight-weight markup language”.
+> Wir haben es hier mit einer „leichten Auszeichnungssprache“ zu tun - auch bekannt unter der englischen Bezeichnung: „leight-weight markup language“.
 
 ## Auszeichnungssprache bedeutet,
 
 … dass Du damit Texte formatieren kannst.
 
-Um zum Beispiel einen Text als große Überschrift zu formatieren, wird er mit einer Raute `#` “ausgezeichnet” oder “markiert”:
+Um zum Beispiel einen Text als große Überschrift zu formatieren, wird er mit einer Raute `#` „ausgezeichnet“ oder „markiert“:
 
 `# Ich bin eine große Überschrift`
 
@@ -54,7 +54,7 @@ Im Grunde haben wir es mit einer speziellen Form von Text-Datei zu tun, welche s
 
 Man erkennt Markdown-Dateien an der Endung `md.`
 
-## “Leichtgewichtig”
+## „Leichtgewichtig“
 
 In diesem Kontext bedeutet „leicht", dass Markdown auf einer minimalen Syntax basiert.
 
@@ -73,25 +73,25 @@ So würde unser Beispieltext in HTML aussehen:
 
 <aside class="info-callout">
     <strong>Markup Language</strong>
-    <p>Wir haben es hier mit einer “leichten Auszeichnungssprache” zu tun - auch bekannt unter der englischen Bezeichnung: “light-weight markup language”.</p>
+    <p>Wir haben es hier mit einer „leichten Auszeichnungssprache“ zu tun - auch bekannt unter der englischen Bezeichnung: „light-weight markup language“.</p>
 </aside>
 
 <h2>Auszeichnungssprache bedeutet,</h2>
 
 <p>… dass Du damit Texte formatieren kannst.</p>
 
-<p>Um zum Beispiel einen Text als große Überschrift zu formatieren, wird er mit einer Raute <code>#</code> “ausgezeichnet” oder “markiert”:</p>
+<p>Um zum Beispiel einen Text als große Überschrift zu formatieren, wird er mit einer Raute <code>#</code> „ausgezeichnet“ oder „markiert“:</p>
 
 <pre><code># Ich bin eine große Überschrift</code></pre>
 
 <p>Betrachten wir einfach mal diese Notiz hier. Du siehst oben formatierten Text mit Überschriften in verschiedenen Größen und einen Link.</p>
 ```
 
-Man sieht: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/HTML (Hypertext Markup Language)\|HTML]] lässt sich immer noch lesen, erfordert aber schon mehr Kenntnisse und enthält mehr “Ballast”.
+Man sieht: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/HTML (Hypertext Markup Language)\|HTML]] lässt sich immer noch lesen, erfordert aber schon mehr Kenntnisse und enthält mehr „Ballast“.
 
 ## Leichtigkeit bedingt Schnelligkeit
 
-Aus dieser "Leichtgewichtigkeit" ergeben sich ein paar handfeste Vorteile, und sie alle haben mit Schnelligkeit zu tun:
+Aus dieser „Leichtgewichtigkeit“ ergeben sich ein paar handfeste Vorteile, und sie alle haben mit Schnelligkeit zu tun:
 
 ### 1. Schnell zu erlernen
 
@@ -118,7 +118,7 @@ Noch ein Beispiel:
 Dem geneigten Leser wird aufgefallen sein, dass ich gerne mal Emojis benutze.
 
 - Ich würde schier wahnsinnig werden, wenn ich jedesmal das Emoji-Menü öffnen und danach suchen müsste.
-- Stattdessen nutze ich eine Markdown-Erweiterung: Ich tippe einfach `:hea` (für “heart”) und schon erscheint mein Herz ❤️.
+- Stattdessen nutze ich eine Markdown-Erweiterung: Ich tippe einfach `:hea` (für „heart“) und schon erscheint mein Herz ❤️.
 
 ### 3. Schnelles Veröffentlichen
 
@@ -138,7 +138,7 @@ Für meine Wissensbasis in Obsidian bedeutet das: Alles lädt blitzschnell. Selb
 
 ### Volle Kontrolle über Deine Daten
 
-Wenn Du Deine Notizen in Programmen wie Microsoft Word, Notion oder Evernote speicherst, bist Du im Grunde genommen der Gefangene dieser Firmen. Wenn Evernote morgen die Preise erhöht oder Notion pleitegeht, hast Du ein Problem, Deine Daten sauber herauszubekommen. Du steckst im sogenannten „[[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Vendor-Lock-in\|Lock-in-Effekt]]”.
+Wenn Du Deine Notizen in Programmen wie Microsoft Word, Notion oder Evernote speicherst, bist Du im Grunde genommen der Gefangene dieser Firmen. Wenn Evernote morgen die Preise erhöht oder Notion pleitegeht, hast Du ein Problem, Deine Daten sauber herauszubekommen. Du steckst im sogenannten „[[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Vendor-Lock-in\|Lock-in-Effekt]]“.
 
 Markdown-Dateien hingegen gehören zu 100 % Dir. Sie liegen als ganz normale Dateien auf Deiner Festplatte. Du kannst morgen entscheiden, Obsidian nie wieder zu benutzen, und Deine Notizen einfach mit einem anderen Programm öffnen. Keine Cloud-Firma kann Deine Daten sperren oder hinter eine Paywall packen.
 
@@ -155,7 +155,7 @@ Man kann sie ganz leicht mit jedem Texteditor öffnen.
 
 ## ## Überall im Einsatz
 
-„Das Internet ist voll davon“, hatte ich eingangs behauptet. Und das stimmt tatsächlich!
+“Das Internet ist voll davon“, hatte ich eingangs behauptet. Und das stimmt tatsächlich!
 
 - **Messenger und Chat-Apps:** Egal ob WhatsApp, Slack, Microsoft Teams, Discord oder Telegram – sie alle haben grundlegende Markdown-Befehle integriert, mit denen du deine Nachrichten formatieren kannst.
 - **KI-Assistenten und Chatbots:** Auch ChatGPT, Gemini & Co. strukturieren ihre Antworten im Hintergrund mit dieser Formatierung, bevor sie auf deinem Bildschirm landen.
@@ -173,7 +173,7 @@ Los geht’s 👇
 
 ### Einfach mal ausprobieren
 
-Nutze kostenlose Online-Editoren wie [StackEdit](https://stackedit.io/). Klicke oben auf “Start Writing” - alles weitere ist selbsterklärend!
+Nutze kostenlose Online-Editoren wie [StackEdit](https://stackedit.io/). Klicke oben auf „Start Writing“ - alles weitere ist selbsterklärend!
 
 Zum Ausprobieren habe ich einen [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Spickzettel Markdown für Einsteiger\|Spickzettel Markdown für Einsteiger]] für Dich erstellt.
 

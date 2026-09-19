@@ -26,7 +26,7 @@ Also war meine eigentlich Aufgabe, erst einmal den Sinn und Nutzen von Mindmaps 
 - Sie sind kompakt: 100 Seiten Notizen entsprechen 1 Mindmap!
 - Sie haben quasi die [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Technik]] integriert.
 
-#### Geheimnis Nr. 1: Verwandle deine Mindmaps in einen “Mindmirror”
+#### Geheimnis Nr. 1: Verwandle deine Mindmaps in einen „Mindmirror“
 
 Weniger ist mehr: Weniger Worte zu verwenden zwingt dich, mehr Zeit in Nachdenken und Verstehen zu investieren.
 

@@ -13,9 +13,10 @@ Ihre Forschung widerlegte eine der einflussreichsten Thesen der Wirtschaftswisse
 
 Was diese Gemeinschaften einte, waren keine externen Vorgaben, sondern selbst entwickelte, lokal verankerte Institutionen: kollektive Regeln, gegenseitige Kontrolle und das gemeinsame Interesse am Erhalt der Ressource. Ostrom zeigte damit, dass Menschen durchaus in der Lage sind, kollektive Handlungsprobleme durch Selbstorganisation zu lösen – wenn die institutionellen Rahmenbedingungen stimmen.
 
-Zusammen mit ihrem Ehemann Vincent Ostrom gründete sie an der Indiana University die sogenannte „Bloomington School", die sich der Erforschung von Polyzentrie und gemeinschaftlicher Ressourcennutzung widmet. Ihr Hauptwerk _„Governing the Commons"_ (1990) gilt bis heute als Standardwerk der Institutionenökonomik und inspiriert Debatten weit über natürliche Ressourcen hinaus – von digitalen Wissensallmenden bis hin zur globalen Klimapolitik.
+Zusammen mit ihrem Ehemann Vincent Ostrom gründete sie an der Indiana University die sogenannte „Bloomington School", die sich der Erforschung von Polyzentrie und gemeinschaftlicher Ressourcennutzung widmet. Ihr Hauptwerk _“Governing the Commons"_ (1990) gilt bis heute als Standardwerk der Institutionenökonomik und inspiriert Debatten weit über natürliche Ressourcen hinaus – von digitalen Wissensallmenden bis hin zur globalen Klimapolitik.
 
 Aus ihrer vergleichenden Feldforschung destillierte Ostrom acht zentrale Designprinzipien, die in langlebigen und erfolgreichen Gemeinschaftsinstitutionen regelmäßig anzutreffen sind.
+
 ## Design-Prinzipien für nachhaltige Nutzung von Common Goods
 
 1. Klar definierte Grenzen: Die Grenzen der Ressource und der Personen, die Nutzungsrechte haben, müssen klar definiert sein.

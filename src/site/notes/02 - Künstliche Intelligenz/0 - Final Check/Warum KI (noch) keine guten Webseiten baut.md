@@ -6,6 +6,6 @@
 
 Für eine einfache Visitenkarten-Website oder den Hobbybereich mag es reichen, doch:
 
-- Die Webseiten wirken optisch oftmals ganz passabel, jedoch generisch – und das kommt nicht von ungefähr, da wir es mit [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Statistische KI\|statistischer KI]] zu tun haben. Die Domäne dieser Form von KI ist das Durchschnittliche, nicht das Individuelle oder gar Außergewöhnliche. 
+- Die Webseiten wirken optisch oft ganz passabel, jedoch generisch – und das kommt nicht von ungefähr, da wir es mit [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Statistische KI\|statistischer KI]] zu tun haben. Die Domäne dieser Form von KI ist das Durchschnittliche, nicht das Individuelle oder gar Außergewöhnliche. 
 - Was optisch nett wirkt, erzielt nicht immer die erwünschte Wirkung. Gutes Design soll in erster Linie eine Botschaft vermitteln, und erst in zweiter Linie hübsch aussehen.
 - KI macht Programmieren für alle leicht – allerdings hat der generierte Code oft Mängel, die Anfängern gar nicht auffallen, da ihnen das Bewusstsein für Themen wie Sicherheit, Performance oder Accessibility (Barrierefreiheit) fehlt. Das bringt wiederum eine schlechtere [[02 - Künstliche Intelligenz/4 - very soon/UX\|User Experience]] oder rechtliche Risiken mit sich. 

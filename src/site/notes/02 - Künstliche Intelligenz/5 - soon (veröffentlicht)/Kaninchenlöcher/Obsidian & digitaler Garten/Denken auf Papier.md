@@ -17,7 +17,7 @@ Weiner betrachtete Feynmans Notizen als eine „Aufzeichnung“ seiner Arbeit, a
 >
 > Weiner: „Well, the work was done in your head, but the record of it is still here.“
 >
-> Feynman: **„No, it’s not a record, it’s the working. You have to work on paper and this is the paper. Okay?“**
+> Feynman: **“No, it’s not a record, it’s the working. You have to work on paper and this is the paper. Okay?“**
 
 Feynman bestand darauf, dass das Papier nicht ein **Abbild** des Denkens ist - kein Protokoll, keine Dokumentation -, sondern dass das Denken **auf** und **mit** dem Papier stattfindet. Das Schreiben ist kein Nachzeichnen eines fertigen Gedankens, sondern der Prozess selbst, durch den der Gedanke erst entsteht.
 

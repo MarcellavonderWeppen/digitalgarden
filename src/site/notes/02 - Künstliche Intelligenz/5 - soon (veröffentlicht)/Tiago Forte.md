@@ -16,7 +16,7 @@ Zu seinen wichtigsten Werken gehören:
 - _Extend Your Mind_
 - _Design Your Work_
 
-Er unterrichtet regelmäßig an großen Unternehmen wie Genentech und hat über 25.000 Online-Lernende betreut. Im Oktober 2024 fand in Los Angeles der erste persönliche „Second Brain Summit" statt.
+Er unterrichtet regelmäßig an großen Unternehmen wie Genentech und hat über 25.000 Online-Lernende betreut. Im Oktober 2024 fand in Los Angeles der erste persönliche „Second Brain Summit“ statt.
 
 Quelle: [Forte Labs Blog](https://fortelabs.com/blog/author/fortelabs/), [Simon & Schuster](https://www.simonandschuster.com/books/Building-a-Second-Brain/Tiago-Forte/9781982167387), [Amazon](https://www.amazon.com/Building-Second-Brain-Organize-Potential/dp/1982167386).
 

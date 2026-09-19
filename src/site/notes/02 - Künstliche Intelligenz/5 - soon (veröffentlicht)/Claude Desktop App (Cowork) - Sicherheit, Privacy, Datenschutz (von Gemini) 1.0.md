@@ -4,9 +4,9 @@
 
 
 > [!warning] Faktencheck
->Dieser Artikel wurde von Gemini geschrieben. Im Faktencheck habe ich ihn zusammen mit Claude überprüft und weiterentwickelt zu [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Claude Desktop App (Cowork)- Sicherheit, Privacy, Datenschutz (von Gemini)\|Claude Desktop App (Cowork)- Sicherheit, Privacy, Datenschutz (von Gemini)]].
-# Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini) 1.0
+> Dieser Artikel wurde von Gemini geschrieben. Im Faktencheck habe ich ihn zusammen mit Claude überprüft und weiterentwickelt zu [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Claude Desktop App (Cowork)- Sicherheit, Privacy, Datenschutz (von Gemini)\|Claude Desktop App (Cowork)- Sicherheit, Privacy, Datenschutz (von Gemini)]].
 
+# Claude Desktop App (Cowork) - Sicherheit, Privacy, Datenschutz (von Gemini) 1.0
 
 Die Bewertung von „Claude Cowork“ (offiziell als „Computer Use“ bezeichnet) ist in der Sicherheits- und Datenschutz-Community ein intensiv debattiertes Thema. Die kurze Antwort lautet: **Es ist ein mächtiges Werkzeug, erfordert aber ein völlig neues Sicherheitsdenken.**
 
@@ -19,18 +19,14 @@ Hier ist eine Zusammenfassung, wie diese Perspektiven aussehen:
 Der größte Kritikpunkt an der Privatsphäre ist, dass Claude durch die „Computer Use“-Funktion aktiv Screenshots deines Bildschirms macht.
 
 - **Was Experten sagen:** Wenn die KI deine Fenster „sieht“, kann sie theoretisch alle Informationen erfassen, die dort zu sehen sind – auch solche, die du ihr gar nicht explizit gegeben hast (z. B. eine E-Mail im Hintergrund, private Notizen oder vertrauliche Firmendaten).
-    
 - **Datenschutz:** Da diese Screenshots zur Analyse an Anthropic-Server gesendet werden, sind viele Datenschützer sehr vorsichtig, wenn es darum geht, die Funktion in einer Arbeitsumgebung mit personenbezogenen Daten zu nutzen.
-    
 
 ### 2. Das Sicherheitsrisiko: „Prompt Injection“
 
 Dies ist die größte technische Sorge. „Prompt Injection“ beschreibt einen Angriff, bei dem eine KI durch bösartige Inhalte (z. B. versteckter Text auf einer Webseite, die du besuchst) dazu verleitet wird, Befehle auszuführen, die nicht von dir stammen.
 
 - **Das Problem:** Wenn Claude deinen Browser steuert und eine Webseite mit bösartigem Code aufruft, könnte der Angreifer versuchen, die KI dazu zu bringen, sensible Daten zu exfiltrieren oder Aktionen auszuführen, die du nicht autorisiert hast.
-    
 - **Bewertung:** Sicherheitsforscher weisen darauf hin, dass die KI oft nicht sauber zwischen „Daten, die ich lese“ und „Anweisungen, die ich ausführe“ unterscheiden kann. Deshalb raten Experten dringend davon ab, der KI Zugriff auf kritische Systeme wie Bankenportale, Unternehmens-Dashboards oder Admin-Bereiche zu geben.
-    
 
 ### 3. Transparenz und „Dark Patterns“
 
@@ -41,14 +37,8 @@ Kritiker haben bemängelt, dass manche Integrationsschritte (vor allem bei der B
 Die Sicherheits-Community ist sich einig, dass man das Werkzeug nicht einfach „blind“ laufen lassen sollte. Die Empfehlungen zur Nutzung lauten daher meist:
 
 - **Isolation:** Nutze „Computer Use“ idealerweise in einem **virtuellen Rechner (VM) oder einem Container**. So hat die KI nur Zugriff auf eine isolierte Umgebung und kann bei einem Fehler nicht auf deine privaten Haupt-Dateien zugreifen.
-    
 - **Keine kritischen Passwörter:** Gib der KI niemals direkten Zugriff auf Bereiche, in denen du dich mit wichtigen Passwörtern oder Zahlungsinformationen einloggst.
-    
-- **„Human-in-the-Loop“:** Behandle Claude bei der Arbeit an deinem PC wie einen Praktikanten, dem man nicht trauen kann, allein eine Überweisung zu tätigen. Überwache den Prozess aktiv.
-    
+- **“Human-in-the-Loop“:** Behandle Claude bei der Arbeit an deinem PC wie einen Praktikanten, dem man nicht trauen kann, allein eine Überweisung zu tätigen. Überwache den Prozess aktiv.
 - **Browser-Hygiene:** Erlaube der KI nur Zugriff auf Webseiten, denen du vertraust.
-    
 
 **Fazit:** Die Funktion ist technisch beeindruckend, aber aus Sicherheits- und Datenschutzsicht wird sie derzeit als „hochsensibel“ eingestuft. Unternehmen und sicherheitsbewusste Nutzer sollten den Zugriff auf sensible Daten für die KI **physisch oder systemseitig beschränken**, anstatt sich nur auf die Sicherheitsvorkehrungen der Software zu verlassen.
-
-
