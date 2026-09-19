@@ -68,7 +68,7 @@ Ich stehe für einen differenzierten Blick auf das Thema und das Erkunden altern
 
 ## Wer schreibt hier eigentlich?
 
-Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[02 - Künstliche Intelligenz/2 - Work on today/Über mich\|über mich]].
+Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[02 - Künstliche Intelligenz/0 - Final Check/Über mich\|über mich]].
 
 Vielleicht ist die Frage aber auch anders gemeint:
 
