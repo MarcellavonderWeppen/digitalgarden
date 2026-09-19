@@ -15,7 +15,7 @@ Ich habe mich lange für „technik-unbegabt“ gehalten – bis ich vor vielen 
 
 Meine Kurse wenden sich sowohl an Menschen, die den Einstieg suchen (und sich vielleicht wie ich damals für „technik-unbegabt“ halten) als auch an Anwender mit Vorerfahrung, die [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Künstliche Intelligenz#Gen AI\|GenAI]] meistern und KI verstehen wollen.
 
-Es fing alles an mit meiner Begeisterung für ChatGPT, aber inzwischen habe ich den Fokus auf andere [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs]] gelegt. (👉 Mehr dazu hier: [[02 - Künstliche Intelligenz/0 - Final Check/KI – es geht auch anders!\|KI – es geht auch anders!]])
+Es fing alles an mit meiner Begeisterung für ChatGPT, aber inzwischen habe ich den Fokus auf andere [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs]] gelegt. (👉 Mehr dazu hier: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/KI – es geht auch anders!\|KI – es geht auch anders!]])
 
 Hier mehr Infos zu meinen Kursen:
 [ki-magie.online](https://www.ki-magie.online)
@@ -24,7 +24,7 @@ Hier mehr Infos zu meinen Kursen:
 
 Momentan im Aufbau: mein Online-Shop mit niedlichen Katzen, mystischen Drachen und unglaublichen Geschichten.
 
-Eigentlich sollte KI ja alles schneller machen und mir Superkräfte verleihen, aber das Thema „KI und Ausbeutung“ hat mich ganz schön ausgebremst. (Stichwort: Ausbeutung von Künstlern für das Training von KI.)
+Eigentlich sollte KI ja alles schneller machen und mir Superkräfte verleihen, aber das Thema „KI und Ausbeutung von Künstlern“ hat mich ganz schön ausgebremst.
 
 Ich denke, ich habe [[ethisch vertretbare Lösungen\|ethisch vertretbare Lösungen]] gefunden, und der Launch steht kurz bevor.
 
