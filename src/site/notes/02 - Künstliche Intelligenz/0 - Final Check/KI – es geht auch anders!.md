@@ -46,7 +46,7 @@ Denn die entscheidende Frage laute doch:
 
 Leider haben Macht und Geld im Übermaß die Tendenz Menschen zu korrumpieren. Wahrscheinlich sind wir schlecht beraten, wenn wir zulassen, dass sich beides in den Händen einer immer kleiner werdenden Anzahl von Konzernen konzentriert!
 
-Als ich 2022 [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|generative KI]] entdeckte, war ich wie im Rausch: „Ich hab’ Superkräfte, ich hab’ ChatGPT!“ war mein Kredo. (Ja, das habe ich sogar als Lied geschrieben - Veröffentlichung auf Anfrage, aber bitte keine zu hohen Erwartungen an den Song 😂).
+Als ich 2022 [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Generative KI\|generative KI]] entdeckte, war ich wie im Rausch: „Ich hab’ Superkräfte, ich hab’ ChatGPT!“ war mein Kredo. (Ja, das habe ich sogar als Lied geschrieben - Veröffentlichung auf Anfrage, aber bitte keine zu hohen Erwartungen an den Song 😂).
 ## Das, was uns ermächtigt …
 
 Nur langsam wurde mir bewusst: das was mich ermächtigt, das ermächtige ich auch.

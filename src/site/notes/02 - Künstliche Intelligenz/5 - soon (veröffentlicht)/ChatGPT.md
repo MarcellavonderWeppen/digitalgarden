@@ -42,7 +42,7 @@ Schauen wir es uns Schritt für Schritt an:
 ### Generative
 
 - Das Modell erzeugt etwas (und zwar Texte)
-- Es gehört damit der übergeordneten Kategorie [[02 - Künstliche Intelligenz/0 - Final Check/GenAI\|Generative KI]] an, welche u.a. Texte, Bilder, Videos und Musik generieren kann 
+- Es gehört damit der übergeordneten Kategorie [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Generative KI\|Generative KI]] an, welche u.a. Texte, Bilder, Videos und Musik generieren kann 
 
 ### Pre-trained
 
