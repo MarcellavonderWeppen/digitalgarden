@@ -43,7 +43,7 @@ Schauen wir uns zum besseren Verständnis ein Beispiel dazu an: „Alle Flurbs s
 
 Genau das macht den Ansatz für Computer tauglich: Ein Rechner versteht nichts. Für ihn ist „Vogel“ genauso bedeutungslos wie „Flurb“. Er kann nur Zeichen vergleichen und Sätze nach festen Regeln umbauen. 
 
-> Ist das Wissen formal notiert, wird Schlussfolgern zu einem rein mechanischen Vorgang.
+> **Ist das Wissen formal notiert, wird Schlussfolgern zu einem rein mechanischen Vorgang.**
 
 Diese Zeichen nennt man in der KI **Symbole** – daher auch symbolische KI als Synonym für klassische KI. Ein Symbol ist ein Platzhalter, der für etwas in der Welt steht: „Vogel“, „Fieber“, „Tweety“. Für den Computer sind es leere Hüllen, die er nach Regeln hin- und herschiebt. Die Bedeutung entsteht allein im Kopf des Menschen, der die Symbole festgelegt hat.
 
