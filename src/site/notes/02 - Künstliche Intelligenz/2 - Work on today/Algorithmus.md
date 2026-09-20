@@ -2,7 +2,7 @@
 {"title":"Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-16","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/2-work-on-today/algorithmus/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-16","updated":null,"status":null}}
 ---
 
-# Algorithmus
+# Was ist ein Algorithmus?
 
 ![Regenbogeneinhornkätchen.png\|400](/img/user/Regenbogeneinhornk%C3%A4tchen.png)
 
