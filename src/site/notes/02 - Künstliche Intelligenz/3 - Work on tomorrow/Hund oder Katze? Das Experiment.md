@@ -2,7 +2,7 @@
 {"title":"Hund oder Katze? Das Experiment","aliases":null,"tags":null,"gen_ai_anteil":["div. LLMs 40%"],"created":"2026-09-14","updated":"2026-09-20","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-work-on-tomorrow/hund-oder-katze-das-experiment/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Hund oder Katze? Das Experiment","aliases":null,"tags":null,"gen_ai_anteil":["div. LLMs 40%"],"created":"2026-09-14","updated":"2026-09-20","status":null}}
 ---
 
-# Hund oder Katze: ein Experiment
+# Ein Experiment: Hund oder Katze
 
 ## Woran erkennst du eine Katze?
 
@@ -45,15 +45,15 @@ Das Ergebnis war etwas enttäuschend: eine ganz normale Katze.
 
 ![Katze.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Katze.png)
 
-Ich habe überlegt, woran das lag, und bin zu dem Schluss gekommen, dass ich dem Chatbot zu viele Freiheiten gegeben hatte. Die Merkmale des Hundes sind viel variabler als die der Katze: „Ohren: Sehr unterschiedlich: aufrecht, hängend oder halbaufrecht“, „Kopf: Häufig länglicher, Form je nach Rasse sehr unterschiedlich“ und so weiter.
+Anscheinend hatte ich zu viel Interpretationsspielraum gelassen. Denn die Merkmale eines Hundes sind viel variabler als die einer Katze: „Ohren: Sehr unterschiedlich: aufrecht, hängend oder halbaufrecht“, „Kopf: Häufig länglicher, Form je nach Rasse sehr unterschiedlich“ und so weiter.
 
-Das war viel zu vage! ChatGPT hatte sich da einfach jedes Mal herausgesucht, was zu einer richtigen Katze passte.
+Das war viel zu vage! ChatGPT hatte sich einfach nach Belieben herausgesucht, was zu einer richtigen Katze passte.
 
-Daraufhin habe ich ChatGPT erneut beauftragt, eine Katze zu generieren, aber mit den Merkmalen eines bestimmten Hundes – Schlappohren und so. Das Ergebnis war ein Hund:
+Daraufhin habe ich ihn erneut beauftragt, eine Katze zu generieren, aber mit den Merkmalen eines bestimmten Hundes – Schlappohren und so. Das Ergebnis war ein Hund:
 
 ![Hundkatze.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Hundkatze.png)
 
-Ich habe ChatGPT dafür gerügt: „Das ist keine Katze!!!“, woraufhin er erwiderte: „Stimmt, tut mir leid, da ist mir wohl ein Fehler unterlaufen.“ 😂
+Dafür gab es Tadel von mir: „Das ist keine Katze!!!“, woraufhin ChatGPT erwiderte: „Stimmt, tut mir leid, da ist mir wohl ein Fehler unterlaufen.“ 😂
 
 Mit Claude habe ich mich beraten, wie es dazu kommen konnte: Ich hatte in meiner Beschreibung viel hundespezifisches Vokabular wie „Rute“ oder „Läufe“ verwendet. Mit einer entschärften Beschreibung habe ich ChatGPT erneut beauftragt. Das Ergebnis war eine Mischkreatur, die mich stark an Qualzüchtungen erinnerte:
 
@@ -83,7 +83,7 @@ _Das Bildmaterial mit den Detailaufnahmen unten zeigt die typischen Merkmale ein
 
 👉 Oops, der Titel des Bildes – „Katzenhund.png“ – hatte den stärkeren Modellen wohl einen wichtigen Hinweis gegeben 😱
 
-Also das Experiment wiederholt – Gemini und Claude Sonnet blieben bei ihrer Einschätzung, Claude war allerdings nicht mehr ganz so selbstbewusst in seiner Vermutung, dass es sich um ein KI-generiertes Bild handle.
+Also das Experiment wiederholt – Gemini und Claude Sonnet blieben bei ihrer Einschätzung, Claude war allerdings nicht mehr ganz so selbstbewusst in seiner Einschätzung, dass es sich um ein KI-generiertes Bild handle.
 
 ### Grok war sich sicher:
 
@@ -94,7 +94,7 @@ _Das ist ein Hund (genauer: ein canidenartiges Wildtier), keine Katze. Die abgeb
 - _Kräftiger, langgestreckter Körperbau und langer, waagerecht getragener Schwanz._
 - _Mittellanges, leicht raues Fell mit dunklerer Rückenzeichnung._
 
-### ChatGPT wusste auch Bescheid:
+### Auch für ChatGPT ein klarer Fall:
 
 _Das ist eine **Katze** – genauer gesagt sieht das Tier wie eine **Luchskatze** bzw. ein Luchs aus. 🐈_
 

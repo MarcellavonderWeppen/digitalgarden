@@ -1,11 +1,26 @@
 ---
-{"title":"Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-16","updated":"2026-09-20","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-work-on-tomorrow/algorithmus/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-16","updated":"2026-09-20","status":null}}
+{"title":"Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-16","updated":"2026-09-20","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-work-on-tomorrow/algorithmus-1/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-16","updated":"2026-09-20","status":null}}
 ---
 
-# Algorithmus
+# Was ist ein Algorithmus?
 
+![Regenbogeneinhornkätchen.png\|400](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/3%20-%20Work%20on%20tomorrow/Regenbogeneinhornk%C3%A4tchen.png)
 
-> Ein Algorithmus ist eine endliche, eindeutige Schritt-für-Schritt-Anleitung zur Lösung eines Problems.
+> [!quote] *Der Algorithmus hat mich hierher gebracht …* 
+
+… so heißt es oft auf Social Media, mit einem Schmunzeln.
+
+Der allmächtige Algorithmus entscheidet, wer meine Facebook-Posts zu sehen bekommt und wer nicht. Er weiß, welches YouTube-Video ich vermutlich als nächstes anklicke und für welche Werbung ich empfänglich bin. Er registriert sogar, wenn ich einen schlechten Tag habe. Das wird er arglos / vergnügt / unbekümmert / schamlos / ohne mit der Wimper zu zucken ausnutzen, um mich zu sinnlosem Konsum anzuregen.
+
+Ich finde, es lohnt sich, dem Verständnis dieser sagenumwobenen Kreatur ein paar Zeilen zu widmen.
+
+Denn Algorithmen begegnen uns ständig im Alltag. Sie liegen nicht nur Social Media, sondern jeder Form von Software zugrunde – nicht zuletzt bilden sie auch das Rückgrat jeder Form von [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Künstliche Intelligenz\|KI]].
+
+Das Thema klingt ein wenig nach langweiliger Schulmathematik, aber ich werde mir Mühe geben, es ein wenig schmackhaft zu machen 😋 🥮 
+
+## Definition
+
+**Ein Algorithmus ist eine endliche, eindeutige Schritt-für-Schritt-Anleitung zur Lösung eines Problems.**
 
 > [!info]  **Drei Merkmale** machen eine Anleitung zum Algorithmus:
 > - **Eindeutig** - jeder Schritt ist klar formuliert, kein Interpretationsspielraum
