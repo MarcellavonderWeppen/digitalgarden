@@ -1,5 +1,5 @@
 ---
-{"title":"Startseite","aliases":null,"tags":["gardenEntry"],"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-05-05","status":null,"dg-publish":true,"dg-home":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/startseite/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Startseite","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-05-05","status":null}}
+{"title":"Startseite","aliases":null,"tags":["gardenEntry"],"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-09-20","status":null,"dg-publish":true,"dg-home":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/startseite/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Startseite","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-09-20","status":null}}
 ---
 
 ![Digital Garden Gemini 14.05.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)
@@ -30,7 +30,7 @@ Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 - ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob noch Wurzeln fehlen.
 - 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck. Ein Setzling darf ein Setzling sein.
 - 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Gerade dort, wo sie sich berühren, entsteht oft das Spannendste.
-- 🏡 **Ein eigenes Stück Land:** Kein [[02 - Künstliche Intelligenz/2 - Work on today/Algorithmus\|Algorithmus]] entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
+- 🏡 **Ein eigenes Stück Land:** Kein [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Algorithmus\|Algorithmus]] entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
 - 🐝 **Gemeinsam gärtnern:** Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
 
 ## Schreibend lernen – Mitmachen willkommen

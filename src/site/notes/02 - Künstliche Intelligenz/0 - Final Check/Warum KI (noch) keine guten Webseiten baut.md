@@ -1,5 +1,5 @@
 ---
-{"title":"Warum KI (noch) keine guten Webseiten baut","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-13","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/warum-ki-noch-keine-guten-webseiten-baut/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Warum KI (noch) keine guten Webseiten baut","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-13","updated":null,"status":null}}
+{"title":"Warum KI (noch) keine guten Webseiten baut","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-13","updated":"2026-09-20","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/warum-ki-noch-keine-guten-webseiten-baut/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Warum KI (noch) keine guten Webseiten baut","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-13","updated":"2026-09-20","status":null}}
 ---
 
 # Warum KI (noch) keine guten Webseiten baut

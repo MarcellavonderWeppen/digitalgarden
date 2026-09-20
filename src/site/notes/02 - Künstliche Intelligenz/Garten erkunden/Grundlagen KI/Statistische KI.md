@@ -38,7 +38,7 @@ Die datengetriebene KI konnte ihren Siegeszug keinen Augenblick früher antreten
 
 - Verfügbarkeit großer Datenmengen („**Big Data**“)
 - Rechenleistung, um diese Datenmengen verarbeiten zu können („**Compute**“)
-- **[[02 - Künstliche Intelligenz/2 - Work on today/Algorithmus\|Algorithmen]]** und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen
+- **[[02 - Künstliche Intelligenz/3 - Work on tomorrow/Algorithmus\|Algorithmen]]** und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen
 
 ![3 Voraussetzungen für statistische KI.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/3%20Voraussetzungen%20f%C3%BCr%20statistische%20KI.png)
 

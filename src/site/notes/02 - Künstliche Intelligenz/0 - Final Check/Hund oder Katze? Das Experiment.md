@@ -1,8 +1,8 @@
 ---
-{"title":"Hund oder Katze? Das Experiment","aliases":null,"tags":null,"gen_ai_anteil":["ChatGPT 80%"],"created":"2026-09-14","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/hund-oder-katze-das-experiment/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Hund oder Katze? Das Experiment","aliases":null,"tags":null,"gen_ai_anteil":["ChatGPT 80%"],"created":"2026-09-14","updated":null,"status":null}}
+{"title":"Hund oder Katze? Das Experiment","aliases":null,"tags":null,"gen_ai_anteil":["div. LLMs 40%"],"created":"2026-09-14","updated":"2026-09-20","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/hund-oder-katze-das-experiment/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Hund oder Katze? Das Experiment","aliases":null,"tags":null,"gen_ai_anteil":["div. LLMs 40%"],"created":"2026-09-14","updated":"2026-09-20","status":null}}
 ---
 
-# Hund oder Katze? Das Experiment
+# Hund oder Katze: ein Experiment
 
 ## Woran erkennst du eine Katze?
 
@@ -111,7 +111,7 @@ _**Der auffälligste Hinweis ist aber der Kopf**: Augen, Nase, Schnauze und die 
 
 Das Experiment zeigt, warum [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Klassische KI\|klassische KI]] an Themen wie Bilderkennung oder Bildgenerierung scheitert.
 
-Diese Form der KI ist auf explizite, also aufschreibbare, Regeln angewiesen. Aber selbst eine gründliche Merkmalsliste legt nicht eindeutig fest, was ein Hund ist und was eine Katze.
+Diese Form der KI ist auf explizite, also aufschreibare, Regeln angewiesen. Aber selbst eine gründliche Merkmalsliste legt nicht eindeutig fest, was ein Hund ist und was eine Katze.
 
 Oder vielleicht waren die Regeln einfach nicht umfassend oder präzise genug?
 

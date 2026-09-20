@@ -1,5 +1,5 @@
 ---
-{"title":"KI – es geht auch anders!","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-05-14","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/ki-es-geht-auch-anders/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI – es geht auch anders!","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-05-14","updated":null,"status":null}}
+{"title":"KI – es geht auch anders!","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-05-14","updated":"2026-09-20","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/ki-es-geht-auch-anders/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI – es geht auch anders!","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-05-14","updated":"2026-09-20","status":null}}
 ---
 
 
