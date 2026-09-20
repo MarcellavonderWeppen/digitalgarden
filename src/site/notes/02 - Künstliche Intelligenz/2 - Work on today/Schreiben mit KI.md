@@ -6,7 +6,7 @@
 
 ## Transparenz - ein wertvolles Gut
 
-Während sich [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Generative KI\|generative KI]] in einem rasanten Tempo entwickelt, entwickeln sich ihre Schattenseiten mit. 
+Während sich [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Generative KI\|generative KI]] in einem rasanten Tempo entwickelt, entwickeln sich ihre Schattenseiten mit. 
 
 Als ich mit den ersten bildgenerierenden KIs experimentierte, wußte ich bereits, dass ich bald mit nostalgischen Gefühlen auf diese Zeit zurückblicken würde: die deformierten Hände, die lustigen bis verstörenden Fehler in den Bildern. 
 
@@ -42,7 +42,7 @@ Das Lied gibt es übrigens wirklich - ich veröffentliche es gerne bei Interesse
 
 ### Beispiel 2: Schreiben mit KI
 
-Als zweites Beispiel ein Artikel, den ich gerade geschrieben habe: [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/KI-Sprachtechnologie\|KI-Sprachtechnologie]].
+Als zweites Beispiel ein Artikel, den ich gerade geschrieben habe: [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/KI-Sprachtechnologie\|KI-Sprachtechnologie]].
 
 > [!note] **Funfact**
 >

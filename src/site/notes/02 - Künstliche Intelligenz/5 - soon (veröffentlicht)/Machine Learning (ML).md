@@ -5,7 +5,7 @@
 
 # Was ist Machine Learning (ML)?
 
-Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines größeren Denkmodells: der [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Statistische KI\|statistischen KI]]. Es setzt dieses [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Paradigma (Denkmodell)\|Paradigma]] in konkrete [[02 - Künstliche Intelligenz/2 - Work on today/Algorithmus\|Algorithmus]] um - Verfahren, die aus Daten lernen, statt nach vorgegebenen Regeln zu arbeiten.
+Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines größeren Denkmodells: der [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Statistische KI\|statistischen KI]]. Es setzt dieses [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Paradigma (Denkmodell)\|Paradigma]] in konkrete [[02 - Künstliche Intelligenz/2 - Work on today/Algorithmus\|Algorithmus]] um - Verfahren, die aus Daten lernen, statt nach vorgegebenen Regeln zu arbeiten.
 
 ## Statistische KI ist ein Paradigma
 
@@ -27,9 +27,9 @@ Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines gr�
 - Bezeichnet neuronale Netze mit besonders **vielen Schichten** - „deep“ (tief) meint genau das: viele hintereinandergeschaltete Ebenen, nicht etwa ein tieferes „Verständnis".
 - Frühe Schichten erkennen einfachste Bausteine (Kanten, Formen), spätere setzen daraus komplexere Muster zusammen - die nötigen Regeln lernt das Netz dabei selbst aus den Daten.
 
-![Neural network cat dog.png\|1000](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Neural%20network%20cat%20dog.png)
+![Neural network cat dog.png\|1000](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Neural%20network%20cat%20dog.png)
 
-![deep neural network.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/deep%20neural%20network.png)
+![deep neural network.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/deep%20neural%20network.png)
 
 > [!info] Zusammenfassung
 >

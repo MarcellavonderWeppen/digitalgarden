@@ -12,4 +12,4 @@ Das Buch hat mich sehr geprägt und inspiriert.
 
 Deep Work ist eine wertvolle Fähigkeit in Zeiten von Social Media, wo Algorithmen uns darauf trainieren, eine Aufmerksamkeitsspanne schlechter als die eines Goldfisches zu kultivieren!
 
-![Deep Work Book cover.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Deep%20Work%20Book%20cover.png)
+![Deep Work Book cover.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Deep%20Work%20Book%20cover.png)

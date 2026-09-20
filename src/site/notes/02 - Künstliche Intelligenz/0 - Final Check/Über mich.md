@@ -7,13 +7,13 @@
 
 Was ich sonst so mache, wenn ich nicht gerade an meinem Digital Garden baue:
 
-![Obsidian Nerd Q2 2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Obsidian%20Nerd%20Q2%202026.png)
+![Obsidian Nerd Q2 2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Obsidian%20Nerd%20Q2%202026.png)
 
 ## KI-Kurse 👩‍🏫
 
 Ich habe mich lange für „technik-unbegabt“ gehalten – bis ich vor vielen Jahren durch ein privates Blogprojekt mit dem Programmieren begann. Ich erinnere mich noch gut daran, wie anspruchsvoll der Einstieg für Menschen ohne technischen Hintergrund sein kann, und so habe ich mir die Fähigkeit erhalten, technische Sachverhalte in einfachen Worten zu vermitteln.
 
-Meine Kurse wenden sich sowohl an Menschen, die den Einstieg suchen (und sich vielleicht wie ich damals für „technik-unbegabt“ halten) als auch an Anwender mit Vorerfahrung, die [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Künstliche Intelligenz#Gen AI\|GenAI]] meistern und KI verstehen wollen.
+Meine Kurse wenden sich sowohl an Menschen, die den Einstieg suchen (und sich vielleicht wie ich damals für „technik-unbegabt“ halten) als auch an Anwender mit Vorerfahrung, die [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Künstliche Intelligenz#Gen AI\|GenAI]] meistern und KI verstehen wollen.
 
 Es fing alles an mit meiner Begeisterung für ChatGPT, aber inzwischen habe ich den Fokus auf andere [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs]] gelegt. (👉 Mehr dazu hier: [[02 - Künstliche Intelligenz/0 - Final Check/KI – es geht auch anders!\|KI – es geht auch anders!]])
 

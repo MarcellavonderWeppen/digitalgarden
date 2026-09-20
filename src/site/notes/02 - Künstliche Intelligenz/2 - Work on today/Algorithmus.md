@@ -4,21 +4,36 @@
 
 # Algorithmus
 
->**Definition:** Ein Algorithmus ist eine endliche, eindeutige Schritt-für-Schritt-Anleitung zur Lösung eines Problems.
+> [!quote] *Der Algorithmus hat mich hierher gebracht …* 
+
+… so heißt es oft auf Social Media, mit einem Schmunzeln.
+
+Der allmächtige Algorithmus entscheidet, wer meine Facebook-Posts zu sehen bekommt und wer nicht. Er weiß, welches YouTube-Video ich vermutlich als nächstes anklicke und für welche Werbung ich empfänglich bin. Er registriert sogar, wenn ich einen schlechten Tag habe. Das wird er arglos / vergnügt / unbekümmert / schamlos / ohne mit der Wimper zu zucken ausnutzen, um mich zu sinnlosem Konsum anzuregen.
+
+Ich finde, es lohnt sich, dem Verständnis dieser sagenumwobenen Kreatur ein paar Zeilen zu widmen.
+
+Denn Algorithmen begegnen uns ständig im Alltag. Sie liegen nicht nur Social Media, sondern jeder Form von Software zugrunde – nicht zuletzt bilden sie auch das Rückgrat jeder Form von [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Künstliche Intelligenz\|KI]].
+
+Das Thema klingt ein wenig nach langweiliger Schulmathematik, aber ich werde mir Mühe geben, es ein wenig schmackhaft zu machen 😋 🥮 
+
+## Definition
+
+**Ein Algorithmus ist eine endliche, eindeutige Schritt-für-Schritt-Anleitung zur Lösung eines Problems.**
 
 > [!info]  **Drei Merkmale** machen eine Anleitung zum Algorithmus:
 > - **Eindeutig** - jeder Schritt ist klar formuliert, kein Interpretationsspielraum
 > - **Endlich** - er hat einen definierten Anfang und ein definiertes Ende
 > - **Allgemein** - er löst nicht nur einen Einzelfall, sondern eine ganze Klasse von Problemen
 
-## Beispiel: Apfelkuchen-Rezept
+## Beispiel: Apfelkuchen-Rezept 👵🏻 🥮 
 
 Problem: Du hast Appetit auf Kuchen, aber alle Bäckereien haben geschlossen. 
 Lösung: Omas Apfelkuchen Rezept
 
-Ein Backrezept ist ein Algorithmus - es beschreibt exakt, in welcher Reihenfolge welche Schritte ausgeführt werden, damit am Ende (hoffentlich) ein Kuchen herauskommt.
+Ein gutes Backrezept ist wie ein Algorithmus - es beschreibt präzise, in welcher Reihenfolge welche Schritte ausgeführt werden, damit am Ende ein leckerer Kuchen herauskommt.
 
-![Omas Apfelkuchen.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Omas%20Apfelkuchen.png)
+![Omas Apfelkuchen.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Omas%20Apfelkuchen.png)
+
 ## Algorithmus vs. Computerprogramm
 
 Ein Algorithmus ist die **Idee** - abstrakt, sprachunabhängig. Ein Computerprogramm ist die **Umsetzung** dieser Idee in einer konkreten Programmiersprache, die ein Computer ausführen kann.
@@ -26,7 +41,7 @@ Ein Algorithmus ist die **Idee** - abstrakt, sprachunabhängig. Ein Computerprog
 - Dasselbe Rezept lässt sich auf Deutsch, Englisch oder Französisch aufschreiben. 
 - Derselbe Algorithmus lässt sich in Python, Java oder C++ implementieren.
  
-![Algorithmus Spamfilter.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Algorithmus%20Spamfilter.png)
+![Algorithmus Spamfilter.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Algorithmus%20Spamfilter.png)
 
 ## Im Zeitalter der KI sind wir alle Programmierer
 
@@ -56,7 +71,7 @@ Natürlich kann man mit KI nicht nur für Rezepte, sondern auch für das Program
 - Beschreibe die gewünschte Lösung / das Ergebnis möglichst klar und eindeutig.
 - Ein guter Algorithmus ist allgemein. Einmal geschrieben, funktioniert er für zahllose gleichartige Anwendungsfälle. Auch ein guter Prompt skaliert - er kann ein ähnliches Problem wieder und wieder lösen.
 
-![Prompt Algorithmus.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Prompt%20Algorithmus.png)
+![Prompt Algorithmus.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Prompt%20Algorithmus.png)
 ### Prompts sind Algorithmen … fast
 
 Ein klassischer Algorithmus liefert bei gleicher Eingabe immer dasselbe Ergebnis. Ein Prompt nicht - dieselbe Anweisung kann zwei verschiedene Antworten erzeugen.

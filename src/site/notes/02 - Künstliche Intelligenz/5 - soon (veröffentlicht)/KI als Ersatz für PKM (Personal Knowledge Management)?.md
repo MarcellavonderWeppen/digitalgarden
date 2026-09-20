@@ -78,7 +78,7 @@ Ein riesiges Thema in den Kommentaren ist die Sicherheit persönlicher Daten.
 
 📎 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Clippy\|Clippy]] sagt dazu: „Good luck getting back to your knowledge collection in 5 years!"
 
-![Clippy.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Clippy.png)
+![Clippy.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Clippy.png)
 
 ### 3. Kosten & „Abo-Dschungel"
 

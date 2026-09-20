@@ -8,7 +8,7 @@
 
 Du weißt es in einer Zehntelsekunde. Aber kannst du es aufschreiben? So genau, dass jemand, der noch nie eine Katze gesehen hat, allein nach deiner Liste eine erkennen würde?
 
-Genau darauf ist die [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Klassische KI\|klassische KI]] angewiesen: auf umfassende, ausformulierte Regeln.
+Genau darauf ist die [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Klassische KI\|klassische KI]] angewiesen: auf umfassende, ausformulierte Regeln.
 
 Also habe ich ChatGPT gebeten, es zu versuchen: Alles, was Hund und Katz so ausmacht, von den Ohren bis zu den Krallen, in einer Tabelle zusammengefasst.
 
@@ -33,7 +33,7 @@ In einem neuen Chat habe ich die KI beauftragt, ein Bild zu generieren: „Kreie
 
 Das Ergebnis war ein wirklich niedlicher Hund:
 
-![Hund mit Katzenseele.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Hund%20mit%20Katzenseele.png)
+![Hund mit Katzenseele.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Hund%20mit%20Katzenseele.png)
 
 Man sieht ihm die Katze an, wie ich finde! Trotzdem eindeutig Hund.
 
@@ -43,7 +43,7 @@ Nach diesem wirklich süßen Hund mit Katzenseele habe ich das Experiment wieder
 
 Das Ergebnis hat mich etwas enttäuscht: eine ganz normale Katze.
 
-![Katze.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Katze.png)
+![Katze.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Katze.png)
 
 Ich habe überlegt, woran das liegt, und bin zu dem Schluss gekommen, dass ich der KI zu viele Freiheiten gegeben habe. Die Merkmale des Hundes sind viel variabler als die der Katze: „Ohren: Sehr unterschiedlich: aufrecht, hängend oder halbaufrecht“, „Kopf: Häufig länglicher, Form je nach Rasse sehr unterschiedlich“ und so weiter.
 
@@ -51,13 +51,13 @@ Das war viel zu vage! ChatGPT hat sich da einfach jedes Mal herausgesucht, was z
 
 Daraufhin habe ich ChatGPT erneut beauftragt, eine Katze zu generieren, aber mit den Merkmalen eines bestimmten Hundes – Schlappohren und so. Das Ergebnis war ein Hund:
 
-![Hundkatze.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Hundkatze.png)
+![Hundkatze.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Hundkatze.png)
 
 Ich habe ChatGPT dafür gerügt: „Das ist keine Katze!!!“, woraufhin der Chatbot erwiderte: „Stimmt, tut mir leid, da ist mir wohl ein Fehler unterlaufen.“ 😂
 
 Mit Claude habe ich mich beraten, wie es dazu kommen konnte: Ich hatte in meiner Beschreibung viel hundespezifisches Vokabular verwendet, wie „Rute“ oder „Läufe“. Mit einer entschärften Beschreibung habe ich ChatGPT erneut beauftragt. Das Ergebnis war eine Mischkreatur, die mich stark an Qualzüchtungen erinnerte:
 
-![Katzenhund.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Katzenhund.png)
+![Katzenhund.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Katzenhund.png)
 
 Die arme Kreatur tat mir leid; ich bekam ein schlechtes Gewissen und habe entschieden, das Experiment zu beenden.
 
@@ -109,7 +109,7 @@ _**Der auffälligste Hinweis ist aber der Kopf**: Augen, Nase, Schnauze und die 
 
 ## Schlussfolgerung
 
-Das Experiment zeigt, warum [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Klassische KI\|klassische KI]] an Themen wie Bilderkennung oder Bildgenerierung scheitert.
+Das Experiment zeigt, warum [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Klassische KI\|klassische KI]] an Themen wie Bilderkennung oder Bildgenerierung scheitert.
 
 Diese Form der KI ist auf explizite, also aufschreibbare, Regeln angewiesen. Aber selbst eine gründliche Merkmalsliste legt nicht eindeutig fest, was ein Hund ist und was eine Katze.
 

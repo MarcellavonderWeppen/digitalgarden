@@ -5,7 +5,7 @@
 
 # Schnelles Denken, langsames Denken (Daniel Kahnemann)
 
-![Schnelles Denken, langsames Denken.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Schnelles%20Denken,%20langsames%20Denken.png)
+![Schnelles Denken, langsames Denken.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Schnelles%20Denken,%20langsames%20Denken.png)
 
 In seinem bahnbrechenden Werk _“Schnelles Denken, langsames Denken“_ beschreibt der Psychologe und Nobelpreisträger **Daniel Kahneman** zwei grundlegende Modi des menschlichen Denkens:
 

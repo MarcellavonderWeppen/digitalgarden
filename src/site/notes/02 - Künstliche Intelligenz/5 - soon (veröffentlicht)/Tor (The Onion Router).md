@@ -7,7 +7,7 @@
 
 Tor ist ein **anonymes Netzwerk**, das Nutzern ermöglicht, im Internet zu kommunizieren, ohne dass ihre Identität oder ihr Standort leicht nachverfolgbar sind. Es basiert auf einer **dezentralen Infrastruktur aus Servern**, die als **Relays** bezeichnet werden. Diese Server arbeiten zusammen, um Daten zu verschlüsseln und durch mehrere Knoten zu leiten, bevor sie ihr Ziel erreichen.
 
-![Tor (The onion router).png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Tor%20(The%20onion%20router).png)
+![Tor (The onion router).png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Tor%20(The%20onion%20router).png)
 
 ## Wie funktioniert Tor?
 

@@ -30,7 +30,7 @@ So hat sich in den letzten Jahren langsam aber sicher die Überzeugung herauskri
 - Respektvoller Umgang mit Mensch, Tier und Natur
 - Ehrliche, transparente Kommunikation statt [[02 - Künstliche Intelligenz/6 - later/Dark Patterns (Deceptive Patterns)\|Dark Patterns]]
 
-![Solarpunk AI 14.05.26 Gemini.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Erkunden/Bilder/Solarpunk%20AI%2014.05.26%20Gemini.png)
+![Solarpunk AI 14.05.26 Gemini.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Solarpunk%20AI%2014.05.26%20Gemini.png)
 
 ## Nur ein Werkzeug?
 
@@ -46,7 +46,7 @@ Denn die entscheidende Frage laute doch:
 
 Leider haben Macht und Geld im Übermaß die Tendenz Menschen zu korrumpieren. Wahrscheinlich sind wir schlecht beraten, wenn wir zulassen, dass sich beides in den Händen einer immer kleiner werdenden Anzahl von Konzernen konzentriert!
 
-Als ich 2022 [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Generative KI\|generative KI]] entdeckte, war ich wie im Rausch: „Ich hab’ Superkräfte, ich hab’ ChatGPT!“ war mein Kredo. (Ja, das habe ich sogar als Lied geschrieben - Veröffentlichung auf Anfrage, aber bitte keine zu hohen Erwartungen an den Song 😂).
+Als ich 2022 [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Generative KI\|generative KI]] entdeckte, war ich wie im Rausch: „Ich hab’ Superkräfte, ich hab’ ChatGPT!“ war mein Kredo. (Ja, das habe ich sogar als Lied geschrieben - Veröffentlichung auf Anfrage, aber bitte keine zu hohen Erwartungen an den Song 😂).
 ## Das, was uns ermächtigt …
 
 Nur langsam wurde mir bewusst: das was mich ermächtigt, das ermächtige ich auch.
@@ -63,5 +63,5 @@ Ich habe es noch nie so deutlich gesagt, aber es ist an der Zeit: Es führt kein
 
 ## 📖 Weiterlesen
 
-- Es geht auch anders: Beispiel aus der Welt der [[02 - Künstliche Intelligenz/Erkunden/Grundlagen KI/Generative KI#Es geht auch anders\|GenAI]]
+- Es geht auch anders: Beispiel aus der Welt der [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Generative KI#Es geht auch anders\|GenAI]]
 - Passende [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone#Kaninchenlöcher für den Einstieg\|Kaninchenlöcher für den Einstieg]]: z.B. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone#Alternative LLMs 🕳️🐇\|Alternative LLMs 🕳️🐇]] 
