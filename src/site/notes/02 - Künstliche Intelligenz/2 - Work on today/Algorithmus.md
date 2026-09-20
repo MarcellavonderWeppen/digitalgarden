@@ -4,7 +4,7 @@
 
 # Algorithmus
 
-![Regenbogeneinhornkätchen.png](/img/user/Regenbogeneinhornk%C3%A4tchen.png)
+![Regenbogeneinhornkätchen.png\|400](/img/user/Regenbogeneinhornk%C3%A4tchen.png)
 
 > [!quote] *Der Algorithmus hat mich hierher gebracht …* 
 
