@@ -4,6 +4,8 @@
 
 # Algorithmus
 
+![Regenbogeneinhornkätchen.png](/img/user/Regenbogeneinhornk%C3%A4tchen.png)
+
 > [!quote] *Der Algorithmus hat mich hierher gebracht …* 
 
 … so heißt es oft auf Social Media, mit einem Schmunzeln.
@@ -40,6 +42,8 @@ Ein Algorithmus ist die **Idee** - abstrakt, sprachunabhängig. Ein Computerprog
 
 - Dasselbe Rezept lässt sich auf Deutsch, Englisch oder Französisch aufschreiben. 
 - Derselbe Algorithmus lässt sich in Python, Java oder C++ implementieren.
+
+Hier ein Beispiel für einen Spam-Filter-Algorithmus: 
  
 ![Algorithmus Spamfilter.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Algorithmus%20Spamfilter.png)
 
@@ -62,7 +66,7 @@ Ergebnis: ein fertiges Rezept zum Loslegen.
 
 Das ist eine klare, endliche Schritt-für-Schritt-Anweisung - dieselbe Grundstruktur wie ganz oben in der Definition.
 
-Natürlich kann man mit KI nicht nur für Rezepte, sondern auch für das Programmieren ganzer Apps und Webseiten verwenden - das sogenannte [[02 - Künstliche Intelligenz/4 - very soon/Vibecoding\|Vibecoding]].
+Natürlich kann man KI nicht nur für Rezepte, sondern auch zum Programmieren ganzer Apps und Webseiten verwenden - das sogenannte [[02 - Künstliche Intelligenz/4 - very soon/Vibecoding\|Vibecoding]].
 
 ### Praxiswissen für gute Prompts
 
@@ -76,4 +80,6 @@ Natürlich kann man mit KI nicht nur für Rezepte, sondern auch für das Program
 
 Ein klassischer Algorithmus liefert bei gleicher Eingabe immer dasselbe Ergebnis. Ein Prompt nicht - dieselbe Anweisung kann zwei verschiedene Antworten erzeugen.
 
-Ein Prompt ist also kein Algorithmus im strengen Sinn, aber er teilt mit ihm den Kern: das Denken in klaren, nachvollziehbaren Schritten. 
+Ein Prompt ist also kein Algorithmus im strengen Sinn, aber er teilt mit ihm den Kern: das Denken in klaren, nachvollziehbaren Schritten zur Lösung eines Problems.
+
+Dieses lösungsorientierte Vorgehen ist sehr hilfreich beim Formulieren guter Prompts, wie ich finde. 
