@@ -68,3 +68,7 @@ Ein klassischer Algorithmus liefert bei gleicher Eingabe immer dasselbe Ergebnis
 Ein Prompt ist also kein Algorithmus im strengen Sinn, aber er teilt mit ihm den Kern: das Denken in klaren, nachvollziehbaren Schritten zur Lösung eines Problems.
 
 Dieses lösungsorientierte Vorgehen ist sehr hilfreich beim Formulieren guter Prompts, wie ich finde. 
+
+## Aus der YouTube Academy 📺
+
+Morpheus regt sich auf über manipulative Algorithmen: völlig zu Recht! [Es reicht mit Ragebait](https://www.youtube.com/watch?v=ojyWXJvwOQw)

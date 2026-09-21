@@ -5,7 +5,7 @@
 
 # CSS (Cascading Style Sheets)
 
-CSS ist das schicke Geschwisterchen von [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/HTML (Hypertext Markup Language)\|HTML]]. Es ist für das Design von Webseiten zuständig.
+CSS ist das schicke Geschwisterchen von [[02 - Künstliche Intelligenz/2 - Work on today/HTML (Hypertext Markup Language)\|HTML]]. Es ist für das Design von Webseiten zuständig.
 
 Ohne CSS würden das gesamte Internet noch immer wie in den 90ern aussehen:
 
