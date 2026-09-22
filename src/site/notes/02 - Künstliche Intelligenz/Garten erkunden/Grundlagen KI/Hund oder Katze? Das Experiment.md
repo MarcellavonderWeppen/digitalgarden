@@ -1,5 +1,5 @@
 ---
-{"title":"Hund oder Katze? Das Experiment","aliases":null,"tags":null,"gen_ai_anteil":["div. LLMs 40%"],"created":"2026-09-14","updated":"2026-09-20","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/garten-erkunden/grundlagen-ki/hund-oder-katze-das-experiment/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Hund oder Katze? Das Experiment","aliases":null,"tags":null,"gen_ai_anteil":["div. LLMs 40%"],"created":"2026-09-14","updated":"2026-09-20","status":null}}
+{"title":"Hund oder Katze? Das Experiment","aliases":null,"tags":null,"gen_ai_anteil":["div. LLMs 40%"],"created":"2026-09-14","updated":"2026-09-22","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/garten-erkunden/grundlagen-ki/hund-oder-katze-das-experiment/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Hund oder Katze? Das Experiment","aliases":null,"tags":null,"gen_ai_anteil":["div. LLMs 40%"],"created":"2026-09-14","updated":"2026-09-22","status":null}}
 ---
 
 # Ein Experiment: Hund oder Katze
