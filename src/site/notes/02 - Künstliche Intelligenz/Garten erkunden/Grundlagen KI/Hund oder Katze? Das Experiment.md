@@ -109,10 +109,22 @@ _**Der auffälligste Hinweis ist aber der Kopf**: Augen, Nase, Schnauze und die 
 
 ## Schlussfolgerung
 
-Das Experiment zeigt, warum [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Klassische KI\|klassische KI]] an Aufgaben wie Bilderkennung oder Bildgenerierung scheitert.
+Das Experiment zeigt nicht nur, wie selbstbewusst [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|große Sprachmodelle]] ihre Irrtümer vortragen (sogenannte [[02 - Künstliche Intelligenz/4 - very soon/Halluzinationen\|Halluzinationen]]), sondern vor allem, warum [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Klassische KI\|klassische KI]] an Aufgaben wie Bilderkennung oder Bildgenerierung scheitert.
 
 Diese Form der KI ist auf explizite, also aufschreibbare Regeln angewiesen. Aber selbst eine gründliche Merkmalsliste legt nicht eindeutig fest, was ein Hund ist und was eine Katze.
 
 Oder vielleicht waren die Regeln einfach nicht umfassend oder präzise genug?
 
 Schickt mir eure besseren Regeln, und wir schauen, was ChatGPT daraus macht!
+
+
+
+
+
+
+
+
+
+
+
+
