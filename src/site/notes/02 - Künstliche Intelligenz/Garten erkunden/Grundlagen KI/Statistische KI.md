@@ -38,7 +38,7 @@ Die datengetriebene KI konnte ihren Siegeszug keinen Augenblick früher antreten
 
 - Verfügbarkeit großer Datenmengen („**Big Data**“)
 - Rechenleistung, um diese Datenmengen verarbeiten zu können („**Compute**“)
-- **[[02 - Künstliche Intelligenz/3 - Work on tomorrow/Algorithmus\|Algorithmen]]** und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen
+- **[[02 - Künstliche Intelligenz/2 - Work on today/Algorithmus\|Algorithmen]]** und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen
 
 ![3 Voraussetzungen für statistische KI.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/3%20Voraussetzungen%20f%C3%BCr%20statistische%20KI.png)
 
@@ -54,6 +54,6 @@ Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code 
 ## 📖 Weiterlesen
 
 - [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
-- Woran erkennt man einen Hund oder eine Katze? Ein niedliches [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Hund oder Katze? Das Experiment\|Experiment]]
+- Woran erkennt man einen Hund oder eine Katze? Ein niedliches [[02 - Künstliche Intelligenz/0 - Final Check/Hund oder Katze? Das Experiment\|Experiment]]
 - Die praktische Umsetzung von statistischer KI: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]] und seine Unterform [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
 - Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Generative KI\|Generative KI]]
