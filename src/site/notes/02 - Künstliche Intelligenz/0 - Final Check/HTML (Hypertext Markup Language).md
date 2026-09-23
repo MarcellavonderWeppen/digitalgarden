@@ -80,5 +80,5 @@ Damit würden wir Sehende wahrscheinlich verwirren. Menschen, die einen Screenre
 👉 Wer neugierig geworden ist: [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|So sieht das CSS hinter unserem Beispiel aus]].
 ## 📖 Weiterlesen
 
-- Ein Artikel über HTML, der Tim Berners-Lee nicht erwähnt, ist eigentlich unvollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[02 - Künstliche Intelligenz/2 - Work on today/Eine sehr kurze Geschichte des Internets\|sehr kurzen Geschichte des Internets]].
+- Ein Artikel über HTML, der Tim Berners-Lee nicht erwähnt, ist eigentlich unvollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[02 - Künstliche Intelligenz/2 - Work on today/Eine kurze Geschichte des Internets\|sehr kurzen Geschichte des Internets]].
 - Mehr über [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|CSS (Cascading Style Sheets)]], die „Design-Sprache“ des Webs
