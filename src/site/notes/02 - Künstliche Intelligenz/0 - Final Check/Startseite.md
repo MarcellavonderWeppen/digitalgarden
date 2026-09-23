@@ -29,7 +29,7 @@ Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 
 - ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob noch Wurzeln fehlen.
 - 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck. Ein Setzling darf ein Setzling sein.
-- 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Gerade dort, wo sie sich berühren, entsteht oft das Spannendste.
+- 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Vernetztes Denken in Aktion.
 - 🏡 **Ein eigenes Stück Land:** Kein [[02 - Künstliche Intelligenz/2 - Work on today/Algorithmus\|Algorithmus]] entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
 - 🐝 **Gemeinsam gärtnern:** Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
 
