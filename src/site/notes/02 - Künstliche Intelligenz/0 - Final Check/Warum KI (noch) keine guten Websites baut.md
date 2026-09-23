@@ -57,14 +57,14 @@ Kann KI Webdesigner ersetzen? Noch nicht – wer weiß, was die Zukunft bringt.
 > [!tip] Bau Deine Website!
 > Bei allem, was gesagt wurde, möchte ich um Himmels willen niemanden davon abhalten, eine eigene Website zu bauen! So ein Projekt kann eine Menge Spaß machen und dieser Artikel liefert erste Anhaltspunkte, worauf Du achten solltest. 
 > 
-> Ich empfehle Dir, KI vor allem zum Lernen zu nutzen, um ein grundlegendes Verständnis dafür aufzubauen, worauf es bei der Entwicklung einer Website ankommt. Bringe Zeit, Geduld, Neugier und Freude am Ausprobieren mit. 
+> Ich empfehle Dir, KI vor allem zum Lernen zu nutzen, um ein grundlegendes Verständnis dafür aufzubauen, worauf es bei der Entwicklung einer Website ankommt. Bringe Geduld, Zeit, Neugier und Freude am Ausprobieren mit. 
 > 
-> Brauchst Du dagegen schnell eine berufliche Internetpräsenz, bist Du aus meiner Sicht bei Profis besser aufgehoben.
+> Brauchst Du dagegen schnell eine berufliche Internetpräsenz, bist Du aus meiner Sicht in professionellen Händen besser aufgehoben.
 
 
 ## 📺 Empfehlungen aus der YouTube-Academy
 
-Hier gibt es noch mehr Gedankenfutter von meinem Lieblings-[[02 - Künstliche Intelligenz/4 - very soon/UX\|UX-Designer]] auf YouTube, dem wundervollen Michal Malewicz:
+Hier gibt es noch mehr Gedankenfutter von meinem Lieblings-UX-Designer auf YouTube, dem wundervollen Michal Malewicz:
 
 - [Everyone Can Design Now... NO THEY CAN'T!](https://www.youtube.com/watch?v=LTsIKT9dslU)
 - [IDENTICAL websites but worth $59 and $10000](https://www.youtube.com/watch?v=Hzr3Q1CJPbI)
@@ -72,3 +72,6 @@ Hier gibt es noch mehr Gedankenfutter von meinem Lieblings-[[02 - Künstliche In
 
 Für Leute mit wenig Zeit – das Thema in 40 Sekunden: 
 [Every AI Startup Website Looks the Same](https://www.youtube.com/shorts/HRaGvoRa-IU)
+
+
+> PS: Auf eine ausführliche Bewertung von Tools wie Lovable oder Bolt verzichte ich bewusst, da alles, was ich heute dazu sagen würde, angesichts der rasanten technologischen Entwicklung in wenigen Wochen überholt sein könnte. Bei Interesse lass einfach ein [LLM](LLMs) Deines Vertrauens per Websuche den aktuellen Stand recherchieren und kritisch beurteilen.
