@@ -11,7 +11,7 @@ Vom Dark Web haben viele schon gehört, obwohl es nur ein winziger Teil ist. Tat
 
 *Eine Anmerkung zu den Prozentzahlen: Diese sind rein geschätzt, um die Größenordnung greifbar zu machen. Genaue Zahlen sind unbekannt, da sie sich kaum erheben lassen.*
 
-![Web Eisberg.png](/img/user/Web%20Eisberg.png)
+![Web Eisberg.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Web%20Eisberg.png)
 
 ## Surface Web – Die Spitze des Eisbergs
 
@@ -53,4 +53,4 @@ Für unser Eisberg-Modell heißt das: Surface, Deep und Dark Web beschreiben Sch
 ## 📖 Weiterlesen
 
 - Das Internet, wie kam es dazu? [[02 - Künstliche Intelligenz/2 - Work on today/Eine kurze Geschichte des Internets\|Eine kurze Geschichte des Internets]]
-- Mehr über [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML]], die Sprache des Webs
+- Mehr über [[02 - Künstliche Intelligenz/3 - Work on tomorrow/HTML (Hypertext Markup Language)\|HTML]], die Sprache des Webs

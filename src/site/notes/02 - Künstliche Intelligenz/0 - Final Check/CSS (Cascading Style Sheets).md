@@ -5,7 +5,7 @@
 
 # CSS (Cascading Style Sheets)
 
-CSS ist das schicke Geschwisterchen von [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML]]. Es ist für das Design von Webseiten zuständig.
+CSS ist das schicke Geschwisterchen von [[02 - Künstliche Intelligenz/3 - Work on tomorrow/HTML (Hypertext Markup Language)\|HTML]]. Es ist für das Design von Webseiten zuständig.
 
 Ohne CSS würde das gesamte Internet noch immer wie Anfang der 90er aussehen:
 
@@ -55,9 +55,9 @@ h1 {
 Fertig! Genau deshalb ist die Trennung von Struktur und Aussehen ein genialer Schachzug.
 ## Ein eigenwilliges Beispiel
 
-Farbe und Größe sind natürlich erst der Anfang. Mit CSS lässt sich noch viel mehr anstellen.Im Artikel über [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML]] haben wir unserem Beispiel ein ziemlich eigenwilliges Aussehen verpasst:
+Farbe und Größe sind natürlich erst der Anfang. Mit CSS lässt sich noch viel mehr anstellen.Im Artikel über [[02 - Künstliche Intelligenz/3 - Work on tomorrow/HTML (Hypertext Markup Language)\|HTML]] haben wir unserem Beispiel ein ziemlich eigenwilliges Aussehen verpasst:
 
-![Website mit eigenwilligem CSS.png](/img/user/Website%20mit%20eigenwilligem%20CSS.png)
+![Website mit eigenwilligem CSS.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Website%20mit%20eigenwilligem%20CSS.png)
 
 So sieht das CSS dahinter aus:
 
