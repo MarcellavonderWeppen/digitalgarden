@@ -53,8 +53,8 @@ Folge dem weißen Kaninchen in die [[02 - Künstliche Intelligenz/5 - soon (ver�
 
 Kaum ein Thema prägt unseren Zeitgeist so sehr wie die sogenannte künstliche Intelligenz. Und kaum eines polarisiert so stark:
 
-Manche sind regelrecht euphorisch,  
-anderen ist sie zutiefst zuwider.
+Die einen lieben sie,  
+den anderen ist sie zutiefst zuwider.
 
 Beides kann ich verstehen, denn ich habe mich schon an beiden Enden des Spektrums wiedergefunden – nach der rosaroten Brille kam die Ernüchterung. 
 
