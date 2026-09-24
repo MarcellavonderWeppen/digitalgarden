@@ -12,7 +12,7 @@
 - **1945 – Vannevar Bush erträumt den „Memex“:** Der US-Wissenschaftler beschreibt in seinem Essay „As We May Think“ eine Schreibtisch-Maschine, in der man Bücher, Notizen und Fotos speichert und über selbst angelegte „Pfade“ miteinander verbindet. Gebaut wurde sie nie, aber die Idee hat Generationen von Informatikern inspiriert.
 - **1965 – Ted Nelson erfindet ein Wort:** Er prägt den Begriff „Hypertext“ und entwirft mit seinem „Project Xanadu“ ein weltweites System aus verknüpften Dokumenten. Fertig wurde es nie – aber der Name ist geblieben.
 - **1968 – Douglas Engelbart zeigt die Zukunft:** In einer 90-minütigen Live-Vorführung in San Francisco präsentiert er Dinge, die damals kaum jemand für möglich hielt: eine Maus, anklickbare Links, Fenster auf dem Bildschirm, gemeinsames Bearbeiten von Texten und sogar eine Videokonferenz. Später bekommt die Vorführung den Spitznamen „Mother of All Demos“, die Mutter aller Vorführungen.
-- 
+
 Was noch fehlte: ein Netz, über das Computer an verschiedenen Orten miteinander reden konnten.
 
 > [!info] Was ist Hypertext?
@@ -72,7 +72,6 @@ Ende der 1980er arbeitet Tim Berners-Lee am CERN, dem europäischen Forschungsze
 > - **HTML (Hypertext Markup Language)** beschreibt, wie eine Seite aufgebaut ist: Überschriften, Absätze, Links.
 > - **URL (Uniform Resource Locator)** ist die Adresse einer Seite, zum Beispiel https://info.cern.ch.
 > - **HTTP (Hypertext Transfer Protocol)** regelt, wie Browser und Server sich unterhalten: Der Browser fragt „Gib mir bitte diese Seite“, der Server schickt sie.
->
 
 Das Web war frei. Aber es sah noch ziemlich karg aus: Text, Links, kaum Bilder. Das sollte sich schneller ändern, als irgendjemand ahnte.
 
@@ -99,6 +98,12 @@ Das Web wurde als offenes, dezentrales System gebaut: Jeder kann eine Seite ver�
 
 - **Wenige Konzerne, viel Macht:** Ein großer Teil dessen, was Menschen online tun, läuft heute über die Dienste weniger großer Tech-Konzerne: Suche, soziale Netzwerke, Online-Handel, App-Stores und die Rechenzentren, auf denen viele andere Dienste laufen (die „Cloud“). Statt frei im Web zu stöbern, bewegen sich viele Menschen vor allem innerhalb einzelner Apps.
 - **Der Erfinder als Kritiker:** Tim Berners-Lee warnt seit Jahren vor dieser Entwicklung. Mit dem Projekt „Solid“ arbeitet er an einer Technik, mit der Menschen die Kontrolle über ihre eigenen Daten zurückbekommen sollen.
+
+
+> [!quote] Sir Tim
+>
+> 2004 wurde Tim Berners-Lee von Queen Elizabeth II. zum Ritter geschlagen, „für Verdienste um die weltweite Entwicklung des Internets“. Seitdem heißt er offiziell Sir Tim Berners-Lee. Völlig verdient, wie ich finde, und zwar doppelt: Erst hat er der Welt das Web geschenkt, und heute setzt er sich dafür ein, dass es offen bleibt. Ein echter Edelmann eben.
+
 - **Gegenbewegungen:** Die EU versucht mit Gesetzen wie dem Digital Markets Act, die Macht großer Plattformen zu begrenzen. Und dezentrale Netzwerke wie das Fediverse (bekanntester Dienst: Mastodon) knüpfen wieder an die ursprüngliche Idee an: viele unabhängige Server statt einer zentralen Firma.
 - **Das Web als Trainingsmaterial:** Große Sprachmodelle wie ChatGPT oder Claude lernen zu einem großen Teil aus Texten, die frei im Web stehen. Programme, sogenannte Crawler, durchforsten dafür automatisch Milliarden Webseiten. Ob das ohne Erlaubnis und Bezahlung der Urheberinnen und Urheber erlaubt ist, beschäftigt inzwischen Gerichte in vielen Ländern.
 - **Von Links zu Antworten:** Suchmaschinen und KI-Assistenten liefern immer öfter direkt eine fertige Antwort, statt auf Quellen zu verlinken. Für Lesende ist das bequem. Für die Webseiten, deren Inhalte in diesen Antworten stecken, bedeutet es oft weniger Besuche. Die Grundidee des Hypertexts – von Text zu Text springen – rückt dabei ein Stück in den Hintergrund.
