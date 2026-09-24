@@ -75,7 +75,4 @@ Für Leute mit wenig Zeit – das Thema in 40 Sekunden:
 [Every AI Startup Website Looks the Same](https://www.youtube.com/shorts/HRaGvoRa-IU)
 
 
-> PS: Auf eine ausführliche Bewertung von Tools wie Lovable oder Bolt verzichte ich bewusst, da alles, was ich heute dazu sagen würde, angesichts der rasanten technologischen Entwicklung in wenigen Wochen überholt sein könnte. Bei Interesse lass einfach ein [LLM](LLMs) Deines Vertrauens per Websuche den aktuellen Stand recherchieren und kritisch beurteilen.
-
-
 [^tools]: Auf eine ausführliche Bewertung dieser Tools verzichte ich in diesem Artikel bewusst, denn alles heute Gesagte könnte morgen schon hinfällig sein. Wenn Dich der aktuelle Stand interessiert, lass ein [LLM](LLMs) Deines Vertrauens per Websuche recherchieren und kritisch beurteilen.
