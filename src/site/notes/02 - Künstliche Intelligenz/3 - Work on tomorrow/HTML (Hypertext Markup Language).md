@@ -16,7 +16,7 @@ Hier ein Beispiel für HTML-Code:
 
 So teilen wir dem Browser mit, wie die Seite aufgebaut ist: Was sind Überschriften, was sind Links, was ist Fließtext?
 
-Für das Design ist HTML nicht zuständig, dafür brauchen wir zusätzlich [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|CSS]].
+Für das Design ist HTML nicht zuständig, dafür brauchen wir zusätzlich [[02 - Künstliche Intelligenz/3 - Work on tomorrow/CSS (Cascading Style Sheets)\|CSS]].
 
 Ohne CSS würden alle Seiten immer noch so aussehen wie Anfang der 90er, in den frühen Tagen des Webs:
 
@@ -77,9 +77,9 @@ So könnte unser Beispiel von oben aussehen, wenn wir es mit CSS eigenwillig ges
 
 Damit würden wir Sehende wahrscheinlich verwirren. Menschen, die einen Screenreader verwenden, bemerken davon dagegen nichts: Der Screenreader kündigt „Ich bin die Hauptüberschrift“ weiterhin als Überschrift der obersten Ebene an und den Link als Link. Genau das meint die Trennung von Struktur und Design: HTML sagt, _was_ etwas ist, CSS sagt, _wie_ es aussieht.
 
-👉 Wer neugierig geworden ist: [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|So sieht das CSS hinter unserem Beispiel aus]].
+👉 Wer neugierig geworden ist: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/CSS (Cascading Style Sheets)\|So sieht das CSS hinter unserem Beispiel aus]].
 ## 📖 Weiterlesen
 
 - Ein Artikel über HTML, der Tim Berners-Lee nicht erwähnt, ist eigentlich unvollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[02 - Künstliche Intelligenz/2 - Work on today/Eine kurze Geschichte des Internets\|sehr kurzen Geschichte des Internets]].
 - Ein Hypertext-System muss nicht digital sein. Hier mehr über ein analoges Beispiel: [[Zettelkasten und Hypertext\|Zettelkasten und Hypertext]]
-- Mehr über [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|CSS (Cascading Style Sheets)]], die „Design-Sprache“ des Webs
+- Mehr über [[02 - Künstliche Intelligenz/3 - Work on tomorrow/CSS (Cascading Style Sheets)\|CSS (Cascading Style Sheets)]], die „Design-Sprache“ des Webs

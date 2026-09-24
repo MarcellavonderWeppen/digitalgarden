@@ -88,7 +88,7 @@ Ab Mitte der 1990er geht alles sehr schnell. Innerhalb weniger Jahre wird aus de
 
 > [!info] Was ist ein Browser?
 >
-> Ein Browser (engl. „to browse“, stöbern) ist das Programm, mit dem du Webseiten ansiehst, zum Beispiel Firefox, Chrome oder Safari. Er fragt per HTTP beim Server nach einer Seite, bekommt HTML und [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|CSS]] zurück und baut daraus die Seite, die du auf dem Bildschirm siehst. Man kann ihn sich vorstellen wie ein Theater: HTML ist das Drehbuch, CSS sind Kostüme und Bühnenbild, und der Browser bringt das Stück auf die Bühne.
+> Ein Browser (engl. „to browse“, stöbern) ist das Programm, mit dem du Webseiten ansiehst, zum Beispiel Firefox, Chrome oder Safari. Er fragt per HTTP beim Server nach einer Seite, bekommt HTML und [[02 - Künstliche Intelligenz/3 - Work on tomorrow/CSS (Cascading Style Sheets)\|CSS]] zurück und baut daraus die Seite, die du auf dem Bildschirm siehst. Man kann ihn sich vorstellen wie ein Theater: HTML ist das Drehbuch, CSS sind Kostüme und Bühnenbild, und der Browser bringt das Stück auf die Bühne.
 
 Heute nutzen rund 6 Milliarden Menschen das Internet, etwa drei Viertel der Weltbevölkerung. 2,2 Milliarden sind allerdings noch immer offline. Und das Netz, das einmal als offenes Projekt von Forschenden begann, sieht heute ziemlich anders aus, als seine Erfinder es sich vorgestellt hatten.
 
