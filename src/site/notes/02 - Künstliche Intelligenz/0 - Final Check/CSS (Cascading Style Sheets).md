@@ -13,7 +13,7 @@ Ohne CSS würde das gesamte Internet noch immer wie Anfang der 90er aussehen:
 
 Gut, dass wir CSS erfunden haben!
 
-Übrigens: Das Beispiel oben ist nicht ausgedacht. Es ist die allererste Website der Welt, und man kann sie bis heute besuchen: [info.cern.ch](https://info.cern.ch/hypertext/WWW/TheProject.html). Sir [[02 - Künstliche Intelligenz/2 - Work on today/Eine kurze Geschichte des Internets#Das World Wide Web Ein Geschenk an die Welt\|Tim Berners-Lee]] hat sie Anfang der 90er am CERN online gestellt und damit der Welt das World Wide Web geschenkt. 
+Übrigens: Dieses Beispiel ist nicht ausgedacht. Es ist die allererste Website der Welt, und man kann sie bis heute besuchen: [info.cern.ch](https://info.cern.ch/hypertext/WWW/TheProject.html). Sir [[02 - Künstliche Intelligenz/2 - Work on today/Eine kurze Geschichte des Internets#Das World Wide Web Ein Geschenk an die Welt\|Tim Berners-Lee]] hat sie Anfang der 90er am CERN online gestellt und damit der Welt das World Wide Web geschenkt. 
 ## Ein einfaches Beispiel für CSS
 
 So könnte eine CSS-Regel aussehen:
@@ -28,7 +28,7 @@ h1 {
 Das bedeutet: „Mache alle Hauptüberschriften (`h1`) blau und gib ihnen eine Größe von 20 Pixeln.“
 ## Warum zwei Sprachen?
 
-An diesem Punkt stellt sich vielleicht die Frage: Wozu zwei Sprachen - HTML _und_ CSS? Hätte man nicht auch eine Sprache erfinden können, die alles kann?
+An diesem Punkt stellt sich dem aufmerksamen Leser vielleicht die Frage: Wozu zwei Sprachen - HTML _und_ CSS? Hätte man nicht auch eine Sprache erfinden können, die alles kann?
 
 Gute Frage!
 
@@ -36,7 +36,7 @@ Tatsächlich war es anfangs genau so: Bevor es CSS gab, wurde das Aussehen direk
 
 Das funktioniert, hat aber einen gewaltigen Haken.
 
-Man stelle sich eine Webseite mit hunderten Unterseiten vor. Jede Unterseite hat eine große blaue Überschrift wie in unserem Beispiel oben. Nun entscheidet der Besitzer der Website: Die Überschriften sollen rot sein!
+Man stelle sich eine Webseite mit hunderten Unterseiten vor. Jede Unterseite hat eine große blaue Überschrift wie in unserem Beispiel. Nun entscheidet der Besitzer der Website: Die Überschriften sollen rot sein!
 
 Steckt das Aussehen direkt im HTML, müssten wir nun auf hunderten Seiten von Hand die Überschrift von blau auf rot umstellen.
 
@@ -56,7 +56,7 @@ h1 {
 Fertig! Genau deshalb ist die Trennung von Struktur und Aussehen ein genialer Schachzug.
 ## Ein eigenwilliges Beispiel
 
-Farbe und Größe sind natürlich erst der Anfang. Mit CSS lässt sich noch viel mehr anstellen.Im Artikel über [[02 - Künstliche Intelligenz/3 - Work on tomorrow/HTML (Hypertext Markup Language)\|HTML]] haben wir unserem Beispiel ein ziemlich eigenwilliges Aussehen verpasst:
+Farbe und Größe sind natürlich erst der Anfang. Mit CSS lässt sich noch viel mehr anstellen. Im Artikel über [[02 - Künstliche Intelligenz/3 - Work on tomorrow/HTML (Hypertext Markup Language)\|HTML]] haben wir unserem Beispiel ein ziemlich eigenwilliges Aussehen verpasst:
 
 ![Website mit eigenwilligem CSS.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Website%20mit%20eigenwilligem%20CSS.png)
 
