@@ -4,7 +4,7 @@
 
 # Warum KI (noch) keine guten Websites baut
 
-Eine eigene Internetpräsenz in wenigen Minuten, auch ohne Programmierkenntnisse: So lautet das Versprechen von Tools wie Lovable oder Bolt. Man beschreibt in einfachen Worten, was man haben möchte, und die KI baut daraus eine lauffähige Seite. 
+Eine eigene Internetpräsenz in wenigen Minuten, auch ohne Programmierkenntnisse: So lautet das Versprechen von Tools wie Lovable oder Bolt.[^tools] Man beschreibt in einfachen Worten, was man haben möchte, und die KI baut daraus eine lauffähige Seite. 
 
 Spezialisierte Tools braucht es dafür nicht unbedingt: Wer ohnehin gut mit ChatGPT oder Claude umgehen kann, kommt auch damit ans Ziel. Die Kunst, Websites oder Apps von der KI bauen zu lassen, ohne den Code selbst verstehen zu müssen, nennt sich [[02 - Künstliche Intelligenz/4 - very soon/Vibecoding\|Vibecoding]].
 
@@ -42,7 +42,7 @@ Auch für eine einfache Visitenkarten-Website oder Hobbyprojekte ist das Ergebni
 **Sicherheit:** Die Seite ist gegen Angriffe geschützt. Hat der Code Lücken, können Angreifer an Daten kommen oder die Seite manipulieren.
 
 > [!info] User Experience (UX)
-> Eine gute UX (Nutzererfahrung) entsteht durch alles, was den Besuch einer Website einfacher und angenehmer macht. Dazu gehören Themen wie Performance und Accessibility, aber auch eine klare Nutzerführung: Besucher finden sich schnell zurecht und erreichen ihr Ziel, weil Navigation, Aufbau und Handlungsaufforderungen verständlich sind.
+> Eine gute UX (Nutzererfahrung) entsteht durch alles, was den Besuch einer Website einfacher und angenehmer macht. Dazu gehören Themen wie Performance und Accessibility, aber auch eine klare Nutzerführung: Besucher finden sich schnell zurecht und erreichen ihr Ziel, weil Navigation und Aufbau verständlich sind.
 
 
 
@@ -53,6 +53,7 @@ In den Händen von Menschen, die wissen, was sie tun, kann KI den Bau einer Webs
 Wer dagegen nicht beurteilen kann, was die KI da gebaut hat, bekommt vor allem eines: eine hübsche Fassade. Was dahintersteckt, bleibt im Dunkeln.
 
 Kann KI Webdesigner ersetzen? Noch nicht – wer weiß, was die Zukunft bringt. 
+
 
 > [!tip] Bau Deine Website!
 > Bei allem, was gesagt wurde, möchte ich um Himmels willen niemanden davon abhalten, eine eigene Website zu bauen! So ein Projekt kann eine Menge Spaß machen und dieser Artikel liefert erste Anhaltspunkte, worauf Du achten solltest. 
@@ -75,3 +76,6 @@ Für Leute mit wenig Zeit – das Thema in 40 Sekunden:
 
 
 > PS: Auf eine ausführliche Bewertung von Tools wie Lovable oder Bolt verzichte ich bewusst, da alles, was ich heute dazu sagen würde, angesichts der rasanten technologischen Entwicklung in wenigen Wochen überholt sein könnte. Bei Interesse lass einfach ein [LLM](LLMs) Deines Vertrauens per Websuche den aktuellen Stand recherchieren und kritisch beurteilen.
+
+
+[^tools]: Auf eine ausführliche Bewertung dieser Tools verzichte ich in diesem Artikel bewusst, denn alles heute Gesagte könnte morgen schon hinfällig sein. Wenn Dich der aktuelle Stand interessiert, lass ein [LLM](LLMs) Deines Vertrauens per Websuche recherchieren und kritisch beurteilen.
