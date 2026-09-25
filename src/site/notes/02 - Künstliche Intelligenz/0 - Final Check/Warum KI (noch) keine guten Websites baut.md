@@ -75,4 +75,4 @@ Für Leute mit wenig Zeit – das Thema in 40 Sekunden:
 [Every AI Startup Website Looks the Same](https://www.youtube.com/shorts/HRaGvoRa-IU)
 
 
-[^tools]: Auf eine ausführliche Bewertung dieser Tools verzichte ich in diesem Artikel bewusst, denn alles heute Gesagte könnte morgen schon hinfällig sein. Wenn Dich der aktuelle Stand interessiert, lass ein [LLM](LLMs) Deines Vertrauens per Websuche recherchieren und kritisch beurteilen. 
+[^tools]: Auf eine ausführliche Bewertung dieser Tools verzichte ich in diesem Artikel bewusst, denn alles heute Gesagte könnte morgen schon hinfällig sein. Wenn Dich der aktuelle Stand interessiert, lass ein [LLM](LLMs) Deines Vertrauens per Websuche recherchieren und kritisch beurteilen. Für brauchbare Ergebnisse solltest Du alllerdings die [[Kunst des Promptens\|Kunst des Promptens]] beherrschen 😉
