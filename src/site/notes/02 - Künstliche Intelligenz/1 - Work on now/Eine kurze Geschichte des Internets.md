@@ -5,28 +5,28 @@
 
 # Eine kurze Geschichte des Internets
 
-## Die Idee kam zuerst: Hypertext
+## Am Anfang war der Hypertext
 
-1945, der Zweite Weltkrieg geht gerade zu Ende. Die wenigen Computer, die es gibt, füllen ganze Räume und können kaum mehr als rechnen. Und trotzdem träumen schon damals Menschen davon, Texte miteinander zu verknüpfen.
+1945, der Zweite Weltkrieg geht gerade zu Ende. Die wenigen Computer, die es gibt, füllen ganze Räume und können kaum mehr als rechnen. Und dennoch träumen schon damals Menschen davon, Texte miteinander zu verknüpfen.
 
-- **1945 – Vannevar Bush erträumt den „Memex“:** Der US-Wissenschaftler beschreibt in seinem Essay „As We May Think“ eine Schreibtisch-Maschine, in der man Bücher, Notizen und Fotos speichert und über selbst angelegte „Pfade“ miteinander verbindet. Gebaut wurde sie nie, aber die Idee hat Generationen von Informatikern inspiriert.
+- **1945 – Vannevar Bush skizziert den „Memex“:** Der US-Wissenschaftler beschreibt in seinem Essay „As We May Think“ eine Schreibtisch-Maschine, in der man Bücher, Notizen und Fotos speichert und über selbst angelegte „Pfade“ miteinander verbindet. Die Maschine existierte nur auf dem Papier, aber sie hat Generationen von Informatikern inspiriert.
 - **1965 – Ted Nelson erfindet ein Wort:** Er prägt den Begriff „Hypertext“ und entwirft mit seinem „Project Xanadu“ ein weltweites System aus verknüpften Dokumenten. Fertig wurde es nie – aber der Name ist geblieben.
-- **1968 – Douglas Engelbart zeigt die Zukunft:** In einer 90-minütigen Live-Vorführung in San Francisco präsentiert er Dinge, die damals kaum jemand für möglich hielt: eine Maus, anklickbare Links, Fenster auf dem Bildschirm, gemeinsames Bearbeiten von Texten und sogar eine Videokonferenz. Später bekommt die Vorführung den Spitznamen „Mother of All Demos“, die Mutter aller Vorführungen.
+- **1968 – Douglas Engelbart macht eine Vorführung:** In San Francisco präsentiert er vor rund tausend Zuschauern Dinge, die damals kaum jemand für möglich hielt: eine Maus, anklickbare Links, Fenster auf dem Bildschirm, gemeinsames Bearbeiten von Texten und sogar eine Videokonferenz. Später bekommt der Auftritt den Spitznamen „Mother of All Demos“, die Mutter aller Vorführungen.
 
-Was noch fehlte: ein Netz, über das Computer an verschiedenen Orten miteinander reden konnten.
+Was noch fehlte: ein Netz, über das Computer an verschiedenen Orten miteinander kommunizieren konnten.
 
 > [!info] Was ist Hypertext?
 >
-> Text mit eingebauten Abzweigungen. Ein Buch liest du von vorne nach hinten, bei Hypertext springst du per Klick dorthin, wo es dich gerade interessiert. Jeder Link auf einer Webseite ist Hypertext – und jede Verknüpfung in diesem Garten auch.
+> Text, der über Links mit anderen Texten verbunden ist. Ein Buch hat eine feste Reihenfolge: Seite folgt auf Seite. Hypertext ist dagegen ein Netz, in dem du per Klick von Text zu Text springst. Das ganze Web ist Hypertext – und dieser Garten auch.
 
 ## Das ARPANET: Computer lernen, miteinander zu reden
 
 Dieses Netz entsteht Ende der 1960er in den USA – bezahlt vom Militär, gebaut von Universitäten.
 
 - **1958 – Der Sputnik-Schock:** Die Sowjetunion hat gerade den ersten Satelliten ins All geschossen, die USA fühlen sich technisch abgehängt. Als Antwort gründet das Verteidigungsministerium die ARPA (Advanced Research Projects Agency), eine Behörde, die Spitzenforschung finanziert.
-- **1969 – „LO“:** Am 29. Oktober 1969 will sich ein Student an der Universität von Los Angeles (UCLA) auf einem Rechner am Stanford Research Institute einloggen, rund 500 Kilometer entfernt. Er tippt „LOGIN“ – nach „L“ und „O“ stürzt das System ab. Die allererste Nachricht im Vorläufer des Internets lautet also: „LO“.
+- **1969 – Es geht LO…:** Am 29. Oktober 1969 sollen zum ersten Mal zwei Rechner über das neue Netz Daten austauschen. Ein Student an der Universität von Los Angeles (UCLA) will sich dafür auf einem Rechner am Stanford Research Institute einloggen, rund 500 Kilometer entfernt. Er möchte „LOGIN“ eintippen, doch nach „L“ und „O“ stürzt das System ab. Die allererste Nachricht im Vorläufer des Internets lautet also: „LO“.
 - **Ende 1969 – vier Rechner, ein Netz:** Zum Jahresende sind vier Universitätsrechner miteinander verbunden. In den folgenden Jahren wächst das ARPANET auf Dutzende, später Hunderte Rechner.
-- **1971 – Die erste E-Mail:** Der Programmierer Ray Tomlinson verschickt Nachrichten zwischen Rechnern im Netz und wählt dafür das @-Zeichen, um Name und Rechner zu trennen. E-Mail wird schnell zur beliebtesten Anwendung im ARPANET.
+- **1971 – Die erste E-Mail:** Der Programmierer Ray Tomlinson schickt die erste Nachricht von einem Rechner zu einem anderen. Die Adresse muss dabei zweierlei verraten: an wen die Nachricht geht und auf welchem Rechner diese Person zu finden ist. Um beides sauber zu trennen, wählt Tomlinson ein Zeichen, das in Namen nie vorkommt: das @. E-Mail wird schnell zur beliebtesten Anwendung im ARPANET.
 
 
 > [!info] Was ist Paketvermittlung?
@@ -35,19 +35,19 @@ Dieses Netz entsteht Ende der 1960er in den USA – bezahlt vom Militär, gebaut
 
 ### Mythos-Check: Gebaut für den Atomkrieg?
 
-Genau diese Robustheit hat eine hartnäckige Legende genährt: Das Internet sei entwickelt worden, um einen Atomkrieg zu überstehen. Das stimmt nur halb. Das ARPANET sollte vor allem teure Großrechner für Forschende an verschiedenen Orten nutzbar machen, denn Rechenzeit war knapp und kostbar. Die Paketvermittlung geht aber unter anderem auf den Ingenieur Paul Baran zurück, der Anfang der 1960er ein Kommunikationsnetz entwarf, das auch einen Atomangriff übersteht. Die Technik war also teils militärisch inspiriert, der Zweck des ARPANET vor allem wissenschaftlich.
+Die Legende, das Internet sei entwickelt worden, um einen Atomkrieg zu überstehen, hält sich hartnäckig. Das stimmt nur teilweise. Das ARPANET sollte vor allem teure Großrechner für Forschende an verschiedenen Orten nutzbar machen, denn Rechenzeit war knapp und kostbar. Einen wahren Kern hat die Legende aber: Die Paketvermittlung geht unter anderem auf den Ingenieur Paul Baran zurück, der Anfang der 1960er im Umfeld des US-Militärs an einem Kommunikationsnetz forschte, das auch einen Atomangriff übersteht.[^Paul-Baran] Die Technik war also teils militärisch inspiriert, der Zweck des ARPANET vor allem wissenschaftlich.
 
-Bald gab es allerdings nicht nur das ARPANET, sondern viele verschiedene Netze. Und die hatten ein Problem: Sie sprachen nicht dieselbe Sprache.
+Das ARPANET bekam bald viele Geschwister: Überall entstanden weitere Netze. Nur verstanden sie sich nicht besonders gut – sie sprachen nicht dieselbe Sprache.
 
 ## TCP/IP: Eine gemeinsame Sprache für alle Netze
 
-Die Lösung für das Sprachproblem: Regeln, die jedes Netz verstehen kann, egal welche Technik darin steckt.
+Damit sich die Netze untereinander verständigen konnten, brauchte es Regeln, die jedes von ihnen verstand, egal welche Technik darin steckte.
 
-- **1974 – Vint Cerf und Bob Kahn:** Die beiden US-Informatiker veröffentlichen das Konzept für TCP/IP, eine gemeinsame Sprache, über die sich beliebige Netze zusammenschließen lassen. Aus diesem „Netz der Netze“ (englisch „internetworking“) wird später der Name: Internet. Cerf und Kahn gelten heute als „Väter des Internets“.
+- **1974 – Eine neue Sprache entsteht:** Die US-Informatiker Vint Cerf und Bob Kahn veröffentlichen das Konzept für TCP/IP, über das sich beliebige Netze zusammenschließen lassen. Aus dem englischen „internetworking“, dem Zusammenschalten von Netzen, wird später der Name: Internet. Cerf und Kahn gelten heute als „Väter des Internets“.
 - **1983 – Der große Umstellungstag:** Am 1. Januar 1983 stellen alle Rechner im ARPANET auf TCP/IP um. Das Datum gilt oft als Geburtstag des Internets.
-- **1983 – Namen statt Nummern:** Jeder Rechner im Internet hat eine Nummer, die IP-Adresse, zum Beispiel 192.0.2.44. Weil sich so etwas niemand merken kann, wird das DNS (Domain Name System) erfunden – eine Art Telefonbuch: Du tippst einen Namen wie wikipedia.org, das DNS schlägt die passende Nummer nach.
-- **1984 – Das Internet erreicht Deutschland:** Am 3. August 1984 empfängt die Universität Karlsruhe die erste Internet-E-Mail in Deutschland. Inhalt: ein Willkommensgruß aus den USA.
-- **1990 – Das ARPANET wird abgeschaltet:** Seine Aufgabe ist erledigt. Das Internet ist längst über viele andere Netze gewachsen und braucht seinen Vorläufer nicht mehr.
+- **1983 – Namen statt Nummern:** Jeder Rechner im Internet hat eine Nummer, die IP-Adresse, zum Beispiel 192.0.2.44. Weil sich Menschen Namen leichter als Zahlenreihen merken können, wird das DNS (Domain Name System) erfunden. Es funktioniert wie eine Art Telefonbuch: Du tippst einen Namen wie wikipedia.org, das DNS schlägt die passende Nummer nach.
+- **1984 – Das Internet erreicht Deutschland:** Am 3. August 1984 übermittelt das noch junge Netz die erste E-Mail an die Universität Karlsruhe: ein Willkommensgruß aus den USA.
+- **1990 – Das ARPANET wird abgeschaltet:** Seine Aufgabe ist erledigt. Das Internet besteht längst aus vielen anderen Netzen und braucht seinen Vorläufer nicht mehr.
 
 > [!info] Was ist TCP/IP?
 >
@@ -56,15 +56,15 @@ Die Lösung für das Sprachproblem: Regeln, die jedes Netz verstehen kann, egal 
 > - **IP (Internet Protocol)** ist die Adresse auf jeder Karte. Es sorgt dafür, dass jedes Paket seinen Weg zum richtigen Rechner findet.
 > - **TCP (Transmission Control Protocol)** ist der sorgfältige Absender und Empfänger. Es nummeriert die Karten, prüft, ob alle angekommen sind, fordert fehlende nach und bringt sie wieder in die richtige Reihenfolge.
 
-Das Internet stand also. Aber es war ein Ort für Fachleute: Wer es nutzen wollte, brauchte Befehle statt Klicks. Das sollte sich ändern – durch einen britischen Informatiker am CERN in Genf.
+Das Internet stand also. Aber es war ein Ort für Fachleute: Seiten zum Anklicken gab es nicht. Wer etwas finden wollte, musste wissen, auf welchem Rechner es lag, und es mit Fachbefehlen abrufen. Das sollte sich bald ändern – durch einen britischen Informatiker am CERN in Genf.
 
 ## Das World Wide Web: Ein Geschenk an die Welt
 
 Ende der 1980er arbeitet Tim Berners-Lee am CERN, dem europäischen Forschungszentrum für Teilchenphysik bei Genf. Tausende Forschende aus aller Welt, unzählige Computer unterschiedlicher Bauart – und wichtige Informationen, die ständig irgendwo verloren gehen. Berners-Lee hat eine Idee: Was, wenn man die alte Hypertext-Vision endlich mit dem Internet verbindet?
 
 - **1989 – „Vage, aber spannend“:** Berners-Lee reicht bei seinem Chef einen Vorschlag für ein verlinktes Informationssystem ein. Der notiert darauf nur drei Wörter: „Vague but exciting“. Das reicht, um weitermachen zu dürfen.
-- **1990 – Drei Erfindungen auf einen Streich:** Berners-Lee entwickelt die Bausteine, auf denen das Web bis heute läuft: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/HTML (Hypertext Markup Language)\|HTML]], HTTP und die URL. Dazu programmiert er den ersten Browser und den ersten Webserver. Auf dem Server-Rechner klebt ein Zettel: „This machine is a server. DO NOT POWER IT DOWN!!“ – wer ihn ausschaltet, schaltet das komplette Web ab.
-- **1991 – Die erste Website:** Unter der Adresse [info.cern.ch](https://info.cern.ch/) geht die erste Webseite online. Ihr Thema: das World Wide Web selbst – was es ist und wie man mitmacht. Sie ist bis heute abrufbar.
+- **1990 – Drei Erfindungen auf einen Streich:** Berners-Lee entwickelt die Bausteine, auf denen das Web bis heute läuft: [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML]], HTTP und die URL. Dazu programmiert er den ersten Browser und den ersten Webserver. Auf dem Server-Rechner klebt ein Zettel: „This machine is a server. DO NOT POWER IT DOWN!!“ – wer ihn ausschaltet, schaltet das komplette Web ab.
+- **1991 – Es geht los:** Die erste Webseite geht unter der Adresse [info.cern.ch](https://info.cern.ch/) online. Ihr Thema: das World Wide Web selbst – was es ist und wie man mitmacht. Sie ist bis heute abrufbar. [^erste-Webseite]
 - **1993 – Das Geschenk:** Am 30. April 1993 gibt das CERN die Technik des Webs frei, ohne Patente und ohne Lizenzgebühren. Jeder darf nun Browser, Server und Webseiten bauen, ohne jemanden um Erlaubnis zu fragen oder zu bezahlen.
 
 > [!info] Die drei Bausteine des Webs
@@ -73,7 +73,7 @@ Ende der 1980er arbeitet Tim Berners-Lee am CERN, dem europäischen Forschungsze
 > - **URL (Uniform Resource Locator)** ist die Adresse einer Seite, zum Beispiel https://info.cern.ch.
 > - **HTTP (Hypertext Transfer Protocol)** regelt, wie Browser und Server sich unterhalten: Der Browser fragt „Gib mir bitte diese Seite“, der Server schickt sie.
 
-Das Web war frei. Aber es sah noch ziemlich karg aus: Text, Links, kaum Bilder. Das sollte sich schneller ändern, als irgendjemand ahnte.
+Das Web war frei. Aber es sah noch ziemlich karg aus: Text, Links, kaum Bilder. Das sollte sich schnell ändern.
 
 
 ## Vom Forschungsnetz zum Massenmedium
@@ -81,14 +81,14 @@ Das Web war frei. Aber es sah noch ziemlich karg aus: Text, Links, kaum Bilder. 
 Ab Mitte der 1990er geht alles sehr schnell. Innerhalb weniger Jahre wird aus dem Werkzeug für Forschende ein Alltagsmedium für Milliarden Menschen.
 
 - **1993 – Bilder mitten im Text:** Studierende an der University of Illinois entwickeln Mosaic, einen Browser, der Bilder direkt zwischen den Text setzt. Plötzlich sieht eine Webseite aus wie eine Zeitschrift und nicht mehr wie ein Fachdokument. Das Web wird für normale Menschen interessant.
-- **Mitte der 1990er – Der Browserkrieg:** Der Browser Netscape Navigator erobert den Markt. Microsoft antwortet mit dem Internet Explorer, legt ihn jedem Windows-Rechner kostenlos bei – und gewinnt. Die US-Justiz verklagt Microsoft später wegen Missbrauchs seiner Marktmacht.
+- **Mitte der 1990er – Der Browserkrieg:** Der Browser Netscape Navigator erobert den Markt. Microsoft antwortet mit dem Internet Explorer, legt ihn jedem Windows-Rechner kostenlos bei – und gewinnt. Ein Schachzug, der Microsoft später eine Klage der US-Justiz wegen Missbrauchs seiner Marktmacht einbringt.
 - **Ende der 1990er – Goldrausch und Crash:** Amazon, eBay und Google werden gegründet. Anleger stecken Milliarden in fast jede Firma mit „.com“ im Namen. Im Jahr 2000 platzt die sogenannte Dotcom-Blase, viele Firmen verschwinden wieder.
 - **2000er – Das Mitmach-Web:** Mit Wikipedia (2001), Facebook (2004) und YouTube (2005) werden Nutzerinnen und Nutzer selbst zu Autoren. Dafür setzt sich der Begriff „Web 2.0“ durch.
-- **2007 – Das Internet in der Hosentasche:** Mit dem iPhone beginnt der Siegeszug der Smartphones. Online sein ist kein Ort mehr, an den man sich an den Schreibtisch setzt, sondern ein Dauerzustand.
+- **2007 – Das Internet in der Hosentasche:** Mit dem iPhone beginnt der Siegeszug der Smartphones. Wer bislang online sein wollte, setzte sich an den Computer. Jetzt ist das Netz nur noch einen Griff entfernt.
 
 > [!info] Was ist ein Browser?
 >
-> Ein Browser (engl. „to browse“, stöbern) ist das Programm, mit dem du Webseiten ansiehst, zum Beispiel Firefox, Chrome oder Safari. Er fragt per HTTP beim Server nach einer Seite, bekommt HTML und [[02 - Künstliche Intelligenz/3 - Work on tomorrow/CSS (Cascading Style Sheets)\|CSS]] zurück und baut daraus die Seite, die du auf dem Bildschirm siehst. Man kann ihn sich vorstellen wie ein Theater: HTML ist das Drehbuch, CSS sind Kostüme und Bühnenbild, und der Browser bringt das Stück auf die Bühne.
+> Ein Browser (engl. „to browse“, stöbern) ist ein Programm wie Firefox, Chrome oder Safari, mit dem du Webseiten ansiehst. Er fragt per HTTP beim Server nach einer Seite, bekommt HTML und [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|CSS]] zurück und baut daraus die Seite, die du auf dem Bildschirm siehst.
 
 Heute nutzen rund 6 Milliarden Menschen das Internet, etwa drei Viertel der Weltbevölkerung. 2,2 Milliarden sind allerdings noch immer offline. Und das Netz, das einmal als offenes Projekt von Forschenden begann, sieht heute ziemlich anders aus, als seine Erfinder es sich vorgestellt hatten.
 
@@ -97,12 +97,12 @@ Heute nutzen rund 6 Milliarden Menschen das Internet, etwa drei Viertel der Welt
 Das Web wurde als offenes, dezentrales System gebaut: Jeder kann eine Seite veröffentlichen und auf jede andere verlinken, niemand muss um Erlaubnis fragen. Gut dreißig Jahre später sieht die Wirklichkeit anders aus.
 
 - **Wenige Konzerne, viel Macht:** Ein großer Teil dessen, was Menschen online tun, läuft heute über die Dienste weniger großer Tech-Konzerne: Suche, soziale Netzwerke, Online-Handel, App-Stores und die Rechenzentren, auf denen viele andere Dienste laufen (die „Cloud“). Statt frei im Web zu stöbern, bewegen sich viele Menschen vor allem innerhalb einzelner Apps.
-- **Der Erfinder als Kritiker:** Tim Berners-Lee warnt seit Jahren vor dieser Entwicklung. Mit dem Projekt „Solid“ arbeitet er an einer Technik, mit der Menschen die Kontrolle über ihre eigenen Daten zurückbekommen sollen.
+- **Der Erfinder wird zum Kritiker:** Tim Berners-Lee warnt seit Jahren vor dieser Entwicklung: Macht und Daten ballen sich bei wenigen Konzernen, Falschinformationen verbreiten sich rasant, die Privatsphäre bleibt auf der Strecke. Mit dem Projekt „Solid“ arbeitet er an einer Technik, mit der Menschen die Kontrolle über ihre eigenen Daten zurückbekommen sollen. 2025 erschienen seine Erinnerungen unter einem Titel, der sein Lebenswerk zusammenfasst: „[[This Is for Everyone\|This Is for Everyone]]“, das ist für alle.
 
 
 > [!quote] Sir Tim
 >
-> 2004 wurde Tim Berners-Lee von Queen Elizabeth II. zum Ritter geschlagen, „für Verdienste um die weltweite Entwicklung des Internets“. Seitdem heißt er offiziell Sir Tim Berners-Lee. Völlig verdient, wie ich finde, und zwar doppelt: Erst hat er der Welt das Web geschenkt, und heute setzt er sich dafür ein, dass es offen bleibt. Ein echter Edelmann eben.
+> 2004 wurde Tim Berners-Lee von Queen Elizabeth II. zum Ritter geschlagen, „für Verdienste um die weltweite Entwicklung des Internets“. Seitdem heißt er offiziell Sir Tim Berners-Lee. Völlig verdient, wie ich finde: Erst hat er der Welt das Web geschenkt, und heute setzt er sich dafür ein, dass es offen bleibt. Ein echter Edelmann eben.
 
 - **Gegenbewegungen:** Die EU versucht mit Gesetzen wie dem Digital Markets Act, die Macht großer Plattformen zu begrenzen. Und dezentrale Netzwerke wie das Fediverse (bekanntester Dienst: Mastodon) knüpfen wieder an die ursprüngliche Idee an: viele unabhängige Server statt einer zentralen Firma.
 - **Das Web als Trainingsmaterial:** Große Sprachmodelle wie ChatGPT oder Claude lernen zu einem großen Teil aus Texten, die frei im Web stehen. Programme, sogenannte Crawler, durchforsten dafür automatisch Milliarden Webseiten. Ob das ohne Erlaubnis und Bezahlung der Urheberinnen und Urheber erlaubt ist, beschäftigt inzwischen Gerichte in vielen Ländern.
@@ -110,8 +110,11 @@ Das Web wurde als offenes, dezentrales System gebaut: Jeder kann eine Seite ver�
 
 > [!info] Was ist ein Walled Garden?
 >
-> Ein „ummauerter Garten“: eine Plattform, die ihre Nutzer, Inhalte und Daten möglichst innerhalb der eigenen Mauern hält. Drinnen findet man alles, nach draußen führen nur wenige Türen. Typische Beispiele sind soziale Netzwerke und App-Stores. Das Gegenmodell ist das offene Web, in dem jede Seite auf jede andere verlinken kann – oder eben ein digitaler Garten wie dieser, ganz ohne Mauern.
-
+> Ein „ummauerter Garten“: eine Plattform, die ihre Nutzer, Inhalte und Daten möglichst innerhalb der eigenen Mauern hält. Man merkt es an Kleinigkeiten: Beiträge lassen sich nur mit Konto lesen, eigene Daten kann man nicht zu einem anderen Dienst mitnehmen, Apps gibt es nur über den hauseigenen Store. Typische Beispiele sind soziale Netzwerke und App-Stores. Das Gegenmodell ist das offene Web, in dem jede Seite auf jede andere verlinken kann.
 ## Die Zukunft
 
 … steht noch in den Sternen. Sie wird von uns allen geschrieben. 
+
+[^Paul-Baran]: Baran arbeitete bei der RAND Corporation, einer Denkfabrik, die damals vor allem für das US-Militär forschte. Seine Berichte wurden in der Fachwelt breit gelesen, und seine Ideen flossen später in das ARPANET ein, auch wenn ARPANET-Projektleiter Larry Roberts erst 1967 auf einer Konferenz davon erfuhr, als die Planung schon lief. Unabhängig von Baran entwickelte der Brite Donald Davies 1965 eine sehr ähnliche Idee, ganz ohne militärischen Hintergrund: Er wollte ein landesweites Datennetz für Großbritannien schaffen. Von ihm stammt auch der Begriff „Paket“. Die Internet Society, die sich um die Weiterentwicklung des Internets kümmert, hält fest, dass das Gerücht vom atomkriegsfesten ARPANET auf Barans Studie zurückgeht, obwohl das ARPANET selbst nie für diesen Zweck gedacht war. Populär wurde die Legende unter anderem durch den Science-Fiction-Autor Bruce Sterling, dessen „Short History of the Internet“ von 1993 mit der Frage beginnt, wie die USA nach einem Atomkrieg noch kommunizieren könnten. Der Text durfte frei weitergegeben werden und verbreitete sich im frühen Internet entsprechend stark.
+
+[^erste-Webseite]: Ganz ehrlich: Das Original von 1991 gibt es nicht mehr. Die Seite wurde damals ständig überarbeitet, und niemand dachte daran, eine Kopie aufzuheben. Wer hätte auch ahnen können, dass sie einmal Geschichte schreibt? 2013 hat das CERN sie anhand der ältesten erhaltenen Fassung wiederhergestellt. Was du dort siehst, ist also nicht die allererste Seite, aber ziemlich nah dran.

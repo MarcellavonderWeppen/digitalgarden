@@ -13,11 +13,11 @@ Nehmen wir das Wort einmal auseinander, um die Bedeutung besser zu verstehen:
 
 Die großen Sprachmodelle sind also groß. Wie groß?
 
-Vereinfachend kann man sagen: Sie wurden mit einem großem Teil des [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] trainiert.
+Vereinfachend kann man sagen: Sie wurden mit einem großem Teil des [[02 - Künstliche Intelligenz/0 - Final Check/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] trainiert.
 
 ### Aber: Nur das Surface Web
 
-Wenn ich behaupte, „das gesamte Internet“, dann meine ich damit fast ausschließlich das [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Das Internet - Surface Web, Deep Web und Dark Web#Surface Web – Die Spitze des Eisbergs\|Surface Web]]. Das [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Das Internet - Surface Web, Deep Web und Dark Web#Deep Web – Der unsichtbare Riese\|Deep Web]] spielt für das Training dieser Form von KI keine nennenswerte Rolle, da die Inhalte nicht frei verfügbar sind und oft technische oder rechtliche Hürden bestehen.
+Wenn ich behaupte, „das gesamte Internet“, dann meine ich damit fast ausschließlich das [[02 - Künstliche Intelligenz/0 - Final Check/Das Internet - Surface Web, Deep Web und Dark Web#Surface Web – Die Spitze des Eisbergs\|Surface Web]]. Das [[02 - Künstliche Intelligenz/0 - Final Check/Das Internet - Surface Web, Deep Web und Dark Web#Deep Web – Der unsichtbare Riese\|Deep Web]] spielt für das Training dieser Form von KI keine nennenswerte Rolle, da die Inhalte nicht frei verfügbar sind und oft technische oder rechtliche Hürden bestehen.
 
 Theoretisch stand das gesamte Surface Web zur Verfügung.
 

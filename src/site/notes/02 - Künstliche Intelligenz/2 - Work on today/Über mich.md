@@ -38,6 +38,6 @@ Lange Zeit war ich auf das Narrativ hereingefallen: „KI übernimmt jetzt das W
 
 Kann sein, dass wir in sechs Monaten [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/AGI\|AGI]] erreichen und dann Menschen überflüssig werden, wie ich inzwischen schon seit Jahren höre. Zum jetzigen Zeitpunkt sind die Ergebnisse von Webseiten-generierenden KIs allerdings enttäuschend:
 
-👉 [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]]
+👉 [[02 - Künstliche Intelligenz/0 - Final Check/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]]
 
 Daher designe ich mit großer Freude jetzt auch wieder Webseiten! Mehr Infos auf meinem [LinkedIn-Profil](https://www.linkedin.com/in/marcella-von-der-weppen/).
