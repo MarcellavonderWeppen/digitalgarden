@@ -28,6 +28,8 @@ Das „HT“ in HTML steht für **Hypertext**. Das ist Text, der Verlinkungen zu
 
 Die Idee ist älter als das Internet – schon in den 1960ern wurden Konzepte entwickelt, um Dokumente durch Links miteinander zu verbinden. Das World Wide Web ist heute der bekannteste Anwendungsfall davon.
 
+![Hypertext vs Buch.png](/img/user/Hypertext%20vs%20Buch.png)
+
 ### Hypertext, das Internet und das WWW
 
 Umgangssprachlich verschwimmen die Grenzen zwischen diesen Begriffen oft, aber lass uns einen Augenblick innehalten und die genauen Definitionen betrachten:
@@ -41,6 +43,8 @@ Umgangssprachlich verschwimmen die Grenzen zwischen diesen Begriffen oft, aber l
 > [!info] Was genau ist mit Internet gemeint?
 >
 > Streng genommen ist damit nur die Infrastruktur gemeint, aber im allgemeinen Sprachgebrauch meinen Menschen damit natürlich das Gesamtpaket: Infrastruktur inklusive aller Dienste, die darauf laufen.
+
+![Internet vs Web.png](/img/user/Internet%20vs%20Web.png)
 
 ## Markup Language
 

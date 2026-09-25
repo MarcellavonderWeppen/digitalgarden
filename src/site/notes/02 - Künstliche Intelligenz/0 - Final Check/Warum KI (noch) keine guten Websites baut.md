@@ -6,7 +6,7 @@
 
 Eine eigene Internetpräsenz in wenigen Minuten, auch ohne Programmierkenntnisse: So lautet das Versprechen von Tools wie Lovable oder Bolt.[^tools] Man beschreibt in einfachen Worten, was man haben möchte, und die KI baut daraus eine lauffähige Seite. 
 
-Spezialisierte Tools braucht es dafür nicht unbedingt: Wer ohnehin gut mit ChatGPT oder Claude umgehen kann, kommt auch damit ans Ziel. Die Kunst, Websites oder Apps von der KI bauen zu lassen, ohne den Code selbst verstehen zu müssen, nennt sich [[02 - Künstliche Intelligenz/4 - very soon/Vibecoding\|Vibecoding]].
+Es geht allerdings auch ohne diese spezialisierten Website-Generatoren: Wer ohnehin gut mit ChatGPT oder Claude umgehen kann, kommt damit ebenfalls ans Ziel. Die Kunst, Websites oder Apps von der KI bauen zu lassen, ohne den Code selbst verstehen zu müssen, nennt sich [[02 - Künstliche Intelligenz/4 - very soon/Vibecoding\|Vibecoding]].
 
 ## Alles schön und gut …
 
@@ -33,7 +33,7 @@ Auch für eine einfache Visitenkarten-Website oder Hobbyprojekte ist das Ergebni
 
 **Suchmaschinenoptimierung (SEO):** Die Seite wird gefunden. Denn eine hübsche Seite nützt wenig, wenn Suchmaschinen sie nicht richtig erfassen, etwa weil Überschriften falsch strukturiert oder Inhalte für sie unsichtbar sind.
 
-**Accessibility (Barrierefreiheit):** Die Seite ist auch für Menschen mit Einschränkungen nutzbar, zum Beispiel mit Screenreader, nur per Tastatur oder bei Sehschwäche mit ausreichendem Kontrast. Fehlt das, schließt sie einen Teil der Besucher aus.
+**Accessibility (Barrierefreiheit):** Die Seite ist auch für Menschen mit Einschränkungen nutzbar. Dafür muss sie mit Screenreader und reiner Tastaturbedienung funktionieren und ausreichende Kontraste für Menschen mit Sehschwäche bieten. Fehlt das, schließt sie einen Teil der Besucher aus.
 
 **Rechtliches:** Die Website erfüllt die gesetzlichen Vorgaben, etwa zu Datenschutz (DSGVO) sowie zu Urheberrecht und Lizenzen von Bildern, Schriften oder Code. Auch Accessibility kann in diesen Bereich fallen. Verstöße können teure Abmahnungen oder Bußgelder nach sich ziehen.
 
@@ -75,4 +75,4 @@ Für Leute mit wenig Zeit – das Thema in 40 Sekunden:
 [Every AI Startup Website Looks the Same](https://www.youtube.com/shorts/HRaGvoRa-IU)
 
 
-[^tools]: Auf eine ausführliche Bewertung dieser Tools verzichte ich in diesem Artikel bewusst, denn alles heute Gesagte könnte morgen schon hinfällig sein. Wenn Dich der aktuelle Stand interessiert, lass ein [LLM](LLMs) Deines Vertrauens per Websuche recherchieren und kritisch beurteilen. Für brauchbare Ergebnisse solltest Du alllerdings die [[Kunst des Promptens\|Kunst des Promptens]] beherrschen 😉
+[^tools]: Auf eine ausführliche Bewertung dieser Tools verzichte ich in diesem Artikel bewusst, denn alles heute Gesagte könnte morgen schon hinfällig sein. Wenn Dich der aktuelle Stand interessiert, lass ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLM]] Deines Vertrauens per Websuche recherchieren und kritisch beurteilen. Für brauchbare Ergebnisse solltest Du allerdings die [[Kunst des Promptens\|Kunst des Promptens]] beherrschen 😉

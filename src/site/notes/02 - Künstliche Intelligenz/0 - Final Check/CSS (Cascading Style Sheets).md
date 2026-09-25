@@ -13,7 +13,7 @@ Ohne CSS würde das gesamte Internet noch immer wie Anfang der 90er aussehen:
 
 Gut, dass wir CSS erfunden haben!
 
-Übrigens: Dieses Beispiel ist nicht ausgedacht. Es ist die allererste Website der Welt, und man kann sie bis heute besuchen: [info.cern.ch](https://info.cern.ch/hypertext/WWW/TheProject.html). Sir [[02 - Künstliche Intelligenz/1 - Work on now/Eine kurze Geschichte des Internets#Das World Wide Web Ein Geschenk an die Welt\|Tim Berners-Lee]] hat sie Anfang der 90er am CERN online gestellt und damit der Welt das World Wide Web geschenkt. 
+Übrigens: Dieses Beispiel ist nicht ausgedacht. Es ist die allererste Website der Welt, und man kann sie bis heute besuchen[^erste-Webseite] : [info.cern.ch](https://info.cern.ch/hypertext/WWW/TheProject.html). Sir [[02 - Künstliche Intelligenz/1 - Work on now/Eine kurze Geschichte des Internets#Das World Wide Web Ein Geschenk an die Welt\|Tim Berners-Lee]] hat sie Anfang der 90er am CERN online gestellt und damit der Welt das World Wide Web geschenkt. 
 ## Ein einfaches Beispiel für CSS
 
 So könnte eine CSS-Regel aussehen:
@@ -105,3 +105,5 @@ Wenn Du bis hierher gelesen hast, solltest Du vielleicht Dein eigenes Abenteuer 
 Hier habe ich vor vielen Jahren mein Programmier-Abenteuer gestartet 👇
 
 https://www.codecademy.com/ 🕳️ 🐇
+
+[^erste-Webseite]: Um ganz genau zu sein: Das Original von 1991 gibt es nicht mehr. Die Seite wurde damals ständig überarbeitet, und niemand dachte daran, eine Kopie aufzuheben. Wer hätte auch ahnen können, dass sie einmal Geschichte schreibt? 2013 hat das CERN sie anhand der ältesten erhaltenen Fassung wiederhergestellt. Was du dort siehst, ist also nicht die allererste Seite, aber ziemlich nah dran.
