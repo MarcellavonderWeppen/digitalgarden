@@ -81,4 +81,4 @@ Jede Excalidraw-Datei ist im Kern eine Markdown-Datei.
 
 ## Weiterstöbern
 
-📖 Wem das Video von Karlos gefallen hat, sollte sich unbedingt auch das Video zum [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Time Garden\|Time Garden]] anschauen 🤓
+📖 Wem das Video von Karlos gefallen hat, sollte sich unbedingt auch das Video zum [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Time Garden\|Time Garden]] anschauen 🤓

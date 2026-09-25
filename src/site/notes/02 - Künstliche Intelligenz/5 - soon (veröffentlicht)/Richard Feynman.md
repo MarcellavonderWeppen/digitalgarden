@@ -37,4 +37,4 @@ Ein paar seiner Kerngedanken:
 
 📺 Schöne Dokumentation auf YouTube: [The „Notebook Method“ That Made Feynman A Genius (Think on Paper)](https://www.youtube.com/@feynmanarchives)
 
-📖 Von Feynman inspiriert: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]]
+📖 Von Feynman inspiriert: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]]

@@ -5,9 +5,9 @@
 
 # Obsidian-Plugins, die ich verwende
 
-Viele der Plugins kamen mit dem genialen [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Time Garden\|Time Garden]], welchen ich seit neuesten für mein tägliches Journalieren nutze.
+Viele der Plugins kamen mit dem genialen [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Time Garden\|Time Garden]], welchen ich seit neuesten für mein tägliches Journalieren nutze.
 
-OMG, ich liebe [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Time Garden\|Time Garden]] so sehr!!! 😍
+OMG, ich liebe [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Time Garden\|Time Garden]] so sehr!!! 😍
 
 Aber nicht ablenken lassen🕳️🐇, hier sind die aktuellen Plugins:
 

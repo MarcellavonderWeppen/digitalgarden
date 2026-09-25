@@ -4,7 +4,7 @@
 
 # Zettelkasten und Hypertext
 
-Ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]] ist eine Sammlung einzelner Notizzettel, die über Querverweise miteinander verbunden sind. [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)#Hypertext\|Hypertext]] bezeichnet Texte, die über Links auf andere Texte verweisen – das bekannteste Beispiel ist das Web. Beide folgen derselben Grundidee: Wissen als Netz statt als Linie. Sie sind weitgehend unabhängig voneinander entstanden, lassen sich aber als zwei Ausprägungen desselben Denkens verstehen: der Zettelkasten gewissermaßen als Hypertext auf Papier.
+Ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]] ist eine Sammlung einzelner Notizzettel, die über Querverweise miteinander verbunden sind. [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)#Hypertext\|Hypertext]] bezeichnet Texte, die über Links auf andere Texte verweisen – das bekannteste Beispiel ist das Web. Beide folgen derselben Grundidee: Wissen als Netz statt als Linie. Sie sind weitgehend unabhängig voneinander entstanden, lassen sich aber als zwei Ausprägungen desselben Denkens verstehen: der Zettelkasten gewissermaßen als Hypertext auf Papier.
 
 ## Die gemeinsame Idee
 
@@ -39,7 +39,7 @@ Ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/O
 
 ## Heute: zusammengewachsen
 
-Notiz-Werkzeuge wie [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] werden oft als digitale Zettelkästen genutzt und sind technisch gesehen Hypertext-Systeme: Wikilinks verbinden Notizen, Backlinks (automatische Rückverweise) kommen Nelsons Wunsch nach Verweisen in beide Richtungen ziemlich nahe. Auch dieser Garten ist ein Beispiel dafür.
+Notiz-Werkzeuge wie [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] werden oft als digitale Zettelkästen genutzt und sind technisch gesehen Hypertext-Systeme: Wikilinks verbinden Notizen, Backlinks (automatische Rückverweise) kommen Nelsons Wunsch nach Verweisen in beide Richtungen ziemlich nahe. Auch dieser Garten ist ein Beispiel dafür.
 
  > [!quote] Ein persönlicher Nachtrag
  > 

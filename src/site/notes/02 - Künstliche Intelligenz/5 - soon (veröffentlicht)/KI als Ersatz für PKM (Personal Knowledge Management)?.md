@@ -74,7 +74,7 @@ Dies ist der am häufigsten genannte Punkt. Viele Zuschauer argumentieren, dass 
 Ein riesiges Thema in den Kommentaren ist die Sicherheit persönlicher Daten.
 
 - **[[Lokal vs Cloud\|Lokal vs Cloud]]:** Während Obsidian die Daten lokal auf dem eigenen Rechner speichert, laden die vorgestellten KI-Tools alles in die Cloud hoch. Die Nutzer haben Angst, dass ihre intimsten Gedanken und Geschäftsgeheimnisse zum Training von KI-Modellen verwendet werden oder bei Firmenpleiten verschwinden.
-- **"File over App":** Viele folgen dem Prinzip, dass Notizen in einfachen Textdateien ([[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/Markdown\|Markdown]]) vorliegen sollten, damit sie auch in 20 Jahren noch ohne Abo lesbar sind.
+- **"File over App":** Viele folgen dem Prinzip, dass Notizen in einfachen Textdateien ([[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Markdown\|Markdown]]) vorliegen sollten, damit sie auch in 20 Jahren noch ohne Abo lesbar sind.
 
 📎 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Clippy\|Clippy]] sagt dazu: „Good luck getting back to your knowledge collection in 5 years!"
 
@@ -100,7 +100,7 @@ Die Zuschauer werfen Evan vor, eine kostenlose oder günstige Lösung (wie Obsid
 
 Hier noch ein wichtiger Punkt, der noch nicht erwähnt wurde:
 
-Die Debatte „KI vs. klassisches [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchenlöcher/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]]“ übersieht oft den biologischen Faktor: **Wie unser Gehirn Informationen tatsächlich zu eigenem Wissen macht.**
+Die Debatte „KI vs. klassisches [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]]“ übersieht oft den biologischen Faktor: **Wie unser Gehirn Informationen tatsächlich zu eigenem Wissen macht.**
 
 Während eine KI wie ein unendlich großes Lexikon ist, in dem man alles nachschlagen kann, fungiert ein Tool wie Obsidian eher wie ein **Training für das Gehirn**. Die räumliche Komponente spielt dabei die entscheidende Rolle.
 

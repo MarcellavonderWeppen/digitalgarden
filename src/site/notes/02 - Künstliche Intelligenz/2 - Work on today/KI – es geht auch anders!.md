@@ -64,4 +64,4 @@ Ich habe es noch nie so deutlich gesagt, aber es ist an der Zeit: Es führt kein
 ## 📖 Weiterlesen
 
 - Es geht auch anders: Beispiel aus der Welt der [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Generative KI#Es geht auch anders\|GenAI]]
-- Passende [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone#Kaninchenlöcher für den Einstieg\|Kaninchenlöcher für den Einstieg]]: z.B. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone#Alternative LLMs 🕳️🐇\|Alternative LLMs 🕳️🐇]] 
+- Passende [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone 🐇#Kaninchenlöcher für den Einstieg\|Kaninchenlöcher für den Einstieg]]: z.B. [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone 🐇#Alternative LLMs 🕳️🐇\|Alternative LLMs 🕳️🐇]] 
