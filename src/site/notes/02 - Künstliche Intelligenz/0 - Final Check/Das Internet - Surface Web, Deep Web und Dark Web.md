@@ -21,7 +21,7 @@ Obwohl es der bekannteste Teil des Internets ist, macht es nur etwa **10 %** des
 
 ## Deep Web – Der unsichtbare Riese
 
-Das Deep Web ist der mit Abstand größte Teil des Internets und umfasst **rund 90%** aller Online-Inhalte. Im Gegensatz zum Surface Web ist das Deep Web nicht von Suchmaschinen indexiert und daher über Google & Co. nicht auffindbar. Ein Teil davon ist zugangsbeschränkt (Webmail-Postfächer, Online-Banking, Firmen-Intranets, kostenpflichtige Facharchive). Ein anderer Teil ist frei zugänglich, aber für Suchmaschinen unsichtbar.
+Das Deep Web ist der mit Abstand größte Teil des Internets und umfasst **rund 90%** aller Online-Inhalte. Im Gegensatz zum Surface Web ist das Deep Web nicht von Suchmaschinen indexiert und daher über Google & Co. nicht auffindbar. Den größten Teil dürften heute zugangsbeschränkte Inhalte ausmachen, etwa Webmail-Postfächer, Online-Banking, Firmen-Intranets und kostenpflichtige Facharchive. Daneben gibt es frei zugängliche Inhalte, welche Suchmaschinen dennoch nicht erfassen.
 
 Das Deep Web ist nicht illegal – es ist einfach der Teil des Internets, den Suchmaschinen nicht erfassen.
 
@@ -48,9 +48,10 @@ Für unser Eisberg-Modell heißt das: Surface, Deep und Dark Web beschreiben Sch
 >**Web** = kurz für World Wide Web (WWW) = das Netz aus Webseiten
 >**Internet** = streng genommen die Infrastruktur, im Alltag auch alle Dienste darauf (Web, E-Mail, Messenger, Videotelefonie u. a.)
 
+![Pasted image 20260925090902.png](/img/user/Pasted%20image%2020260925090902.png)
 ## 📖 Weiterlesen
 
 - Das Internet, wie kam es überhaupt dazu? [[02 - Künstliche Intelligenz/1 - Work on now/Eine kurze Geschichte des Internets\|Eine kurze Geschichte des Internets]]
 - Mehr über [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML]], die Sprache des Webs
 
-[^genaue-zahlen]: Die meisten kursierenden Zahlen gehen auf eine einzige Studie zurück: Der Informatiker Michael K. Bergman, der den Begriff „Deep Web“ geprägt hat, schätzte es 2001 auf das 400- bis 550-Fache des Surface Web. Die Studie beruhte auf Daten aus dem Jahr 2000 und wurde später in der Fachwelt deutlich kritisiert. Bergman selbst rückte einige Jahre danach von der Zahl ab und sprach nur noch von einem Mehrfachen bis höchstens 100-Fachen. Die populären Prozentwerte wie 90/10 oder 96/4 haben, soweit bekannt, keine eigene Datengrundlage. Quelle: [Bergman, „The Murky Depths of the ‚Deep Web‘“](https://www.mkbergman.com/343/the-murky-depths-of-the-deep-web/)
+[^genaue-zahlen]: Die meisten kursierenden Zahlen gehen auf eine einzige Studie zurück: Der Informatiker Michael K. Bergman, der den Begriff „Deep Web“ geprägt hat, schätzte es 2001 auf das 400- bis 550-Fache des Surface Web. Die Studie beruhte auf Daten aus dem Jahr 2000 und wurde später von der Fachwelt kritisiert. Bergman selbst rückte einige Jahre danach von der Zahl ab und sprach nur noch von einem Mehrfachen bis höchstens 100-Fachen. Die populären Prozentwerte wie 90/10 oder 96/4 haben, soweit bekannt, keine eigene Datengrundlage. Quelle: [Bergman, „The Murky Depths of the ‚Deep Web‘“](https://www.mkbergman.com/343/the-murky-depths-of-the-deep-web/)
