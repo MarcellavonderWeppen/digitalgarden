@@ -32,7 +32,7 @@ An diesem Punkt stellt sich dem aufmerksamen Leser vielleicht die Frage: Wozu zw
 
 Gute Frage!
 
-Tatsächlich war es anfangs genau so: Bevor es CSS gab, wurde das Aussehen direkt ins HTML geschrieben. Eine blaue Überschrift sah dann zum Beispiel so aus: `<h1><font color="blue">Überschrift</font></h1>`.
+Tatsächlich war es anfangs genau so: Bevor es CSS gab, wurde das Aussehen direkt ins HTML geschrieben[^inline-css]. Eine blaue Überschrift sah dann zum Beispiel so aus: `<h1><font color="blue">Überschrift</font></h1>`.
 
 Das funktioniert, hat aber einen gewaltigen Haken.
 
@@ -107,3 +107,5 @@ Hier habe ich vor vielen Jahren mein Programmier-Abenteuer gestartet 👇
 https://www.codecademy.com/ 🕳️ 🐇
 
 [^erste-Webseite]: Um ganz genau zu sein: Das Original von 1991 gibt es nicht mehr. Die Seite wurde damals ständig überarbeitet, und niemand dachte daran, eine Kopie aufzuheben. Wer hätte auch ahnen können, dass sie einmal Geschichte schreibt? 2013 hat das CERN sie anhand der ältesten erhaltenen Fassung wiederhergestellt. Was du dort siehst, ist also nicht die allererste Seite, aber ziemlich nah dran.
+
+[^inline-css]: Das `<font>`-Element von damals gilt heute als veraltet. Browser zeigen es zwar meist noch an, aber in neuem Code hat es nichts mehr zu suchen. Die moderne Variante, Gestaltung direkt ins HTML zu schreiben, heißt „Inline-CSS“: Man gibt dem Element ein `style`-Attribut mit, etwa `<h1 style="color: blue">Überschrift</h1>`. Das ist völlig in Ordnung, um schnell etwas auszuprobieren. Für richtige Webseiten eignet es sich aber schlecht, weil man jede Stelle einzeln ändern müsste, statt das Aussehen zentral in einer CSS-Datei zu pflegen.
