@@ -28,7 +28,7 @@ Das „HT“ in HTML steht für **Hypertext**. Das ist Text, der Verlinkungen zu
 
 Die Idee ist älter als das Internet – schon in den 1960ern wurden Konzepte entwickelt, um Dokumente durch Links miteinander zu verbinden. Das World Wide Web ist heute der bekannteste Anwendungsfall davon.
 
-![Hypertext vs Buch.png](/img/user/Hypertext%20vs%20Buch.png)
+![Hypertext vs Buch.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Hypertext%20vs%20Buch.png)
 
 ### Hypertext, das Internet und das WWW
 
@@ -44,7 +44,7 @@ Umgangssprachlich verschwimmen die Grenzen zwischen diesen Begriffen oft, aber l
 >
 > Streng genommen ist damit nur die Infrastruktur gemeint, aber im allgemeinen Sprachgebrauch meinen Menschen damit natürlich das Gesamtpaket: Infrastruktur inklusive aller Dienste, die darauf laufen.
 
-![Internet vs Web.png](/img/user/Internet%20vs%20Web.png)
+![Internet vs Web.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Internet%20vs%20Web.png)
 
 ## Markup Language
 
@@ -84,6 +84,6 @@ Damit würden wir Sehende wahrscheinlich verwirren. Menschen, die einen Screenre
 👉 Wer neugierig geworden ist, kann sich hier angucken, wie das [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)#Ein eigenwilliges Beispiel\|CSS hinter unserem Beispiel]] aussieht.
 ## 📖 Weiterlesen
 
-- Ein Artikel über HTML, der Tim Berners-Lee nicht erwähnt, ist eigentlich unvollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[02 - Künstliche Intelligenz/1 - Work on now/Eine kurze Geschichte des Internets\|kurzen Geschichte des Internets]].
+- Ein Artikel über HTML, der Tim Berners-Lee nicht erwähnt, ist eigentlich unvollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[02 - Künstliche Intelligenz/0 - Final Check/Eine kurze Geschichte des Internets\|kurzen Geschichte des Internets]].
 - Ein Hypertext-System muss nicht digital sein. Der [[02 - Künstliche Intelligenz/1 - Work on now/Zettelkasten und Hypertext\|Zettelkasten]] ist ein analoges Beispiel.
 - Mehr über [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|CSS]], die „Design-Sprache“ des Webs
