@@ -11,13 +11,16 @@
 
 - **1945 – Vannevar Bush skizziert den „Memex“:** Der US-Wissenschaftler beschreibt in seinem Essay *As We May Think* eine Schreibtisch-Maschine, in der man Bücher, Notizen und Fotos speichert und über selbst angelegte „Pfade“ miteinander verbindet. Die Maschine existierte nur auf dem Papier, aber sie hat Generationen von Informatikern inspiriert.
 - **1965 – Ted Nelson erfindet ein Wort:** Er prägt den Begriff „Hypertext“ und entwirft mit seinem Projekt Xanadu ein weltweites System aus verknüpften Dokumenten. Fertig wurde es nie – aber der Name ist geblieben.
-- **1968 – Douglas Engelbart macht eine Vorführung:** In San Francisco präsentiert er vor rund tausend Zuschauern Dinge, die damals kaum jemand für möglich hielt: eine Maus, anklickbare Links, Fenster auf dem Bildschirm, gemeinsames Bearbeiten von Texten und sogar eine Videokonferenz. Später bekommt der Auftritt den Spitznamen „Mother of All Demos“, die Mutter aller Vorführungen.
+- **1968 – Douglas Engelbart bringt Hypertext zum Laufen:** In San Francisco führt er vor rund tausend Zuschauern sein System NLS vor. Zum ersten Mal sieht das Publikum Hypertext in Aktion: Texte, die per Mausklick auf andere Texte verweisen. Nebenbei präsentiert er Dinge, die damals kaum jemand für möglich hielt: die Maus, Fenster auf dem Bildschirm, gemeinsames Bearbeiten von Texten und sogar eine Videokonferenz. Später bekommt der Auftritt den Spitznamen „Mother of All Demos“, die Mutter aller Vorführungen.
 
 Was noch fehlte: ein Netz, über das Computer an verschiedenen Orten miteinander kommunizieren konnten.
 
 > [!info] Was ist Hypertext?
 >
-> Text, der über Links mit anderen Texten verbunden ist. Ein Buch hat eine feste Reihenfolge: Seite folgt auf Seite. Hypertext ist dagegen ein Netz, in dem du per Klick von Text zu Text springst. Das ganze Web ist Hypertext – und dieser Garten auch.
+> Text, der über Links mit anderen Texten verbunden ist. Ein Buch hat eine feste Reihenfolge: Seite folgt auf Seite. Hypertext ist dagegen ein Netz, in dem du per Klick von Text zu Text springst. Das ganze Web ist Hypertext – und dieser Garten auch. 
+> 
+> ![Hypertext vs Buch.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Hypertext%20vs%20Buch.png)
+
 
 ## Das ARPANET: Computer lernen, miteinander zu reden
 
