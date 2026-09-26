@@ -27,7 +27,7 @@ Auch für eine einfache Visitenkarten-Website oder Hobbyprojekte ist das Ergebni
 
 ## Mehr als nur hübsch
 
-> Was eine gute Website ausmacht, sind vor allem ihre inneren Werte. Die sieht man nicht auf den ersten Blick, aber sie sind essenziell:
+> Was eine gute Website ausmacht, sind vor allem ihre inneren Werte. Man sieht sie nicht auf den ersten Blick, doch sie sind essenziell:
 
 **Performance:** Die Seite lädt schnell. Lädt sie zu langsam, springen Besucher ab, und Suchmaschinen stufen die Seite schlechter ein. Häufige Gründe dafür sind schlecht komprimierte Bilder oder unnötig aufgeblähter Code.
 
