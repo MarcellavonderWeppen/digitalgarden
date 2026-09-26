@@ -21,7 +21,7 @@ Obwohl es der bekannteste Teil des Internets ist, macht es nur etwa **10 %** des
 
 ## Deep Web – Der unsichtbare Riese
 
-Das Deep Web ist der mit Abstand größte Teil des Internets und umfasst **rund 90%** aller Online-Inhalte. Im Gegensatz zum Surface Web ist das Deep Web nicht von Suchmaschinen indexiert und daher über Google & Co. nicht auffindbar. Den größten Teil dürften heute zugangsbeschränkte Inhalte ausmachen, etwa Webmail-Postfächer, Online-Banking, Firmen-Intranets und kostenpflichtige Facharchive. Den größten Teil dürften heute zugangsbeschränkte Inhalte ausmachen, etwa Webmail-Postfächer, Online-Banking, Firmen-Intranets und kostenpflichtige Facharchive. Aber auch frei zugängliche Seiten können dazugehören, zum Beispiel Suchergebnisse aus Datenbanken wie einer Fahrplanauskunft.
+Das Deep Web ist der mit Abstand größte Teil des Internets und umfasst **rund 90%** aller Online-Inhalte. Im Gegensatz zum Surface Web ist das Deep Web nicht von Suchmaschinen indexiert und daher über Google & Co. nicht auffindbar. Den größten Teil dürften heute zugangsbeschränkte Inhalte ausmachen, etwa Webmail-Postfächer, Online-Banking, Firmen-Intranets und kostenpflichtige Facharchive. Aber auch frei zugängliche Seiten können dazugehören, zum Beispiel Suchergebnisse aus Datenbanken wie einer Fahrplanauskunft.
 
 Das Deep Web ist nicht illegal – es ist einfach der Teil des Internets, den Suchmaschinen nicht erfassen.
 
