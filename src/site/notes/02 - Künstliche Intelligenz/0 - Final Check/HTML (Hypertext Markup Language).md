@@ -71,7 +71,7 @@ HTML legt ausschließlich die Struktur fest. `<h1>` bedeutet also nur: Das ist d
 
 Diese Gliederung hilft zum Beispiel blinden und sehbehinderten Menschen, die sich Webseiten von einem Screenreader vorlesen lassen: Sie können so von Überschrift zu Überschrift springen und bekommen schnell einen Überblick, ähnlich wie beim Überfliegen eines Textes.
 
-Wenn es nicht ums Aussehen geht - wie kommt es dann, dass in unserem Beispiel von oben die Überschrift groß und fett dargestellt wird? Das liegt nicht an HTML, sondern an den Standardeinstellungen des Browsers: Er gibt jedem Element eine Grundgestaltung mit, solange nichts anderes festgelegt ist. Deshalb sieht eine Website ohne CSS auch heute noch so aus wie in den frühen 90ern. Mit CSS können wir das nach Belieben ändern.
+Wenn es nicht ums Aussehen geht – wie kommt es dann, dass in unserem Beispiel von oben die Überschrift groß und fett dargestellt wird? Das liegt nicht an HTML, sondern an den Standardeinstellungen des Browsers: Er gibt jedem Element eine Grundgestaltung mit, solange nichts anderes festgelegt ist. Deshalb sieht eine Website ohne CSS auch heute noch so aus wie in den frühen 90ern. Mit CSS können wir das nach Belieben ändern.
 
 In der Praxis gestalten wir die `<h1>` meist trotzdem als größte Überschrift, weil das der Orientierung hilft. Notwendig ist das aber nicht.
 
