@@ -16,7 +16,7 @@ Hier ein Beispiel für HTML-Code:
 
 So teilen wir dem Browser mit, wie die Seite aufgebaut ist: Was sind Überschriften, was sind Links, was ist Fließtext?
 
-Für das Design ist HTML nicht zuständig, dafür brauchen wir zusätzlich [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|CSS]].
+Für das Design ist HTML nicht zuständig, dafür brauchen wir zusätzlich [[02 - Künstliche Intelligenz/1 - Work on now/CSS (Cascading Style Sheets)\|CSS]].
 
 Ohne CSS würden alle Seiten immer noch so aussehen wie Anfang der 90er, in den frühen Tagen des Webs:
 
@@ -69,7 +69,7 @@ Noch mal zu unserem Beispiel von oben:
 
 HTML legt ausschließlich die Struktur fest. `<h1>` bedeutet also nur: Das ist die oberste Ebene der Gliederung. Mit anderen Worten: `<h1>` sagt nicht „größte Überschrift“, sondern „*wichtigste* Überschrift“.
 
-Wichtig ist diese Gliederung zum Beispiel für Menschen, die sich Webseiten mit einem Screenreader vorlesen lassen: Sie können so von Überschrift zu Überschrift springen und bekommen schnell einen Überblick, ähnlich wie beim Überfliegen eines Textes.
+Diese Gliederung hilft zum Beispiel Menschen, die sich Webseiten mit einem Screenreader vorlesen lassen: Sie können so von Überschrift zu Überschrift springen und bekommen schnell einen Überblick, ähnlich wie beim Überfliegen eines Textes.
 
 Wie kommt es dann, dass in unserem Beispiel oben die Überschrift groß und fett dargestellt wird? Das liegt nicht an HTML, sondern an den Standardeinstellungen des Browsers: Er gibt jedem Element eine Grundgestaltung mit, solange nichts anderes festgelegt ist. Deshalb sieht eine Website ohne CSS auch heute noch so aus wie in den frühen 90ern. Mit CSS können wir das nach Belieben ändern.
 
@@ -81,9 +81,9 @@ So könnte unser Beispiel von oben aussehen, wenn wir es mit CSS eigenwillig ges
 
 Damit würden wir Sehende wahrscheinlich verwirren. Menschen, die einen Screenreader verwenden, bemerken davon dagegen nichts: Der Screenreader kündigt „Ich bin die Hauptüberschrift“ weiterhin als Überschrift der obersten Ebene an und den Link als Link. Genau das meint die Trennung von Struktur und Design: HTML sagt, _was_ etwas ist, CSS sagt, _wie_ es aussieht.
 
-👉 Wer neugierig geworden ist, kann sich hier angucken, wie das [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)#Ein eigenwilliges Beispiel\|CSS hinter unserem Beispiel]] aussieht.
+👉 Wer neugierig geworden ist, kann sich hier angucken, wie das [[02 - Künstliche Intelligenz/1 - Work on now/CSS (Cascading Style Sheets)#Ein eigenwilliges Beispiel\|CSS hinter unserem Beispiel]] aussieht.
 ## 📖 Weiterlesen
 
 - Ein Artikel über HTML, der Tim Berners-Lee nicht erwähnt, ist eigentlich unvollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[02 - Künstliche Intelligenz/0 - Final Check/Eine kurze Geschichte des Internets\|kurzen Geschichte des Internets]].
 - Ein Hypertext-System muss nicht digital sein. Der [[02 - Künstliche Intelligenz/1 - Work on now/Zettelkasten und Hypertext\|Zettelkasten]] ist ein analoges Beispiel.
-- Mehr über [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|CSS]], die „Design-Sprache“ des Webs
+- Mehr über [[02 - Künstliche Intelligenz/1 - Work on now/CSS (Cascading Style Sheets)\|CSS]], die „Design-Sprache“ des Webs
