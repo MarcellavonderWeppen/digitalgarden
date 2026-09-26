@@ -36,7 +36,7 @@ Meine Pläne dazu sind streng geheim, aber anscheinend wurden sie geleakt:
 
 Lange Zeit war ich auf das Narrativ hereingefallen: „KI übernimmt jetzt das Webdesign, Webdesigner sind ab sofort überflüssig.“
 
-Kann sein, dass wir in sechs Monaten [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/AGI\|AGI]] erreichen und dann Menschen überflüssig werden, wie ich inzwischen schon seit Jahren höre. Zum jetzigen Zeitpunkt sind die Ergebnisse von Webseiten-generierenden KIs allerdings enttäuschend:
+Kann sein, dass wir in sechs Monaten [[02 - Künstliche Intelligenz/3 - Work on tomorrow/AGI\|AGI]] erreichen und dann Menschen überflüssig werden, wie ich inzwischen schon seit Jahren höre. Zum jetzigen Zeitpunkt sind die Ergebnisse von Webseiten-generierenden KIs allerdings enttäuschend:
 
 👉 [[02 - Künstliche Intelligenz/Garten erkunden/Verschiedenes/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]]
 

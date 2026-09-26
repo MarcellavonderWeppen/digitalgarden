@@ -23,7 +23,7 @@ Second Brain, Digital Garden, Zettelkasten und PKM (Personal Knowledge Managemen
 
 ### Zettelkasten
 
-... ist eine Methode, die auf [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Atomare Notizen\|atomaren Notizen]] basiert, die dicht miteinander verlinkt sind, um neue Ideen aus der Verbindung bestehender Konzepte zu generieren. Der Ansatz wurde maßgeblich durch den Soziologen [Niklas Luhmann](https://www.youtube.com/@NiklasLuhmannSystemtheorie/search) bekannt, der mit diesem System über 70 Bücher und hunderte wissenschaftliche Artikel verfasste.
+... ist eine Methode, die auf [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Atomare Notizen\|atomaren Notizen]] basiert, die dicht miteinander verlinkt sind, um neue Ideen aus der Verbindung bestehender Konzepte zu generieren. Der Ansatz wurde maßgeblich durch den Soziologen [Niklas Luhmann](https://www.youtube.com/@NiklasLuhmannSystemtheorie/search) bekannt, der mit diesem System über 70 Bücher und hunderte wissenschaftliche Artikel verfasste.
 
 👉 Siehe dazu auch [[02 - Künstliche Intelligenz/2 - Work on today/Zettelkasten und Hypertext\|Zettelkasten und Hypertext]]
 
@@ -34,4 +34,4 @@ Viele Nutzer kombinieren Elemente aller vier Ansätze, je nach ihren Bedürfniss
 > - PKM ist das übergeordnete Feld,
 > - Second Brain ist eine strukturierte, projektbezogene Methode,
 > - Digital Garden ist ein PKM, das sich öffentlich weiterentwickelt
-> - und Zettelkasten ein vernetztes System aus [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Atomare Notizen\|atomaren Notizen]]
+> - und Zettelkasten ein vernetztes System aus [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Atomare Notizen\|atomaren Notizen]]
