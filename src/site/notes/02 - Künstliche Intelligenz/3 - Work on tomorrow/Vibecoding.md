@@ -10,7 +10,7 @@
 
 Vibecoding bezeichnet einen KI-gestützten Programmieransatz, bei dem man das Modell den Code generieren lässt, indem man das gewünschte Ergebnis in Alltagssprache beschreibt. Entscheidungen fallen nach Gefühl und Geschwindigkeit, nicht nach Architektur-Prinzipien.
 
-Der Begriff geht auf [[02 - Künstliche Intelligenz/1 - Work on now/Andrej Karpathy\|Andrej Karpathy]] zurück, der ihn im Februar 2025 in einem beiläufigen Tweet prägte. Er beschrieb eine neue Art zu programmieren, bei der man sich ganz den Vibes (dem Gefühl) hingibt:
+Der Begriff geht auf [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Andrej Karpathy\|Andrej Karpathy]] zurück, der ihn im Februar 2025 in einem beiläufigen Tweet prägte. Er beschrieb eine neue Art zu programmieren, bei der man sich ganz den Vibes (dem Gefühl) hingibt:
 
 > _"Give in to the vibes, …, and forget that the code even exists"_.
 
@@ -52,9 +52,10 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 
 ## 📖 Weiterlesen
 
-> Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[02 - Künstliche Intelligenz/1 - Work on now/Agentic Engineering\|Agentic Engineering]].
+> Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Agentic Engineering\|Agentic Engineering]].
 
 ## 📺 Aus der YouTube Academy
 
 - Das Konzept von „Cognitive Debt“ im Detail erklärt – sehr empfehlenswert: [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M)
 - Die Schnelligkeit, mit der auch Laien oder mittelmäßige Programmierer Code produzieren können, hat zu einer Krise der Open-Source-Bewegung geführt. Das zugrunde liegende Problem: KI generiert Code in Sekundenschnelle, doch prüfen müssen ihn Menschen mit echtem Verständnis – und das ist mühsam. 👉 📺 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]]
+- Wer es dennoch probieren möchte: Hier der Schnellkurs in Vibecoding – [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E)
