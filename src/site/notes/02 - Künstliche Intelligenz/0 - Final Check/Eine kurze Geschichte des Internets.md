@@ -74,7 +74,7 @@ Das sollte sich bald ändern – durch einen britischen Informatiker am CERN in 
 Ende der 1980er arbeitet Tim Berners-Lee am CERN, dem europäischen Forschungszentrum für Teilchenphysik bei Genf. Dort herrscht ein ständiges Kommen und Gehen: Forschende aus aller Welt arbeiten ein paar Jahre mit und ziehen dann weiter, ihr Wissen oft mit ihnen. Was an Unterlagen bleibt, liegt verstreut auf unzähligen Computern unterschiedlicher Bauart, die kaum miteinander kompatibel sind. Wer etwas sucht, muss erst einmal herausfinden, wer es weiß und auf welchem Rechner es liegt. Berners-Lee hat eine Idee: Was, wenn man all diese Dokumente per Link miteinander verknüpft, ganz gleich, wo sie gespeichert sind? Die alte Hypertext-Vision, verbunden mit dem Internet.
 
 - **1989 – „Vage, aber spannend“:** Berners-Lee reicht bei seinem Chef einen Vorschlag für ein verlinktes Informationssystem ein. Der notiert darauf nur drei Wörter: „Vague but exciting“. Das reicht, um weitermachen zu dürfen.
-- **1990 – Drei Erfindungen auf einen Streich:** Berners-Lee entwickelt die Bausteine, auf denen das Web bis heute läuft: [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML]], HTTP und die URL. Dazu programmiert er den ersten Browser und den ersten [[Server\|Webserver]]. Auf dem Server-Rechner klebt ein Zettel: „This machine is a server. DO NOT POWER IT DOWN!!“ – wer ihn ausschaltet, schaltet das komplette Web ab.
+- **1990 – Drei Erfindungen auf einen Streich:** Berners-Lee entwickelt die Bausteine, auf denen das Web bis heute läuft: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/HTML (Hypertext Markup Language)\|HTML]], HTTP und die URL. Dazu programmiert er den ersten Browser und den ersten [[Server\|Webserver]]. Auf dem Server-Rechner klebt ein Zettel: „This machine is a server. DO NOT POWER IT DOWN!!“ – wer ihn ausschaltet, schaltet das komplette Web ab.
 - **1991 – Das Web stellt sich vor:** Die erste Webseite geht unter der Adresse [info.cern.ch](https://info.cern.ch/) online. Ihr Thema: das World Wide Web selbst – was es ist und wie man mitmacht. Sie ist bis heute abrufbar. [^erste-Webseite]
 - **1993 – Das Geschenk:** Am 30. April 1993 gibt das CERN die Technik des Webs frei, ohne Patente und ohne Lizenzgebühren. Jeder darf nun Browser, Server und Webseiten bauen, ohne jemanden um Erlaubnis zu fragen oder zu bezahlen.
 
@@ -99,7 +99,7 @@ Ab Mitte der 1990er geht alles sehr schnell. Innerhalb weniger Jahre wird aus de
 
 > [!info] Was ist ein Browser?
 >
-> Ein Browser (engl. „to browse“, stöbern) ist ein Programm wie Firefox, Chrome oder Safari, mit dem du Webseiten ansiehst. Er fragt per HTTP beim Server nach einer Seite, bekommt HTML und [[02 - Künstliche Intelligenz/1 - Work on now/CSS (Cascading Style Sheets)\|CSS]] zurück und baut daraus die Seite, die du auf dem Bildschirm siehst.
+> Ein Browser (engl. „to browse“, stöbern) ist ein Programm wie Firefox, Chrome oder Safari, mit dem du Webseiten ansiehst. Er fragt per HTTP beim Server nach einer Seite, bekommt HTML und [[02 - Künstliche Intelligenz/3 - Work on tomorrow/CSS (Cascading Style Sheets)\|CSS]] zurück und baut daraus die Seite, die du auf dem Bildschirm siehst.
 
 Heute nutzen rund 6 Milliarden Menschen das Internet, etwa drei Viertel der Weltbevölkerung. 2,2 Milliarden sind allerdings noch immer offline. Und das Netz, das einmal als offenes Projekt von Forschenden begann, sieht heute ziemlich anders aus, als seine Erfinder es sich vorgestellt hatten.
 

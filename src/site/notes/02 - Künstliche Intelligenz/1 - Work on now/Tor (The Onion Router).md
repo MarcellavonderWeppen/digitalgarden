@@ -29,9 +29,9 @@ Das Tor-Netzwerk besteht aus **tausenden freiwillig betriebenen Servern** weltwe
 
 Der **Tor Browser** ist ein speziell angepasster Browser (basierend auf Firefox), der für die Nutzung des Tor-Netzwerks optimiert ist. Er stellt die Verbindung zu den Tor-Servern her und ermöglicht den Zugriff auf:
 
-- **Das normale [[02 - Künstliche Intelligenz/0 - Final Check/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]]** (über den Exit Node, der die Daten dann unverschlüsselt an die Ziel-Website sendet).
+- **Das normale [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]]** (über den Exit Node, der die Daten dann unverschlüsselt an die Ziel-Website sendet).
 
-- **Das [[02 - Künstliche Intelligenz/0 - Final Check/Das Internet - Surface Web, Deep Web und Dark Web#Dark Web – Der mysteriöse Schatten\|Dark Web]]** (z. B. .onion-Websites, die nur innerhalb des Tor-Netzwerks erreichbar sind).
+- **Das [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Das Internet - Surface Web, Deep Web und Dark Web#Dark Web – Der mysteriöse Schatten\|Dark Web]]** (z. B. .onion-Websites, die nur innerhalb des Tor-Netzwerks erreichbar sind).
 
 ## Wofür wird Tor genutzt?
 

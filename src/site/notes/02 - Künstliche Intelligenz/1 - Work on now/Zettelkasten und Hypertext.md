@@ -4,7 +4,7 @@
 
 # Zettelkasten und Hypertext
 
-Ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]] ist eine Sammlung einzelner Notizzettel, die über Querverweise miteinander verbunden sind. [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)#Hypertext\|Hypertext]] bezeichnet Texte, die über Links auf andere Texte verweisen – das bekannteste Beispiel ist das Web. Beide folgen derselben Grundidee: Wissen als Netz statt als Linie. Sie sind weitgehend unabhängig voneinander entstanden, lassen sich aber als zwei Ausprägungen desselben Denkens verstehen: der Zettelkasten gewissermaßen als Hypertext auf Papier.
+Ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]] ist eine Sammlung einzelner Notizzettel, die über Querverweise miteinander verbunden sind. [[02 - Künstliche Intelligenz/3 - Work on tomorrow/HTML (Hypertext Markup Language)#Hypertext\|Hypertext]] bezeichnet Texte, die über Links auf andere Texte verweisen – das bekannteste Beispiel ist das Web. Beide folgen derselben Grundidee: Wissen als Netz statt als Linie. Sie sind weitgehend unabhängig voneinander entstanden, lassen sich aber als zwei Ausprägungen desselben Denkens verstehen: der Zettelkasten gewissermaßen als Hypertext auf Papier.
 
 ## Die gemeinsame Idee
 
@@ -20,7 +20,7 @@ Ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digital
 **Die Hypertext-Linie**
 - **1945:** Vannevar Bush beschreibt im Essay „As We May Think“ die *Memex*, eine gedachte Maschine, in der man Dokumente über „assoziative Pfade“ miteinander verknüpfen kann.
 - **1960er:** Ted Nelson prägt den Begriff „Hypertext“. Douglas Engelbart setzt Teile der Idee in seinem System NLS (oN-Line System) technisch um.
-- **Ab 1989:** Tim Berners-Lee entwickelt das World Wide Web mit [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML (Hypertext Markup Language)]] als Auszeichnungssprache.
+- **Ab 1989:** Tim Berners-Lee entwickelt das World Wide Web mit [[02 - Künstliche Intelligenz/3 - Work on tomorrow/HTML (Hypertext Markup Language)\|HTML (Hypertext Markup Language)]] als Auszeichnungssprache.
 
 **Die Zettelkasten-Linie**
 - **Ab 1951/52:** Luhmann baut seinen Zettelkasten auf, über die Jahrzehnte rund 90.000 Zettel.
