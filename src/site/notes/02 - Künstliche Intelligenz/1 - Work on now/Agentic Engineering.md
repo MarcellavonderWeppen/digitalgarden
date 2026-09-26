@@ -5,7 +5,7 @@
 
 # Agentic Engineering
 
-Nachdem Andrej Karpathy 2025 den Begriff [[02 - Künstliche Intelligenz/1 - Work on now/Vibecoding\|Vibecoding]] prägte, lieferte er Anfang 2026 _Agentic Engineering_ als „seriöses Gegenstück“ nach:
+Nachdem Andrej Karpathy 2025 den Begriff [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Vibecoding\|Vibecoding]] prägte, lieferte er Anfang 2026 _Agentic Engineering_ als „seriöses Gegenstück“ nach:
 
 - Vibe Coding hebt die Untergrenze an.
 - Agentic Engineering bewahrt die Obergrenze.

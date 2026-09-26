@@ -51,7 +51,7 @@ Für unser Eisberg-Modell heißt das: Surface, Deep und Dark Web beschreiben Sch
 ![Internet + Webschichten.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Internet%20+%20Webschichten.png)
 ## 📖 Weiterlesen
 
-- Das Internet, wie kam es überhaupt dazu? [[02 - Künstliche Intelligenz/0 - Final Check/Eine kurze Geschichte des Internets\|Eine kurze Geschichte des Internets]]
+- Das Internet, wie kam es überhaupt dazu? [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Eine kurze Geschichte des Internets\|Eine kurze Geschichte des Internets]]
 - Mehr über [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML]], die Sprache des Webs
 
 [^genaue-zahlen]: Die meisten kursierenden Zahlen gehen auf eine einzige Studie zurück: Der Informatiker Michael K. Bergman, der den Begriff „Deep Web“ geprägt hat, schätzte es 2001 auf das 400- bis 550-Fache des Surface Web. Die Studie beruhte auf Daten aus dem Jahr 2000 und wurde später von der Fachwelt kritisiert. Bergman selbst rückte einige Jahre danach von der Zahl ab und sprach nur noch von einem Mehrfachen bis höchstens 100-Fachen. Die populären Prozentwerte wie 90/10 oder 96/4 haben, soweit bekannt, keine eigene Datengrundlage. Quelle: [Bergman, „The Murky Depths of the ‚Deep Web‘“](https://www.mkbergman.com/343/the-murky-depths-of-the-deep-web/)

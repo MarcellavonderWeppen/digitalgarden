@@ -36,7 +36,7 @@ Vielleicht ist sein größter Einfluss auf die KI-Bewegung gar nicht seine Forsc
 
 ## Begriffsprägung
 
-Anfang 2025 wirft Karpathy den Begriff [[02 - Künstliche Intelligenz/1 - Work on now/Vibecoding\|Vibecoding]] beiläufig in die Welt und gibt damit einem Ding einen Namen, welches unzählige Programmierer zu diesem Zeitpunkt praktizierten - vielfach mit schlechtem Gewissen und dem Gefühl, keine „richtigen“ Programmierer zu sein.
+Anfang 2025 wirft Karpathy den Begriff [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Vibecoding\|Vibecoding]] beiläufig in die Welt und gibt damit einem Ding einen Namen, welches unzählige Programmierer zu diesem Zeitpunkt praktizierten - vielfach mit schlechtem Gewissen und dem Gefühl, keine „richtigen“ Programmierer zu sein.
 
 Indem er das Zusammenspiel von Mensch und KI in ein alltagstaugliches Konzept verpackte, machte er es auch außerhalb der Tech-Blase greifbar. Diese begriffliche Klarheit wirkte wie ein Katalysator: Sie nahm der neuen Arbeitsweise das Stigma, beschleunigte die Akzeptanz in der Industrie und trieb die Marktreife neuer Produkte rasant voran.
 
