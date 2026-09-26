@@ -14,15 +14,15 @@ Mit anderen Worten: Vibe Coding macht Programmieren für jeden zugänglicher, ab
 
 ## Auslöser
 
-Karpathy nennt Dezember 2025 als seinen persönlichen Wendepunkt: Über die Feiertage testete er agentische Coding-Tools intensiver, ließ sich immer größere Code-Abschnitte erzeugen – und konnte sich irgendwann nicht mehr erinnern, wann er die Ausgabe zuletzt korrigiert hatte. Aus dieser Erfahrung heraus entstand der neue Begriff.
+Karpathy nennt den Dezember 2025 als seinen persönlichen Wendepunkt: Über die Feiertage testete er agentische Coding-Tools intensiver, ließ sich immer größere Code-Abschnitte erzeugen – und konnte sich irgendwann nicht mehr erinnern, wann er den erzeugten Code zuletzt korrigiert hatte. So entstand der neue Begriff.
 
 ## Merkmale von Agentic Engineering
 
-- **Der Mensch als Dirigent** ([[Human-in-the-Loop\|Human-in-the-Loop]]): Man schreibt den Code nicht mehr mühsam Zeile für Zeile selbst. Stattdessen wird der Mensch zum Manager, der die KI-Systeme steuert, deren Ergebnisse prüft und am Ende die Freigabe gibt.
-- **Ein ganzes Team aus KI-Spezialisten (Multi-Agenten):** Statt eines einzelnen Chatbots arbeiten hier mehrere KI-Agenten Hand in Hand. Einer plant das Projekt, einer schreibt den Code und ein dritter sucht gezielt nach Fehlern – wie in einer echten Software-Firma.
+- **Der Mensch als Dirigent** ([[Human-in-the-Loop\|Human-in-the-Loop]]): Man schreibt den Code nicht mehr mühsam Zeile für Zeile selbst. Stattdessen orchestriert der Mensch KI-Systeme, prüft Ergebnisse und gibt diese am Ende frei.
+- **Ein ganzes Team aus KI-Spezialisten (Multi-Agenten):** Statt eines einzelnen Chatbots arbeiten mehrere KI-Agenten Hand in Hand. Einer plant das Projekt, ein anderer schreibt den Code und ein dritter sucht gezielt nach Fehlern – wie in einer echten Software-Firma.
 - **Fehlersuche in Dauerschleife (Selbstkorrektur):** Bevor der Mensch das Ergebnis sieht, lässt die KI das Programm im Hintergrund testweise laufen. Stürzt es ab, liest die KI die Fehlermeldung und repariert den Code so lange eigenständig, bis er läuft und die Tests besteht.
 - **KI mit echtem Werkzeugkasten (Tool-Nutzung):** Die Agenten schreiben nicht nur Texte. Sie können Programme eigenständig starten, Dateien auf dem Computer anlegen und digitale Prüfwerkzeuge benutzen, um die Qualität zu sichern.
-- **Der Fokus verschiebt sich:** Als Programmierer überlegt man nicht mehr: _„Welche ich Codezeile tippe ich als Nächstes ein?“_, sondern: _„Was soll das System am Ende können und wie stabil muss es sein?“_
+- **Der Fokus verschiebt sich:** Als Programmierer überlegt man nicht mehr: _„Welche Codezeile tippe ich als Nächstes ein?“_, sondern: _„Was soll das System am Ende können und wie stabil muss es sein?“_
 - **Keine Abkürzung für Anfänger:** Auch wenn die KI die meiste Arbeit macht – um so ein System zu steuern, braucht man tiefes Fachwissen. Man muss genau wissen, wie gute Software aufgebaut ist und wie man Fehler erkennt, sonst verliert man bei den riesigen Mengen an KI-Code sofort den Überblick.
 
 ## 📺 Aus der YouTube Academy
