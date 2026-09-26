@@ -66,7 +66,7 @@ Ergebnis: ein fertiges Rezept zum Loslegen.
 
 Das ist eine klare, endliche Schritt-für-Schritt-Anweisung - dieselbe Grundstruktur wie ganz oben in der Definition.
 
-Natürlich kann man KI nicht nur für Rezepte, sondern auch zum Programmieren ganzer Apps und Webseiten verwenden - das sogenannte [[02 - Künstliche Intelligenz/4 - very soon/Vibecoding\|Vibecoding]].
+Natürlich kann man KI nicht nur für Rezepte, sondern auch zum Programmieren ganzer Apps und Webseiten verwenden - das sogenannte [[02 - Künstliche Intelligenz/1 - Work on now/Vibecoding\|Vibecoding]].
 
 ### Praxiswissen für gute Prompts
 

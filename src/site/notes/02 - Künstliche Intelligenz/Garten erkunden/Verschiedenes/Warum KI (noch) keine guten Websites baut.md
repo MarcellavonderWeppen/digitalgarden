@@ -6,7 +6,7 @@
 
 Eine eigene Internetpräsenz in wenigen Minuten, auch ohne Programmierkenntnisse: So lautet das Versprechen von Tools wie Lovable oder Bolt.[^tools] Man beschreibt in einfachen Worten, was man haben möchte, und die KI baut daraus eine lauffähige Seite. 
 
-Es geht allerdings auch ohne diese Spezialtools: Wer ohnehin gut mit ChatGPT oder Claude umgehen kann, kommt damit ebenfalls ans Ziel. Die Kunst, Websites oder Apps von der KI bauen zu lassen, ohne den Code selbst verstehen zu müssen, nennt sich [[02 - Künstliche Intelligenz/4 - very soon/Vibecoding\|Vibecoding]].
+Es geht allerdings auch ohne diese Spezialtools: Wer ohnehin gut mit ChatGPT oder Claude umgehen kann, kommt damit ebenfalls ans Ziel. Die Kunst, Websites oder Apps von der KI bauen zu lassen, ohne den Code selbst verstehen zu müssen, nennt sich [[02 - Künstliche Intelligenz/1 - Work on now/Vibecoding\|Vibecoding]].
 
 ## Alles schön und gut …
 
