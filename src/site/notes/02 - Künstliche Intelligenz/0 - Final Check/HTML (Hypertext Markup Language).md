@@ -55,8 +55,8 @@ Man kann sie sich wie einen Korrekturstift vorstellen, mit dem ein Lektor auf ei
 Noch mal zu unserem Beispiel von oben:
 
 ```HTML
-<h1> Ich bin die Hauptüberschrift</h1>
-<p> Ich bin ein Fließtext und enthalte einen <a href="https://google.com">Link zu Google</a></p>
+<h1>Ich bin die Hauptüberschrift</h1>
+<p>Ich bin ein Fließtext und enthalte einen <a href="https://google.com">Link zu Google</a></p>
 ```
 
 `<h1>`, `<p>` und `<a>` sind die Tags, und sie markieren den Text, welchen sie umschließen. Dafür treten sie meist paarweise auf: Das Start-Tag (`<h1>`) öffnet, das End-Tag mit Schrägstrich (`</h1>`) schließt wieder.
@@ -84,6 +84,6 @@ Damit würden wir Sehende wahrscheinlich verwirren. Menschen, die einen Screenre
 👉 Wer neugierig geworden ist, kann sich hier angucken, wie das [[02 - Künstliche Intelligenz/1 - Work on now/CSS (Cascading Style Sheets)#Ein eigenwilliges Beispiel\|CSS hinter unserem Beispiel]] aussieht.
 ## 📖 Weiterlesen
 
-- Ein Artikel über HTML, der [[02 - Künstliche Intelligenz/1 - Work on now/Sir Tim Berners-Lee\|Tim Berners-Lee]] nicht erwähnt, ist eigentlich nicht vollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[02 - Künstliche Intelligenz/1 - Work on now/Eine kurze Geschichte des Internets\|kurzen Geschichte des Internets]].
-- Ein Hypertext-System muss nicht digital sein. Der [[02 - Künstliche Intelligenz/2 - Work on today/Zettelkasten und Hypertext\|Zettelkasten]] ist ein analoges Beispiel.
+- Ein Artikel über HTML, der [[02 - Künstliche Intelligenz/1 - Work on now/Sir Tim Berners-Lee\|Tim Berners-Lee]] nicht erwähnt, ist eigentlich nicht vollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[02 - Künstliche Intelligenz/1 - Work on now/Eine kurze Geschichte des Internets\|kurzen Geschichte des Internets]]
+- Ein Hypertext-System muss nicht digital sein. Der [[02 - Künstliche Intelligenz/2 - Work on today/Zettelkasten und Hypertext\|Zettelkasten]] ist ein analoges Beispiel
 - HTML ist erst der Anfang! Mehr über [[02 - Künstliche Intelligenz/1 - Work on now/CSS (Cascading Style Sheets)\|CSS]], die „Design-Sprache“ des Webs 
