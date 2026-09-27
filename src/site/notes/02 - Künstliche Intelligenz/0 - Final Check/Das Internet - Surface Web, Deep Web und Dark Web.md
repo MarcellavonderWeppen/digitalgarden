@@ -1,5 +1,5 @@
 ---
-{"title":"Das Internet: Surface Web, Deep Web und Dark Web","aliases":["Internet"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-05","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/das-internet-surface-web-deep-web-und-dark-web/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Das Internet: Surface Web, Deep Web und Dark Web","aliases":["Internet"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-06-05","status":null}}
+{"title":"Das Internet: Surface Web, Deep Web und Dark Web","aliases":["Internet"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-09-27","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/das-internet-surface-web-deep-web-und-dark-web/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Das Internet: Surface Web, Deep Web und Dark Web","aliases":["Internet"],"tags":null,"gen_ai_anteil":["Mistral 80%"],"created":"2026-06-03","updated":"2026-09-27","status":null}}
 ---
 
 
@@ -53,6 +53,6 @@ Für unser Eisberg-Modell heißt das: Surface, Deep und Dark Web beschreiben Sch
 
 - Das Internet, wie kam es überhaupt dazu? [[02 - Künstliche Intelligenz/1 - Work on now/Eine kurze Geschichte des Internets\|Eine kurze Geschichte des Internets]]
 - Der Erfinder des World Wide Web ist [[Tim Berners-Lee\|Tim Berners-Lee]]. Er setzt sich auch heute noch dafür ein, dass das Web offen und für alle frei zugänglich bleibt
-- Mehr über die Sprachen des Webs: [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML]] für Struktur und Inhalt, [[02 - Künstliche Intelligenz/0 - Final Check/CSS (Cascading Style Sheets)\|CSS]] für das Aussehen
+- Mehr über die Sprachen des Webs: [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML]] für Struktur und Inhalt, [[CS für das Aussehen
 
 [^genaue-zahlen]: Die meisten kursierenden Zahlen gehen auf eine einzige Studie zurück: Der Informatiker Michael K. Bergman, der den Begriff „Deep Web“ geprägt hat, schätzte es 2001 auf das 400- bis 550-Fache des Surface Web. Die Studie beruhte auf Daten aus dem Jahr 2000 und wurde später von der Fachwelt kritisiert. Bergman selbst rückte einige Jahre danach von der Zahl ab und sprach nur noch von einem Mehrfachen bis höchstens 100-Fachen. Die populären Prozentwerte wie 90/10 oder 96/4 haben, soweit bekannt, keine Datengrundlage. Quelle: [Bergman, „The Murky Depths of the ‚Deep Web‘“](https://www.mkbergman.com/343/the-murky-depths-of-the-deep-web/)

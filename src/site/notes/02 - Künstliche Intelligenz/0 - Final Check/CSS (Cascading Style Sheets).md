@@ -1,5 +1,5 @@
 ---
-{"title":"CSS (Cascading Style Sheets)","aliases":["CSS"],"tags":null,"gen_ai_anteil":["Euria 20%","Claude 20%"],"created":"2026-05-23","updated":"2026-05-24","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/css-cascading-style-sheets/","dgPassFrontmatter":true,"dg-note-properties":{"title":"CSS (Cascading Style Sheets)","aliases":["CSS"],"tags":null,"gen_ai_anteil":["Euria 20%","Claude 20%"],"created":"2026-05-23","updated":"2026-05-24","status":null}}
+{"title":"CSS (Cascading Style Sheets)","aliases":["CSS"],"tags":null,"gen_ai_anteil":["Euria 20%","Claude 20%"],"created":"2026-05-23","updated":"2026-09-27","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/css-cascading-style-sheets/","dgPassFrontmatter":true,"dg-note-properties":{"title":"CSS (Cascading Style Sheets)","aliases":["CSS"],"tags":null,"gen_ai_anteil":["Euria 20%","Claude 20%"],"created":"2026-05-23","updated":"2026-09-27","status":null}}
 ---
 
 
