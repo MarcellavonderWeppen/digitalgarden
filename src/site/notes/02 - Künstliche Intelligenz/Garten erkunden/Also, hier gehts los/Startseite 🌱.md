@@ -5,7 +5,7 @@
 ![Digital Garden Gemini 14.05.2026.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)
 # Herzlich willkommen in meinem „Digital Garden“ zum Thema künstliche Intelligenz 🌱🌿🌳
 
-Hier ist mein „digitaler Garten“ am Wachsen: Ich dokumentiere meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Künstliche Intelligenz\|künstlicher Intelligenz]].
+Hier ist mein „digitaler Garten“ am Wachsen: Ich dokumentiere meine persönlichen Erkenntnisse und Lernfortschritte zu den vielfältigen Aspekten von [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Künstliche Intelligenz\|künstlicher Intelligenz]].
 
 Manch einer fragt sich vielleicht: Was ist ein digitaler Garten? Ist das eine Art Blog?
 

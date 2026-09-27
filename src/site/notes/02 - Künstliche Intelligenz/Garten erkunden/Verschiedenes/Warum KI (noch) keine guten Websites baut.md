@@ -19,7 +19,7 @@ Auch für eine einfache Visitenkarten-Website oder Hobbyprojekte ist das Ergebni
 
 ### Aber ☝️🤓
 
-- Die Ergebnisse wirken oft generisch – und das kommt nicht von ungefähr, da wir es mit [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Statistische KI\|statistischer KI]] zu tun haben. Die Domäne dieser Form von KI ist das Durchschnittliche, nicht das Individuelle oder gar Außergewöhnliche. 
+- Die Ergebnisse wirken oft generisch – und das kommt nicht von ungefähr, da wir es mit [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Statistische KI\|statistischer KI]] zu tun haben. Die Domäne dieser Form von KI ist das Durchschnittliche, nicht das Individuelle oder gar Außergewöhnliche. 
 - Hübsch ist nicht gleich wirksam. Eine Website soll in erster Linie eine Botschaft zum Ausdruck bringen und die richtigen Menschen erreichen. Deshalb beginnt gutes Webdesign mit einem umfassenden Konzept; die Gestaltung folgt daraus.
 - Dank KI kann heute jeder schnell und leicht Code erzeugen – allerdings hat dieser häufig Mängel, die Anfängern gar nicht auffallen, da ihnen das Bewusstsein für Themen wie Sicherheit, Performance oder Accessibility fehlt. Das bringt wiederum eine schlechtere [[02 - Künstliche Intelligenz/4 - very soon/UX\|User Experience]] oder rechtliche Risiken mit sich. 
 

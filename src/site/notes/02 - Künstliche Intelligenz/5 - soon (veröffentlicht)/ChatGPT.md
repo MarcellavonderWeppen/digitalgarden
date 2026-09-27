@@ -42,11 +42,11 @@ Schauen wir es uns Schritt für Schritt an:
 ### Generative
 
 - Das Modell erzeugt etwas (und zwar Texte)
-- Es gehört damit der übergeordneten Kategorie [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Generative KI\|Generative KI]] an, welche u.a. Texte, Bilder, Videos und Musik generieren kann 
+- Es gehört damit der übergeordneten Kategorie [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Generative KI\|Generative KI]] an, welche u.a. Texte, Bilder, Videos und Musik generieren kann 
 
 ### Pre-trained
 
-- Es wurde **vorab** mit riesigen Mengen Text trainiert: prinzipiell stand das gesamte [[02 - Künstliche Intelligenz/0 - Final Check/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] zur Verfügung, allerdings wurde hier eine gewisse [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)#Vorauswahl\|Vorauswahl]] getroffen und [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)#Filter\|Filter]] kamen zum Einsatz. So wird sichergestellt, dass die Textausgaben einen gewissen Sprachstandard einhalten — und offensichtlich diskriminierende Inhalte werden bereits hier herausgefiltert.
+- Es wurde **vorab** mit riesigen Mengen Text trainiert: prinzipiell stand das gesamte [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] zur Verfügung, allerdings wurde hier eine gewisse [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)#Vorauswahl\|Vorauswahl]] getroffen und [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)#Filter\|Filter]] kamen zum Einsatz. So wird sichergestellt, dass die Textausgaben einen gewissen Sprachstandard einhalten — und offensichtlich diskriminierende Inhalte werden bereits hier herausgefiltert.
 - Die Vorauswahl und Filter allein reichen jedoch nicht aus, um Diskriminierung vollständig auszuschließen - subtile Vorurteile stecken oft in der Sprache selbst, auch in harmlosen Texten. Deshalb wird im Post-Training gezielt nachgesteuert.
 - Wir als Nutzer können die „fertig trainierte“ KI nicht mehr prinzipiell ändern
 - Ein Beispiel: Versuche ChatGPT im normalen Gebrauch dazu zu bringen, frauenfeindliche oder islamophobe Äußerungen von sich zu geben. Du wirst scheitern - die Schutzmechanismen verhindern das zuverlässig (von [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Jailbreaks\|Jailbreaks]] einmal abgesehen).

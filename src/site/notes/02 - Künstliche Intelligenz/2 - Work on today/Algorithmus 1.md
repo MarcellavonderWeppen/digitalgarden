@@ -14,7 +14,7 @@ Der allmächtige Algorithmus entscheidet, wer meine Facebook-Posts zu sehen beko
 
 Ich finde, es lohnt sich, dem Verständnis dieser sagenumwobenen Kreatur ein paar Zeilen zu widmen.
 
-Denn Algorithmen begegnen uns ständig im Alltag. Sie liegen nicht nur Social Media, sondern jeder Form von Software zugrunde – nicht zuletzt bilden sie auch das Rückgrat jeder Form von [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Künstliche Intelligenz\|KI]].
+Denn Algorithmen begegnen uns ständig im Alltag. Sie liegen nicht nur Social Media, sondern jeder Form von Software zugrunde – nicht zuletzt bilden sie auch das Rückgrat jeder Form von [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Künstliche Intelligenz\|KI]].
 
 Das Thema klingt ein wenig nach langweiliger Schulmathematik, aber ich werde mir Mühe geben, es ein wenig schmackhaft zu machen 😋 🥮 
 

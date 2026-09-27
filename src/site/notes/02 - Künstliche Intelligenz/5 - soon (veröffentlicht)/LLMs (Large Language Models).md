@@ -5,7 +5,7 @@
 
 # LLMs (Large Language Models)
 
-Large Language Models - oder zu deutsch: große Sprachmodelle - ist die Bezeichnung für die Modelle hinter Sprachbots wie ChatGPT. Es handelt sich um eine Unterkategorie der [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Statistische KI\|statistischen KI]], welche mit Menschen in **natürlicher Sprache** kommunizieren kann.
+Large Language Models - oder zu deutsch: große Sprachmodelle - ist die Bezeichnung für die Modelle hinter Sprachbots wie ChatGPT. Es handelt sich um eine Unterkategorie der [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Statistische KI\|statistischen KI]], welche mit Menschen in **natürlicher Sprache** kommunizieren kann.
 
 Nehmen wir das Wort einmal auseinander, um die Bedeutung besser zu verstehen:
 
@@ -13,11 +13,11 @@ Nehmen wir das Wort einmal auseinander, um die Bedeutung besser zu verstehen:
 
 Die großen Sprachmodelle sind also groß. Wie groß?
 
-Vereinfachend kann man sagen: Sie wurden mit einem großem Teil des [[02 - Künstliche Intelligenz/0 - Final Check/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] trainiert.
+Vereinfachend kann man sagen: Sie wurden mit einem großem Teil des [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Das Internet - Surface Web, Deep Web und Dark Web\|Internet]] trainiert.
 
 ### Aber: Nur das Surface Web
 
-Wenn ich behaupte, „das gesamte Internet“, dann meine ich damit fast ausschließlich das [[02 - Künstliche Intelligenz/0 - Final Check/Das Internet - Surface Web, Deep Web und Dark Web#Surface Web – Die Spitze des Eisbergs\|Surface Web]]. Das [[02 - Künstliche Intelligenz/0 - Final Check/Das Internet - Surface Web, Deep Web und Dark Web#Deep Web – Der unsichtbare Riese\|Deep Web]] spielt für das Training dieser Form von KI keine nennenswerte Rolle, da die Inhalte nicht frei verfügbar sind und oft technische oder rechtliche Hürden bestehen.
+Wenn ich behaupte, „das gesamte Internet“, dann meine ich damit fast ausschließlich das [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Das Internet - Surface Web, Deep Web und Dark Web#Surface Web – Die Spitze des Eisbergs\|Surface Web]]. Das [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Das Internet - Surface Web, Deep Web und Dark Web#Deep Web – Der unsichtbare Riese\|Deep Web]] spielt für das Training dieser Form von KI keine nennenswerte Rolle, da die Inhalte nicht frei verfügbar sind und oft technische oder rechtliche Hürden bestehen.
 
 Theoretisch stand das gesamte Surface Web zur Verfügung.
 

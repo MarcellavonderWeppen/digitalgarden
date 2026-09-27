@@ -13,7 +13,7 @@ Was ich sonst so mache, wenn ich nicht gerade an meinem Digital Garden baue:
 
 Ich habe mich lange für „technik-unbegabt“ gehalten – bis ich vor vielen Jahren durch ein privates Blogprojekt mit dem Programmieren begann. Ich erinnere mich noch gut daran, wie anspruchsvoll der Einstieg für Menschen ohne technischen Hintergrund sein kann, und so habe ich mir die Fähigkeit erhalten, technische Sachverhalte in einfachen Worten zu vermitteln.
 
-Meine Kurse wenden sich sowohl an Menschen, die den Einstieg suchen (und sich vielleicht wie ich damals für „technik-unbegabt“ halten) als auch an Anwender mit Vorerfahrung, die [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/Künstliche Intelligenz#Gen AI\|GenAI]] meistern und KI verstehen wollen.
+Meine Kurse wenden sich sowohl an Menschen, die den Einstieg suchen (und sich vielleicht wie ich damals für „technik-unbegabt“ halten) als auch an Anwender mit Vorerfahrung, die [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Künstliche Intelligenz#Gen AI\|GenAI]] meistern und KI verstehen wollen.
 
 Es fing alles an mit meiner Begeisterung für ChatGPT, aber inzwischen habe ich den Fokus auf andere [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs]] gelegt. (👉 Mehr dazu hier: [[02 - Künstliche Intelligenz/2 - Work on today/KI – es geht auch anders!\|KI – es geht auch anders!]])
 
@@ -36,7 +36,7 @@ Meine Pläne dazu sind streng geheim, aber anscheinend wurden sie geleakt:
 
 Lange Zeit war ich auf das Narrativ hereingefallen: „KI übernimmt jetzt das Webdesign, Webdesigner sind ab sofort überflüssig.“
 
-Kann sein, dass wir in sechs Monaten [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen KI/AGI\|AGI]] erreichen und dann Menschen überflüssig werden, wie ich inzwischen schon seit Jahren höre. Zum jetzigen Zeitpunkt sind die Ergebnisse von Webseiten-generierenden KIs allerdings enttäuschend:
+Kann sein, dass wir in sechs Monaten [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/AGI\|AGI]] erreichen und dann Menschen überflüssig werden, wie ich inzwischen schon seit Jahren höre. Zum jetzigen Zeitpunkt sind die Ergebnisse von Webseiten-generierenden KIs allerdings enttäuschend:
 
 👉 [[02 - Künstliche Intelligenz/Garten erkunden/Verschiedenes/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]]
 
