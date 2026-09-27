@@ -27,4 +27,4 @@ Karpathy nennt den Dezember 2025 als seinen persönlichen Wendepunkt: Über die 
 
 ## 📺 Aus der YouTube Academy
 
-[Do Google engineers actually vibe code?](https://www.youtube.com/watch?v=PbsocBPkoUc)
+- Die charmante „Alberta in Tech“ erklärt: [Do Google engineers actually vibe code?](https://www.youtube.com/watch?v=PbsocBPkoUc) Man munkelt, sie habe selber früher bei Google gearbeitet.

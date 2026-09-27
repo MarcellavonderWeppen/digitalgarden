@@ -43,7 +43,7 @@ Das ARPANET bekam bald viele Geschwister: Überall entstanden weitere Netze. Nur
 
 ## TCP/IP: Eine gemeinsame Sprache für alle Netze
 
-Damit sich die Netze untereinander verständigen konnten, brauchte es Regeln, die jedes von ihnen verstand, egal welche Technik darin steckte.
+Damit sich die Netze untereinander verständigen konnten, brauchte es Regeln, die jedes von ihnen verstand, egal welche Technik dahinter steckte.
 
 - **1974 – Eine neue Sprache entsteht:** Die US-Informatiker Vint Cerf und Bob Kahn veröffentlichen das Konzept für TCP/IP, über das sich beliebige Netze zusammenschließen lassen. Aus dem englischen „internetworking“, dem Zusammenschalten von Netzen, wird später der Name: Internet. Cerf und Kahn gelten heute als „Väter des Internets“.
 - **1983 – Der große Umstellungstag:** Am 1. Januar 1983 stellen alle Rechner im ARPANET auf TCP/IP um. Das Datum gilt oft als Geburtstag des Internets.
@@ -73,7 +73,7 @@ Das sollte sich bald ändern, denn das Web stand schon vor der Tür.
 
 > [!info] Was ist ein Terminal?
 >
-> Maus, Fenster, Symbole zum Anklicken: Für uns ist eine schicke Benutzeroberfläche selbstverständlich. Engelbart hatte sie zwar schon 1968 vorgeführt, im Alltag setzte sie sich aber erst ab Mitte der 1980er durch. Davor arbeitete man am **Terminal**: einem Bildschirm mit Tastatur, auf dem nur Text zu sehen war. Man tippte einen Befehl ein, drückte Enter, und der Computer antwortete in Textzeilen.
+> Für uns ist eine schicke Benutzeroberfläche selbstverständlich: Maus, Fenster, Symbole zum Anklicken. Zwar hatte Engelbart diese Dinge schon 1968 vorgeführt, im Alltag setzte sie sich aber erst ab Mitte der 1980er durch. Davor arbeitete man am **Terminal**: einem Bildschirm mit Tastatur, auf dem nur Text zu sehen war. Man tippte einen Befehl ein, drückte Enter, und der Computer antwortete in Textzeilen.
 > 
 > ![Terminal.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Terminal.png)
 >
@@ -129,7 +129,6 @@ Das Web wurde als offenes, dezentrales System gebaut: Jeder kann eine Seite ver�
 ### Aber es besteht auch Hoffnung
 
 - **Ritter ohne Furcht und Tadel:** Tim Berners-Lee warnt seit Jahren genau vor dieser Entwicklung: Das Web, das er als offenes Netz für alle gebaut hat, ist zu großen Teilen in die Hände weniger Konzerne geraten. Aus Nutzern sind Datenlieferanten geworden, und die lautesten Inhalte gewinnen, nicht die faktisch richtigen. Mit dem Projekt Solid arbeitet Berners-Lee an einer Technik, mit der Menschen die Kontrolle über ihre eigenen Daten zurückbekommen sollen. 2025 erschienen seine Erinnerungen unter einem Titel, der sein Lebenswerk zusammenfasst: _[[This Is for Everyone\|This Is for Everyone]]_ (wörtlich: _Das ist für alle_).
-
 - **Gegenbewegungen:** Dezentrale Netzwerke wie das [[Fediverse\|Fediverse]] (bekanntester Dienst: Mastodon) setzen auf viele unabhängige Server statt einer zentralen Firma. Und die IndieWeb-Bewegung ruft dazu auf, Texte zuerst auf der eigenen Website zu veröffentlichen statt auf Plattformen, etwa als Blog oder als Digital Garden wie dieser hier. Beide knüpfen damit an die ursprüngliche Idee des Webs an.
 
 
@@ -142,7 +141,7 @@ Das Web wurde als offenes, dezentrales System gebaut: Jeder kann eine Seite ver�
 
 ## Die Zukunft
 
-… ist ungewiss. Sicher ist nur: Sie wird von uns allen geschrieben.
+… ist ungewiss. Sicher ist nur: Sie wird von uns allen geschrieben. Denn: *This is for everyone.*
 
 [^Paul-Baran]: 
 

@@ -15,7 +15,7 @@ Bemerkenswert ist seine Doppelrolle. Er ist anerkannter Spitzenforscher und zugl
 - Im selben Jahr: Gründungsmitglied von [[02 - Künstliche Intelligenz/4 - very soon/OpenAI\|OpenAI]]
 - 2017 Wechsel zu Tesla, wo er als „Director of AI“ das Computer-Vision-Team hinter dem Autopilot leitete
 - 2024 Gründung seiner KI-Bildungsplattform Eureka Labs
-- seit Mai 2026 bei [[02 - Künstliche Intelligenz/4 - very soon/Anthropic\|Anthropic]] im Pretraining – der Phase, in der die Claude-Modelle ihr Grundwissen und ihre Kernfähigkeiten erwerben
+- Seit Mai 2026 unterstützt er bei [[02 - Künstliche Intelligenz/4 - very soon/Anthropic\|Anthropic]] das Pretraining – die Phase, in der Claude-Modelle ihr Grundwissen und ihre Kernfähigkeiten erwerben
 
 ## Pionier: Deep Learning und Computer Vision
 

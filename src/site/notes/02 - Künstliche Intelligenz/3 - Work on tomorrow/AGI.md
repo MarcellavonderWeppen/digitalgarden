@@ -7,9 +7,9 @@
 
 # AGI
 
-AGI (Artificial General Intelligence): Eine mythologische KI, die nächste Woche, nächstes Jahr oder vielleicht auch nie auftauchen wird. Sie kann alles, was ein Mensch kann, nur besser und schneller, und wird sich innerhalb kürzester Zeit selber zur ASI (Artificial Super Intelligence) weiterentwickeln – eine Wesenheit, deren Intelligenz sich zum Menschen verhält wie die des Menschen zur Kakerlake.
+AGI (Artificial General Intelligence): Eine mythologische KI-Wesenheit, die nächste Woche, nächstes Jahr oder vielleicht auch nie auftauchen wird. Sie kann alles, was ein Mensch kann, nur besser und schneller. Da sie ihren eigenen Code verbessern kann wird sie sich innerhalb kürzester Zeit zur ASI (Artificial Super Intelligence) weiterentwickeln – eine Kreatur, deren Intelligenz sich zu unserer verhält wie unsere zu der einer Kakerlake.
 
-deren Intelligenz sich zu unserer verhält wie unsere zu der einer Kakerlake.
+deren Intelligenz sich zum Menschen verhält wie die des Menschen zur Kakerlake.
 
 deren Intelligenz sich zur menschlichen verhält wie die menschliche zu der einer Kakerlake.
 

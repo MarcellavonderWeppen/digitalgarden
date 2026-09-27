@@ -42,11 +42,11 @@ Der Begriff wurde Anfang 2026 durch die Informatik-Professorin Margaret-Anne Sto
 Das Problem ist unsichtbar, bis das System bricht und die Entwickler wie Archäologen vor ihrer eigenen Software stehen.
 ### Cybersecurity – ein Job mit Zukunft
 
-Vibe-Code genügt im Allgemeinen den Ansprüchen an sicheren Code nicht. KI-Modelle lernen in der ersten Trainingsphase, das wahrscheinlichste nächste Wort vorherzusagen. In einer späteren Phase werden sie dafür belohnt, dass ihr Code läuft und Tests besteht. Ob er auch sicher ist, spielt dabei eine untergeordnete Rolle. Heraus kommt Code, der plausibel wirkt und den Nutzer schnell zufriedenstellt – er funktioniert ja zunächst.
+Vibe-Code genügt im Allgemeinen den Ansprüchen an sicheren Code nicht. KI-Modelle lernen in der ersten Trainingsphase, das wahrscheinlichste nächste Wort vorherzusagen. In einer späteren Phase werden sie dafür belohnt, dass ihr Code läuft und Tests besteht. Ob er auch sicher ist, spielt dabei eine untergeordnete Rolle. Heraus kommt Code, der plausibel wirkt und den Nutzer zufriedenstellt – es scheint ja zunächst auch alles zu funktionieren.
 
 Weil KI-generierter Code optisch oft sauber wirkt, verleitet er zu blindem Vertrauen. Doch die Modelle betrachten Code meist isoliert und übersehen komplexe Sicherheits-Wechselwirkungen im Gesamtsystem. Schlimmer noch: Da sie mit historischem Code trainiert wurden, replizieren sie alte, bekannte Sicherheitslücken in rasantem Tempo – ganz unbemerkt vom Entwickler im „Vibe“.
 
-Je mehr ungeprüfter, rasch generierter KI-Code in Produktion geht, desto größer wird die Angriffsfläche. Kognitive und technische Schulden verwandeln sich in offene Einfallstore.
+Je mehr ungeprüfter, rasch generierter KI-Code in Produktion geht, desto größer wird die Angriffsfläche. Kognitive und technische Schulden werden zu offenen Einfallstoren.
 
 Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf absehbare Zeit nicht arbeitslos werden.
 
@@ -58,4 +58,4 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 
 - Das Konzept von „Cognitive Debt“ im Detail erklärt – sehr empfehlenswert: [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M)
 - Die Schnelligkeit, mit der auch Laien oder mittelmäßige Programmierer Code produzieren können, hat zu einer Krise der Open-Source-Bewegung geführt. Das zugrunde liegende Problem: KI generiert Code in Sekundenschnelle, doch prüfen müssen ihn Menschen mit echtem Verständnis – und das ist mühsam. 👉 📺 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]]
-- Wer es dennoch probieren möchte: Hier der Schnellkurs in Vibecoding – [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E)
+- Wer es dennoch probieren möchte: Hier der Schnellkurs in Vibecoding 👉 [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E)
