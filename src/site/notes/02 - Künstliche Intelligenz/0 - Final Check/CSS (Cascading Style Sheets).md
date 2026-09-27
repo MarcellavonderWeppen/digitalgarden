@@ -13,7 +13,7 @@ Ohne CSS würde das gesamte Internet noch immer wie Anfang der 90er aussehen:
 
 Gut, dass wir CSS erfunden haben!
 
-Übrigens: Dieses Beispiel ist nicht ausgedacht. Es ist die allererste Website der Welt, und man kann sie heute noch auf  [info.cern.ch](https://info.cern.ch/hypertext/WWW/TheProject.html) besuchen[^erste-Webseite]. Der ehrenwerte Sir [[02 - Künstliche Intelligenz/1 - Work on now/Sir Tim Berners-Lee\|Tim Berners-Lee]] hat sie Anfang der 90er am CERN online gestellt und damit der Welt das World Wide Web geschenkt. 
+Übrigens: Dieses Beispiel ist nicht ausgedacht. Es ist die allererste Website der Welt, und man kann sie heute noch auf  [info.cern.ch](https://info.cern.ch/hypertext/WWW/TheProject.html)  besuchen[^erste-Webseite]. Sir [[02 - Künstliche Intelligenz/1 - Work on now/Sir Tim Berners-Lee\|Tim Berners-Lee]] hat sie Anfang der 90er am CERN online gestellt und damit der Welt das World Wide Web geschenkt. 
 ## Ein einfaches Beispiel für CSS
 
 So könnte eine CSS-Regel aussehen:
