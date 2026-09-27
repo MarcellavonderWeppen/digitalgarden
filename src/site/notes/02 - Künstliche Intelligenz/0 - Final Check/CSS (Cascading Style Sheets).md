@@ -7,13 +7,14 @@
 
 CSS ist das schicke Geschwisterchen von [[02 - Künstliche Intelligenz/0 - Final Check/HTML (Hypertext Markup Language)\|HTML]]. Es ist für das Design von Webseiten zuständig.
 
-Ohne CSS würde das gesamte Internet noch immer wie Anfang der 90er aussehen:
+Ohne CSS würde das gesamte Web noch immer wie Anfang der 90er aussehen:
 
 ![Website without HTML 2.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Website%20without%20HTML%202.png)
 
 Gut, dass wir CSS erfunden haben!
 
-Übrigens: Dieses Beispiel ist nicht ausgedacht. Es ist die allererste Website der Welt, und man kann sie heute noch auf  [info.cern.ch](https://info.cern.ch/hypertext/WWW/TheProject.html)  besuchen[^erste-Webseite]. Sir [[02 - Künstliche Intelligenz/1 - Work on now/Sir Tim Berners-Lee\|Tim Berners-Lee]] hat sie Anfang der 90er am CERN online gestellt und damit der Welt das World Wide Web geschenkt. 
+Übrigens: Dieses Beispiel ist nicht ausgedacht. Es ist die allererste Website der Welt, und man kann sie heute noch auf [info.cern.ch](https://info.cern.ch/hypertext/WWW/TheProject.html) besuchen[^erste-Webseite]. Sie wurde Anfang der 90er von Sir [[02 - Künstliche Intelligenz/1 - Work on now/Sir Tim Berners-Lee\|Tim Berners-Lee]] online gestellt, der damit der Welt das World Wide Web geschenkt hat. 
+
 ## Ein einfaches Beispiel für CSS
 
 So könnte eine CSS-Regel aussehen:
@@ -106,6 +107,6 @@ Hier habe ich vor vielen Jahren mein Programmier-Abenteuer gestartet 👇
 
 https://www.codecademy.com/ 🕳️ 🐇
 
-[^erste-Webseite]: 🕵️ Um genau zu sein: Das Original von 1991 gibt es nicht mehr. Die Seite wurde damals ständig überarbeitet, und niemand dachte daran, eine Kopie aufzuheben. Wer hätte auch ahnen können, dass sie einmal Geschichte schreibt? 2013 hat das CERN sie anhand der ältesten erhaltenen Fassung wiederhergestellt. Was du dort siehst, ist also nicht die allererste Seite, aber ziemlich nah dran.
+[^erste-Webseite]: 🕵️ Um genau zu sein: Das Original von 1991 gibt es nicht mehr. Die Seite wurde damals ständig überarbeitet, und niemand dachte daran, eine Kopie aufzuheben. Wer hätte auch ahnen können, dass sie einmal Geschichte schreibt? 2013 hat das CERN sie anhand der ältesten erhaltenen Fassung wiederhergestellt. Was Du dort siehst, ist also nicht die allererste Seite, aber ziemlich nah dran.
 
 [^inline-css]: Die Praxis, Anweisungen zur Gestaltung direkt ins HTML zu schreiben, gibt es bis heute. Sie nennt sich „**Inline-CSS**“: Man gibt dem Element ein `style`-Attribut mit, etwa `<h1 style="color: blue">Überschrift</h1>`. Das ist völlig in Ordnung, um schnell etwas auszuprobieren. Das `<font>`-Element von damals ist allerdings inzwischen veraltet.
