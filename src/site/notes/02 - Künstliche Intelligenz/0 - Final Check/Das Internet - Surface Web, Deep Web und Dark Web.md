@@ -5,7 +5,7 @@
 
 # Das Internet: Surface Web, Deep Web und Dark Web
 
-Wenn Menschen vom „Internet“ sprechen, meinen sie meist nur das **Surface Web** – den sichtbaren, öffentlich zugänglichen Teil. Den wenigsten ist bewusst, dass das Surface Web nur einen kleinen Anteil des Internet ausmacht. Der weitaus größere Teil bleibt für Suchmaschinen unsichtbar.
+Wenn Menschen vom „Internet“ sprechen, meinen sie meist nur das **Surface Web** – den sichtbaren, öffentlich zugänglichen Teil. Den wenigsten ist bewusst, dass das Surface Web nur einen kleinen Anteil des Internets ausmacht. Der weitaus größere Teil bleibt für Suchmaschinen unsichtbar.
 
 Vom Dark Web haben viele schon gehört, obwohl es nur ein winziger Teil ist. Tatsächlich entfällt ein Großteil von **rund 90 %** auf das Deep Web. Schauen wir uns die einzelnen Schichten des Internets einmal genauer an.
 
