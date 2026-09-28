@@ -17,3 +17,4 @@
 Ein Crawler startet auf einer Webseite, liest deren Inhalt, extrahiert alle Links und fügt diese zu einer Warteschlange hinzu. Dann besucht er die nächsten Seiten in dieser Warteschlange – und wiederholt den Prozess. So entsteht eine automatisierte, breite Erfassung des [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Das Internet - Surface Web, Deep Web und Dark Web#Surface Web – Die Spitze des Eisbergs\|Surface Web]].
 
 Crawler sind also das **Werkzeug**, um große Mengen an Webinhalten für Suchmaschinen oder Trainingsdaten zu sammeln.
+
