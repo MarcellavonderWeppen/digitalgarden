@@ -15,13 +15,12 @@ Bemerkenswert ist seine Doppelrolle. Er ist anerkannter Spitzenforscher und zugl
 - Im selben Jahr: Gründungsmitglied von [[02 - Künstliche Intelligenz/4 - very soon/OpenAI\|OpenAI]]
 - 2017 Wechsel zu Tesla, wo er als „Director of AI“ das Computer-Vision-Team hinter dem Autopilot leitete
 - 2024 Gründung seiner KI-Bildungsplattform Eureka Labs
-- Seit Mai 2026 unterstützt er bei [[02 - Künstliche Intelligenz/4 - very soon/Anthropic\|Anthropic]] das Pretraining – die Phase, in der Claude-Modelle ihr Grundwissen und ihre Kernfähigkeiten erwerben
-
+- Seit Mai 2026 unterstützt er bei [[02 - Künstliche Intelligenz/4 - very soon/Anthropic\|Anthropic]] das [[02 - Künstliche Intelligenz/1 - Work on now/Pretraining\|Pretraining]]-Team
 ## Pionier: Deep Learning und Computer Vision
 
-Karpathy promovierte bei Fei-Fei Li an der Stanford University. Dort arbeitete er intensiv mit **ImageNet** – der riesigen Bilddatenbank aus Fei-Fei Lis Labor, die 2012 den weltweiten Deep-Learning-Boom auslöste.
+Karpathy promovierte bei Fei-Fei Li an der Stanford University. Dort arbeitete er intensiv mit ImageNet – der riesigen Bilddatenbank aus Fei-Fei Lis Labor, die 2012 den weltweiten Deep-Learning-Boom auslöste. Mit ihr lernten Modelle, Bilder der richtigen Kategorie zuzuordnen ([[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Prädiktive KI\|Bildklassifikation]]).
 
-- **Der „menschliche Benchmark“:** Um herauszufinden, wie schwer die Aufgabe für Computer ist, testete Karpathy das ImageNet-Datenset an sich selbst. Er trainierte wochenlang sein eigenes Gehirn auf die 1.000 Bildkategorien und erreichte eine menschliche Fehlerquote von etwa 5,1 %. Kurze Zeit später überholten ihn die ersten KI-Modelle.
+- **Der „menschliche Benchmark“**: Wie gut sind Maschinen im Vergleich zum Menschen? Um das herauszufinden, trat Karpathy selbst gegen das damals beste Modell an. Eine Woche lang trainierte er sein Gehirn auf die 1.000 Bildkategorien von ImageNet und erreichte eine Fehlerquote von 5,1 % – das Modell lag bei 6,7 %. Sein Vorsprung hielt nicht lange: Wenige Monate später überholten ihn die ersten KI-Modelle.
 - **Verbindung von Bild und Text:** Seine Forschungsarbeiten zu _Deep Visual-Semantic Alignments_ gehören zu den Pionierarbeiten dafür, dass KIs heute Bilder nicht nur erkennen, sondern sie auch detailliert in Textform beschreiben können (Image Captioning).
 
 ## Demokratisierung von KI-Wissen
