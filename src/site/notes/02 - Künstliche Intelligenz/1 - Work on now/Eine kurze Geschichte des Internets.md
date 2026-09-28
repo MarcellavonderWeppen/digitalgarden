@@ -77,7 +77,7 @@ Das sollte sich bald ändern, denn das Web stand schon vor der Tür.
 > 
 > ![Terminal.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Terminal.png)
 >
-> Ganz verschwunden ist das Terminal übrigens nie: Als Programm steckt es bis heute in jedem Computer. Für Programmierer gehört es zum Alltag, und mit der zunehmenden Popularität von [[02 - Künstliche Intelligenz/1 - Work on now/Vibecoding\|Vibecoding]] entdecken es auch mehr und mehr Nicht-Techies.
+> Ganz verschwunden ist das Terminal übrigens nie: Als Programm steckt es bis heute in jedem Computer. Für Programmierer gehört es zum Alltag, und mit der zunehmenden Popularität von [[02 - Künstliche Intelligenz/0 - Final Check/Vibecoding\|Vibecoding]] entdecken es auch mehr und mehr Nicht-Techies.
 
 ## Das World Wide Web: Ein Geschenk an die Welt
 

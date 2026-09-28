@@ -1,5 +1,5 @@
 ---
-{"title":"AGI","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-09-27","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/garten-erkunden/grundlagen/agi/","dgPassFrontmatter":true,"dg-note-properties":{"title":"AGI","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-09-27","status":null}}
+{"title":"AGI","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%"],"created":"2026-04-01","updated":"2026-09-27","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/garten-erkunden/grundlagen/agi/","dgPassFrontmatter":true,"dg-note-properties":{"title":"AGI","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%"],"created":"2026-04-01","updated":"2026-09-27","status":null}}
 ---
 
 
