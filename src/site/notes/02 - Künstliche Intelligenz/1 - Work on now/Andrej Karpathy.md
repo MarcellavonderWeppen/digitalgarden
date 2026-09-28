@@ -40,7 +40,7 @@ Indem er das Zusammenspiel von Mensch und KI in ein alltagstaugliches Konzept ve
 
 Damit gewinnt Karpathy eine Wette, die er schon 2017 geschlossen hatte. In seinem Essay **Software 2.0** schrieb er: In Zukunft schreiben wir weniger Code, wir trainieren Netze. 2025 legte er mit **Software 3.0** nach: Jetzt programmieren wir diese Netze mit ganz normaler Sprache.
 
-Mit den Begriffen _Vibecoding_ und (später von ihm nachgeliefert) _[[02 - Künstliche Intelligenz/0 - Final Check/Agentic Engineering\|Agentic Engineering]]_ markiert er einen Epochenwechsel: Die klassische Software-Ära (Software 1.0) verliert ihre Alleinherrschaft, und die neue Ära bekommt einen Namen.
+Mit den Begriffen _Vibecoding_ und (später von ihm nachgeliefert) _[[02 - Künstliche Intelligenz/3 - Work on tomorrow/Agentic Engineering\|Agentic Engineering]]_ markiert er einen Epochenwechsel: Die klassische Software-Ära (Software 1.0) verliert ihre Alleinherrschaft, und die neue Ära bekommt einen Namen.
 
 ## 📺 Aus der YouTube-Academy
 

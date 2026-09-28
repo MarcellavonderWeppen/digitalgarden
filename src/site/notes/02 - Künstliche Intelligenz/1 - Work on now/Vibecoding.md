@@ -52,7 +52,7 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 
 ## 📖 Weiterlesen
 
-> Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[02 - Künstliche Intelligenz/0 - Final Check/Agentic Engineering\|Agentic Engineering]].
+> Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Agentic Engineering\|Agentic Engineering]].
 
 ## 📺 Aus der YouTube Academy
 
