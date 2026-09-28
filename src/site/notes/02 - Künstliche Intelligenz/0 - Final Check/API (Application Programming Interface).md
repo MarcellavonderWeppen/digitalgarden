@@ -16,4 +16,4 @@ Typischerweise schickt eine App über eine API eine Anfrage an einen Server. Der
 
 Eine Wetter-App nutzt eine API, um Daten von einem Wetterdienst abzurufen. Die schöne Benutzeroberfläche zeigt die aktuelle Temperatur, aber im Hintergrund spricht die App über die API mit einem Server.
 
-![Pasted image 20260928181218.png](/img/user/Pasted%20image%2020260928181218.png)
+![API Wetterapp.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/0%20-%20Final%20Check/API%20Wetterapp.png)
