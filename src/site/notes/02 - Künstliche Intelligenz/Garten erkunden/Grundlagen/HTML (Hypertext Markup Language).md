@@ -84,6 +84,6 @@ Damit würden wir Sehende wahrscheinlich verwirren. Menschen, die einen Screenre
 👉 Wer neugierig geworden ist, kann sich hier angucken, wie das [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/CSS (Cascading Style Sheets)#Ein eigenwilliges Beispiel\|CSS hinter unserem Beispiel]] aussieht.
 ## 📖 Weiterlesen
 
-- Ein Artikel über HTML, der [[02 - Künstliche Intelligenz/0 - Final Check/Sir Tim Berners-Lee\|Tim Berners-Lee]] nicht erwähnt, ist eigentlich nicht vollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[02 - Künstliche Intelligenz/1 - Work on now/Eine kurze Geschichte des Internets\|kurzen Geschichte des Internets]]
+- Ein Artikel über HTML, der [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Sir Tim Berners-Lee\|Tim Berners-Lee]] nicht erwähnt, ist eigentlich nicht vollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[02 - Künstliche Intelligenz/1 - Work on now/Eine kurze Geschichte des Internets\|kurzen Geschichte des Internets]]
 - Ein Hypertext-System muss nicht digital sein. Der [[02 - Künstliche Intelligenz/2 - Work on today/Zettelkasten und Hypertext\|Zettelkasten]] ist ein analoges Beispiel
 - HTML ist erst der Anfang! Mehr über [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/CSS (Cascading Style Sheets)\|CSS]], die „Design-Sprache“ des Webs 
