@@ -6,7 +6,7 @@
 # Agentic Engineering
 
 > You can outsource the thinking. You cannot outsource the understanding.
-> _- frei nach Andrej Karpathy_[^zitat]
+> <small>_- frei nach Andrej Karpathy_[^zitat]</small>
 
 Nachdem Andrej Karpathy 2025 den Begriff [[02 - Künstliche Intelligenz/0 - Final Check/Vibecoding\|Vibecoding]] geprägt hatte, lieferte er Anfang 2026 mit _Agentic Engineering_ das „seriöse Gegenstück“ nach:
 
