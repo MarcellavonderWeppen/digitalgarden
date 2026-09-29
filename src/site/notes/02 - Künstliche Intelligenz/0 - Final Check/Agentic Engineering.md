@@ -10,8 +10,8 @@
 
 Nachdem Andrej Karpathy 2025 den Begriff [[02 - Künstliche Intelligenz/0 - Final Check/Vibecoding\|Vibecoding]] geprägt hatte, lieferte er Anfang 2026 mit _Agentic Engineering_ das „seriöse Gegenstück“ nach:
 
-- Vibecoding hebt die Untergrenze an.
-- Agentic Engineering hebt die Obergrenze an.
+- Vibecoding hebt die Untergrenze an
+- Agentic Engineering hebt die Obergrenze an
 
 Mit anderen Worten: Vibecoding macht Programmieren für alle zugänglicher, aber Agentic Engineering stellt sicher, dass professionelle, produktionsreife Software trotz des Einsatzes unzuverlässiger KI-Agenten ihre Qualität behält.
 
