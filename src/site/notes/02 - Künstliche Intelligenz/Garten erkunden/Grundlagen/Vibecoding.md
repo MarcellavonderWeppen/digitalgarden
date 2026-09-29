@@ -51,11 +51,11 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 ## 📖 Weiterlesen
 
 > Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]].
-> 
+
 
 ## 📺 Aus der YouTube Academy
 
-- Sehr empfehlenswert: [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M) erklärt das Konzept von „Cognitive Debt“ im Detail.
+- [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M) erklärt das Konzept von „Cognitive Debt“ im Detail. Sehr empfehlenswert.
 - Jeder kann jetzt Webdesign? Nein! Meine Perspektive als Webdesignerin zu vibegecodeten Websites: [[02 - Künstliche Intelligenz/Garten erkunden/Verschiedenes/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]]
 - Die Schnelligkeit, mit der auch Laien oder mittelmäßige Programmierer Code produzieren können, hat zu einer Krise der Open-Source-Bewegung geführt. Das zugrunde liegende Problem: KI generiert Code in Sekundenschnelle, doch prüfen müssen ihn Menschen mit echtem Verständnis – und das ist mühsam. Mehr dazu im 📺 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]]
 - Wenn schon, dann richtig! Hier der kompakten Powerkurs für angehende Vibecoder: [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E)
