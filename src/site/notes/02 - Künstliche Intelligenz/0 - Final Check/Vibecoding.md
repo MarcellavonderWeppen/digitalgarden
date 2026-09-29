@@ -12,7 +12,7 @@ Vibecoding bezeichnet einen KI-gestützten Programmieransatz, bei dem man das Mo
 
 Der Begriff geht auf [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Andrej Karpathy\|Andrej Karpathy]] zurück, der ihn im Februar 2025 mit einem beiläufigen Tweet prägte. Er beschrieb eine neue Art zu programmieren, bei der man sich ganz den Vibes (dem Gefühl) hingibt:
 
-> [!quote] Give in to the vibes, …, and forget that the code even exists.[^quelle]
+> Give in to the vibes, …, and forget that the code even exists.[^quelle]
 
 ## Wofür eignet sich Vibecoding?
 
@@ -51,6 +51,7 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 ## 📖 Weiterlesen
 
 > Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]].
+> 
 
 ## 📺 Aus der YouTube Academy
 
