@@ -22,6 +22,7 @@ Was noch fehlte: ein Netz, über das Computer an verschiedenen Orten miteinander
 > ![Hypertext vs Buch.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Hypertext%20vs%20Buch.png)
 
 
+
 ## Das ARPANET: Computer lernen, miteinander zu reden
 
 Dieses Netz entsteht Ende der 1960er in den USA – bezahlt vom Militär, gebaut von Universitäten.
@@ -58,6 +59,7 @@ Damit sich die Netze untereinander verständigen konnten, brauchte es Regeln, di
 > - **IP (Internet Protocol)** ist die Adresse auf jeder Karte. Es sorgt dafür, dass jedes Paket seinen Weg zum richtigen Rechner findet.
 > - **TCP (Transmission Control Protocol)** ist der sorgfältige Absender und Empfänger. Es nummeriert die Karten, prüft, ob alle angekommen sind, fordert fehlende nach und bringt sie wieder in die richtige Reihenfolge.
 
+
 ### Wie sah das Internet ohne Web aus?
 
 Das Internet stand also. Aber es war ein Ort für Fachleute, Seiten zum Anklicken gab es noch nicht. Stattdessen gab es mehrere einzelne Dienste, jeder mit eigenem Programm und eigenen Befehlen:
@@ -79,6 +81,7 @@ Das sollte sich bald ändern, denn das Web stand vor der Tür.
 >
 > Ganz verschwunden ist das Terminal übrigens nie: Als Programm steckt es bis heute in jedem Computer. Für Programmierer gehört es zum Alltag, und mit der zunehmenden Popularität von [[02 - Künstliche Intelligenz/0 - Final Check/Vibecoding\|Vibecoding]] entdecken es auch mehr und mehr Nicht-Techies.
 
+
 ## Das World Wide Web: Ein Geschenk an die Welt
 
 Ende der 1980er herrscht am CERN, dem europäischen Forschungszentrum für Teilchenphysik bei Genf, ein ständiges Kommen und Gehen: Forschende aus aller Welt arbeiten ein paar Jahre mit und ziehen dann weiter, ihr Wissen oft mit ihnen. Was an Unterlagen bleibt, liegt verstreut auf unzähligen Computern unterschiedlicher Bauart, die kaum miteinander kompatibel sind. Wer etwas sucht, muss erst einmal herausfinden, wer es weiß und auf welchem Rechner es liegt. Einer von ihnen, der britische Informatiker Tim Berners-Lee, hat eine Idee: Was, wenn man all diese Dokumente per Link miteinander verknüpft, ganz gleich, wo sie gespeichert sind? Die alte Hypertext-Vision, verbunden mit dem Internet.
@@ -93,6 +96,7 @@ Ende der 1980er herrscht am CERN, dem europäischen Forschungszentrum für Teilc
 > - **HTML (Hypertext Markup Language)** beschreibt, wie eine Seite aufgebaut ist: Überschriften, Absätze, Links.
 > - **URL (Uniform Resource Locator)** gibt an, wo eine Seite zu finden ist, zum Beispiel [https://info.cern.ch](https://info.cern.ch). Den Namen `info.cern.ch` übersetzt das DNS in die IP-Adresse des Rechners, auf dem die Seite liegt.
 > - **HTTP (Hypertext Transfer Protocol)** regelt, wie Browser und Server sich unterhalten: Der Browser fragt „Gib mir bitte diese Seite“, der Server schickt sie.
+
 
 ## Vom Forschungsnetz zum Massenmedium
 
@@ -122,6 +126,7 @@ Das Web wurde als offenes, dezentrales System gebaut: Jeder kann eine Seite ver�
 > [!info] Was ist ein Walled Garden?
 >
 > Ein „ummauerter Garten“: eine Plattform, die ihre Nutzer, Inhalte und Daten möglichst innerhalb der eigenen Mauern hält. Man merkt es an Kleinigkeiten: Beiträge lassen sich nur mit Konto lesen, eigene Daten kann man nicht zu einem anderen Dienst mitnehmen, Apps gibt es nur über den hauseigenen Store. Typische Beispiele sind soziale Netzwerke und App-Stores. Das Gegenmodell ist das offene Web, in dem jede Seite auf jede andere verlinken kann.
+
 
 ### Aber es besteht auch Hoffnung
 
