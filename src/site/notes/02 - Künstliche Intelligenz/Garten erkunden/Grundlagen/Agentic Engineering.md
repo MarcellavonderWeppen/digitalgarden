@@ -1,5 +1,5 @@
 ---
-{"title":"Agentic Engineering","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-18","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/garten-erkunden/grundlagen/agentic-engineering/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Agentic Engineering","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-18","updated":null,"status":null}}
+{"title":"Agentic Engineering","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-18","updated":"2026-09-29","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/garten-erkunden/grundlagen/agentic-engineering/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Agentic Engineering","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-18","updated":"2026-09-29","status":null}}
 ---
 
 
