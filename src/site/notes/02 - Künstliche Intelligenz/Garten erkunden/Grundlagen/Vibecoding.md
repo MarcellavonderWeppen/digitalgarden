@@ -38,6 +38,7 @@ Mit dem Aufkommen von KI tritt jedoch ein neues, weitaus gefährlicheres Phänom
 Der Begriff wurde Anfang 2026 durch die Informatik-Professorin Margaret-Anne Storey bekannt. In der Softwareentwicklung beschreibt er eine schleichende Wissenserosion: Kognitive Schulden entstehen, wenn **das menschliche Team das Verständnis darüber verliert, wie der Code im Detail funktioniert** – und zwar selbst dann, wenn die KI sauberen, funktionierenden Code generiert hat.
 
 Das Problem ist unsichtbar, bis das System bricht und die Entwickler wie Archäologen vor ihrer eigenen Software stehen.
+
 ### Cybersecurity – ein Job mit Zukunft
 
 Vibe-Code genügt im Allgemeinen den Ansprüchen an sicheren Code nicht. KI-Modelle lernen in der ersten [[02 - Künstliche Intelligenz/4 - very soon/Training von LLMs\|Trainingsphase]], das wahrscheinlichste nächste Wort vorherzusagen. In einer späteren Phase werden sie dafür belohnt, dass ihr Code läuft und Tests besteht. Ob er auch sicher ist, spielt dabei eine untergeordnete Rolle. Das Ergebnis ist Code, der plausibel wirkt und den Nutzer zufriedenstellt – es funktioniert ja zunächst einmal alles.
@@ -51,12 +52,12 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 ## 📖 Weiterlesen
 
 - Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]].
-- Jeder kann jetzt Webdesign? Nein! Meine Perspektive als Webdesignerin zu vibegecodeten Websites: [[02 - Künstliche Intelligenz/Garten erkunden/Verschiedenes/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]]
-- Die Schnelligkeit, mit der auch Laien oder mittelmäßige Programmierer Code produzieren können, hat zu einer Krise der Open-Source-Bewegung geführt. Das zugrunde liegende Problem: KI generiert Code in Sekundenschnelle, doch prüfen müssen ihn Menschen mit echtem Verständnis – und das ist mühsam. Mehr dazu im 📺 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]]
+- Jeder kann jetzt Webdesign? Nein! Meine Perspektive als Webdesignerin zu vibe-gecodeten Websites: [[02 - Künstliche Intelligenz/Garten erkunden/Verschiedenes/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]]
+- Laien und mittelmäßige Programmierer können heute in Sekundenschnelle Code produzieren. Prüfen müssen ihn aber Menschen mit echtem Verständnis – und das ist mühsam. Das hat zu einer Krise der Open-Source-Bewegung geführt. Mehr dazu im 📺 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]]
 
 ## 📺 Aus der YouTube Academy
 
 - [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M) erklärt das Konzept von „Cognitive Debt“ im Detail. Sehr empfehlenswert.
-- Man könnte meinen, ich wäre gegen Vibecoding. Bin ich nicht. Aber – man sollte halt wissen, was man tut. Dieser kompakte Powerkurs liefert die Grundlagen und macht richtig Lust 😋: [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E) 
+- Man könnte meinen, ich wäre gegen Vibecoding. Bin ich nicht. Aber – man sollte halt wissen, was man tut. Dieser kompakte Powerkurs liefert die Grundlagen und macht richtig Lust aufs Ausprobieren 😋: [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E) 
 
 [^quelle]: Andrej Karpathy auf X, 2. Februar 2025: [x.com/karpathy/status/1886192184808149383](https://x.com/karpathy/status/1886192184808149383)
