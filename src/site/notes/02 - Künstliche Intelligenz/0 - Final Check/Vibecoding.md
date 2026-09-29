@@ -40,7 +40,7 @@ Der Begriff wurde Anfang 2026 durch die Informatik-Professorin Margaret-Anne Sto
 Das Problem ist unsichtbar, bis das System bricht und die Entwickler wie Archäologen vor ihrer eigenen Software stehen.
 ### Cybersecurity – ein Job mit Zukunft
 
-Vibe-Code genügt im Allgemeinen den Ansprüchen an sicheren Code nicht. KI-Modelle lernen in der ersten Trainingsphase, das wahrscheinlichste nächste Wort vorherzusagen. In einer späteren Phase werden sie dafür belohnt, dass ihr Code läuft und Tests besteht. Ob er auch sicher ist, spielt dabei eine untergeordnete Rolle. Das Ergebnis ist Code, der plausibel wirkt und den Nutzer zufriedenstellt – es funktioniert ja zunächst einmal alles.
+Vibe-Code genügt im Allgemeinen den Ansprüchen an sicheren Code nicht. KI-Modelle lernen in der ersten [[02 - Künstliche Intelligenz/4 - very soon/Training von LLMs\|Trainingsphase]], das wahrscheinlichste nächste Wort vorherzusagen. In einer späteren Phase werden sie dafür belohnt, dass ihr Code läuft und Tests besteht. Ob er auch sicher ist, spielt dabei eine untergeordnete Rolle. Das Ergebnis ist Code, der plausibel wirkt und den Nutzer zufriedenstellt – es funktioniert ja zunächst einmal alles.
 
 Weil KI-generierter Code optisch oft sauber wirkt, verleitet er zu blindem Vertrauen. Doch die Modelle betrachten Code meist isoliert und übersehen komplexe Sicherheits-Wechselwirkungen im Gesamtsystem. Schlimmer noch: Da sie mit historischem Code trainiert wurden, replizieren sie alte, bekannte Sicherheitslücken in rasantem Tempo – ganz unbemerkt vom Entwickler im „Vibe“.
 
