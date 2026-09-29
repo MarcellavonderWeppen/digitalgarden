@@ -12,7 +12,7 @@ Vibecoding bezeichnet einen KI-gestützten Programmieransatz, bei dem man das Mo
 
 Der Begriff geht auf [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Andrej Karpathy\|Andrej Karpathy]] zurück, der ihn im Februar 2025 mit einem beiläufigen Tweet prägte. Er beschrieb eine neue Art zu programmieren, bei der man sich ganz den Vibes (dem Gefühl) hingibt:
 
-> Give in to the vibes, …, and forget that the code even exists.[^quelle]
+> *Give in to the vibes, …, and forget that the code even exists.*[^quelle]
 
 ## Wofür eignet sich Vibecoding?
 
@@ -58,6 +58,6 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 - [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M) erklärt das Konzept von „Cognitive Debt“ im Detail. Sehr empfehlenswert.
 - Jeder kann jetzt Webdesign? Nein! Meine Perspektive als Webdesignerin zu vibegecodeten Websites: [[02 - Künstliche Intelligenz/Garten erkunden/Verschiedenes/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]]
 - Die Schnelligkeit, mit der auch Laien oder mittelmäßige Programmierer Code produzieren können, hat zu einer Krise der Open-Source-Bewegung geführt. Das zugrunde liegende Problem: KI generiert Code in Sekundenschnelle, doch prüfen müssen ihn Menschen mit echtem Verständnis – und das ist mühsam. Mehr dazu im 📺 [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]]
-- Wenn schon, dann richtig! Hier der kompakten Powerkurs für angehende Vibecoder: [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E)
+- Man könnte meinen, ich wäre gegen Vibecoding. Bin ich nicht. Aber – man sollte halt wissen, was man tut. Dieser kompakte Powerkurs liefert die Grundlagen und macht richtig Lust 😋: [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E) 
 
 [^quelle]: Andrej Karpathy auf X, 2. Februar 2025: [x.com/karpathy/status/1886192184808149383](https://x.com/karpathy/status/1886192184808149383)
