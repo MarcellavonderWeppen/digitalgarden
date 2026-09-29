@@ -42,7 +42,7 @@ Indem er das Zusammenspiel von Mensch und KI in ein alltagstaugliches Konzept ve
 
 Karpathy hat ein Gespür dafür, Umbrüchen einen Namen zu geben, und zwar oft, bevor die meisten sie bemerken. Schon 2017, als das noch nach Zukunftsmusik klang, schrieb er in seinem Essay **Software 2.0**: In Zukunft schreiben wir weniger Code, wir trainieren neuronale Netze. Den klassischen, von Hand geschriebenen Code taufte er rückwirkend Software 1.0.
 
-Mit den Begriffen _Vibecoding_ und (später von ihm nachgeliefert) _[[02 - Künstliche Intelligenz/0 - Final Check/Agentic Engineering\|Agentic Engineering]]_ markiert er einen Epochenwechsel: Die klassische Software-Ära (Software 1.0) verliert ihre Alleinherrschaft, und die neue Ära bekommt einen Namen.
+Mit den Begriffen _Vibecoding_ und (später von ihm nachgeliefert) _[[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]]_ markiert er einen Epochenwechsel: Die klassische Software-Ära (Software 1.0) verliert ihre Alleinherrschaft, und die neue Ära bekommt einen Namen.
 
 
 
@@ -54,7 +54,7 @@ Karpathy hat ein Gespür dafür, Umbrüchen einen Namen zu geben. Dahinter steck
 
 **Auf den Punkt bringen:** Anfang 2025 warf er beiläufig den Begriff [[02 - Künstliche Intelligenz/0 - Final Check/Vibecoding\|Vibecoding]] in die Welt und gab damit einer Sache einen Namen, die unzählige Programmierer zu diesem Zeitpunkt längst praktizierten – vielfach mit schlechtem Gewissen und dem Gefühl, keine „richtigen“ Programmierer zu sein. Indem er das Zusammenspiel von Mensch und KI in ein alltagstaugliches Konzept verpackte, machte er es auch außerhalb der Tech-Blase greifbar. Diese begriffliche Klarheit wirkte wie ein Katalysator: Sie nahm der neuen Arbeitsweise das Stigma und beschleunigte die Akzeptanz in der Industrie.
 
-Mit [[02 - Künstliche Intelligenz/0 - Final Check/Agentic Engineering\|Agentic Engineering]] lieferte er später das professionelle Gegenstück nach, und mit „Software 3.0“ die Einordnung: Nach trainierten Netzen (2.0) programmieren wir nun in natürlicher Sprache. Die klassische Software-Ära verliert ihre Alleinherrschaft, und die neue Ära hat einen Namen.
+Mit [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] lieferte er später das professionelle Gegenstück nach, und mit „Software 3.0“ die Einordnung: Nach trainierten Netzen (2.0) programmieren wir nun in natürlicher Sprache. Die klassische Software-Ära verliert ihre Alleinherrschaft, und die neue Ära hat einen Namen.
 
 
 ## Ein Gespür für Umbrüche
@@ -65,7 +65,7 @@ Karpathy hat ein Gespür für Umbrüche: Er sieht sie kommen und gibt ihnen eine
 
 **Genau im richtigen Moment:** Anfang 2025 warf er beiläufig den Begriff [[02 - Künstliche Intelligenz/0 - Final Check/Vibecoding\|Vibecoding]] in die Welt und gab damit einer Sache einen Namen, die unzählige Programmierer zu diesem Zeitpunkt längst praktizierten – vielfach mit schlechtem Gewissen und dem Gefühl, keine „richtigen“ Programmierer zu sein. Indem er das Zusammenspiel von Mensch und KI in ein alltagstaugliches Konzept verpackte, machte er es auch außerhalb der Tech-Blase greifbar. Diese begriffliche Klarheit wirkte wie ein Katalysator: Sie nahm der neuen Arbeitsweise das Stigma und beschleunigte die Akzeptanz in der Industrie.
 
-Mit [[02 - Künstliche Intelligenz/0 - Final Check/Agentic Engineering\|Agentic Engineering]] lieferte er später das professionelle Gegenstück zum Vibecoding nach.
+Mit [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] lieferte er später das professionelle Gegenstück zum Vibecoding nach.
 
 ## Ein Gespür für Umbrüche
 
@@ -75,7 +75,7 @@ Dinge beim Namen zu nennen, ist eine unterschätzte Macht. Solange etwas keinen 
 
 **Genau im richtigen Moment:** Anfang 2025 warf er beiläufig den Begriff [[02 - Künstliche Intelligenz/0 - Final Check/Vibecoding\|Vibecoding]] in die Welt. Viele Programmierer ließen sich da schon Code von KI schreiben, oft mit schlechtem Gewissen und dem Gefühl, keine „richtigen“ Programmierer zu sein. Plötzlich hatte das, was sie taten, einen Namen, und man konnte offen darüber reden, auch außerhalb der Tech-Blase.
 
-Mit [[02 - Künstliche Intelligenz/0 - Final Check/Agentic Engineering\|Agentic Engineering]] lieferte er später das professionelle Gegenstück nach, und mit „Software 3.0“ die Einordnung: Nach trainierten Netzen programmieren wir nun in natürlicher Sprache.
+Mit [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] lieferte er später das professionelle Gegenstück nach, und mit „Software 3.0“ die Einordnung: Nach trainierten Netzen programmieren wir nun in natürlicher Sprache.
 
 ## 📺 Aus der YouTube-Academy
 
