@@ -1,5 +1,5 @@
 ---
-{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-09-21","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/eine-kurze-geschichte-des-internets/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-09-21","updated":null,"status":null}}
+{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-21","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/eine-kurze-geschichte-des-internets/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-21","updated":null,"status":null}}
 ---
 
 
@@ -29,7 +29,7 @@ Dieses Netz entsteht Ende der 1960er in den USA – bezahlt vom Militär, gebaut
 
 - **1958 – Der Sputnik-Schock:** Die Sowjetunion hat gerade den ersten Satelliten ins All geschossen, die USA fühlen sich technisch abgehängt. Als Antwort gründet das Verteidigungsministerium die ARPA (Advanced Research Projects Agency), eine Behörde, die Spitzenforschung finanziert.
 - **1969 – Es geht LO…:** Am 29. Oktober 1969 sollen zum ersten Mal zwei Rechner über das neue Netz Daten austauschen. Ein Student an der Universität von Los Angeles (UCLA) will sich dafür auf einem Rechner am Stanford Research Institute einloggen[^Engelbart], rund 500 Kilometer entfernt. Er möchte „LOGIN“ eintippen, doch nach „L“ und „O“ stürzt das System ab. Die allererste Nachricht im Vorläufer des Internets lautet also: „LO“.
-- **Ende 1969 – vier Rechner, ein Netz:** Zum Jahresende sind vier Universitätsrechner miteinander verbunden. In den folgenden Jahren wächst das ARPANET auf Dutzende, später Hunderte Rechner.
+- **Ende 1969 – vier Rechner, ein Netz:** Zum Jahresende sind die Rechner von vier Forschungseinrichtungen in verschiedenen Städten im Westen der USA miteinander verbunden.
 - **1971 – Die erste E-Mail:** Der Programmierer Ray Tomlinson schickt die erste Nachricht von einem Rechner zu einem anderen. Die Adresse muss dabei zweierlei angeben: an wen die Nachricht geht und auf welchem Rechner diese Person zu finden ist. Um beides sauber zu trennen, wählt Tomlinson ein Zeichen, das in Namen nie vorkommt: das @. E-Mail wird schnell zur beliebtesten Anwendung im ARPANET.
 
 ### Mythos-Check: Gebaut für den Atomkrieg?
@@ -40,11 +40,11 @@ Die Legende, das Internet sei entwickelt worden, um einen Atomkrieg zu übersteh
 >
 > Stell dir vor, du willst ein Buch verschicken, aber die Post nimmt nur Postkarten. Also schreibst du jede Seite auf eine eigene Karte, nummerierst sie und wirfst sie ein. Jede Karte kann einen anderen Weg nehmen, beim Empfänger werden sie wieder sortiert. Genau so reisen Daten bis heute durchs Internet: zerlegt in kleine Pakete. Fällt eine Leitung aus, nehmen die Pakete einfach eine andere.
 
-Das ARPANET bekam bald viele Geschwister: Überall entstanden weitere Netze. Nur verstanden sie sich nicht besonders gut – sie sprachen nicht dieselbe Sprache.
+Das ARPANET bekam bald viele Geschwister: Überall entstanden weitere Netze, manche per Kabel, andere per Funk oder Satellit. Nur verstanden sie einander nicht besonders gut – jedes sprach seine eigene Sprache, mit eigenen Regeln dafür, wie ein Paket aussieht oder wie eine Adresse aufgebaut ist.
 
 ## TCP/IP: Eine gemeinsame Sprache für alle Netze
 
-Damit sich die Netze untereinander verständigen konnten, brauchte es Regeln, die jedes von ihnen verstand, egal welche Technik dahinter steckte.
+Damit sich die Netze untereinander verständigen konnten, musste etwas Neues her. Die Idee dahinter: Jedes Netz durfte seine eigene „Muttersprache“ behalten und intern weiterarbeiten wie bisher. Für die Verständigung untereinander kam eine gemeinsame Sprache dazu, in der Fachwelt „Protokoll“ genannt.
 
 - **1974 – Eine neue Sprache entsteht:** Die US-Informatiker Vint Cerf und Bob Kahn veröffentlichen das Konzept für TCP/IP, über das sich beliebige Netze zusammenschließen lassen. Aus dem englischen „internetworking“, dem Zusammenschalten von Netzen, wird später der Name: Internet. Cerf und Kahn gelten heute als „Väter des Internets“.
 - **1983 – Der große Umstellungstag:** Am 1. Januar 1983 stellen alle Rechner im ARPANET auf TCP/IP um. Das Datum gilt oft als Geburtstag des Internets.
@@ -59,7 +59,6 @@ Damit sich die Netze untereinander verständigen konnten, brauchte es Regeln, di
 > - **IP (Internet Protocol)** ist die Adresse auf jeder Karte. Es sorgt dafür, dass jedes Paket seinen Weg zum richtigen Rechner findet.
 > - **TCP (Transmission Control Protocol)** ist der sorgfältige Absender und Empfänger. Es nummeriert die Karten, prüft, ob alle angekommen sind, fordert fehlende nach und bringt sie wieder in die richtige Reihenfolge.
 
-
 ### Wie sah das Internet ohne Web aus?
 
 Das Internet stand also. Aber es war ein Ort für Fachleute, Seiten zum Anklicken gab es noch nicht. Stattdessen gab es mehrere einzelne Dienste, jeder mit eigenem Programm und eigenen Befehlen:
@@ -71,7 +70,7 @@ Das Internet stand also. Aber es war ein Ort für Fachleute, Seiten zum Anklicke
 
 Das größte Problem: Man musste vorher wissen, auf welchem Rechner und in welchem Ordner etwas lag. Fundorte sprachen sich allenfalls per E-Mail oder im Usenet herum; kein Dokument konnte auf ein anderes verweisen. Das Internet glich einer riesigen Bibliothek ohne Katalog: Wer den Regalplatz kannte, kam ran. Alle anderen hatten Pech.
 
-Das sollte sich bald ändern, denn das Web stand vor der Tür. 
+Das sollte sich bald ändern, denn das Web stand vor der Tür.
 
 > [!info] Was ist ein Terminal?
 >
@@ -79,7 +78,7 @@ Das sollte sich bald ändern, denn das Web stand vor der Tür.
 > 
 > ![Terminal.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Terminal.png)
 >
-> Ganz verschwunden ist das Terminal übrigens nie: Als Programm steckt es bis heute in jedem Computer. Für Programmierer gehört es zum Alltag, und mit der zunehmenden Popularität von [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Vibecoding\|Vibecoding]] entdecken es auch mehr und mehr Nicht-Techies.
+> Ganz verschwunden ist das Terminal übrigens nie: Als Programm [^Terminal] steckt es bis heute in jedem Computer. Für Programmierer gehört es zum Alltag, und mit der zunehmenden Popularität von [[02 - Künstliche Intelligenz/1 - Work on now/Vibecoding\|Vibecoding]] entdecken es auch mehr und mehr Nicht-Techies.
 
 
 ## Das World Wide Web: Ein Geschenk an die Welt
@@ -103,7 +102,8 @@ Ende der 1980er herrscht am CERN, dem europäischen Forschungszentrum für Teilc
 Ab Mitte der 1990er geht alles sehr schnell. Innerhalb weniger Jahre wird aus dem Werkzeug für Forschende ein Alltagsmedium für Milliarden Menschen.
 
 - **1993 – Bilder mitten im Text:** Studierende an der University of Illinois entwickeln den Browser Mosaic, der Bilder direkt zwischen den Text setzt. Plötzlich sieht eine Webseite aus wie eine Zeitschrift und nicht mehr wie ein Fachdokument. Das Web wird für normale Menschen interessant.
-- **Mitte der 1990er – Der Browserkrieg:** Der Browser Netscape Navigator erobert den Markt. Microsoft antwortet mit dem Internet Explorer, legt ihn jedem Windows-Rechner kostenlos bei – und gewinnt. Ein Schachzug, der Microsoft später eine Klage der US-Justiz wegen Missbrauchs seiner Marktmacht einbringt.
+- **Mitte der 1990er – Der Browserkrieg:** Der Browser Netscape Navigator erobert den Markt. Microsoft antwortet mit dem Internet Explorer, legt ihn jedem Windows-Rechner kostenlos bei – und gewinnt. Ein Schachzug, der Microsoft später eine Klage der US-Justiz wegen Missbrauchs seiner Marktmacht einbringt
+- **1995 – Webseiten werden interaktiv**: Bis dahin waren Webseiten unbeweglich. Einmal geladen, taten sie nichts mehr, bis man den nächsten Link anklickte. Der Programmierer Brendan Eich entwickelt für Netscape in nur zehn Tagen eine Programmiersprache, die direkt im Browser läuft: JavaScript. Damit können Webseiten auf Klicks und Eingaben reagieren, zum Beispiel ein Formular prüfen, bevor es abgeschickt wird. Mit der Programmiersprache Java hat JavaScript übrigens nichts zu tun, außer dem halben Namen: Java war damals gerade schwer angesagt, und Netscape wollte etwas vom Glanz abhaben.
 - **1996 – Schönes Design für alle:** Im Browserkrieg sieht dieselbe Webseite im Netscape Navigator oft ganz anders aus als im Internet Explorer. Aus diesem Grund wird [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/CSS (Cascading Style Sheets)\|CSS]] eingeführt: eine gemeinsame Sprache für Farben, Schriften und Anordnung. HTML ist nun ausschließlich für die Struktur zuständig, CSS für das Aussehen.
 - **Ende der 1990er – Goldrausch und Crash:** Amazon, eBay und Google werden gegründet. Anleger stecken Milliarden in fast jede Firma mit „.com“ im Namen. Im Jahr 2000 platzt die sogenannte Dotcom-Blase, viele Firmen verschwinden wieder.
 - **2000er – Das Mitmach-Web:** Mit Wikipedia (2001), Facebook (2004) und YouTube (2005) werden Nutzerinnen und Nutzer selbst zu Autoren. Dafür setzt sich der Begriff „Web 2.0“ durch.
@@ -145,13 +145,15 @@ Das Web wurde als offenes, dezentrales System gebaut: Jeder kann eine Seite ver�
 
 … ist ungewiss. Sicher ist nur: Sie wird von uns allen geschrieben. Denn: *This is for everyone.*
 
-[^NLS]: Warum NLS und nicht OLS? In Engelbarts Labor gab es bereits ein „Off-Line System“, mit dem man Texte ohne Bildschirm bearbeitete. Das Kürzel OLS hätte also für beide gepasst. Um sie auseinanderzuhalten, nahm man beim neuen System einfach das N aus „oN“.
+[^NLS]: Warum NLS und nicht OLS? In Engelbarts Labor gab es bereits ein „Off-Line System“. Das Kürzel OLS hätte also für beide gepasst. Um sie auseinanderzuhalten, nahm man beim On-Line System einfach das N aus „oN“. Übrigens hieß „off-line“ damals nicht „ohne Internet“, das gab es ja noch gar nicht, sondern: nicht direkt am Rechner. Man bereitete seine Eingaben vor, der Rechner verarbeitete sie irgendwann, und das Ergebnis bekam man erst später zu sehen. Bei NLS dagegen saß man direkt am Bildschirm und sah sofort, was passierte, eben „on-line“.
+
+[^Engelbart]: Fun Fact: Der Rechner stand in Douglas Engelbarts Labor. Genau, der Mann mit der Mutter aller Vorführungen. Sein Team betreute später auch das erste Verzeichnis des ARPANET, eine Art Auskunftsstelle, wer im Netz wo zu finden ist.
 
 [^Paul-Baran]: Baran arbeitete ab 1959 bei der RAND Corporation, einer Denkfabrik, die vor allem im Auftrag der US-Luftwaffe forschte. Mitten im Kalten Krieg beschäftigte ihn eine beklemmende Frage: Wie können Militär und Regierung nach einem Atomangriff noch miteinander kommunizieren? Das damalige Telefonnetz lief über wenige zentrale Vermittlungsstellen. Ein paar gezielte Treffer, und das ganze Netz wäre lahmgelegt. Barans Antwort: ein Netz ohne Zentrum, in dem jede Vermittlungsstelle mit mehreren anderen verbunden ist. Fällt eine aus, laufen die Daten einfach über einen anderen Weg. Damit das klappt, zerlegte er Nachrichten in kleine Stücke, die jeweils einzeln ihren Weg durchs Netz suchen. Er nannte sie „message blocks“, also Nachrichtenblöcke. Mitte der 1960er kam in England der Informatiker Donald Davies unabhängig von Baran auf dieselbe Idee. Er nannte die Stücke „packets“, und dieser Name hat sich durchgesetzt: Deshalb sprechen wir heute von Paketen und von Paketvermittlung. Die Entwickler des ARPANET stießen erst später auf Barans Arbeiten und holten ihn dann als Berater dazu.
 
-[^erste-Webseite]: 🕵️ Um genau zu sein: Das Original von 1991 gibt es nicht mehr. Die Seite wurde damals ständig überarbeitet, und niemand dachte daran, eine Kopie aufzuheben. Wer hätte auch ahnen können, dass sie einmal Geschichte schreibt? 2013 hat das CERN sie anhand der ältesten erhaltenen Fassung wiederhergestellt. Was du dort siehst, ist also nicht die allererste Seite, aber ziemlich nah dran.
+[^Terminal]: Ursprünglich war das Terminal ein Gerät: Bildschirm und Tastatur, verbunden mit einem Großrechner, der in einem anderen Raum oder sogar in einer anderen Stadt stand. Das Terminal selbst verstand keinen einzigen Befehl, es war ein reines Ein- und Ausgabegerät: Es schickte weiter, was man eintippte, und zeigte an, was zurückkam. Die eigentliche Arbeit machte ein Programm im Großrechner, das die Befehle entgegennahm und ausführte: die **Shell** (engl. „Hülle“, weil sie das Innere des Computers wie eine Schale umgibt und zugänglich macht).  Das Gerät gibt es heute nicht mehr, als Programm lebt das Terminal aber auf jedem Computer weiter: ein schlichtes Fenster, in dem du Befehle tippst und Text zurückbekommst, genau wie damals. Und wie damals nimmt die Shell die Befehle entgegen und führt sie aus. Das Terminal ist also eine Alternative zur grafischen Benutzeroberfläche: Statt zu klicken, sagst du dem Computer per Befehl, was er tun soll. Bei Programmierern ist es bis heute sehr beliebt, weil sich viele Aufgaben damit deutlich schneller und effizienter erledigen lassen.
 
-[^Engelbart]: Fun Fact: Der Rechner stand in Douglas Engelbarts Labor. Genau, der Mann mit der Mutter aller Vorführungen. Sein Team betreute später auch das erste Verzeichnis des ARPANET, eine Art Auskunftsstelle, wer im Netz wo zu finden ist.
+[^erste-Webseite]: 🕵️ Um genau zu sein: Das Original von 1991 gibt es nicht mehr. Die Seite wurde damals ständig überarbeitet, und niemand dachte daran, eine Kopie aufzuheben. Wer hätte auch ahnen können, dass sie einmal Geschichte schreibt? 2013 hat das CERN sie anhand der ältesten erhaltenen Fassung wiederhergestellt. Was du dort siehst, ist also nicht die allererste Seite, aber ziemlich nah dran.
 
 [^Stand-2025]: Stand 2025, laut der Internationalen Fernmeldeunion (ITU), einer Organisation der Vereinten Nationen.
 
