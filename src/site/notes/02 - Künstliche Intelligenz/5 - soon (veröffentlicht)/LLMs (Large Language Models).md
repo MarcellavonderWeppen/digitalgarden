@@ -28,7 +28,7 @@ Tatsächlich wurde aber nur ein signifikanter Teil genutzt. Genaue Zahlen sind u
 Die Auswahl der Trainingsdaten für große Sprachmodelle erfolgt nach **rechtlichen, technischen und didaktischen Kriterien**:
 
 - **Rechtlich:** Es werden (idealerweise) nur Daten verwendet, deren Nutzung urheberrechtlich erlaubt ist oder als „Fair Use“ gilt. Passwortgeschützte, private oder lizenzrechtlich geschützte Inhalte (z. B. hinter Paywalls) werden in der Regel ausgeschlossen, um rechtliche Risiken zu vermeiden.
-- **Technisch:** Nicht alle Webseiten sind für [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Crawler\|Crawler]] zugänglich oder können effizient verarbeitet werden. Dynamische Inhalte, bestimmte Dateiformate oder schlecht strukturierte Seiten werden oft nicht oder nur teilweise einbezogen.
+- **Technisch:** Nicht alle Webseiten sind für [[02 - Künstliche Intelligenz/0 - Final Check/Crawler\|Crawler]] zugänglich oder können effizient verarbeitet werden. Dynamische Inhalte, bestimmte Dateiformate oder schlecht strukturierte Seiten werden oft nicht oder nur teilweise einbezogen.
 - **Didaktisch/inhaltlich:** Die Daten werden oft gefiltert, um hochwertige, relevante und vielfältige Inhalte zu priorisieren. Das Ziel ist, das Modell mit nützlichem, korrektem und breitem Wissen zu trainieren.
 
 ### Filter

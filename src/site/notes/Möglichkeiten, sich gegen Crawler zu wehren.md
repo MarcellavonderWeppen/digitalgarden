@@ -5,7 +5,7 @@
 
 # Möglichkeiten, sich gegen Crawler zu wehren
 
-Wer eine Website betreibt, kann [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Crawler\|Crawlern]] den Zugang verwehren oder zumindest erschweren. Dieser Artikel gibt einen Überblick über die wichtigsten Möglichkeiten. Für die konkrete Umsetzung lohnt sich ein Blick in die Hilfe des eigenen Hosters oder Website-Baukastens.
+Wer eine Website betreibt, kann [[02 - Künstliche Intelligenz/0 - Final Check/Crawler\|Crawlern]] den Zugang verwehren oder zumindest erschweren. Dieser Artikel gibt einen Überblick über die wichtigsten Möglichkeiten. Für die konkrete Umsetzung lohnt sich ein Blick in die Hilfe des eigenen Hosters oder Website-Baukastens.
 
 Die Gründe, Crawler aussperren zu wollen, sind unterschiedlich:
 
@@ -23,7 +23,7 @@ Auf dieser Stufe hinterlässt man einen Hinweis, was man möchte und was nicht. 
 
 ### robots.txt
 
-Das bekannteste Mittel ist die robots.txt, eine Textdatei im Hauptverzeichnis der Website. Wie sie funktioniert, steht im Artikel [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Crawler#Muss denn das sein?\|Crawler]].
+Das bekannteste Mittel ist die robots.txt, eine Textdatei im Hauptverzeichnis der Website. Wie sie funktioniert, steht im Artikel [[02 - Künstliche Intelligenz/0 - Final Check/Crawler#Muss denn das sein?\|Crawler]].
 
 ### Weitere maschinenlesbare Hinweise
 
@@ -33,7 +33,7 @@ Daneben gibt es weitere Wege, Wünsche so zu hinterlegen, dass Maschinen sie les
 - **Nutzungsvorbehalte:** spezielle Formate, mit denen man ausdrücklich erklärt, dass Inhalte nicht automatisiert ausgewertet werden dürfen (Fachbegriff: Text- und Data-Mining). Ein Beispiel ist das „TDM Reservation Protocol“, entwickelt in einer Arbeitsgruppe des W3C (World Wide Web Consortium), das Standards für das Web erarbeitet.
 - **Neue Standards in Arbeit:** Die IETF (Internet Engineering Task Force), die viele grundlegende Internetstandards entwickelt, arbeitet an einem einheitlichen Vokabular für KI-Nutzungswünsche, etwa „nicht für KI-Training“. Es soll sich in die robots.txt schreiben oder beim Abruf einer Seite mitschicken lassen. Fertig ist es noch nicht (Stand: Oktober 2026).
 
-Auch wenn all das freiwillig ist: In der EU hat ein maschinenlesbarer Widerspruch rechtliches Gewicht, mehr dazu unter [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Crawler#Mehr als ein freundlicher Hinweis\|Mehr als ein freundlicher Hinweis]].
+Auch wenn all das freiwillig ist: In der EU hat ein maschinenlesbarer Widerspruch rechtliches Gewicht, mehr dazu unter [[02 - Künstliche Intelligenz/0 - Final Check/Crawler#Mehr als ein freundlicher Hinweis\|Mehr als ein freundlicher Hinweis]].
 
 ## Technisch aussperren
 
