@@ -44,7 +44,7 @@ Das ARPANET bekam bald viele Geschwister: Überall entstanden weitere Netze, man
 
 ## TCP/IP: Eine gemeinsame Sprache für alle Netze
 
-Damit sich die Netze untereinander verständigen konnten, musste etwas Neues her. Die Idee dahinter: Jedes Netz durfte seine eigene „Muttersprache“ behalten und intern weiterarbeiten wie bisher. Für die Verständigung untereinander kam eine gemeinsame Sprache dazu, in der Fachwelt „Protokoll“ genannt.
+Damit sich die Netze untereinander verständigen konnten, musste etwas Neues her. Die Idee dahinter: Jedes Netz durfte seine eigene „Muttersprache“ behalten und intern weiterarbeiten wie bisher. Für die Verständigung untereinander kam eine gemeinsame Sprache dazu.
 
 - **1974 – Eine neue Sprache entsteht:** Die US-Informatiker Vint Cerf und Bob Kahn veröffentlichen das Konzept für TCP/IP, über das sich beliebige Netze zusammenschließen lassen. Aus dem englischen „internetworking“, dem Zusammenschalten von Netzen, wird später der Name: Internet. Cerf und Kahn gelten heute als „Väter des Internets“.
 - **1983 – Der große Umstellungstag:** Am 1. Januar 1983 stellen alle Rechner im ARPANET auf TCP/IP um. Das Datum gilt oft als Geburtstag des Internets.
@@ -64,7 +64,7 @@ Damit sich die Netze untereinander verständigen konnten, musste etwas Neues her
 Das Internet stand also. Aber es war ein Ort für Fachleute, Seiten zum Anklicken gab es noch nicht. Stattdessen gab es mehrere einzelne Dienste, jeder mit eigenem Programm und eigenen Befehlen:
 
 - **E-Mail:** Nachrichten verschicken, lange die mit Abstand beliebteste Anwendung.
-- **Telnet:** Man loggt sich aus der Ferne auf einem anderen Rechner ein und arbeitet dort per Befehl, als säße man davor. So konnte eine Forscherin zum Beispiel ihre Messdaten von einem leistungsstarken Rechner am anderen Ende des Landes auswerten lassen, ohne ihr Büro zu verlassen.
+- **Telnet:** Man loggt sich aus der Ferne auf einem anderen Rechner ein und arbeitet dort per Befehl, als säße man davor. So konnte zum Beispiel eine Forscherin ihre Messdaten von einem leistungsstarken Rechner am anderen Ende des Landes auswerten lassen, ohne ihr Büro zu verlassen.
 - **FTP (File Transfer Protocol):** Dateien von einem anderen Rechner herunterladen. Man hangelte sich per Befehl durch dessen Ordner, holte sich etwa einen Forschungsbericht und las ihn dann auf dem eigenen Rechner.
 - **Usenet:** Tausende Diskussionsforen, nach Themen sortiert in sogenannte Newsgroups. Hier wurde gefragt, gefachsimpelt und gestritten – das soziale Netzwerk seiner Zeit.
 
@@ -72,13 +72,13 @@ Das größte Problem: Man musste vorher wissen, auf welchem Rechner und in welch
 
 Das sollte sich bald ändern, denn das Web stand vor der Tür.
 
-> [!info] Was ist ein Terminal?
+> [!info] Was ist ein Terminal? 
 >
 > Für uns ist eine schicke Benutzeroberfläche selbstverständlich: Maus, Fenster, Symbole zum Anklicken. Zwar hatte Engelbart diese Dinge schon 1968 vorgeführt, im Alltag setzte sie sich aber erst ab Mitte der 1980er durch. Davor arbeitete man am **Terminal**: einem Bildschirm mit Tastatur, auf dem nur Text zu sehen war. Man tippte einen Befehl ein, drückte Enter, und der Computer antwortete mit Text.
 > 
 > ![Terminal.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Terminal.png)
 >
-> Ganz verschwunden ist das Terminal übrigens nie: Als Programm [^Terminal] steckt es bis heute in jedem Computer. Für Programmierer gehört es zum Alltag, und mit der zunehmenden Popularität von [[02 - Künstliche Intelligenz/1 - Work on now/Vibecoding\|Vibecoding]] entdecken es auch mehr und mehr Nicht-Techies.
+> Ganz verschwunden ist das Terminal übrigens nie: Als Programm[^Terminal] steckt es bis heute in jedem Computer. Wir begegnen ihm auch unter den Namen Kommandozeile, Konsole oder CLI (Command Line Interface). Für Programmierer gehört es zum Alltag, und mit der zunehmenden Popularität von [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Vibecoding\|Vibecoding]] entdecken es auch mehr und mehr Nicht-Techies.
 
 
 ## Das World Wide Web: Ein Geschenk an die Welt
@@ -131,7 +131,7 @@ Das Web wurde als offenes, dezentrales System gebaut: Jeder kann eine Seite ver�
 ### Aber es besteht auch Hoffnung
 
 - **Ritter ohne Furcht und Tadel:** Tim Berners-Lee warnt seit Jahren genau vor dieser Entwicklung: Das Web, das er als offenes Netz für alle gebaut hat, ist zu großen Teilen in die Hände weniger Konzerne geraten. Aus Nutzern sind Datenlieferanten geworden, und die lautesten Inhalte gewinnen, nicht die faktisch richtigen. Mit dem Projekt Solid[^Solid] arbeitet Berners-Lee an einer Technik, mit der Menschen die Kontrolle über ihre eigenen Daten zurückbekommen sollen. 2025 erschienen seine Erinnerungen unter einem Titel, der sein Lebenswerk zusammenfasst: _[[This Is for Everyone\|This Is for Everyone]]_ (wörtlich: _Das ist für alle_).
-- **Gegenbewegungen:** Dezentrale Netzwerke wie das [[02 - Künstliche Intelligenz/1 - Work on now/Fediverse\|Fediverse]] setzen auf viele unabhängige Server statt einer zentralen Firma. Dort gibt es PeerTube statt YouTube, Friendica statt Facebook, Mastodon statt X und vieles mehr, was das Herz begehrt. Das Besondere: Die Dienste können miteinander reden, so wie du von deinem E-Mail-Anbieter aus jedem anderen schreiben kannst. Millionen Menschen sind schon dabei. Und die IndieWeb[^Indieweb]-Bewegung ruft dazu auf, Texte zuerst auf der eigenen Website zu veröffentlichen statt auf Plattformen, etwa als Blog oder als Digital Garden wie dieser hier. Beide knüpfen damit an die ursprüngliche Idee des Webs an.
+- **Gegenbewegungen:** Dezentrale Netzwerke wie das [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Fediverse\|Fediverse]] setzen auf viele unabhängige Server statt einer zentralen Firma. Dort gibt es PeerTube statt YouTube, Friendica statt Facebook, Mastodon statt X und vieles mehr, was das Herz begehrt. Das Besondere: Die Dienste können miteinander reden, so wie du von deinem E-Mail-Anbieter aus jedem anderen schreiben kannst. Millionen Menschen sind schon dabei. Und die IndieWeb[^Indieweb]-Bewegung ruft dazu auf, Texte zuerst auf der eigenen Website zu veröffentlichen statt auf Plattformen, etwa als Blog oder als Digital Garden wie dieser hier. Beide knüpfen damit an die ursprüngliche Idee des Webs an.
 
 
 > [!quote] Sir Tim

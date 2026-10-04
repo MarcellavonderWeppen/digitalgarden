@@ -5,7 +5,7 @@
 
 # Möglichkeiten, sich gegen Crawler zu wehren
 
-Wer eine Website betreibt, kann [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Crawler\|Crawlern]] den Zugang verwehren oder zumindest erschweren. Dieser Artikel gibt einen Überblick über die wichtigsten Möglichkeiten. Für die konkrete Umsetzung lohnt sich ein Blick in die Hilfe des eigenen Hosters oder Website-Baukastens.
+Wer eine Website betreibt, kann [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Crawler\|Crawlern]] den Zugang verwehren oder zumindest erschweren. Dieser Artikel gibt einen Überblick über die wichtigsten Möglichkeiten. Für die konkrete Umsetzung lohnt sich ein Blick in die Hilfeseiten des eigenen Hosters oder Website-Baukastens.
 
 Die Gründe, Crawler aussperren zu wollen, sind unterschiedlich:
 
