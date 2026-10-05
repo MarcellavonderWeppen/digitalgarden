@@ -1,5 +1,5 @@
 ---
-{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-21","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-work-on-tomorrow/eine-kurze-geschichte-des-internets/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-21","updated":null,"status":null}}
+{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-21","updated":"2026-10-05","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-work-on-tomorrow/eine-kurze-geschichte-des-internets/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-21","updated":"2026-10-05","status":null}}
 ---
 
 
@@ -103,7 +103,7 @@ Ab Mitte der 1990er geht alles sehr schnell. Innerhalb weniger Jahre wird aus de
 - **1993 – Bilder mitten im Text:** Studierende an der University of Illinois entwickeln den Browser Mosaic, der Bilder direkt zwischen den Text setzt. Plötzlich sieht eine Webseite aus wie eine Zeitschrift und nicht mehr wie ein Fachdokument. Das Web wird für normale Menschen interessant.
 - **Mitte der 1990er – Der Browserkrieg:** Der Browser Netscape Navigator erobert den Markt. Microsoft antwortet mit dem Internet Explorer, legt ihn jedem Windows-Rechner kostenlos bei – und gewinnt. Ein Schachzug, der Microsoft später eine Klage der US-Justiz wegen Missbrauchs seiner Marktmacht einbringt.
 - **1995 – Webseiten werden interaktiv**: Bis dahin waren Webseiten unbeweglich. Einmal geladen, taten sie nichts mehr, bis man den nächsten Link anklickte. Der Programmierer Brendan Eich entwickelt für Netscape in nur zehn Tagen eine Programmiersprache, die direkt im Browser läuft: JavaScript. Damit können Webseiten auf Klicks und Eingaben reagieren, zum Beispiel ein Formular prüfen, bevor es abgeschickt wird. Mit der Programmiersprache Java hat JavaScript übrigens nichts zu tun, außer dem halben Namen: Java war damals gerade schwer angesagt, und Netscape wollte etwas vom Glanz abhaben.
-- **1996 – Schönes Design für alle:** Im Browserkrieg sieht dieselbe Webseite im Netscape Navigator oft ganz anders aus als im Internet Explorer. Aus diesem Grund wird [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/CSS (Cascading Style Sheets)\|CSS]] eingeführt: eine gemeinsame Sprache für Farben, Schriften und Anordnung. HTML ist nun ausschließlich für die Struktur zuständig, CSS für das Aussehen.
+- **1996 – Schönes Design für alle:** Im Browserkrieg sieht dieselbe Webseite im Netscape Navigator oft ganz anders aus als im Internet Explorer. Abhilfe schafft [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/CSS (Cascading Style Sheets)\|CSS]]: eine gemeinsame Sprache für Farben, Schriften und Anordnung. HTML ist nun für die Struktur zuständig, CSS für das Aussehen.
 - **Ende der 1990er – Goldrausch und Crash:** Amazon, eBay und Google werden gegründet. Anleger stecken Milliarden in fast jede Firma mit „.com“ im Namen. Im Jahr 2000 platzt die sogenannte Dotcom-Blase, viele Firmen verschwinden wieder.
 - **2000er – Das Mitmach-Web:** Mit Wikipedia (2001), Facebook (2004) und YouTube (2005) werden Nutzerinnen und Nutzer selbst zu Autoren. Dafür setzt sich der Begriff „Web 2.0“ durch.
 - **2007 – Das Netz wird mobil:** Mit dem iPhone beginnt der Siegeszug der Smartphones. Wer bislang online sein wollte, setzte sich an den Computer. Jetzt reicht ein Griff in die Hosentasche.
@@ -137,14 +137,14 @@ Das Web wurde als offenes, dezentrales System gedacht: Jeder kann eine Seite ver
 >
 > 2004 wurde Tim Berners-Lee von Queen Elizabeth II. zum Ritter geschlagen, „für Verdienste um die weltweite Entwicklung des Internets“. Seitdem heißt er offiziell Sir Tim Berners-Lee. Völlig verdient, wie ich finde: Nicht nur hat er der Welt das Web geschenkt, er setzt sich auch bis heute dafür ein, dass es offen bleibt. Ein echter Edelmann eben.
 
-
-
-
 ## Die Zukunft
 
 … ist ungewiss. Sicher ist nur, dass sie von uns allen geschrieben wird. Denn: _This is for everyone._
 
-[^memex]: Die Idee inspiriert auch heute noch, zum Beispiel den Autor diesen lesenswerten Artikels: [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it's-just-not-evenly-distributed.html) Das alles erinnert mich auch stark an die Ideen rund um [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM und Second Brain]].
+
+![This is for everyone terminal.png](/img/user/This%20is%20for%20everyone%20terminal.png)
+
+[^memex]: Die Idee inspiriert auch heute noch, zum Beispiel den Autor dieses lesenswerten Artikels: [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it's-just-not-evenly-distributed.html) Das alles erinnert mich auch stark an die Ideen rund um [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM und Second Brain]].
 
 [^NLS]: Warum NLS und nicht OLS? In Engelbarts Labor gab es bereits ein „Off-Line System“. Das Kürzel OLS hätte also für beide gepasst. Um sie auseinanderzuhalten, nahm man beim On-Line System einfach das N aus „oN“. Übrigens hieß „off-line“ damals nicht „ohne Internet“, das gab es ja noch gar nicht, sondern: nicht direkt am Rechner. Man bereitete seine Eingaben vor, der Rechner verarbeitete sie irgendwann, und das Ergebnis bekam man erst später zu sehen. Bei NLS dagegen saß man direkt am Bildschirm und sah sofort, was passierte, eben „on-line“.
 
