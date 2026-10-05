@@ -30,7 +30,7 @@ Website-Betreiber können Crawler von Teilen oder ihrer gesamten Seite ausschlie
 
 Seriöse Crawler halten sich daran; technisch erzwingen lässt sich das allerdings nicht. Der Server kontrolliert nämlich nichts; der Crawler muss die robots.txt selbst lesen und sich freiwillig daran halten. Es lässt sich nicht einmal sicher sagen, wer da anklopft: Betreiber benennen ihre Crawler selbst und können sie genauso gut als ganz normalen Browser ausgeben.
 
-Es gibt weitere [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Möglichkeiten, sich gegen Crawler zu wehren\|Möglichkeiten, sich gegen Crawler zu wehren]], einen hundertprozentigen Schutz gibt es jedoch nicht.
+Es gibt weitere [[02 - Künstliche Intelligenz/1 - Work on now/Möglichkeiten, sich gegen Crawler zu wehren\|Möglichkeiten, sich gegen Crawler zu wehren]], einen hundertprozentigen Schutz gibt es jedoch nicht.
 
 ### Beispiele für eine robots.txt
 
