@@ -7,11 +7,15 @@
 
 Hier wurde ein Setzling für einen Artikel angelegt 🌱 – vielleicht wächst er später weiter.
 
-## In der Zwischenzeit gibt es hier eine nette Einführung aus der YouTube Akademie: 
+## In der Zwischenzeit 
+
+…. gibt es hier eine nette Einführung aus der YouTube Akademie: 
 
 📺 [A Web Revival: the Internet didn't die, you're just not on it](https://www.youtube.com/watch?v=tkUgOT22F5s)
 
-### Ein paar visuelle Eindrücke aus dem Video:
+### Ein paar visuelle Eindrücke 
+
+… aus dem oben genannten Video:
 
 ![IndieWeb 1.png](/img/user/IndieWeb%201.png)
 
