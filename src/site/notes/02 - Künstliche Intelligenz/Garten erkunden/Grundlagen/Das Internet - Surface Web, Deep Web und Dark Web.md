@@ -51,7 +51,7 @@ Für unser Eisberg-Modell heißt das: Surface, Deep und Dark Web beschreiben Sch
 ![Internet + Webschichten.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Internet%20+%20Webschichten.png)
 ## 📖 Weiterlesen
 
-- Das Internet, wie kam es überhaupt dazu? [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Eine kurze Geschichte des Internets\|Eine kurze Geschichte des Internets]]
+- Das Internet, wie kam es überhaupt dazu? [[02 - Künstliche Intelligenz/0 - Final Check/Eine kurze Geschichte des Internets\|Eine kurze Geschichte des Internets]]
 - Der Erfinder des World Wide Web ist [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Sir Tim Berners-Lee\|Tim Berners-Lee]]. Er setzt sich auch heute noch dafür ein, dass das Web offen und für alle frei zugänglich bleibt
 - Mehr über die Sprachen des Webs: [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/HTML (Hypertext Markup Language)\|HTML]] für Struktur und Inhalt, [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/CSS (Cascading Style Sheets)\|CSS (Cascading Style Sheets)]] für das Aussehen
 
