@@ -1,5 +1,5 @@
 ---
-{"title":"IndieWeb","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-05","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/indie-web/","dgPassFrontmatter":true,"dg-note-properties":{"title":"IndieWeb","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-05","updated":null,"status":null}}
+{"title":"IndieWeb","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-05","updated":null,"status":"🌱","dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/indie-web/","dgPassFrontmatter":true,"dg-note-properties":{"title":"IndieWeb","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-05","updated":null,"status":"🌱"}}
 ---
 
 
