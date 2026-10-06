@@ -35,7 +35,7 @@ In der IT-Welt gibt es dafür einen etablierten Begriff: **Technical Debt** (Tec
 
 Mit dem Aufkommen von KI tritt jedoch ein neues, weitaus gefährlicheres Phänomen hinzu: **Cognitive Debt**.
 
-Der Begriff wurde Anfang 2026 durch die Informatik-Professorin Margaret-Anne Storey bekannt. In der Softwareentwicklung beschreibt er eine schleichende Wissenserosion: Kognitive Schulden entstehen, wenn **das menschliche Team das Verständnis darüber verliert, wie der Code im Detail funktioniert** – und zwar selbst dann, wenn die KI sauberen, funktionierenden Code generiert hat.
+Der Begriff tauchte 2025 erstmals in einer [[02 - Künstliche Intelligenz/1 - Work on now/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]] auf. Die Informatik-Professorin Margaret-Anne Storey griff ihn 2026 auf und übertrug ihn aufs Programmieren. In der Softwareentwicklung beschreibt er eine schleichende Wissenserosion: Kognitive Schulden entstehen, wenn **das menschliche Team das Verständnis darüber verliert, wie der Code im Detail funktioniert** – und zwar selbst dann, wenn die KI sauberen, funktionierenden Code generiert hat.
 
 Das Problem ist unsichtbar, bis das System bricht und die Entwickler wie Archäologen vor ihrer eigenen Software stehen.
 
@@ -61,3 +61,4 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 - Man könnte meinen, ich wäre gegen Vibecoding. Bin ich nicht. Aber – man sollte halt wissen, was man tut. Dieser kompakte Powerkurs liefert die Grundlagen und macht richtig Lust aufs Ausprobieren 😋: [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E) 
 
 [^quelle]: Andrej Karpathy auf X, 2. Februar 2025: [x.com/karpathy/status/1886192184808149383](https://x.com/karpathy/status/1886192184808149383)
+

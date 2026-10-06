@@ -7,6 +7,6 @@
 
 Hier wurde ein Setzling für einen Artikel angelegt 🌱 – vielleicht wächst er später weiter.
 
-In der Zwischenzeit gibt in der [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Eine kurze Geschichte des Internets#Das World Wide Web Ein Geschenk an die Welt\|kurzen Geschichte des Internets]]  mehr über Sir Tim zu lesen. 
+In der Zwischenzeit gibt in der [[02 - Künstliche Intelligenz/0 - Final Check/Eine kurze Geschichte des Internets#Das World Wide Web Ein Geschenk an die Welt\|kurzen Geschichte des Internets]]  mehr über Sir Tim zu lesen. 
 
 ![Sir Tim.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Sir%20Tim.png)
