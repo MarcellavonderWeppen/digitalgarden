@@ -5,7 +5,7 @@
 
 # IndieWeb
 
-Hier wurde ein Setzling für einen Artikel angelegt 🌱 – vielleicht wächst er später weiter.
+*Hier wurde ein Setzling für einen Artikel angelegt 🌱 – vielleicht wächst er später weiter.*
 
 ## In der Zwischenzeit 
 
