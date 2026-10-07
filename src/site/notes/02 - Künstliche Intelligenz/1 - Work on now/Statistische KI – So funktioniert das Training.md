@@ -1,5 +1,5 @@
 ---
-{"title":"Unbenannt","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-28","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/statistische-ki-so-funktioniert-das-training/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Unbenannt","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-28","updated":null,"status":null}}
+{"title":"Statistische KI – So funktioniert das Training","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-28","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/1-work-on-now/statistische-ki-so-funktioniert-das-training/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Statistische KI – So funktioniert das Training","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-28","updated":null,"status":null}}
 ---
 
 # Statistische KI – So funktioniert das Training

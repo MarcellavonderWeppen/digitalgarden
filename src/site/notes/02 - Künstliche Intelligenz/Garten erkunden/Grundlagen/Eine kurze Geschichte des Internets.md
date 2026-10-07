@@ -142,7 +142,7 @@ Das Web wurde als offenes, dezentrales System gedacht: Jeder kann eine Seite ver
 … ist ungewiss. Sicher ist nur, dass sie von uns allen geschrieben wird. Denn: _This is for everyone._
 
 
-![This is for everyone terminal.png](/img/user/This%20is%20for%20everyone%20terminal.png)
+![This is for everyone terminal.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/This%20is%20for%20everyone%20terminal.png)
 
 [^memex]: Die Idee inspiriert auch heute noch, zum Beispiel den Autor dieses lesenswerten Artikels: [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it's-just-not-evenly-distributed.html) Das alles erinnert mich auch stark an die Ideen rund um [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM und Second Brain]].
 

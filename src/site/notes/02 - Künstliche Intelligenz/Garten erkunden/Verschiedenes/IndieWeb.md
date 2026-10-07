@@ -17,12 +17,12 @@ Hier wurde ein Setzling für einen Artikel angelegt 🌱 – vielleicht wächst 
 
 … aus dem oben genannten Video:
 
-![IndieWeb 1.png](/img/user/IndieWeb%201.png)
+![IndieWeb 1.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/IndieWeb%201.png)
 
-![IndieWeb 2.png](/img/user/IndieWeb%202.png)
+![IndieWeb 2.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/IndieWeb%202.png)
 
-![IndieWeb 3.png](/img/user/IndieWeb%203.png)
+![IndieWeb 3.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/IndieWeb%203.png)
 
-![IndieWeb 4.png](/img/user/IndieWeb%204.png)
+![IndieWeb 4.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/IndieWeb%204.png)
 
 Für mich wäre das ja nichts – da bekomme ich sofort Reizüberflutung. Aber ich finde die Idee entzückend und freue mich voll, dass es das IndieWeb gibt. 
