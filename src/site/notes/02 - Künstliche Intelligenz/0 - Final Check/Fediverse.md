@@ -9,10 +9,9 @@
 
 Das Fediversum ist toll! Ich habe vor, demnächst dorthin auszuwandern – Tschüss, Facebook & Co!
 
-Unbedingt habe ich vor in Zukunft darüber zu schreiben – in der Zwischenzeit hilft [Digitalcourage](https://digitalcourage.de/fediverse)
-anderen Auswanderungswilligen bzw. Neugierigen mit Tipps und Informationen. 
+Ich möchte gerne in Zukunft darüber schreiben, wenn ich selber erste Erfahrungen gesammelt habe – in der Zwischenzeit hilft [Digitalcourage](https://digitalcourage.de/fediverse) anderen Auswanderungswilligen bzw. Neugierigen mit Tipps und Informationen. 
 
-Oder gleich hier: https://jointhefediverse.net
-
+Oder gleich hier: [Join the Fediverse](https://jointhefediverse.net)
 
 
+![Pasted image 20261008093845.png](/img/user/Pasted%20image%2020261008093845.png)

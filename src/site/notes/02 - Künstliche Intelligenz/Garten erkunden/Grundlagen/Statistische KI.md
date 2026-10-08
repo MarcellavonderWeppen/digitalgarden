@@ -56,4 +56,4 @@ Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code 
 - [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
 - Woran erkennt man einen Hund oder eine Katze? Ein niedliches [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Hund oder Katze? Das Experiment\|Experiment]]
 - Die praktische Umsetzung von statistischer KI: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]] und seine Unterform [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
-- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Generative KI\|Generative KI]]
+- Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/0 - Final Check/Generative KI\|Generative KI]]
