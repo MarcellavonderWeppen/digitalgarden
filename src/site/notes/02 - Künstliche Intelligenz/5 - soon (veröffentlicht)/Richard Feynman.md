@@ -1,5 +1,5 @@
 ---
-{"title":"Richard Feynman","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-04-01","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/5-soon-veroeffentlicht/richard-feynman/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Richard Feynman","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-04-01","updated":"2026-05-17","status":null}}
+{"title":"Richard Feynman","aliases":["Feynman-Methode"],"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-04-01","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/5-soon-veroeffentlicht/richard-feynman/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Richard Feynman","aliases":["Feynman-Methode"],"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-04-01","updated":"2026-05-17","status":null}}
 ---
 
 
