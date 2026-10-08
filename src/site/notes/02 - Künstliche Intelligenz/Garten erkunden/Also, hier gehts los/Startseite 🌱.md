@@ -62,11 +62,11 @@ Doch weder Heilsversprechen noch Endzeitstimmung helfen wirklich weiter bei eine
 
 Ohne Zweifel [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kritik an GenAI\|entwickelt sich vieles in eine bedenkliche Richtung]] – und dennoch glaube ich:
 
-[[02 - Künstliche Intelligenz/2 - Work on today/KI – es geht auch anders!\|KI – es geht auch anders!]]
+[[02 - Künstliche Intelligenz/4 - very soon/KI – es geht auch anders!\|KI – es geht auch anders!]]
 
 ## Wer schreibt hier eigentlich?
 
-Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[02 - Künstliche Intelligenz/2 - Work on today/Über mich\|über mich]].
+Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[02 - Künstliche Intelligenz/4 - very soon/Über mich\|über mich]].
 
 Vielleicht ist die Frage aber auch anders gemeint:
 
