@@ -20,7 +20,7 @@ Chi & Wylie (2014) unterscheiden vier Stufen geistiger Beteiligung. Je höher di
 
 Was im Alltag „aktives Lernen“ heißt, meint also eigentlich die Stufen konstruktiv und interaktiv. Bloßes Tun reicht nicht. [[02 - Künstliche Intelligenz/0 - Final Check/Atomare Notizen\|Atomare Notizen]] liegen auf der konstruktiven Stufe.
 
-![ICAP-Lernmodell.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Grundlagen/ICAP-Lernmodell.png)
+![ICAP-Lernmodell.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/ICAP-Lernmodell.png)
 
 ### Weitere Befunde  im Überblick
 

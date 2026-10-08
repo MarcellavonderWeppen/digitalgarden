@@ -4,7 +4,8 @@
 
 # Was ist Generative KI?
 
-> [!info] Synonym: GenAI [^generisch]
+> [!info] Synonym: GenAI
+> Nebenbei bemerkt: Das “Gen” in GenAI steht für generativ, nicht für generisch, auch wenn man das in Hinblick auf die Erzeugnisse dieser Form von KI meinen könnte. 
 
 Als eine Form der [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Statistische KI\|statistischen KI]] wird sie mittels großer Datenmengen trainiert und lernt die darin enthaltenen Muster. Auf dieser Grundlage kann sie neue Inhalte erzeugen – seien es Texte, Bilder, Musik oder sogar Videos.
 
@@ -51,4 +52,3 @@ Alternativlos ist daran nichts. Schon heute gibt es Unternehmen und Verfahren, d
 - [[SLMs (kleine Sprachmodelle)\|SLMs (kleine Sprachmodelle)]] wie Phi oder Gemma stellen das Narrativ „größer ist besser“ in Frage
 - Dienste wie Lumo von [[02 - Künstliche Intelligenz/4 - very soon/Proton\|Proton]] betreiben offene Modelle auf eigenen Servern in Europa und setzen auf Datenschutz statt Datensammeln
 
-[^generisch] Nebenbei bemerkt: Das Gen in GenAI steht für generativ, nicht generisch, auch wenn man das anbetrachts der Kreationen dieser Form von KI meinen könnte. 

@@ -14,4 +14,4 @@ Ich möchte gerne in Zukunft darüber schreiben, wenn ich selber erste Erfahrung
 Oder gleich hier: [Join the Fediverse](https://jointhefediverse.net)
 
 
-![Pasted image 20261008093845.png](/img/user/Pasted%20image%2020261008093845.png)
+![Fediverse.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Fediverse.png)
