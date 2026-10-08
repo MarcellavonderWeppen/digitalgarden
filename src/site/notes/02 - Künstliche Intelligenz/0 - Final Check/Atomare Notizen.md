@@ -26,8 +26,9 @@ Die Stärke dieses Ansatzes liegt in vier zentralen Vorteilen:
 
 Die atomare Struktur transformiert passives Sammeln von Informationen in einen aktiven Prozess der Wissensgenerierung. 
 
-> [!note] Weiterlesen
-> Komplexe Ideen in ihre einfachsten Bestandteile zerlegen und aktives Denken? Das klingt doch sehr nach der [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Richard Feynman#Prinzipien des Lernens Feynman-Methode\| Feynman-Methode]] und passt zum [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]].
+## 📖 Weiterlesen
+
+ Komplexe Ideen in ihre einfachsten Bestandteile zerlegen und aktives Denken? Das klingt doch sehr nach der [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Richard Feynman#Prinzipien des Lernens Feynman-Methode\| Feynman-Methode]] und passt zum [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]].
 
 
 
