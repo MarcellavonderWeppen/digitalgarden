@@ -200,3 +200,7 @@ Kurz: Pair Programming, Du als Navigator und PO, ich als Driver mit Wissensvorsp
 
 
 👉 Weiterlesen Kennzeichnungspflicht EU AI Act 
+
+Sie ist eine eigenständige Einheit, die auch Jahre später noch ihren Sinn ergibt, ohne dass der ursprüngliche Entstehungskontext nachvollzogen werden muss.
+
+Im Gegensatz dazu ist eine Sammelnotiz oft an ihren spezifischen Ursprungskontext gebunden und schwerer anderweitig nutzbar.
