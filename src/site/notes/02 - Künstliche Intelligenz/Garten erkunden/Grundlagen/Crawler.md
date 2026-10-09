@@ -10,7 +10,7 @@
 
 Sie bilden die Grundlage für Suchmaschinen wie Google oder Bing, aber auch für Datensammlungen wie Common Crawl, die als Trainingsdaten für große Sprachmodelle dienen.
 
-![Süße Spinne im Browsernetzwerk.png](/img/user/S%C3%BC%C3%9Fe%20Spinne%20im%20Browsernetzwerk.png)
+![Webspider.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Webspider.png)
 
 ## Was Crawler tun
 
