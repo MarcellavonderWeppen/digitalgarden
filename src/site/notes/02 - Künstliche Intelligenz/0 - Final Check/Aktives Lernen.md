@@ -18,7 +18,7 @@ Chi & Wylie (2014) unterscheiden vier Stufen geistiger Beteiligung. Je höher di
 - **Konstruktiv:** Eigenes erzeugen, z. B. in eigenen Worten formulieren, Beispiele finden, Verknüpfungen herstellen
 - **Interaktiv:** gemeinsam mit anderen konstruktiv denken, wobei alle auf den Beiträgen der anderen aufbauen
 
-Was im Alltag „aktives Lernen“ heißt, meint also eigentlich die Stufen konstruktiv und interaktiv. Bloßes Tun reicht nicht. [[02 - Künstliche Intelligenz/0 - Final Check/Atomare Notizen\|Atomare Notizen]] liegen auf der konstruktiven Stufe.
+Was im Alltag „aktives Lernen“ heißt, meint also eigentlich die Stufen konstruktiv und interaktiv. Bloßes Tun reicht nicht. [[02 - Künstliche Intelligenz/Garten erkunden/Digitale Gärten, PKM & Lernen/Atomare Notizen\|Atomare Notizen]] liegen auf der konstruktiven Stufe.
 
 ![ICAP-Lernmodell.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/ICAP-Lernmodell.png)
 
@@ -37,7 +37,7 @@ Was im Alltag „aktives Lernen“ heißt, meint also eigentlich die Stufen kons
 > - **Selbsttesten:** Inhalte aus dem Gedächtnis abrufen statt erneut lesen
 > - **Spaced Repetition:** in wachsenden Abständen wiederholen statt alles am Stück
 > - **Selbsterklärung:** sich den Stoff selbst erklären → [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]
-> - **Eigenes erzeugen:** in eigenen Worten formulieren und verknüpfen → [[02 - Künstliche Intelligenz/0 - Final Check/Atomare Notizen\|Atomare Notizen]]
+> - **Eigenes erzeugen:** in eigenen Worten formulieren und verknüpfen → [[02 - Künstliche Intelligenz/Garten erkunden/Digitale Gärten, PKM & Lernen/Atomare Notizen\|Atomare Notizen]]
 >
 > Wenig wirksam: Markieren und Wiederlesen.
 ### Die Gefühlsfalle
