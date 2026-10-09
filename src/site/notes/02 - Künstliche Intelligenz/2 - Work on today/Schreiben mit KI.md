@@ -6,7 +6,7 @@
 
 ## Transparenz - ein wertvolles Gut
 
-Während sich [[02 - Künstliche Intelligenz/0 - Final Check/Generative KI\|generative KI]] in einem rasanten Tempo entwickelt, entwickeln sich ihre Schattenseiten mit. 
+Während sich [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Generative KI\|generative KI]] in einem rasanten Tempo entwickelt, entwickeln sich ihre Schattenseiten mit. 
 
 Als ich mit den ersten bildgenerierenden KIs experimentierte, wußte ich bereits, dass ich bald mit nostalgischen Gefühlen auf diese Zeit zurückblicken würde: die deformierten Hände, die lustigen bis verstörenden Fehler in den Bildern. 
 
