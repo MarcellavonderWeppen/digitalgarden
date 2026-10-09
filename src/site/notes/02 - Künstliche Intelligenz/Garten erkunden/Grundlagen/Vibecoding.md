@@ -35,7 +35,7 @@ In der IT-Welt gibt es dafür einen etablierten Begriff: **Technical Debt** (Tec
 
 Mit dem Aufkommen von KI tritt jedoch ein neues, weitaus gefährlicheres Phänomen hinzu: **Cognitive Debt**.
 
-Der Begriff tauchte 2025 erstmals in einer [[02 - Künstliche Intelligenz/1 - Work on now/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]] auf. Die Informatik-Professorin Margaret-Anne Storey griff ihn 2026 auf und übertrug ihn aufs Programmieren. In der Softwareentwicklung beschreibt er eine schleichende Wissenserosion: Kognitive Schulden entstehen, wenn **das menschliche Team das Verständnis darüber verliert, wie der Code im Detail funktioniert** – und zwar selbst dann, wenn die KI sauberen, funktionierenden Code generiert hat.
+Der Begriff tauchte 2025 erstmals in einer [[02 - Künstliche Intelligenz/0 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]] auf. Die Informatik-Professorin Margaret-Anne Storey griff ihn 2026 auf und übertrug ihn aufs Programmieren. In der Softwareentwicklung beschreibt er eine schleichende Wissenserosion: Kognitive Schulden entstehen, wenn **das menschliche Team das Verständnis darüber verliert, wie der Code im Detail funktioniert** – und zwar selbst dann, wenn die KI sauberen, funktionierenden Code generiert hat.
 
 Das Problem ist unsichtbar, bis das System bricht und die Entwickler wie Archäologen vor ihrer eigenen Software stehen.
 
