@@ -35,4 +35,4 @@ Die Medien machten daraus teils „ChatGPT macht dumm“[idiocracy]. Das gibt di
 
 [^fachkommentar]: Stanković et al. (2026): „Comment on: Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Tasks“, arXiv:2601.00856
 
-[idiocracy]:
+[idiocracy]: Das Bild oben spielt auf die Satire „Idiocracy“ (2006) an: Ein durchschnittlicher Soldat wird für ein Experiment eingefroren, wacht 500 Jahre später auf und ist plötzlich der klügste Mensch der Welt, weil alle anderen verblödet sind. Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. So abwegig ist das nicht: In mehreren Industrieländern sinken die gemessenen IQ-Werte seit etwa den 1990er-Jahren wieder, nachdem sie im 20. Jahrhundert stetig gestiegen waren (umgekehrter Flynn-Effekt).
