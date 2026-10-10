@@ -11,7 +11,7 @@ Die Studie des MIT Media Lab[^studie] erschien im Juni 2025 und machte den Begri
 
 ## Ergebnisse
 
-- Die Brain-only-Gruppe zeigte die stärkste und breiteste Vernetzung im Gehirn, die ChatGPT-Gruppe die schwächste, die Suchmaschinen-Gruppe lag dazwischen.
+- Die Brain-only-Gruppe zeigte die stärkste und breiteste Vernetzung im Gehirn, die ChatGPT-Gruppe die schwächste, die Suchmaschinen-Gruppe lag im Mittelfeld.
 - Die ChatGPT-Nutzer konnten Sätze aus ihrem eigenen Essay kaum korrekt wiedergeben und empfanden die Texte am wenigsten als „ihre eigenen“.
 - Ihre Essays ähnelten sich stark untereinander.
 - In einer vierten Sitzung wurden ChatGPT- und Brain-only-Gruppe getauscht: Wer vorher mit ChatGPT geschrieben hatte und nun ohne auskommen musste, zeigte eine schwächere Vernetzung im Gehirn. Die Forschenden deuten das als „Unterbeteiligung“: Das Gehirn kam nicht richtig in Gang.
@@ -25,7 +25,7 @@ So spannend die Ergebnisse sind, die Studie hat einige Schwachstellen, die man k
 - Essayschreiben ist eine sehr spezifische Aufgabe. Ob sich die Ergebnisse auf andere Tätigkeiten übertragen lassen, ist offen.
 - Ein Fachkommentar von 2026 kritisiert zudem, wie die Hirnströme gemessen und ausgewertet wurden.[^fachkommentar]
 
-Die Medien machten daraus teils „ChatGPT macht dumm“[idiocracy]. Das gibt die Studie so nicht her.
+Die Medien machten daraus teils „ChatGPT macht dumm“[^idiocracy]. Das gibt die Studie so nicht her.
 
 ## 📖 Weiterlesen
 
@@ -35,4 +35,4 @@ Die Medien machten daraus teils „ChatGPT macht dumm“[idiocracy]. Das gibt di
 
 [^fachkommentar]: Stanković et al. (2026): „Comment on: Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Tasks“, arXiv:2601.00856
 
-[idiocracy]: Das Bild oben spielt auf die Satire „Idiocracy“ (2006) an: Ein durchschnittlicher Soldat wird für ein Experiment eingefroren, wacht 500 Jahre später auf und ist plötzlich der klügste Mensch der Welt, weil alle anderen verblödet sind. Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. So abwegig ist das nicht: In mehreren Industrieländern sinken die gemessenen IQ-Werte seit etwa den 1990er-Jahren wieder, nachdem sie im 20. Jahrhundert stetig gestiegen waren (umgekehrter Flynn-Effekt).
+[^idiocracy]: Das Bild oben spielt auf die Satire „Idiocracy“ (2006) an: Ein durchschnittlicher Soldat wird für ein Experiment eingefroren, wacht 500 Jahre später auf und ist plötzlich der klügste Mensch der Welt, weil alle anderen verblödet sind. Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. So abwegig ist das nicht: In mehreren Industrieländern sinken die gemessenen IQ-Werte seit etwa den 1990er-Jahren wieder, nachdem sie im 20. Jahrhundert stetig gestiegen waren (umgekehrter Flynn-Effekt).
