@@ -23,9 +23,9 @@ Ausgerechnet „aktiv“ ist in diesem Modell also nur Stufe 2. Was wir meist mi
 ### Weitere Befunde im Überblick
 
 - **Aktives Lernen insgesamt** (Freeman et al. 2014): Metaanalyse über 225 Studien in MINT-Fächern. Aktive Formate verbesserten die Prüfungsergebnisse; bei reinen Vorlesungen war die Durchfallquote rund 1,5-mal so hoch.
-- **Sich den Stoff selbst erklären** (Chi et al. 1989): Erfolgreiche Lernende führen beim Durcharbeiten von Beispielen eine Art inneren Dialog und entdecken dabei ihre Verständnislücken. → [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]
+- **Sich den Stoff selbst erklären** (Chi et al. 1989): Erfolgreiche Lernende führen beim Durcharbeiten von Beispielen eine Art inneren Dialog und entdecken dabei ihre Verständnislücken.
 - **Testing-Effekt** (Roediger & Karpicke 2006): Wer sich selbst prüft, etwa mit Karteikarten oder Übungsfragen, behält den Stoff langfristig besser als jemand, der ihn nur erneut liest.
-- **Verteiltes Lernen** (Cepeda et al. 2006): Spaced Repetition (Wiederholung in Abständen) schlägt Last-Minute-Lernen in einer Sitzung. Je langfristiger man sich etwas merken will, desto größer sollten die Abstände zwischen den Wiederholungen sein.
+- **Verteiltes Lernen** (Cepeda et al. 2006): Spaced Repetition, also Wiederholung in größer werdenenden Zeitabständen, ist effektiver als Last-Minute-Lernen in einer Sitzung.
 - **Generierungseffekt** (Slamecka & Graf 1978): Was man selbst erschließt, wird besser behalten als das, was man nur liest.
 - **Lohnenswerte Anstrengung** (Desirable Difficulties, Bjork 1994): Lernen, das sich mühsamer anfühlt, ist oft nachhaltiger. 
 - **Lerntechniken im Vergleich** (Dunlosky et al. 2013): Selbsttesten und verteiltes Lernen sind hoch wirksam, Markieren und Wiederlesen wenig.
@@ -33,9 +33,9 @@ Ausgerechnet „aktiv“ ist in diesem Modell also nur Stufe 2. Was wir meist mi
 
 > [!info] Was besonders gut wirkt
 > - **Selbsttesten:** Inhalte aus dem Gedächtnis abrufen statt erneut lesen
-> - **Spaced Repetition:** in wachsenden Abständen wiederholen statt alles am Stück
-> - **Sich den Stoff selbst erklären:** ihn durchgehen, als würde man ihn jemandem beibringen → [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]
-> - **Eigenes erzeugen:** in eigenen Worten formulieren und verknüpfen → [[02 - Künstliche Intelligenz/Garten erkunden/Digitale Gärten, PKM & Lernen/Atomare Notizen\|Atomare Notizen]]
+> - **Spaced Repetition:** in wachsenden Zeitabständen wiederholen statt alles am Stück
+> - **Sich den Stoff selbst erklären:** ihn durchgehen, als würde man ihn jemandem beibringen → Beispiel: [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]
+> - **Eigenes erzeugen:** in eigenen Worten formulieren und verknüpfen → Beispiel: [[02 - Künstliche Intelligenz/Garten erkunden/Digitale Gärten, PKM & Lernen/Atomare Notizen\|Atomare Notizen]]
 >
 > Wenig wirksam: Markieren und Wiederlesen.
 
