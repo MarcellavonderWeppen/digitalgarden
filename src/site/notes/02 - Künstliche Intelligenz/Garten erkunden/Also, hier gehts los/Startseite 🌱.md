@@ -45,7 +45,7 @@ Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und v
 
 ## Hier geht’s zu den Kaninchenlöchern 👇
 
-Folge dem weißen Kaninchen in die [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone 🐇\|Kaninchen-Einstiegszone 🐇]] 🕳️🐇
+Folge dem weißen Kaninchen in die [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
 
 [![Kaninchenloch](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/02-kuenstliche-intelligenz/5-soon-veroeffentlicht/kaninchen-einstiegszone/)
 
@@ -76,7 +76,7 @@ Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI dari
 
 **Und nun viel Spaß beim Stöbern!**
 
-## 👉 Zur [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone 🐇\|Karnickel-Einstiegszone]] 🕳️🐇
+## 👉 Zur [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Kaninchen-Einstiegszone\|Karnickel-Einstiegszone]] 🕳️🐇
 
 ---
 
