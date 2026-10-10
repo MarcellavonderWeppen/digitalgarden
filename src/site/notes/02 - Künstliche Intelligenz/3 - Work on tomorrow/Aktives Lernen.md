@@ -1,5 +1,5 @@
 ---
-{"title":"Aktives Lernen","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-08","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-work-on-tomorrow/aktives-lernen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Aktives Lernen","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-08","updated":null,"status":null}}
+{"title":"Aktives Lernen","aliases":["aktives Lernen"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-08","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-work-on-tomorrow/aktives-lernen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Aktives Lernen","aliases":["aktives Lernen"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-08","updated":null,"status":null}}
 ---
 
 # Aktives Lernen

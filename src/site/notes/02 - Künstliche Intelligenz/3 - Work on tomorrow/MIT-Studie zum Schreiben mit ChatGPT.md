@@ -1,0 +1,43 @@
+---
+{"title":"MIT-Studie zum Schreiben mit ChatGPT","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-05","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/3-work-on-tomorrow/mit-studie-zum-schreiben-mit-chat-gpt/","dgPassFrontmatter":true,"dg-note-properties":{"title":"MIT-Studie zum Schreiben mit ChatGPT","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-05","updated":null,"status":null}}
+---
+
+# Your Brain on ChatGPT (MIT-Studie)
+
+Die Studie des MIT Media Lab[^studie] erschien im Juni 2025 und machte den Begriff „Cognitive Debt“ (kognitive Schulden) bekannt.
+## Aufbau
+
+54 Teilnehmende schrieben über vier Monate Essays, aufgeteilt in drei Gruppen: mit ChatGPT, mit Suchmaschine und ganz ohne Hilfsmittel („Brain-only“). Dabei wurde per EEG gemessen, wie stark verschiedene Hirnregionen miteinander kommunizieren.
+
+## Ergebnisse
+
+- Die Brain-only-Gruppe zeigte die stärkste und breiteste Vernetzung im Gehirn, die ChatGPT-Gruppe die schwächste, die Suchmaschinen-Gruppe lag im Mittelfeld.
+- Die ChatGPT-Nutzer konnten Sätze aus ihrem eigenen Essay kaum korrekt wiedergeben und empfanden die Texte am wenigsten als „ihre eigenen“.
+- Ihre Essays ähnelten sich stark untereinander.
+- In einer vierten Sitzung wurden ChatGPT- und Brain-only-Gruppe getauscht: Wer vorher mit ChatGPT geschrieben hatte und nun ohne auskommen musste, zeigte eine schwächere Vernetzung im Gehirn. Die Forschenden deuten das als „Unterbeteiligung“: Das Gehirn kam nicht richtig in Gang.
+
+## Wo die Studie an ihre Grenzen stößt
+
+So spannend die Ergebnisse sind, die Studie hat einige Schwachstellen, die man kennen sollte:
+
+- Sie wurde veröffentlicht, bevor unabhängige Fachleute sie geprüft hatten (Peer Review). Diese Begutachtung ist in der Wissenschaft der eigentlich übliche Qualitätscheck.
+- Die Zahl der Teilnehmenden ist klein, an der entscheidenden Tauschsitzung nahmen nur noch 18 Personen teil.
+- Essayschreiben ist eine sehr spezifische Aufgabe. Ob sich die Ergebnisse auf andere Tätigkeiten übertragen lassen, ist offen.
+- Ein Fachkommentar von 2026 kritisiert zudem, wie die Hirnströme gemessen und ausgewertet wurden.[^fachkommentar]
+
+Die Medien machten daraus teils „ChatGPT macht dumm“[^idiocracy]. Das gibt die Studie so nicht her.
+
+## Meine Meinung 🤓
+
+Aus meiner Sicht macht mich die Nutzung von [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs]] nicht dümmer, sondern intelligenter. Betonung auf *mich* – kein Zweifel, dass eine große Mehrheit auch diese Tools zur Beschleunigung ihrer selbstverschuldeten Verblödung nutzen wird. Es ist wie mit dem Fernsehen: Man kann sich passiv berieseln lassen, oder man nutzt es, um Dokumentarfilme zu gucken, sich neue Welten zu erschließen, darüber nachzudenken und mit Freunden zu diskutieren. Den Unterschied macht das *Wie* der Nutzung – bleibe ich unkritischer Konsument oder aktiv differenziert Denkender? Im Zweifel würde ich KI immer dazu nutzen, um zu lernen und Dinge besser zu verstehen, statt mir die mühevolle Denkarbeit von einer Maschine abnehmen zu lassen.Das sind die Prinzipien des [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Aktives Lernen\|aktiven Lernens]]. Wer ChatGPT & Co. nutzt, um nicht selbst denken zu müssen, braucht sich nicht zu wundern, wenn die eigene Denkfähigkeit verkümmert wie ein Muskel, der nicht trainiert wird. Die Studie liefert dafür sogar ein Indiz: Wer erst ohne Hilfe schrieb und dann zu ChatGPT wechselte, zeigte mehr Hirnaktivität und erinnerte sich besser an den eigenen Text. Insofern finde ich die Ergebnisse der MIT-Studie trivial und die Schlagzeilen darüber irreführend.
+
+## 📖 Weiterlesen
+
+- Die Informatik-Professorin Margaret-Anne Storey griff den Begriff „Cognitive Debt“ 2026 fürs Programmieren auf: Wenn KI den Code schreibt, versteht irgendwann niemand im Team mehr so richtig, wie die eigene Software funktioniert. Mehr dazu im Artikel über [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]].
+- ☝️🤓 Bitte nicht der Maschine das Denken überlassen – [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Aktives Lernen\|aktives Lernen]] lautet die Devise.
+
+[^studie]: Kosmyna et al. (2025): „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task“, arXiv:2506.08872
+
+[^fachkommentar]: Stanković et al. (2026): „Comment on: Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Tasks“, arXiv:2601.00856
+
+[^idiocracy]: Das Bild oben spielt auf die Satire „Idiocracy“ (2006) an: Ein durchschnittlicher Soldat wird für ein Experiment eingefroren, wacht 500 Jahre später auf und ist plötzlich der klügste Mensch der Welt, weil alle anderen verblödet sind. Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. So abwegig ist das nicht: In mehreren Industrieländern sinken die gemessenen IQ-Werte seit etwa den 1990er-Jahren wieder, nachdem sie im 20. Jahrhundert stetig gestiegen waren (umgekehrter Flynn-Effekt).
