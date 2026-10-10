@@ -2,7 +2,6 @@
 {"title":"MIT-Studie zum Schreiben mit ChatGPT","aliases":null,"tags":null,"gen_ai_anteil":["ChatGPT 80%"],"created":"2026-10-05","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/0-final-check/mit-studie-zum-schreiben-mit-chat-gpt/","dgPassFrontmatter":true,"dg-note-properties":{"title":"MIT-Studie zum Schreiben mit ChatGPT","aliases":null,"tags":null,"gen_ai_anteil":["ChatGPT 80%"],"created":"2026-10-05","updated":null,"status":null}}
 ---
 
-
 # Your Brain on ChatGPT (MIT-Studie)
 
 Die Studie des MIT Media Lab[^studie] erschien im Juni 2025 und machte den Begriff „Cognitive Debt“ (kognitive Schulden) bekannt.
@@ -26,7 +25,7 @@ So spannend die Ergebnisse sind, die Studie hat einige Schwachstellen, die man k
 - Essayschreiben ist eine sehr spezifische Aufgabe. Ob sich die Ergebnisse auf andere Tätigkeiten übertragen lassen, ist offen.
 - Ein Fachkommentar von 2026 kritisiert zudem, wie die Hirnströme gemessen und ausgewertet wurden.[^fachkommentar]
 
-Die Medien machten daraus teils „ChatGPT macht dumm“. Das gibt die Studie so nicht her.
+Die Medien machten daraus teils „ChatGPT macht dumm“[idiocracy]. Das gibt die Studie so nicht her.
 
 ## 📖 Weiterlesen
 
@@ -35,3 +34,5 @@ Die Medien machten daraus teils „ChatGPT macht dumm“. Das gibt die Studie so
 [^studie]: Kosmyna et al. (2025): „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task“, arXiv:2506.08872
 
 [^fachkommentar]: Stanković et al. (2026): „Comment on: Your Brain on ChatGPT: Accumulation of Cognitive Debt When Using an AI Assistant for Essay Writing Tasks“, arXiv:2601.00856
+
+[idiocracy]:
