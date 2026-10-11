@@ -16,19 +16,19 @@ Chi & Wylie (2014) unterscheiden vier Stufen geistiger Beteiligung. Je höher di
 - **Konstruktiv:** Eigenes erzeugen, z. B. in eigenen Worten formulieren, Beispiele finden, Verknüpfungen herstellen
 - **Interaktiv:** Stufe 3 in Zusammenarbeit mit anderen, wobei alle auf den Beiträgen der anderen aufbauen, z. B. gemeinsam diskutieren und Ideen weiterentwickeln
 
-Ausgerechnet „aktiv“ ist in diesem Modell also nur Stufe 2. Was wir meist mit aktivem Lernen meinen, beginnt erst bei Stufe 3.
+Ausgerechnet „aktiv“ ist in diesem Modell also nur Stufe 2. Was wir meist mit aktivem Lernen meinen, beginnt erst bei Stufe 3 – in diesem Sinne verwende ich den Begriff auch hier in diesem Artikel. 
 
 ![ICAP-Lernmodell.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/ICAP-Lernmodell.png)
 
 ### Weitere Befunde im Überblick
 
 - **Aktives Lernen insgesamt** (Freeman et al. 2014): Metaanalyse über 225 Studien in MINT-Fächern. Aktive Formate verbesserten die Prüfungsergebnisse; bei reinen Vorlesungen war die Durchfallquote rund 1,5-mal so hoch.
-- **Sich den Stoff selbst erklären** (Chi et al. 1989): Erfolgreiche Lernende führen beim Durcharbeiten von Beispielen eine Art inneren Dialog und entdecken dabei ihre Verständnislücken.
+- **Sich den Stoff selbst erklären** (Chi et al. 1989): Erfolgreich Lernende führen beim Durcharbeiten von Beispielen eine Art inneren Dialog und entdecken dabei ihre Verständnislücken.
 - **Testing-Effekt** (Roediger & Karpicke 2006): Wer sich selbst prüft, etwa mit Karteikarten oder Übungsfragen, behält den Stoff langfristig besser als jemand, der ihn nur erneut liest.
-- **Verteiltes Lernen** (Cepeda et al. 2006): Spaced Repetition, also Wiederholung in größer werdenenden Zeitabständen, ist effektiver als Last-Minute-Lernen in einer Sitzung.
+- **Verteiltes Lernen** (Cepeda et al. 2006): Spaced Repetition, also Wiederholung in größer werdenden Zeitabständen, ist effektiver als Last-Minute-Lernen in einer Sitzung.
 - **Generierungseffekt** (Slamecka & Graf 1978): Was man selbst erschließt, wird besser behalten als das, was man nur liest.
 - **Lohnenswerte Anstrengung** (Desirable Difficulties, Bjork 1994): Lernen, das sich mühsamer anfühlt, ist oft nachhaltiger. 
-- **Lerntechniken im Vergleich** (Dunlosky et al. 2013): Selbsttesten und verteiltes Lernen sind hoch wirksam, Markieren und Wiederlesen wenig.
+- **Lerntechniken im Vergleich** (Dunlosky et al. 2013): Selbsttesten und verteiltes Lernen sind hoch wirksam, Markieren und Wiederlesen dagegen kaum.
 
 
 > [!info] Was besonders gut wirkt
@@ -51,6 +51,8 @@ Drei Methoden, die auf Stufe 3 des ICAP-Modells angesiedelt sind:
 - [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]: Den Stoff so einfach erklären, dass ein Kind ihn versteht. Wo du ins Stocken gerätst, liegt deine Verständnislücke.
 - [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]]: Schreiben ist kein Protokoll des Denkens, sondern das Denken selbst. Dazu eine Übung, mit der du merkst, wann du in den passiven Modus rutschst.
 
+Und eine Methode, die in Zeiten von KI leider oft unterhalb von Stufe 3 bleibt:
+- „ChatGPT macht dumm“, war die Schlagzeile der Stunde in Reaktion auf die [[02 - Künstliche Intelligenz/0 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]. Nach allem, was wir hier über aktives Lernen wissen, wundert uns das auch kaum – aber ganz so eindimensional ist es nicht.
 
 ### Quellen
 
