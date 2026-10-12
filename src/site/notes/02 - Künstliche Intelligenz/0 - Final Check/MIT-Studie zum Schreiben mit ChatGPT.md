@@ -40,7 +40,7 @@ Oben habe ich geschrieben, dass Essayschreiben eine sehr spezifische Aufgabe ist
 Wer KI nutzt, um nicht selbst denken zu müssen, braucht sich nicht zu wundern, wenn die eigene Denkfähigkeit verkümmert wie ein untrainierter Muskel. Insofern finde ich die Ergebnisse der MIT-Studie sowohl trivial als auch irreführend.  
 
 > [!tip] KI für aktives Lernen
-> Ich finde es schade und eigentlich nicht nachvollziehbar, dass so viele Menschen KI anscheinend zur Verflachung ihres Denkens und Generierung von [[AI Slop\|AI Slop]] nutzen. Eine meiner absoluten Lieblingsbeschäftigungen ist es zu Lernen – seit dem Auftauchen von ChatGPT macht es mir noch mehr Freude. Eine besonders effektive Form des Lernens ist das Simulieren von Prüfungen, KI ist wie gemacht dafür. Statt mir die Antwort vorkauen zu lassen, hat die KI den Auftrag, mir Fragen zu stellen und das schon in mir schlummernde Wissen zu neuen Themen aus mir herauszukitzeln. 
+> Ich finde es schade und eigentlich nicht nachvollziehbar, dass so viele Menschen KI anscheinend zur Verflachung ihres Denkens und Generierung von [[02 - Künstliche Intelligenz/0 - Final Check/AI Slop\|AI Slop]] nutzen. Eine meiner absoluten Lieblingsbeschäftigungen ist es zu Lernen – seit dem Auftauchen von ChatGPT macht es mir noch mehr Freude. Eine besonders effektive Form des Lernens ist das Simulieren von Prüfungen, KI ist wie gemacht dafür. Statt mir die Antwort vorkauen zu lassen, hat die KI den Auftrag, mir Fragen zu stellen und das schon in mir schlummernde Wissen zu neuen Themen aus mir herauszukitzeln. 
 > 
 
 ## 📖 Weiterlesen
