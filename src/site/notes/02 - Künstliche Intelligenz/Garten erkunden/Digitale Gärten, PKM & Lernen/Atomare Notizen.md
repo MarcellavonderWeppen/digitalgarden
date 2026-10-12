@@ -24,7 +24,7 @@ Die Stärke dieses Ansatzes liegt in vier zentralen Vorteilen:
 - **Klarheit im Denken**: Der Zwang, eine komplexe Idee in eine einzige, eigenständige Notiz zu fassen, zwingt dazu, den Gedankengang zu Ende zu denken. Das Schreiben wird so zum aktiven Denkwerkzeug.
 - **Auffindbarkeit**: Je spezifischer und fokussierter eine Notiz ist, desto leichter ist sie durch Suche oder Navigation zu finden und im richtigen Moment einzusetzen.
 
-Die atomare Struktur transformiert passives Sammeln von Informationen in einen [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Aktives Lernen\|aktiven Prozess der Wissensgenerierung]]. Genau diese Anstrengung führt zu echtem Verständnis statt zu angelesenem Halbwissen. 
+Die atomare Struktur transformiert passives Sammeln von Informationen in einen [[02 - Künstliche Intelligenz/0 - Final Check/Aktives Lernen\|aktiven Prozess der Wissensgenerierung]]. Genau diese Anstrengung führt zu echtem Verständnis statt zu angelesenem Halbwissen. 
 
 ## 📖 Weiterlesen
 
