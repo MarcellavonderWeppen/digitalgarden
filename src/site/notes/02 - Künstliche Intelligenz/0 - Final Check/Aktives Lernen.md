@@ -51,7 +51,7 @@ Drei Methoden, die auf Stufe 3 des ICAP-Modells angesiedelt sind:
 - [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]]: Schreiben ist kein Protokoll des Denkens, sondern das Denken selbst. Dazu eine Übung, mit der du merkst, wann du in den passiven Modus rutschst.
 
 Und eine Methode, die in Zeiten von KI leider oft unterhalb von Stufe 3 bleibt:
-- „ChatGPT macht dumm“, war die Schlagzeile der Stunde in Reaktion auf die [[02 - Künstliche Intelligenz/0 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]. Nach allem, was wir hier über aktives Lernen wissen, wundert uns das auch kaum. Doch eigentlich ist gerade KI wie gemacht für aktives Lernen, zum Beispiel durch das Simulieren einer Prüfung. Für mich ist das alltägliche Praxis und ich teile gerne meinen persönlichen Lernprompt: [[02 - Künstliche Intelligenz/Prompts/Lernbegleiter - Skill\|Lernbegleiter - Skill]]. Viel Spaß beim Ausprobieren!
+- „ChatGPT macht dumm“, war die Schlagzeile der Stunde in Reaktion auf die [[02 - Künstliche Intelligenz/0 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]. Nach allem, was wir hier über aktives Lernen wissen, wundert uns das auch kaum. Doch eigentlich ist gerade KI wie gemacht für aktives Lernen, zum Beispiel durch das Simulieren einer Prüfung. Für mich ist das alltägliche Praxis und ich teile gerne meinen persönlichen Lernprompt: [[Lernbegleiter - Skill\|Lernbegleiter - Skill]]. Viel Spaß beim Ausprobieren!
 
 ### Quellen
 

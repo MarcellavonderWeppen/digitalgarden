@@ -40,13 +40,13 @@ Oben habe ich geschrieben, dass Essayschreiben eine sehr spezifische Aufgabe ist
 Wer KI nutzt, um nicht selbst denken zu müssen, braucht sich nicht zu wundern, wenn die eigene Denkfähigkeit verkümmert wie ein untrainierter Muskel. Insofern finde ich die Ergebnisse der MIT-Studie sowohl trivial als auch irreführend.  
 
 > [!tip] KI für aktives Lernen
-> Ich finde es schade und eigentlich nicht nachvollziehbar, dass so viele Menschen KI anscheinend zur Verflachung ihres Denkens und Generierung von [[02 - Künstliche Intelligenz/0 - Final Check/AI Slop\|AI Slop]] nutzen. Eine meiner absoluten Lieblingsbeschäftigungen ist es zu Lernen – seit dem Auftauchen von ChatGPT macht es mir noch mehr Freude. Eine besonders effektive Form des Lernens ist das Simulieren von Prüfungen, KI ist wie gemacht dafür. Statt mir die Antwort vorkauen zu lassen, hat die KI den Auftrag, mir Fragen zu stellen und das schon in mir schlummernde Wissen zu neuen Themen aus mir herauszukitzeln. 
+> Ich finde es schade und eigentlich nicht nachvollziehbar, dass so viele Menschen KI anscheinend zur Verflachung ihres Denkens und Generierung von [[02 - Künstliche Intelligenz/1 - Work on now/AI Slop\|AI Slop]] nutzen. Eine meiner absoluten Lieblingsbeschäftigungen ist es zu Lernen – seit dem Auftauchen von ChatGPT macht es mir noch mehr Freude. Eine besonders effektive Form des Lernens ist das Simulieren von Prüfungen, KI ist wie gemacht dafür. Statt mir die Antwort vorkauen zu lassen, hat die KI den Auftrag, mir Fragen zu stellen und das schon in mir schlummernde Wissen zu neuen Themen aus mir herauszukitzeln. 
 > 
 
 ## 📖 Weiterlesen
 
 - Die Informatik-Professorin Margaret-Anne Storey griff den Begriff „Cognitive Debt“ 2026 fürs Programmieren auf: Wenn KI den Code schreibt, versteht irgendwann niemand im Team mehr so richtig, wie die eigene Software funktioniert. Mehr dazu im Artikel über [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]].
-- ☝️🤓 Bitte nicht der Maschine das Denken überlassen – [[02 - Künstliche Intelligenz/0 - Final Check/Aktives Lernen\|aktives Lernen]] lautet die Devise. Um das Prinzip des aktiven Lernens mit einem [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLM]] Deines Vertrauens auszuprobieren, teile ich hier gerne meinen persönlichen Prompt: [[02 - Künstliche Intelligenz/Prompts/Lernbegleiter - Skill\|Lernbegleiter - Skill]]. Viel Spaß damit!
+- ☝️🤓 Bitte nicht der Maschine das Denken überlassen – [[02 - Künstliche Intelligenz/0 - Final Check/Aktives Lernen\|aktives Lernen]] lautet die Devise. Um das Prinzip des aktiven Lernens mit einem [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLM]] Deines Vertrauens auszuprobieren, teile ich hier gerne meinen persönlichen Prompt: [[Lernbegleiter - Skill\|Lernbegleiter - Skill]]. Viel Spaß damit!
 
 [^studie]: Kosmyna et al. (2025): „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task“, arXiv:2506.08872
 
