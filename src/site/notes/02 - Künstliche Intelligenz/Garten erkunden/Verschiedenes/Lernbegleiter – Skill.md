@@ -1,5 +1,5 @@
 ---
-{"title":"Lernbegleiter – Skill","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-12","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/garten-erkunden/verschiedenes/lernbegleiter-skill/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Lernbegleiter – Skill","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-12","updated":null,"status":null}}
+{"title":"Lernbegleiter – Skill","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-12","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/garten-erkunden/verschiedenes/lernbegleiter-skill/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Lernbegleiter – Skill","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-12","updated":null,"status":null}}
 ---
 
 *Von mir als Skill für Claude geschrieben, funktioniert aber natürlich auch als Prompt für andere Chatbots.*
