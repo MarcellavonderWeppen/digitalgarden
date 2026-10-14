@@ -5,7 +5,7 @@
 
 # Künstliche Intelligenz
 
-Die sogenannte „künstliche Intelligenz“ ist erst mit dem Startschuss von [[Zum Karnickelstall/5 - soon (veröffentlicht)/ChatGPT\|ChatGPT]] wirklich in das öffentliche Bewusstsein gerückt.
+Die sogenannte „künstliche Intelligenz“ ist erst mit dem Startschuss von [[Zum Karnickelstall/5 - soon/ChatGPT\|ChatGPT]] wirklich in das öffentliche Bewusstsein gerückt.
 
 Häufig wird hier KI mit dem jüngsten Geschwisterchen dieser großen Familie gleichgesetzt – der [[Garten erkunden/Grundlagen/Generative KI\|generativen KI]], welche Texte, Bilder oder Videos erstellen kann.
 
@@ -35,8 +35,8 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von „KI“ d
 ### Teilbereiche
 
 - [[Garten erkunden/Grundlagen/Prädiktive KI\|Prädiktive KI]]
-- [[Garten erkunden/Grundlagen/Generative KI\|Generative KI (GenAI)]] inkl. [[Zum Karnickelstall/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie ChatGPT
-- Teils prädiktiv, teils generativ: [[Garten erkunden/Grundlagen/KI-Sprachtechnologie\|KI-Sprachtechnologie]] inkl. [[Zum Karnickelstall/6 - later/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
+- [[Garten erkunden/Grundlagen/Generative KI\|Generative KI (GenAI)]] inkl. [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie ChatGPT
+- Teils prädiktiv, teils generativ: [[Garten erkunden/Grundlagen/KI-Sprachtechnologie\|KI-Sprachtechnologie]] inkl. [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
 👉 Mehr lesen über [[Garten erkunden/Grundlagen/Statistische KI\|Statistische KI]]
 

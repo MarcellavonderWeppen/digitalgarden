@@ -10,7 +10,7 @@
 
 Vibecoding bezeichnet einen KI-gestützten Programmieransatz, bei dem man das Modell den Code generieren lässt, indem man das gewünschte Ergebnis in Alltagssprache beschreibt. Entscheidungen fallen nach Gefühl und Geschwindigkeit, nicht nach Architektur-Prinzipien.
 
-Der Begriff geht auf [[Zum Karnickelstall/1 - Work on now/Andrej Karpathy\|Andrej Karpathy]] zurück, der ihn im Februar 2025 mit einem beiläufigen Tweet prägte. Er beschrieb eine neue Art zu programmieren, bei der man sich ganz den Vibes (dem Gefühl) hingibt:
+Der Begriff geht auf [[Zum Karnickelstall/2 - Work on now/Andrej Karpathy\|Andrej Karpathy]] zurück, der ihn im Februar 2025 mit einem beiläufigen Tweet prägte. Er beschrieb eine neue Art zu programmieren, bei der man sich ganz den Vibes (dem Gefühl) hingibt:
 
 > *Give in to the vibes, …, and forget that the code even exists.*[^quelle]
 
@@ -35,13 +35,13 @@ In der IT-Welt gibt es dafür einen etablierten Begriff: **Technical Debt** (Tec
 
 Mit dem Aufkommen von KI tritt jedoch ein neues, weitaus gefährlicheres Phänomen hinzu: **Cognitive Debt**.
 
-Der Begriff tauchte 2025 erstmals in einer [[Zum Karnickelstall/0 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]] auf. Die Informatik-Professorin Margaret-Anne Storey griff ihn 2026 auf und übertrug ihn aufs Programmieren. In der Softwareentwicklung beschreibt er eine schleichende Wissenserosion: Kognitive Schulden entstehen, wenn **das menschliche Team das Verständnis darüber verliert, wie der Code im Detail funktioniert** – und zwar selbst dann, wenn die KI sauberen, funktionierenden Code generiert hat.
+Der Begriff tauchte 2025 erstmals in einer [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]] auf. Die Informatik-Professorin Margaret-Anne Storey griff ihn 2026 auf und übertrug ihn aufs Programmieren. In der Softwareentwicklung beschreibt er eine schleichende Wissenserosion: Kognitive Schulden entstehen, wenn **das menschliche Team das Verständnis darüber verliert, wie der Code im Detail funktioniert** – und zwar selbst dann, wenn die KI sauberen, funktionierenden Code generiert hat.
 
 Das Problem ist unsichtbar, bis das System bricht und die Entwickler wie Archäologen vor ihrer eigenen Software stehen.
 
 ### Cybersecurity – ein Job mit Zukunft
 
-Vibe-Code genügt im Allgemeinen den Ansprüchen an sicheren Code nicht. KI-Modelle lernen in der ersten [[Zum Karnickelstall/4 - very soon/Training von LLMs\|Trainingsphase]], das wahrscheinlichste nächste Wort vorherzusagen. In einer späteren Phase werden sie dafür belohnt, dass ihr Code läuft und Tests besteht. Ob er auch sicher ist, spielt dabei eine untergeordnete Rolle. Das Ergebnis ist Code, der plausibel wirkt und den Nutzer zufriedenstellt – es funktioniert ja zunächst einmal alles.
+Vibe-Code genügt im Allgemeinen den Ansprüchen an sicheren Code nicht. KI-Modelle lernen in der ersten [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Training von LLMs\|Trainingsphase]], das wahrscheinlichste nächste Wort vorherzusagen. In einer späteren Phase werden sie dafür belohnt, dass ihr Code läuft und Tests besteht. Ob er auch sicher ist, spielt dabei eine untergeordnete Rolle. Das Ergebnis ist Code, der plausibel wirkt und den Nutzer zufriedenstellt – es funktioniert ja zunächst einmal alles.
 
 Weil KI-generierter Code optisch oft sauber wirkt, verleitet er zu blindem Vertrauen. Doch die Modelle betrachten Code meist isoliert und übersehen komplexe Sicherheits-Wechselwirkungen im Gesamtsystem. Schlimmer noch: Da sie mit historischem Code trainiert wurden, replizieren sie alte, bekannte Sicherheitslücken in rasantem Tempo – ganz unbemerkt vom Entwickler im „Vibe“.
 
@@ -53,7 +53,7 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 
 - Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]].
 - Jeder kann jetzt Webdesign? Nein! Meine Perspektive als Webdesignerin zu vibe-gecodeten Websites: [[Garten erkunden/Verschiedenes/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]]
-- Laien und mittelmäßige Programmierer können heute in Sekundenschnelle Code produzieren. Prüfen müssen ihn aber Menschen mit echtem Verständnis – und das ist mühsam. Das hat zu einer Krise der Open-Source-Bewegung geführt. Mehr dazu im Artikel zu [[Zum Karnickelstall/5 - soon (veröffentlicht)/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]]
+- Laien und mittelmäßige Programmierer können heute in Sekundenschnelle Code produzieren. Prüfen müssen ihn aber Menschen mit echtem Verständnis – und das ist mühsam. Das hat zu einer Krise der Open-Source-Bewegung geführt. Mehr dazu im Artikel zu [[Zum Karnickelstall/5 - soon/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]]
 
 ## 📺 Aus der YouTube Academy
 

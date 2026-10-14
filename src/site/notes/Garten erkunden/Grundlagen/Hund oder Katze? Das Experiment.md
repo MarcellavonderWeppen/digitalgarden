@@ -109,7 +109,7 @@ _**Der auffälligste Hinweis ist aber der Kopf**: Augen, Nase, Schnauze und die 
 
 ## Schlussfolgerung
 
-Das Experiment zeigt nicht nur, wie selbstbewusst [[Zum Karnickelstall/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|große Sprachmodelle]] ihre Irrtümer vortragen (sogenannte [[Zum Karnickelstall/4 - very soon/Halluzinationen\|Halluzinationen]]), sondern vor allem auch, warum [[Garten erkunden/Grundlagen/Klassische KI\|klassische KI]] an Aufgaben wie Bilderkennung oder Bildgenerierung scheitert.
+Das Experiment zeigt nicht nur, wie selbstbewusst [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|große Sprachmodelle]] ihre Irrtümer vortragen (sogenannte [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Halluzinationen\|Halluzinationen]]), sondern vor allem auch, warum [[Garten erkunden/Grundlagen/Klassische KI\|klassische KI]] an Aufgaben wie Bilderkennung oder Bildgenerierung scheitert.
 
 Diese Form der KI ist auf explizite, also aufschreibbare Regeln angewiesen. Aber selbst eine gründliche Merkmalsliste legt nicht eindeutig fest, was ein Hund ist und was eine Katze.
 

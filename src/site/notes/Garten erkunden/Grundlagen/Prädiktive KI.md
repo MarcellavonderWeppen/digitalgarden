@@ -8,7 +8,7 @@ Es handelt sich um [[Garten erkunden/Grundlagen/Statistische KI\|statistische KI
 
 ## Begriffsklärung
 
-**Der Begriff ist ein Retronym:** Er entstand erst, nachdem [[Garten erkunden/Grundlagen/Generative KI\|generative KI]] populär wurde und man ein Wort für diese „andere KI“ brauchte. „Prädiktive KI“ war vor 2022 kaum gebräuchlich; man sagte einfach [[Zum Karnickelstall/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]], Klassifikation, Regression. Etabliert war allenfalls „Predictive Analytics“ als Sammelbegriff für datengestützte Prognosen in Unternehmen.
+**Der Begriff ist ein Retronym:** Er entstand erst, nachdem [[Garten erkunden/Grundlagen/Generative KI\|generative KI]] populär wurde und man ein Wort für diese „andere KI“ brauchte. „Prädiktive KI“ war vor 2022 kaum gebräuchlich; man sagte einfach [[Zum Karnickelstall/5 - soon/Machine Learning (ML)\|Machine Learning]], Klassifikation, Regression. Etabliert war allenfalls „Predictive Analytics“ als Sammelbegriff für datengestützte Prognosen in Unternehmen.
 
 > [!info] Wortherkunft
 >
@@ -22,7 +22,7 @@ Es handelt sich um [[Garten erkunden/Grundlagen/Statistische KI\|statistische KI
 - **Generative KI** erzeugt neue Inhalte wie Texte, Bilder oder Code: „Erstelle ein Bild von einer Katze.“
 
 > [!info] Definition über den Zweck
-> Auch [[Zum Karnickelstall/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs (Large Language Models)]] sind technisch gesehen Vorhersagemaschinen: Sie berechnen, welches [[Token\|Token]] am wahrscheinlichsten als Nächstes folgt. Die Grenze verläuft also weniger über die Technik als über den Zweck.
+> Auch [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs (Large Language Models)]] sind technisch gesehen Vorhersagemaschinen: Sie berechnen, welches [[Token\|Token]] am wahrscheinlichsten als Nächstes folgt. Die Grenze verläuft also weniger über die Technik als über den Zweck.
 
 Anwendungen wie [[Garten erkunden/Grundlagen/KI-Sprachtechnologie#STT gibt es in zwei Varianten\|STTs]] (eine KI-Sprachtechnologie) können je nach Umsetzung in den prädiktiven oder in den generativen Bereich fallen.
 
