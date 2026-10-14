@@ -22,7 +22,7 @@ Ausgerechnet „aktiv“ ist in diesem Modell also nur Stufe 2. Was wir meist mi
 
 ### Weitere Befunde im Überblick
 
-- **Aktives Lernen insgesamt:** In MINT-Fächern verbesserten aktive Formate die Prüfungsergebnisse; bei reinen Vorlesungen war die Durchfallquote rund 1,5-mal so hoch.[^freeman]
+- **Aktives Lernen insgesamt:** Aktive Formate wie Gruppenarbeit oder Abstimmungsfragen während der Vorlesung verbesserten in MINT-Fächern die Prüfungsergebnisse; bei reinen Vorlesungen war die Durchfallquote rund 1,5-mal so hoch.[^freeman]
 - **Sich den Stoff selbst erklären:** Erfolgreich Lernende führen beim Durcharbeiten von Beispielen eine Art inneren Dialog und entdecken dabei ihre Verständnislücken.[^chi-selbsterklaerung]
 - **Testing-Effekt:** Wer sich selbst prüft, etwa mit Karteikarten oder Übungsfragen, behält den Stoff langfristig besser als jemand, der ihn nur erneut liest.[^roediger]
 - **Verteiltes Lernen:** Spaced Repetition, also Wiederholung in größer werdenden Zeitabständen, ist effektiver als Last-Minute-Lernen in einer Sitzung.[^cepeda]
