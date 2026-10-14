@@ -36,7 +36,7 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von „KI“ d
 
 - [[Garten erkunden/Grundlagen/Prädiktive KI\|Prädiktive KI]]
 - [[Garten erkunden/Grundlagen/Generative KI\|Generative KI (GenAI)]] inkl. [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie ChatGPT
-- Teils prädiktiv, teils generativ: [[Garten erkunden/Grundlagen/KI-Sprachtechnologie\|KI-Sprachtechnologie]] inkl. [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
+- Teils prädiktiv, teils generativ: [[Garten erkunden/Grundlagen/KI-Sprachtechnologie\|KI-Sprachtechnologie]] inkl. [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
 👉 Mehr lesen über [[Garten erkunden/Grundlagen/Statistische KI\|Statistische KI]]
 

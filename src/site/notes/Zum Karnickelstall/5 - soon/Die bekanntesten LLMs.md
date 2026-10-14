@@ -17,11 +17,11 @@ Im Folgenden ein Überblick über die wichtigsten [[Zum Karnickelstall/5 - soon/
 
 ### Claude: KI mit Verantwortung
 
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/Claude\|Claude]] setzt von Anfang an auf **Sicherheit und Vertrauenswürdigkeit**. Mit einem starken Fokus auf ethische KI-Entwicklung und robuste Schutzmechanismen gegen schädliche Inhalte oder Missbrauch hebt es sich als besonders zuverlässiger Sprachassistent ab. Gerade für Unternehmen und Anwendungen, bei denen Datenschutz und Compliance entscheidend sind, gilt Claude als der erste Wahl.
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/Claude\|Claude]] setzt von Anfang an auf **Sicherheit und Vertrauenswürdigkeit**. Mit einem starken Fokus auf ethische KI-Entwicklung und robuste Schutzmechanismen gegen schädliche Inhalte oder Missbrauch hebt es sich als besonders zuverlässiger Sprachassistent ab. Gerade für Unternehmen und Anwendungen, bei denen Datenschutz und Compliance entscheidend sind, gilt Claude als der erste Wahl.
 
 ### Gemini: Wenn ein Datenriese ein Sprachmodell baut
 
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/Gemini\|Gemini]] nutzt den unschlagbaren Vorteil von Google: den Zugang zu einer der **größten und vielfältigsten Datensammlungen der Welt**. Durch die Integration von Texten, Bildern, Code und weiteren Datenquellen aus Googles Ökosystem entsteht ein Sprachmodell, das nicht nur umfänglich, sondern auch besonders vielseitig und leistungsstark ist. Hier zeigt sich, wie aus schierer Datenmenge und technologischer Expertise ein KI-System entsteht, das neue Maßstäbe setzt.
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/Gemini\|Gemini]] nutzt den unschlagbaren Vorteil von Google: den Zugang zu einer der **größten und vielfältigsten Datensammlungen der Welt**. Durch die Integration von Texten, Bildern, Code und weiteren Datenquellen aus Googles Ökosystem entsteht ein Sprachmodell, das nicht nur umfänglich, sondern auch besonders vielseitig und leistungsstark ist. Hier zeigt sich, wie aus schierer Datenmenge und technologischer Expertise ein KI-System entsteht, das neue Maßstäbe setzt.
 
 ### Grok: Musks später Einstieg in den KI-Wettlauf
 
@@ -51,4 +51,4 @@ Die **Qwen3- und Qwen3.5-Modelle** gelten als die stärksten Allrounder aus dem 
 
 Das französische Vorzeige-Startup vertritt die europäische Speerspitze. Mit Modellen wie **Mistral Large 3** und den _Magistral_-Reasoning-Modellen punkten sie vor allem bei europäischen Unternehmen, die Wert auf DSGVO-Konformität und lokale Verankerung legen.
 
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/Claude vs ChatGPT\|Claude vs ChatGPT]]
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/Claude vs ChatGPT\|Claude vs ChatGPT]]

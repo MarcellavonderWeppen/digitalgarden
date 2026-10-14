@@ -15,4 +15,4 @@
 ## 📖 Weiterlesen
 
 - Der Überwachungskapitalismus bedient sich [[Garten erkunden/Grundlagen/Prädiktive KI\|prädiktiver KI]], um aus dem Rohstoff Daten Vorhersagen zu gewinnen, also derselben Technik, die etwa auch in der Medizin oder der Wettervorhersage nützt.
-- Zuboffs Buch steht auf meiner [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Bibliothek 📚\|Leseliste]]. Ich sage Bescheid, wenn ich mehr darüber zu berichten habe. Falls du schneller warst als ich: Ich freue mich über deine Gedanken in den Kommentaren 😏
+- Zuboffs Buch steht auf meiner [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Bibliothek 📚\|Leseliste]]. Ich sage Bescheid, wenn ich mehr darüber zu berichten habe. Falls du schneller warst als ich: Ich freue mich über deine Gedanken in den Kommentaren 😏

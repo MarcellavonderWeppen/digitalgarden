@@ -25,4 +25,4 @@ Das Ziel ist oft eine höhere Kundenbindung und reduzierte Abwanderung (Churn).
 
 ## 📖 Weiterlesen
 
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/Euria im Test (Mai 2026)#Erfahrungen mit Vendor-Lock-In\|ChatGPT: Erfahrung mit Vendor-Lock-In]]
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/Euria im Test (Mai 2026)#Erfahrungen mit Vendor-Lock-In\|ChatGPT: Erfahrung mit Vendor-Lock-In]]

@@ -12,10 +12,10 @@ Bemerkenswert ist seine Doppelrolle. Er ist anerkannter Spitzenforscher und zugl
 ## Stationen
 
 - Promotion 2015 an der Stanford University bei Fei-Fei Li, mit Schwerpunkt auf Deep Learning und Computer Vision
-- Im selben Jahr: Gründungsmitglied von [[Zum Karnickelstall/5 - soon (unveröffentlicht)/OpenAI\|OpenAI]]
+- Im selben Jahr: Gründungsmitglied von [[Zum Karnickelstall/6 - soon (unveröffentlicht)/OpenAI\|OpenAI]]
 - 2017 Wechsel zu Tesla, wo er als „Director of AI“ das Computer-Vision-Team hinter dem Autopilot leitete
 - 2024 Gründung seiner KI-Bildungsplattform Eureka Labs
-- Seit Mai 2026 unterstützt er bei [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Anthropic\|Anthropic]] das [[Pretraining\|Pretraining]]-Team
+- Seit Mai 2026 unterstützt er bei [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Anthropic\|Anthropic]] das [[Pretraining\|Pretraining]]-Team
 ## Pionier: Deep Learning und Computer Vision
 
 Karpathy promovierte bei Fei-Fei Li an der Stanford University. Dort arbeitete er intensiv mit ImageNet – der riesigen Bilddatenbank aus Fei-Fei Lis Labor, die 2012 den weltweiten [[Zum Karnickelstall/5 - soon/Machine Learning (ML)#Deep Learning\|Deep Learning]]-Boom auslöste.Mit ihr lernten Modelle, Bilder der richtigen Kategorie zuzuordnen. Diese Bildklassifikation ist ein Paradebeispiel für [[Garten erkunden/Grundlagen/Prädiktive KI\|prädiktive KI]].

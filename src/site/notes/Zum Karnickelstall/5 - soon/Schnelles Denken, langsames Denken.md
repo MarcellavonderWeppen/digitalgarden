@@ -41,4 +41,4 @@ Kahneman zeigt, wie beide Systeme ineinandergreifen – und warum wir uns oft au
 ## 📖 Weiterlesen
 
 - Ich vergleiche KI mit System 1 und 2: [[Zum Karnickelstall/5 - soon/Kahneman und KI\|Kahneman und KI]]
-- Wie IT-Unternehmen dieses Wissen nutzen, um Menschen zu manipulieren: [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Dark Patterns (Deceptive Patterns)#Schnelles Denken, Langsames Denken\|Dark Patterns]]
+- Wie IT-Unternehmen dieses Wissen nutzen, um Menschen zu manipulieren: [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Dark Patterns (Deceptive Patterns)#Schnelles Denken, Langsames Denken\|Dark Patterns]]

@@ -13,7 +13,7 @@ Im Gegensatz zu [[Garten erkunden/Grundlagen/Klassische KI\|klassischen KI-Syste
 
 Technologisch beruht GenAI meist auf neuronalen Netzen, insbesondere [[Zum Karnickelstall/5 - soon/Transformer\|Transformermodellen]]. Die bekannteste Anwendung sind [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|große Sprachmodelle]], die hinter Chatbots wie [[Zum Karnickelstall/5 - soon/ChatGPT\|ChatGPT]] stehen.
 
-Bei Bild, Video und Ton kommt ein zusätzliches Verfahren dazu: [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Diffusionsmodelle\|Diffusion]].
+Bei Bild, Video und Ton kommt ein zusätzliches Verfahren dazu: [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Diffusionsmodelle\|Diffusion]].
 
 ## Begriffliche Klärung
 
@@ -36,7 +36,7 @@ Im technischen Sinn ist generativ, was neue Daten erzeugt, statt vorhandene nur 
 
 Diese Systeme haben das Potenzial, Arbeitsprozesse zu beschleunigen, kreative Arbeit zu unterstützen und Dinge zu ermöglichen, die bisher an fehlenden finanziellen Mitteln gescheitert waren: beispielsweise individualisiertes Lernmaterial, wie es sonst nur Privatunterricht bietet, oder Übersetzungen in Sprachen, für die sich das nie gelohnt hat.
 
-Allerdings hat GenAI einen hohen Preis, der oft übersehen wird: Weltweit werden Rechenzentren aus dem Boden gestampft, die enorme Mengen an Strom, Wasser und Land verschlingen, oft [[Zum Karnickelstall/5 - soon (unveröffentlicht)/über die Köpfe der Menschen vor Ort hinweg\|über die Köpfe der Menschen vor Ort hinweg]]. Dazu kommen ungelöste Fragen wie Urheberrecht, Datenschutz und Deepfakes.
+Allerdings hat GenAI einen hohen Preis, der oft übersehen wird: Weltweit werden Rechenzentren aus dem Boden gestampft, die enorme Mengen an Strom, Wasser und Land verschlingen, oft [[Zum Karnickelstall/6 - soon (unveröffentlicht)/über die Köpfe der Menschen vor Ort hinweg\|über die Köpfe der Menschen vor Ort hinweg]]. Dazu kommen ungelöste Fragen wie Urheberrecht, Datenschutz und Deepfakes.
 
 📖 Weiterlesen: [[Zum Karnickelstall/5 - soon/Kritik an GenAI\|Kritik an GenAI]]
 
@@ -47,8 +47,8 @@ Aus meiner Sicht ist das Problem nicht die Technologie an sich, sondern die Logi
 Alternativlos ist daran nichts. Schon heute gibt es Unternehmen und Verfahren, die das demonstrieren:
 
 - Cloudanbieter wie [Hetzner](https://www.hetzner.com/de/unternehmen/nachhaltigkeit/) setzen auf erneuerbare Energien. Der Schweizer Anbieter [[Zum Karnickelstall/5 - soon/Infomaniak\|Infomaniak]] geht noch einen Schritt weiter und beheizt mit der Abwärme seines Genfer Rechenzentrums tausende Haushalte
-- [[Zum Karnickelstall/5 - soon (unveröffentlicht)/DeepSeek\|DeepSeek]] hat sein [[Zum Karnickelstall/5 - soon/Open Source vs Proprietär\|offenes]] Modell V3 mit einem Bruchteil der Rechenleistung trainiert, die bis zu diesem Zeitpunkt für das Training eines LLMs als notwendig erachtet wurde
+- [[Zum Karnickelstall/6 - soon (unveröffentlicht)/DeepSeek\|DeepSeek]] hat sein [[Zum Karnickelstall/5 - soon/Open Source vs Proprietär\|offenes]] Modell V3 mit einem Bruchteil der Rechenleistung trainiert, die bis zu diesem Zeitpunkt für das Training eines LLMs als notwendig erachtet wurde
 - Intelligentere Architekturen und Verfahren wie Mixture of Experts (siehe [[Mistral\|Mistral]] oder DeepSeek) arbeiten wesentlich effizienter
 - [[SLMs (kleine Sprachmodelle)\|SLMs (kleine Sprachmodelle)]] wie Phi oder Gemma stellen das Narrativ „größer ist besser“ in Frage
-- Dienste wie Lumo von [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Proton\|Proton]] betreiben offene Modelle auf eigenen Servern in Europa und setzen auf Datenschutz statt Datensammeln
+- Dienste wie Lumo von [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Proton\|Proton]] betreiben offene Modelle auf eigenen Servern in Europa und setzen auf Datenschutz statt Datensammeln
 

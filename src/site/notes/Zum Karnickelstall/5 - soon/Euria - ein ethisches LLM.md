@@ -10,5 +10,5 @@ Das System wird vollständig in der Schweiz betrieben und nutzt ein nachhaltiges
 
 Die Firma dahinter ist [[Zum Karnickelstall/5 - soon/Infomaniak\|Infomaniak]]: eine europäischen Alternative zu den US-amerikanischen [[Zum Karnickelstall/5 - soon/Hyperscaler\|Hyperscalern]]. 
 
-Im Mai 2026 habe ich meinen bezahlten [[Zum Karnickelstall/5 - soon/ChatGPT\|ChatGPT]]-Account gekündigt und mich für ein Experiment entschieden: Euria sollte einen Monat lang meine neue Haupt-KI werden. Kann das gut gehen? 👉 [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Euria im Test (Mai 2026)\|Euria im Test (Mai 2026)]]
+Im Mai 2026 habe ich meinen bezahlten [[Zum Karnickelstall/5 - soon/ChatGPT\|ChatGPT]]-Account gekündigt und mich für ein Experiment entschieden: Euria sollte einen Monat lang meine neue Haupt-KI werden. Kann das gut gehen? 👉 [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Euria im Test (Mai 2026)\|Euria im Test (Mai 2026)]]
 

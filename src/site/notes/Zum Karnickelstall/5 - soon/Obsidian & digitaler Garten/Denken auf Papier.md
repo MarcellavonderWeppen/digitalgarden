@@ -67,4 +67,4 @@ Das Ziel der Übung ist es zu bemerken, dass man in den passiven Modus gefallen 
 
 ## Weiterstöbern
 
-📖 Zum Thema Sprechen vs Tippen: [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Speech-to-Text (STT)#Kleiner Exkurs Nicht immer ist Geschwindigkeit alles 🤔\|Nicht immer ist Geschwindigkeit alles 🤔]]
+📖 Zum Thema Sprechen vs Tippen: [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Speech-to-Text (STT)#Kleiner Exkurs Nicht immer ist Geschwindigkeit alles 🤔\|Nicht immer ist Geschwindigkeit alles 🤔]]

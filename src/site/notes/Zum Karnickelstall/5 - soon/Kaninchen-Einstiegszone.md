@@ -27,15 +27,15 @@ Dieses Projekt wurde übrigens mit der Software [[Zum Karnickelstall/5 - soon/Ob
 
 ### Speech-To-Text-KIs, Wispr Flow und Darkpatterns 🐇👑
 
-Eigentlich wollte ich nur kurz ein [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Speech-to-Text (STT)\|Speech-to-Text (STT)]]-Tool downloaden, um schneller und produktiver zu arbeiten. Ich dachte, [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Wispr Flow\|Wispr Flow]] wäre das einzige ernstzunehmende Tool dieser Art. Dieser Irrtum ist von Wispr Flow vermutlich nicht ganz unbeabsichtigt. Bei meiner Recherche wurde ich nicht nur mit Dutzenden [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Speech-to-Text (STT)\|Speech-to-Text (STT)]]-Tools konfrontiert, sondern auch mit der Thematik [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Cloud vs lokal\|Cloud vs lokal]].
+Eigentlich wollte ich nur kurz ein [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Speech-to-Text (STT)\|Speech-to-Text (STT)]]-Tool downloaden, um schneller und produktiver zu arbeiten. Ich dachte, [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Wispr Flow\|Wispr Flow]] wäre das einzige ernstzunehmende Tool dieser Art. Dieser Irrtum ist von Wispr Flow vermutlich nicht ganz unbeabsichtigt. Bei meiner Recherche wurde ich nicht nur mit Dutzenden [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Speech-to-Text (STT)\|Speech-to-Text (STT)]]-Tools konfrontiert, sondern auch mit der Thematik [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Cloud vs lokal\|Cloud vs lokal]].
 
-Obwohl vieles für lokale Anwendungen spricht, dachte ich: „Gut, [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Wispr Flow\|Wispr Flow]] scheint ein ja ein gutes Tool für Menschen zu sein, die kein Problem mit einer Anwendung in der Cloud haben. Ich könnte das als [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Affiliate\|Affiliate]]-Partner empfehlen.“ Bis ich die [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Wispr Flow Affiliate Vertragsbedingungen\|Wispr Flow Affiliate Vertragsbedingungen]] las und dabei ganz nebenbei mit dem Thema [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Dark Patterns (Deceptive Patterns)\|Dark Patterns]] konfrontiert wurde ….
+Obwohl vieles für lokale Anwendungen spricht, dachte ich: „Gut, [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Wispr Flow\|Wispr Flow]] scheint ein ja ein gutes Tool für Menschen zu sein, die kein Problem mit einer Anwendung in der Cloud haben. Ich könnte das als [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Affiliate\|Affiliate]]-Partner empfehlen.“ Bis ich die [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Wispr Flow Affiliate Vertragsbedingungen\|Wispr Flow Affiliate Vertragsbedingungen]] las und dabei ganz nebenbei mit dem Thema [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Dark Patterns (Deceptive Patterns)\|Dark Patterns]] konfrontiert wurde ….
 
 So wird dann aus einem 5-Minuten-Punkt aus der To-Do-Liste ein wochenlanges Projekt. Wie heißt es so schön? „Nerd sein verpflichtet!“ 🤓
 
 ### Marktplatz: Marcellas kleiner Shop 🐰🐣
 
-“[[Zum Karnickelstall/5 - soon (unveröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]]“ hatte ich behauptet. Auf der Suche nach dem „anders“ begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Affiliate\|Affiliate]]-Partner unterstützen möchte.
+“[[Zum Karnickelstall/6 - soon (unveröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]]“ hatte ich behauptet. Auf der Suche nach dem „anders“ begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Affiliate\|Affiliate]]-Partner unterstützen möchte.
 
 Hier könnte ihr einige meiner Empfehlungen entdecken:
 [[Marcellas kleiner Shop\|Marcellas kleiner Shop]] 🏠
@@ -51,6 +51,6 @@ Eine ChatGPT-Lehrerin [[Auf der Suche nach ChatGPT-Alternativen\|Auf der Suche n
 
 ### Frisch geschlüpfte Kaninchen am Bauen 🐰🐣
 
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/KI-Narritive - von harmlos bis hochgradig bedenklich\|KI-Narritive - von harmlos bis hochgradig bedenklich]]
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/KI-Narritive - von harmlos bis hochgradig bedenklich\|KI-Narritive - von harmlos bis hochgradig bedenklich]]
 
 Apropos Kaninchen: [[Lifehack Dopaminloading\|Lifehack Dopaminloading]]

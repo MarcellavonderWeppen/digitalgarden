@@ -21,7 +21,7 @@ Hervorragend für [[Zum Karnickelstall/5 - soon/Mindmaps\|Mindmaps]] und mehr.
 
 🤓 Hier ein Beispiel, was ich mit Canvas mache. Zur näheren Betrachtung bitte anklicken + reinzoomen:
 
-![[Zum Karnickelstall/5 - soon (unveröffentlicht)/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]]
+![[Zum Karnickelstall/6 - soon (unveröffentlicht)/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]]
 
 **Perfekt, um mir neues Wissen zu erarbeiten und es bei Bedarf in Vorträgen und Videos zu präsentieren!**
 

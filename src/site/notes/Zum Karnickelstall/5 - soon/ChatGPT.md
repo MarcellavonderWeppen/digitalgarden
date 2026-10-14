@@ -13,7 +13,7 @@ Bereits nach 5 Tagen hatte es eine Million Nutzer und war somit zu diesem Zeitpu
 
 Ich war nicht unter der ersten Million, stieg aber als „ [[Zum Karnickelstall/5 - soon/Diffusion of Innovations#Early Adopters (~13,5 %)\|Early Adopter]]“ kurz darauf ein. Keine 2 Monate später waren wir schon 100 Millionen Anwender.
 
-Der Erfolg kam völlig unerwartet, auch für die Firma hinter dem noch jungen [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLM]]: [[Zum Karnickelstall/5 - soon (unveröffentlicht)/OpenAI\|OpenAI]].
+Der Erfolg kam völlig unerwartet, auch für die Firma hinter dem noch jungen [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLM]]: [[Zum Karnickelstall/6 - soon (unveröffentlicht)/OpenAI\|OpenAI]].
 
 ![ChatGPT 1 Mio Nutzer Statista.png](/img/user/Garten%20erkunden/Bilder/ChatGPT%201%20Mio%20Nutzer%20Statista.png)
 
@@ -56,20 +56,20 @@ Schauen wir es uns Schritt für Schritt an:
 - Eine spezielle KI-Technologie, welche den Durchbruch der KI-Forschung und den enormen Erfolg von ChatGPT mit sich brachte
 - Merkhilfe: [[Zum Karnickelstall/5 - soon/Transformer\|Transformer]]-Modelle nehmen die Texteingabe des Nutzers - und _transformieren_ sie in eine (hoffentlich) hilfreiche Antwort: Eingabe (Input) → Antwort (Output)
 
-👉 Hier liegt das [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Input-Output-Prinzip\|Input-Output-Prinzip]] zugrunde, dem nicht nur [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs]], sondern auch Computer allgemein folgen.
+👉 Hier liegt das [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Input-Output-Prinzip\|Input-Output-Prinzip]] zugrunde, dem nicht nur [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs]], sondern auch Computer allgemein folgen.
 
 ## ChatGPT, Sykophanthie und KI-Psychosen
 
 LLMs wurden darauf trainiert, dem Nutzer Antworten zu geben, welche er oder sie als nützlich empfindet.
 
-In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein „ehrlich gesagt, ich weiß es nicht.“ - selbst wenn die Antwort falsch war. Das ist einer der Faktoren, die das Auftreten von falschen Antworten, sogenannten [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Halluzinationen\|Halluzinationen]] stark verstärkt haben.
+In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein „ehrlich gesagt, ich weiß es nicht.“ - selbst wenn die Antwort falsch war. Das ist einer der Faktoren, die das Auftreten von falschen Antworten, sogenannten [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Halluzinationen\|Halluzinationen]] stark verstärkt haben.
 
-Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[Zum Karnickelstall/5 - soon/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionale Abhängigkeit bis hin zu [[Zum Karnickelstall/5 - soon (unveröffentlicht)/KI-Psychosen\|KI-Psychosen]].
+Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[Zum Karnickelstall/5 - soon/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionale Abhängigkeit bis hin zu [[Zum Karnickelstall/6 - soon (unveröffentlicht)/KI-Psychosen\|KI-Psychosen]].
 
 ## 📖 Weiterlesen
 
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/OpenAI\|OpenAI]] - die Firma hinter ChatGPT
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/Sam Altman\|Sam Altman]] - der charismatische CEO von OpenAI
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/Empire of AI\|Empire of AI]] - ein kritisches Werk von [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Karen Hao\|Karen Hao]]
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/Welches LLM ist das beste?\|Welches LLM ist das beste?]]
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/Training von LLMs\|Training von LLMs]]
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/OpenAI\|OpenAI]] - die Firma hinter ChatGPT
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/Sam Altman\|Sam Altman]] - der charismatische CEO von OpenAI
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/Empire of AI\|Empire of AI]] - ein kritisches Werk von [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Karen Hao\|Karen Hao]]
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/Welches LLM ist das beste?\|Welches LLM ist das beste?]]
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/Training von LLMs\|Training von LLMs]]

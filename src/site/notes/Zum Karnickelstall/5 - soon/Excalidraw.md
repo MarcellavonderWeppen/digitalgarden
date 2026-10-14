@@ -55,7 +55,7 @@ Hier ein Beispiel wie so eine Skizze aussehen kann (geleakter Geheimplan, bitte 
 
 ![Cats & Dragons Game Level 1.png](/img/user/Zum%20Karnickelstall/7%20-%20nicht%20ver%C3%B6ffentlichen/Excalidraw/Cats%20&%20Dragons%20Game%20Level%201.png)
 
-Und zum Vergleich noch, wie ein [[Zum Karnickelstall/5 - soon/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]] aussehen kann: [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]] 👉 Der Unterschied dürfte klar werden!
+Und zum Vergleich noch, wie ein [[Zum Karnickelstall/5 - soon/Obsidian & digitaler Garten/Canvas in Obsidian\|Canvas]] aussehen kann: [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Überblick zu STTs (Speech to Text).canvas\|Überblick zu STTs (Speech to Text).canvas]] 👉 Der Unterschied dürfte klar werden!
 ## Kostenlos + abendfüllend 🐇
 
 Der Entwickler von Excalidraw stellt das Plugin **kostenlos** zur Verfügung und hat eine ganze Bibliothek mit einer Vielzahl von Videos zu den Möglichkeiten zusammengestellt. Hier geht's zum Rabbithole 🐇 👉 https://excalidraw-obsidian.online/wiki/catalogue

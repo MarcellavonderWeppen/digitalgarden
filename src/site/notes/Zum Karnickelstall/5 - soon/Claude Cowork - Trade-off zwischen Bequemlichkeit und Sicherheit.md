@@ -70,7 +70,7 @@ Je mächtiger und integrierter ein Tool, desto höher der Preis in Sachen **Priv
 - Ich hatte ihn Claude zum Faktencheck gegeben - er protestierte heftig.
 - Also habe ich Mistral gebeten, die Kritikpunkte von Claude auf Tragfähigkeit zu prüfen und ggf. den ursprünglichen Artikel entsprechend zu korrigieren.
 - Diesen Prozess habe ich zweimal wiederholt; das Ergebnis ist ein Artikel, der inhaltlich einigermaßen belastbar sein dürfte.
-- Diese Vorgehensweise ist eine Möglichkeit, [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Halluzinationen\|Halluzinationen]] zu reduzieren.
+- Diese Vorgehensweise ist eine Möglichkeit, [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Halluzinationen\|Halluzinationen]] zu reduzieren.
 
 ## Claudes Kritik am ursprünglichen Artikel
 
@@ -89,6 +89,6 @@ Der rote Faden: Die Ursprungsfassung zeichnete ein Bild verdeckter, unausweichli
 
 ## Schlussfolgerungen
 
-Der ursprüngliche Artikel von Mistral klang sehr plausibel - und steckte doch voller Fehler. Dieser Fall zeigt eindrücklich, wie wach man beim Umgang mit [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs]] für das Thema [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Halluzinationen\|Halluzinationen]] bleiben muss. Es gibt keinen Ersatz für echtes menschliches Verständnis.
+Der ursprüngliche Artikel von Mistral klang sehr plausibel - und steckte doch voller Fehler. Dieser Fall zeigt eindrücklich, wie wach man beim Umgang mit [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs]] für das Thema [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Halluzinationen\|Halluzinationen]] bleiben muss. Es gibt keinen Ersatz für echtes menschliches Verständnis.
 
 Um dieses Verständnis zu erlangen, können LLMs ein hilfreiches Werkzeug sein, aber während man auf diesem Weg ist, sollten kritisches Denken, ständiges Prüfen und Hinterfragen die Wegbegleiter sein.

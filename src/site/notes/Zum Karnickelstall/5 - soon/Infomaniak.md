@@ -37,15 +37,15 @@ Weitere Hightlights:
 
 Damit finde ich diese Firma unglaublich inspierend, denn sie gehen mit gutem Beispiel voran und zeigen, dass Innovation nicht auf Kosten unseres Planeten gehen muss. Ein Beispiel, dass hoffentlich Schule macht!
 
-👉 Ich habe mal ein bisschen länger mit Gemini zum Konzept geträumt: [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Rechenzentren als Wärmequelle - Konzepte & Visionen\|Rechenzentren als Wärmequelle]]
+👉 Ich habe mal ein bisschen länger mit Gemini zum Konzept geträumt: [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Rechenzentren als Wärmequelle - Konzepte & Visionen\|Rechenzentren als Wärmequelle]]
 
 ## Infomaniak & Euria kennenlernen
 
-Das Konzept überzeugt mich so sehr, dass ich Infomaniak als [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Affiliate\|Affiliate]]-Partner empfehlen möchte!
+Das Konzept überzeugt mich so sehr, dass ich Infomaniak als [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Affiliate\|Affiliate]]-Partner empfehlen möchte!
 
 > [!tip] Meine Empfehlung
-> Hier geht es zur Seite der Firma mit allen Angeboten: [www.infomaniak.com](https://www.infomaniak.com/de?utm_term=69edf089d566d) ([[Zum Karnickelstall/5 - soon (unveröffentlicht)/Affiliate\|Affiliate-Link]])
+> Hier geht es zur Seite der Firma mit allen Angeboten: [www.infomaniak.com](https://www.infomaniak.com/de?utm_term=69edf089d566d) ([[Zum Karnickelstall/6 - soon (unveröffentlicht)/Affiliate\|Affiliate-Link]])
 
 ## 📖 Weiterlesen
 
-Ich versuche einen Monat lang, Euria als meine neue „Haupt-KI“ anstelle von ChatGPT zu verwenden! Kann das gut gehen? 👉 [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Euria im Test (Mai 2026)\|Euria im Test (Mai 2026)]]
+Ich versuche einen Monat lang, Euria als meine neue „Haupt-KI“ anstelle von ChatGPT zu verwenden! Kann das gut gehen? 👉 [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Euria im Test (Mai 2026)\|Euria im Test (Mai 2026)]]

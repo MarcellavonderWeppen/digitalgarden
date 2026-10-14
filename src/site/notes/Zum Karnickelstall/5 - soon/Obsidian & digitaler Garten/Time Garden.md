@@ -15,4 +15,4 @@ Nun nutze ich den „Time Garden“ täglich und bin überglücklich damit!
 
 Damit kann ich nun nach und nach Notion als Tool für meine tägliche Organisation durch Obsidian ersetzen.
 
-Ich verlasse die [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Cloud vs lokal\|Cloud]], den [[Zum Karnickelstall/5 - soon/Vendor-Lock-in\|Lock-in-Effekt]] und erlange Schritt für Schritt Souveränität über meine Daten zurück.
+Ich verlasse die [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Cloud vs lokal\|Cloud]], den [[Zum Karnickelstall/5 - soon/Vendor-Lock-in\|Lock-in-Effekt]] und erlange Schritt für Schritt Souveränität über meine Daten zurück.

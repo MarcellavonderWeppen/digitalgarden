@@ -26,7 +26,7 @@ Dieser Artikel behandelt _Speech AI_; der Aspekt _language_ fällt in die Domän
 
 ### Speech-to-Text (STT)
 
-Das wohl bekannteste Teilgebiet. Wandelt gesprochene Sprache in geschriebenen Text um – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. In der Fachwelt auch unter dem Namen Automatic Speech Recognition (ASR) bekannt. Ein verbreitetes Modell ist [[Whisper\|Whisper]] von [[Zum Karnickelstall/5 - soon (unveröffentlicht)/OpenAI\|OpenAI]].
+Das wohl bekannteste Teilgebiet. Wandelt gesprochene Sprache in geschriebenen Text um – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. In der Fachwelt auch unter dem Namen Automatic Speech Recognition (ASR) bekannt. Ein verbreitetes Modell ist [[Whisper\|Whisper]] von [[Zum Karnickelstall/6 - soon (unveröffentlicht)/OpenAI\|OpenAI]].
 
 ### Text-to-Speech (TTS)
 
@@ -63,7 +63,7 @@ Die Faustregel dahinter: Kommt etwas _Neues_ heraus (eine Stimme), ist es GenAI.
 ### STT gibt es in zwei Varianten:
 
 - Manche Modelle ordnen jedem Audio-Abschnitt ein Zeichen zu und setzen den Text daraus zusammen. Das ist Klassifikation, also prädiktive KI.
-- Modelle wie [[Whisper\|Whisper]] stellen den Text Wort für Wort her. Das ist generativ im technischen Sinne, genau wie beim Voice Cloning: Was gesagt wird, ist vorgegeben, aber die Daten dazu werden erzeugt. Man erkennt diese Modelle daran, dass sie [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Halluzinationen\|halluzinieren]] können.
+- Modelle wie [[Whisper\|Whisper]] stellen den Text Wort für Wort her. Das ist generativ im technischen Sinne, genau wie beim Voice Cloning: Was gesagt wird, ist vorgegeben, aber die Daten dazu werden erzeugt. Man erkennt diese Modelle daran, dass sie [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Halluzinationen\|halluzinieren]] können.
 
 👉 Mehr dazu: [[Garten erkunden/Grundlagen/Generative KI#Begriffliche Klärung\|Zwei Bedeutungen von „generativ“]]
 
@@ -75,9 +75,9 @@ Die Teilgebiete sind Bausteine. Was man im Alltag als Produkt erlebt, kombiniert
 
 Man spricht, der Computer schreibt – in jedes beliebige Textfeld, ob E-Mail, Chat oder Dokument. Moderne Tools glätten dabei gleich den Text, entfernen Füllwörter und setzen Satzzeichen. Im Kern STT; neuere Tools ergänzen ein [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|Sprachmodell]] zur Nachbearbeitung.
 
-**Beispiele:** [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Wispr Flow\|Wispr Flow]], Apples Diktierfunktion, Dragon
+**Beispiele:** [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Wispr Flow\|Wispr Flow]], Apples Diktierfunktion, Dragon
 
-👉 Mehr zu [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
+👉 Mehr zu [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
 ### Meeting-Assistenten
 
@@ -85,7 +85,7 @@ Ein Programm hört bei Videokonferenzen mit, ordnet die Beiträge den Teilnehmer
 
 **Beispiele:** Otter, Fireflies, Zoom AI Companion
 
-👉 Mehr zu [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Meeting Intelligence\|Meeting Intelligence]]
+👉 Mehr zu [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Meeting Intelligence\|Meeting Intelligence]]
 
 ### Sprachassistenten und Voice Agents
 

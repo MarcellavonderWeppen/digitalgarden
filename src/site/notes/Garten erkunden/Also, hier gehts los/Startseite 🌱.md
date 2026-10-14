@@ -39,7 +39,7 @@ Meine Motivation ist vor allem die Freude am Lernen! Ich dokumentiere mein wachs
 
 Doch ich lerne auch von euch! Zwar habe ich alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare –  _eure_ Perspektive, konstruktive Kritik, aber auch Fragen und Anregungen. Was gibt es Schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben? 🐝
 
-👉 So geht’s: [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
+👉 So geht’s: [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
 
 Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und vielleicht nach und nach, während dieses Projekt wächst, das ein oder andere Kaninchenloch entdecken 🐇
 
@@ -47,7 +47,7 @@ Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und v
 
 Folge dem weißen Kaninchen in die [[Zum Karnickelstall/5 - soon/Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
 
-[![Kaninchenloch](/img/user/Garten%20erkunden/Bilder/Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/02-kuenstliche-intelligenz/5-soon-veroeffentlicht/kaninchen-einstiegszone/)
+[![Kaninchenloch](/img/user/Garten%20erkunden/Bilder/Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/Zum Karnickelstall/5-soon/kaninchen-einstiegszone/)
 
 ## Warum ausgerechnet KI?
 
@@ -62,11 +62,11 @@ Doch weder Heilsversprechen noch Endzeitstimmung helfen wirklich weiter bei eine
 
 Ohne Zweifel [[Zum Karnickelstall/5 - soon/Kritik an GenAI\|entwickelt sich vieles in eine bedenkliche Richtung]] – und dennoch glaube ich:
 
-[[Zum Karnickelstall/5 - soon (unveröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]]
+[[Zum Karnickelstall/6 - soon (unveröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]]
 
 ## Wer schreibt hier eigentlich?
 
-Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Über mich\|über mich]].
+Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Über mich\|über mich]].
 
 Vielleicht ist die Frage aber auch anders gemeint:
 

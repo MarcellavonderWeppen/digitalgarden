@@ -56,7 +56,7 @@ Sie können genau 2 Dinge:
 | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
 | Videos zusammenfassen | Das geht nur, wenn in den Videos Subtitel zurückgelegt sind.                                                                                    |
 | Websites erstellen    | Websites beruhen auf Code: Text in einer Programmiersprache geschrieben.                                                                        |
-| Bilder erstellen      | Können sie nicht. Aber Anwendungen wie ChatGPT haben oft zusätzlich eine weitere Form von KI integriert, die sogenannten [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Diffusionsmodelle\|Diffusionsmodelle]]. |
+| Bilder erstellen      | Können sie nicht. Aber Anwendungen wie ChatGPT haben oft zusätzlich eine weitere Form von KI integriert, die sogenannten [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Diffusionsmodelle\|Diffusionsmodelle]]. |
 
 ## Model
 
