@@ -5,7 +5,7 @@
 
 # Künstliche Intelligenz
 
-Die sogenannte „künstliche Intelligenz“ ist erst mit dem Startschuss von [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/ChatGPT\|ChatGPT]] wirklich in das öffentliche Bewusstsein gerückt.
+Die sogenannte „künstliche Intelligenz“ ist erst mit dem Startschuss von [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/ChatGPT\|ChatGPT]] wirklich in das öffentliche Bewusstsein gerückt.
 
 Häufig wird hier KI mit dem jüngsten Geschwisterchen dieser großen Familie gleichgesetzt – der [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Generative KI\|generativen KI]], welche Texte, Bilder oder Videos erstellen kann.
 
@@ -35,8 +35,8 @@ Diese Art von künstlicher Intelligenz ist meistens gemeint, wenn von „KI“ d
 ### Teilbereiche
 
 - [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Prädiktive KI\|Prädiktive KI]]
-- [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Generative KI\|Generative KI (GenAI)]] inkl. [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie ChatGPT
-- Teils prädiktiv, teils generativ: [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/KI-Sprachtechnologie\|KI-Sprachtechnologie]] inkl. [[02 - Künstliche Intelligenz/Zum Gewächshaus/6 - later/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
+- [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Generative KI\|Generative KI (GenAI)]] inkl. [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLMs (Large Language Models)]] wie ChatGPT
+- Teils prädiktiv, teils generativ: [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/KI-Sprachtechnologie\|KI-Sprachtechnologie]] inkl. [[02 - Künstliche Intelligenz/Zum Karnickelstall/6 - later/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
 👉 Mehr lesen über [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Statistische KI\|Statistische KI]]
 

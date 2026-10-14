@@ -21,10 +21,10 @@ Sie beschreibt Ansätze der künstlichen Intelligenz, die auf **Wahrscheinlichke
 ## Entstehung
 
 - Die mathematischen Grundlagen (Wahrscheinlichkeitsrechnung) reichen bis ins 17. Jahrhundert zurück
-- Ab 1943 erste Konzepte [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/Machine Learning (ML)#Neuronale Netze\|künstlicher Neuronen]] → 1958 folgte mit dem Perceptron das erste lernfähige Netz
+- Ab 1943 erste Konzepte [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/Machine Learning (ML)#Neuronale Netze\|künstlicher Neuronen]] → 1958 folgte mit dem Perceptron das erste lernfähige Netz
 - Verstärktes Interesse an statistischen Methoden ab den späten 1980er Jahren, als die klassische KI an ihre Grenzen stieß
 - Starker Aufschwung: **1990er bis heute**
-- Durchbruch: 2012 mit [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
+- Durchbruch: 2012 mit [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
 
 ## Warum überhaupt ein neues [[Paradigma\|Paradigma]]?
 
@@ -38,7 +38,7 @@ Die datengetriebene KI konnte ihren Siegeszug keinen Augenblick früher antreten
 
 - Verfügbarkeit großer Datenmengen („**Big Data**“)
 - Rechenleistung, um diese Datenmengen verarbeiten zu können („**Compute**“)
-- **[[02 - Künstliche Intelligenz/Zum Gewächshaus/2 - Work on today/Algorithmus\|Algorithmen]]** und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen
+- **[[02 - Künstliche Intelligenz/Zum Karnickelstall/2 - Work on today/Algorithmus\|Algorithmen]]** und Trainingsmethoden (z.B. der Durchbruch beim Training tiefer neuronaler Netze), um die vorhandenen Daten und die gegebene Rechenleistung optimal zu nutzen
 
 ![3 Voraussetzungen für statistische KI.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/3%20Voraussetzungen%20f%C3%BCr%20statistische%20KI.png)
 
@@ -55,5 +55,5 @@ Ein Chatbot, der zum Recherchieren eine Datenbank abfragt oder zum Rechnen Code 
 
 - [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Klassische KI#Komplexität von Sprache klassische KI stößt an ihre Grenzen\|Klassische KI und Sprache]] – warum regelbasierte Systeme hier an ihre Grenzen stießen
 - Woran erkennt man einen Hund oder eine Katze? Ein niedliches [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Hund oder Katze? Das Experiment\|Experiment]]
-- Die praktische Umsetzung von statistischer KI: [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]] und seine Unterform [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
+- Die praktische Umsetzung von statistischer KI: [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/Machine Learning (ML)\|Machine Learning]] und seine Unterform [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]]
 - Teilbereiche der statistischen KI: [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Prädiktive KI\|prädiktive KI]] und [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Generative KI\|Generative KI]]

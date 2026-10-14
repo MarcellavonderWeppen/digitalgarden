@@ -21,7 +21,7 @@ Auch für eine einfache Visitenkarten-Website oder Hobbyprojekte ist das Ergebni
 
 - Die Ergebnisse wirken oft generisch – und das kommt nicht von ungefähr, da wir es mit [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Statistische KI\|statistischer KI]] zu tun haben. Die Domäne dieser Form von KI ist das Durchschnittliche, nicht das Individuelle oder gar Außergewöhnliche. 
 - Hübsch ist nicht gleich wirksam. Eine Website soll in erster Linie eine Botschaft zum Ausdruck bringen und die richtigen Menschen erreichen. Deshalb beginnt gutes Webdesign mit einem umfassenden Konzept; die Gestaltung folgt daraus.
-- Dank KI kann heute jeder schnell und leicht Code erzeugen – allerdings hat dieser häufig Mängel, die Anfängern gar nicht auffallen, da ihnen das Bewusstsein für Themen wie Sicherheit, Performance oder Accessibility fehlt. Das bringt wiederum eine schlechtere [[02 - Künstliche Intelligenz/Zum Gewächshaus/4 - very soon/UX\|User Experience]] oder rechtliche Risiken mit sich. 
+- Dank KI kann heute jeder schnell und leicht Code erzeugen – allerdings hat dieser häufig Mängel, die Anfängern gar nicht auffallen, da ihnen das Bewusstsein für Themen wie Sicherheit, Performance oder Accessibility fehlt. Das bringt wiederum eine schlechtere [[02 - Künstliche Intelligenz/Zum Karnickelstall/4 - very soon/UX\|User Experience]] oder rechtliche Risiken mit sich. 
 
 ![Webdesigner.png](/img/user/02%20-%20K%C3%BCnstliche%20Intelligenz/Garten%20erkunden/Bilder/Webdesigner.png)
 
@@ -75,4 +75,4 @@ Für Leute mit wenig Zeit – das Thema in 40 Sekunden:
 [Every AI Startup Website Looks the Same](https://www.youtube.com/shorts/HRaGvoRa-IU)
 
 
-[^tools]: Auf eine ausführliche Bewertung dieser Tools verzichte ich in diesem Artikel bewusst, denn alles heute Gesagte könnte morgen schon hinfällig sein. Wenn Dich der aktuelle Stand interessiert, lass ein [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLM]] Deines Vertrauens per Websuche recherchieren und kritisch beurteilen. Für brauchbare Ergebnisse solltest Du allerdings die [[Kunst des Promptens\|Kunst des Promptens]] beherrschen 😉
+[^tools]: Auf eine ausführliche Bewertung dieser Tools verzichte ich in diesem Artikel bewusst, denn alles heute Gesagte könnte morgen schon hinfällig sein. Wenn Dich der aktuelle Stand interessiert, lass ein [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLM]] Deines Vertrauens per Websuche recherchieren und kritisch beurteilen. Für brauchbare Ergebnisse solltest Du allerdings die [[Kunst des Promptens\|Kunst des Promptens]] beherrschen 😉

@@ -78,13 +78,13 @@ Dazu kommen Dialekte, Slang, neue Wörter, Tippfehler, unvollständige Sätze, A
 
 Die Regeln, die Menschen beim Sprechen tatsächlich anwenden, sind zu viele, zu vage, zu kontextabhängig und zu ausnahmenreich, als dass sie sich vollständig aufschreiben ließen.
 
-## Das Aufkommen eines neuen [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/Paradigma (Denkmodell)\|Paradigmas]]
+## Das Aufkommen eines neuen [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/Paradigma (Denkmodell)\|Paradigmas]]
 
 Was für Sprache gilt, trifft auch auf viele andere Felder zu, wie zum Beispiel die Bilderkennung: Wie unterscheide ich einen Hund von einer Katze? Uns Menschen gelingt das mühelos, auch wenn wir wahrscheinlich nicht erklären können, wie wir das machen. Für klassische KI: ein quasi unlösbares Problem.
 
 Genau an dieser Stelle setzt die [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Statistische KI\|statistische KI]] an: Anstatt mit vorgegebenen Regeln zu arbeiten, lernt sie Muster aus unzähligen Beispielen.
 
-Die Idee künstlicher Neuronen reicht bis 1943 zurück; mit dem Perceptron gab es 1958 ein erstes lernfähiges neuronales Netz. Neuen Schwung bekam die Forschung in den 80ern, als die Grenzen der klassischen KI immer deutlicher wurden. Der breite Durchbruch ließ allerdings noch bis 2012 auf sich warten: Mit [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]] gelang er zunächst in der Bilderkennung, wenige Jahre später auch bei Sprache.
+Die Idee künstlicher Neuronen reicht bis 1943 zurück; mit dem Perceptron gab es 1958 ein erstes lernfähiges neuronales Netz. Neuen Schwung bekam die Forschung in den 80ern, als die Grenzen der klassischen KI immer deutlicher wurden. Der breite Durchbruch ließ allerdings noch bis 2012 auf sich warten: Mit [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/Machine Learning (ML)#Deep Learning\|Deep Learning]] gelang er zunächst in der Bilderkennung, wenige Jahre später auch bei Sprache.
 
 > [!tip] Selbst ausprobiert
 > Warum ausgerechnet die Bilderkennung so lange ein Problem war, zeigt ein kleines Experiment, das mich zum Schmunzeln brachte: Ich habe eine KI alle Regeln aufschreiben lassen, an denen man einen Hund von einer Katze unterscheidet – und dann geprüft, ob die Regeln halten, was sie versprechen.

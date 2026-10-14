@@ -5,7 +5,7 @@
 
 # Atomare Notizen
 
-Eine atomare Notiz enthält **genau eine Idee** – nicht mehr, nicht weniger. Das Konzept stammt aus der [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]]-Methode und ist eines der mächtigsten Konzepte im [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]].
+Eine atomare Notiz enthält **genau eine Idee** – nicht mehr, nicht weniger. Das Konzept stammt aus der [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]]-Methode und ist eines der mächtigsten Konzepte im [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]].
 
 ☝️🤓 Ich halte mich nicht daran, aber wahrscheinlich ist es eine gute Idee!
 
@@ -24,8 +24,8 @@ Die Stärke dieses Ansatzes liegt in vier zentralen Vorteilen:
 - **Klarheit im Denken**: Der Zwang, eine komplexe Idee in eine einzige, eigenständige Notiz zu fassen, zwingt dazu, den Gedankengang zu Ende zu denken. Das Schreiben wird so zum aktiven Denkwerkzeug.
 - **Auffindbarkeit**: Je spezifischer und fokussierter eine Notiz ist, desto leichter ist sie durch Suche oder Navigation zu finden und im richtigen Moment einzusetzen.
 
-Die atomare Struktur transformiert passives Sammeln von Informationen in einen [[02 - Künstliche Intelligenz/Zum Gewächshaus/0 - Final Check/Aktives Lernen\|aktiven Prozess der Wissensgenerierung]]. Genau diese Anstrengung führt zu echtem Verständnis statt zu angelesenem Halbwissen. 
+Die atomare Struktur transformiert passives Sammeln von Informationen in einen [[02 - Künstliche Intelligenz/Zum Karnickelstall/0 - Final Check/Aktives Lernen\|aktiven Prozess der Wissensgenerierung]]. Genau diese Anstrengung führt zu echtem Verständnis statt zu angelesenem Halbwissen. 
 
 ## 📖 Weiterlesen
 
- Komplexe Ideen in ihre einfachsten Bestandteile zerlegen und aktives Denken? Das klingt doch sehr nach der [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/Richard Feynman#Prinzipien des Lernens Feynman-Methode\| Feynman-Methode]] und passt zum [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]].
+ Komplexe Ideen in ihre einfachsten Bestandteile zerlegen und aktives Denken? Das klingt doch sehr nach der [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/Richard Feynman#Prinzipien des Lernens Feynman-Methode\| Feynman-Methode]] und passt zum [[02 - Künstliche Intelligenz/Zum Karnickelstall/5 - soon (veröffentlicht)/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]].
