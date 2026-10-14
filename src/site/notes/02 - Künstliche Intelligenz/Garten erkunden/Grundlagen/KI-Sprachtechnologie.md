@@ -15,7 +15,7 @@ Unser deutsches Wort „Sprache“ hat im Englischen zwei Entsprechungen:
 
 👉 „Sprachtechnologie“ kann im Deutschen beides meinen.
 
-Dieser Artikel behandelt _Speech AI_; der Aspekt _language_ fällt in die Domäne der [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|großen Sprachmodelle]].
+Dieser Artikel behandelt _Speech AI_; der Aspekt _language_ fällt in die Domäne der [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|großen Sprachmodelle]].
 
 | _language_                 | _speech_         |
 | -------------------------- | ---------------- |
@@ -26,7 +26,7 @@ Dieser Artikel behandelt _Speech AI_; der Aspekt _language_ fällt in die Domän
 
 ### Speech-to-Text (STT)
 
-Das wohl bekannteste Teilgebiet. Wandelt gesprochene Sprache in geschriebenen Text um – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. In der Fachwelt auch unter dem Namen Automatic Speech Recognition (ASR) bekannt. Ein verbreitetes Modell ist [[Whisper\|Whisper]] von [[02 - Künstliche Intelligenz/4 - very soon/OpenAI\|OpenAI]].
+Das wohl bekannteste Teilgebiet. Wandelt gesprochene Sprache in geschriebenen Text um – Diktierfunktionen und Meeting-Transkriptionen beruhen darauf. In der Fachwelt auch unter dem Namen Automatic Speech Recognition (ASR) bekannt. Ein verbreitetes Modell ist [[Whisper\|Whisper]] von [[02 - Künstliche Intelligenz/Zum Gewächshaus/4 - very soon/OpenAI\|OpenAI]].
 
 ### Text-to-Speech (TTS)
 
@@ -63,7 +63,7 @@ Die Faustregel dahinter: Kommt etwas _Neues_ heraus (eine Stimme), ist es GenAI.
 ### STT gibt es in zwei Varianten:
 
 - Manche Modelle ordnen jedem Audio-Abschnitt ein Zeichen zu und setzen den Text daraus zusammen. Das ist Klassifikation, also prädiktive KI.
-- Modelle wie [[Whisper\|Whisper]] stellen den Text Wort für Wort her. Das ist generativ im technischen Sinne, genau wie beim Voice Cloning: Was gesagt wird, ist vorgegeben, aber die Daten dazu werden erzeugt. Man erkennt diese Modelle daran, dass sie [[02 - Künstliche Intelligenz/4 - very soon/Halluzinationen\|halluzinieren]] können.
+- Modelle wie [[Whisper\|Whisper]] stellen den Text Wort für Wort her. Das ist generativ im technischen Sinne, genau wie beim Voice Cloning: Was gesagt wird, ist vorgegeben, aber die Daten dazu werden erzeugt. Man erkennt diese Modelle daran, dass sie [[02 - Künstliche Intelligenz/Zum Gewächshaus/4 - very soon/Halluzinationen\|halluzinieren]] können.
 
 👉 Mehr dazu: [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Generative KI#Begriffliche Klärung\|Zwei Bedeutungen von „generativ“]]
 
@@ -73,11 +73,11 @@ Die Teilgebiete sind Bausteine. Was man im Alltag als Produkt erlebt, kombiniert
 
 ### Diktieren statt Tippen
 
-Man spricht, der Computer schreibt – in jedes beliebige Textfeld, ob E-Mail, Chat oder Dokument. Moderne Tools glätten dabei gleich den Text, entfernen Füllwörter und setzen Satzzeichen. Im Kern STT; neuere Tools ergänzen ein [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|Sprachmodell]] zur Nachbearbeitung.
+Man spricht, der Computer schreibt – in jedes beliebige Textfeld, ob E-Mail, Chat oder Dokument. Moderne Tools glätten dabei gleich den Text, entfernen Füllwörter und setzen Satzzeichen. Im Kern STT; neuere Tools ergänzen ein [[02 - Künstliche Intelligenz/Zum Gewächshaus/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|Sprachmodell]] zur Nachbearbeitung.
 
-**Beispiele:** [[02 - Künstliche Intelligenz/6 - later/Wispr Flow\|Wispr Flow]], Apples Diktierfunktion, Dragon
+**Beispiele:** [[02 - Künstliche Intelligenz/Zum Gewächshaus/6 - later/Wispr Flow\|Wispr Flow]], Apples Diktierfunktion, Dragon
 
-👉 Mehr zu [[02 - Künstliche Intelligenz/6 - later/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
+👉 Mehr zu [[02 - Künstliche Intelligenz/Zum Gewächshaus/6 - later/Speech-to-Text (STT)\|Speech-to-Text (STT)]]
 
 ### Meeting-Assistenten
 
@@ -85,7 +85,7 @@ Ein Programm hört bei Videokonferenzen mit, ordnet die Beiträge den Teilnehmer
 
 **Beispiele:** Otter, Fireflies, Zoom AI Companion
 
-👉 Mehr zu [[02 - Künstliche Intelligenz/4 - very soon/Meeting Intelligence\|Meeting Intelligence]]
+👉 Mehr zu [[02 - Künstliche Intelligenz/Zum Gewächshaus/4 - very soon/Meeting Intelligence\|Meeting Intelligence]]
 
 ### Sprachassistenten und Voice Agents
 
