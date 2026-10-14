@@ -22,7 +22,7 @@ Ausgerechnet „aktiv“ ist in diesem Modell also nur Stufe 2. Was wir meist mi
 
 ### Weitere Befunde im Überblick
 
-- **Aktives Lernen insgesamt:** Metaanalyse über 225 Studien in MINT-Fächern. Aktive Formate verbesserten die Prüfungsergebnisse; bei reinen Vorlesungen war die Durchfallquote rund 1,5-mal so hoch.[^freeman]
+- **Aktives Lernen insgesamt:** In MINT-Fächern verbesserten aktive Formate die Prüfungsergebnisse; bei reinen Vorlesungen war die Durchfallquote rund 1,5-mal so hoch.[^freeman]
 - **Sich den Stoff selbst erklären:** Erfolgreich Lernende führen beim Durcharbeiten von Beispielen eine Art inneren Dialog und entdecken dabei ihre Verständnislücken.[^chi-selbsterklaerung]
 - **Testing-Effekt:** Wer sich selbst prüft, etwa mit Karteikarten oder Übungsfragen, behält den Stoff langfristig besser als jemand, der ihn nur erneut liest.[^roediger]
 - **Verteiltes Lernen:** Spaced Repetition, also Wiederholung in größer werdenden Zeitabständen, ist effektiver als Last-Minute-Lernen in einer Sitzung.[^cepeda]
@@ -55,7 +55,7 @@ Passives Lernen fühlt sich leicht an, aktives Lernen mühsam. In einer Studie l
 - „ChatGPT macht dumm“, war die Schlagzeile der Stunde in Reaktion auf die [[02 - Künstliche Intelligenz/0 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]. Nach allem, was wir hier über aktives Lernen wissen, wundert uns das auch kaum. Doch eigentlich ist gerade KI wie gemacht für aktives Lernen, zum Beispiel durch das Simulieren einer Prüfung. Für mich ist das alltägliche Praxis und ich teile gerne meinen persönlichen Lernprompt: [[Lernbegleiter - Skill\|Lernbegleiter - Skill]]. Viel Spaß beim Ausprobieren!
 
 [^chi-wylie]: Chi, M. T. H. & Wylie, R. (2014). The ICAP Framework: Linking Cognitive Engagement to Active Learning Outcomes. _Educational Psychologist_, 49(4), 219–243.
-[^freeman]: Freeman, S. et al. (2014). Active learning increases student performance in science, engineering, and mathematics. _PNAS_, 111(23), 8410–8415. Wichtig für die Einordnung: Verglichen wurden Lehrformate, nicht das tatsächliche Lernverhalten. Wer in der Vorlesung saß, kann zu Hause trotzdem aktiv gelernt haben; das wurde nicht erfasst. Der Unterschied zwischen konsequent aktivem und konsequent passivem Lernen dürfte daher größer sein, als diese Zahlen zeigen. Kontrollierte Laborstudien gibt es zwar, sie umfassen aber meist nur einzelne, kurze Lerneinheiten.
+[^freeman]: Freeman, S. et al. (2014). Active learning increases student performance in science, engineering, and mathematics. _PNAS_, 111(23), 8410–8415. Metaanalyse über 225 Studien. Wichtig für die Einordnung: Verglichen wurden Lehrformate, nicht das tatsächliche Lernverhalten. Wer in der Vorlesung saß, kann zu Hause trotzdem aktiv gelernt haben; das wurde nicht erfasst. Der Unterschied zwischen konsequent aktivem und konsequent passivem Lernen dürfte daher größer sein, als diese Zahlen zeigen. Kontrollierte Laborstudien gibt es zwar, sie umfassen aber meist nur einzelne, kurze Lerneinheiten.
 [^chi-selbsterklaerung]: Chi, M. T. H. et al. (1989). Self-explanations: How students study and use examples in learning to solve problems. _Cognitive Science_, 13(2), 145–182.
 [^roediger]: Roediger, H. L. & Karpicke, J. D. (2006). Test-enhanced learning: Taking memory tests improves long-term retention. _Psychological Science_, 17(3), 249–255.
 [^cepeda]: Cepeda, N. J. et al. (2006). Distributed practice in verbal recall tasks: A review and quantitative synthesis. _Psychological Bulletin_, 132(3), 354–380.
