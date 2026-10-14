@@ -46,7 +46,7 @@ Wer KI nutzt, um nicht selbst denken zu müssen, braucht sich nicht zu wundern, 
 ## 📖 Weiterlesen
 
 - Die Informatik-Professorin Margaret-Anne Storey griff den Begriff „Cognitive Debt“ 2026 fürs Programmieren auf: Wenn KI den Code schreibt, versteht irgendwann niemand im Team mehr so richtig, wie die eigene Software funktioniert. Mehr dazu im Artikel über [[02 - Künstliche Intelligenz/Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]].
-- ☝️🤓 Bitte nicht der Maschine das Denken überlassen – [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Aktives Lernen\|aktives Lernen]] lautet die Devise. Um das Prinzip des aktiven Lernens mit einem [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLM]] Deines Vertrauens auszuprobieren, teile ich hier gerne meinen persönlichen Prompt: [[02 - Künstliche Intelligenz/Garten erkunden/Prompts & Skills/Lernbegleiter – Skill\|Lernbegleiter – Skill]]. Viel Spaß damit!
+- ☝️🤓 Bitte nicht der Maschine das Denken überlassen – [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Aktives Lernen\|aktives Lernen]] lautet die Devise. Um das Prinzip des aktiven Lernens mit einem [[02 - Künstliche Intelligenz/5 - soon (veröffentlicht)/LLMs (Large Language Models)\|LLM]] Deines Vertrauens auszuprobieren, teile ich hier gerne meinen persönlichen Prompt: [[02 - Künstliche Intelligenz/3 - Work on tomorrow/Lernbegleiter – Skill\|Lernbegleiter – Skill]]. Viel Spaß damit!
 
 [^studie]: Kosmyna et al. (2025): „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task“, arXiv:2506.08872
 
