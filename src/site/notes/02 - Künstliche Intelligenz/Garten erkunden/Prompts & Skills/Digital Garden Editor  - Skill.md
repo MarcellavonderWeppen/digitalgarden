@@ -2,6 +2,7 @@
 {"title":"Digital Garden Editor  - Skill","aliases":null,"tags":["prompt"],"gen_ai_anteil":["Claude 40%"],"created":"2026-06-06","updated":null,"status":null,"dg-publish":true,"permalink":"/02-kuenstliche-intelligenz/garten-erkunden/prompts-and-skills/digital-garden-editor-skill/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Digital Garden Editor  - Skill","aliases":null,"tags":["prompt"],"gen_ai_anteil":["Claude 40%"],"created":"2026-06-06","updated":null,"status":null}}
 ---
 
+_Von mir als Skill für Claude geschrieben, funktioniert aber natürlich auch als Prompt für andere Chatbots._
 # Digital Garden Editor
 
 Aufruf des Skills ausschließlich, wenn ich ihn explizit aufrufe.
