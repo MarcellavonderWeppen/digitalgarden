@@ -64,4 +64,4 @@ Ich habe es noch nie so deutlich gesagt, aber es ist an der Zeit: Es führt kein
 ## 📖 Weiterlesen
 
 - Es geht auch anders: Beispiel aus der Welt der [[Garten erkunden/Grundlagen/Generative KI#Es geht auch anders\|GenAI]]
-- Passende [[Zum Karnickelstall/5 - soon/Kaninchen-Einstiegszone#Kaninchenlöcher für den Einstieg\|Kaninchenlöcher für den Einstieg]]: z.B. [[Zum Karnickelstall/5 - soon/Kaninchen-Einstiegszone#Alternative LLMs 🕳️🐇\|Alternative LLMs 🕳️🐇]] 
+- Passende [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone#Kaninchenlöcher für den Einstieg\|Kaninchenlöcher für den Einstieg]]: z.B. [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone#Alternative LLMs 🕳️🐇\|Alternative LLMs 🕳️🐇]] 
