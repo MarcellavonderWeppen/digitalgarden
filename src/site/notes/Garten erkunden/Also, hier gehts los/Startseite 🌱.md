@@ -62,11 +62,11 @@ Doch weder Heilsversprechen noch Endzeitstimmung helfen wirklich weiter bei eine
 
 Ohne Zweifel [[Zum Karnickelstall/5 - soon/Kritik an GenAI\|entwickelt sich vieles in eine bedenkliche Richtung]] – und dennoch glaube ich:
 
-[[Zum Karnickelstall/6 - soon (unveröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]]
+[[Zum Karnickelstall/5 - soon/KI – es geht auch anders!\|KI – es geht auch anders!]]
 
 ## Wer schreibt hier eigentlich?
 
-Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Über mich\|über mich]].
+Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[Zum Karnickelstall/5 - soon/Über mich\|über mich]].
 
 Vielleicht ist die Frage aber auch anders gemeint:
 

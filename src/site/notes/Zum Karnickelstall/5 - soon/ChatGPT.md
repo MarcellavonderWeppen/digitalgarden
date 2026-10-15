@@ -56,7 +56,7 @@ Schauen wir es uns Schritt für Schritt an:
 - Eine spezielle KI-Technologie, welche den Durchbruch der KI-Forschung und den enormen Erfolg von ChatGPT mit sich brachte
 - Merkhilfe: [[Zum Karnickelstall/5 - soon/Transformer\|Transformer]]-Modelle nehmen die Texteingabe des Nutzers - und _transformieren_ sie in eine (hoffentlich) hilfreiche Antwort: Eingabe (Input) → Antwort (Output)
 
-👉 Hier liegt das [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Input-Output-Prinzip\|Input-Output-Prinzip]] zugrunde, dem nicht nur [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs]], sondern auch Computer allgemein folgen.
+👉 Hier liegt das [[Zum Karnickelstall/5 - soon/Input-Output-Prinzip\|Input-Output-Prinzip]] zugrunde, dem nicht nur [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs]], sondern auch Computer allgemein folgen.
 
 ## ChatGPT, Sykophanthie und KI-Psychosen
 
@@ -64,7 +64,7 @@ LLMs wurden darauf trainiert, dem Nutzer Antworten zu geben, welche er oder sie 
 
 In Tests haben User generell Antworten von LLMs als besser bewertet, wenn sie eine Antwort erhalten haben anstatt ein „ehrlich gesagt, ich weiß es nicht.“ - selbst wenn die Antwort falsch war. Das ist einer der Faktoren, die das Auftreten von falschen Antworten, sogenannten [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Halluzinationen\|Halluzinationen]] stark verstärkt haben.
 
-Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[Zum Karnickelstall/5 - soon/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionale Abhängigkeit bis hin zu [[Zum Karnickelstall/6 - soon (unveröffentlicht)/KI-Psychosen\|KI-Psychosen]].
+Die Neigung, nützlich erscheinen zu wollen und sich beim User einzuschmeicheln, nennt sich [[Zum Karnickelstall/5 - soon/Sykophantie\|Sykophantie]] - und ChatGPT hat diese Kunst gemeistert. Das hatte weitreichende Konsequenzen, angefangen bei der Anthropomorphisierung (Vermenschlichung) dieser Modelle, über emotionale Abhängigkeit bis hin zu [[Zum Karnickelstall/5 - soon/KI-Psychosen\|KI-Psychosen]].
 
 ## 📖 Weiterlesen
 

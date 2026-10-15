@@ -35,7 +35,7 @@ So wird dann aus einem 5-Minuten-Punkt aus der To-Do-Liste ein wochenlanges Proj
 
 ### Marktplatz: Marcellas kleiner Shop 🐰🐣
 
-“[[Zum Karnickelstall/6 - soon (unveröffentlicht)/KI – es geht auch anders!\|KI – es geht auch anders!]]“ hatte ich behauptet. Auf der Suche nach dem „anders“ begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Affiliate\|Affiliate]]-Partner unterstützen möchte.
+“[[Zum Karnickelstall/5 - soon/KI – es geht auch anders!\|KI – es geht auch anders!]]“ hatte ich behauptet. Auf der Suche nach dem „anders“ begegnen mir auch einige Produkte, die ich für sinnvoll halte und deshalb auch als [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Affiliate\|Affiliate]]-Partner unterstützen möchte.
 
 Hier könnte ihr einige meiner Empfehlungen entdecken:
 [[Marcellas kleiner Shop\|Marcellas kleiner Shop]] 🏠

@@ -22,7 +22,7 @@ Insbesondere (aber nicht ausschließlich) ChatGPT hat sich den Ruf erworben, ein
 
 Diese übertriebene Gefälligkeit fördert die _Vermenschlichung der KI_. Nutzer projizieren Emotionen, Freundschaft oder sogar Liebe auf den Bot.
 
-Das kann zu emotionaler Abhängigkeit bis hin zu [[Zum Karnickelstall/6 - soon (unveröffentlicht)/KI-Psychosen\|KI-Psychosen]] führen.
+Das kann zu emotionaler Abhängigkeit bis hin zu [[Zum Karnickelstall/5 - soon/KI-Psychosen\|KI-Psychosen]] führen.
 
 Besonders GPT-4 war dafür berüchtigt. OpenAI hat auf die Kritik reagiert und GPT-5 wesentlich nüchterner gestaltet. Die Folge: massiver Protest aus der Community. Viele hatten sich in den Bot verliebt oder in ihm ihren besten Freund gesehen und fühlten sich durch die Veränderung verraten:
 

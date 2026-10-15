@@ -13,7 +13,7 @@ Im Gegensatz zu [[Garten erkunden/Grundlagen/Klassische KI\|klassischen KI-Syste
 
 Technologisch beruht GenAI meist auf neuronalen Netzen, insbesondere [[Zum Karnickelstall/5 - soon/Transformer\|Transformermodellen]]. Die bekannteste Anwendung sind [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|große Sprachmodelle]], die hinter Chatbots wie [[Zum Karnickelstall/5 - soon/ChatGPT\|ChatGPT]] stehen.
 
-Bei Bild, Video und Ton kommt ein zusätzliches Verfahren dazu: [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Diffusionsmodelle\|Diffusion]].
+Bei Bild, Video und Ton kommt ein zusätzliches Verfahren dazu: [[Zum Karnickelstall/5 - soon/Diffusionsmodelle\|Diffusion]].
 
 ## Begriffliche Klärung
 
