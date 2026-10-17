@@ -1,0 +1,20 @@
+{% set hatGenAi = gen_ai_anteil and (gen_ai_anteil | length) %}
+{% set hatStatus = status and (status | length) %}
+
+{% if hatGenAi or hatStatus %}
+<div class="ki-meta">
+  {% if hatGenAi %}
+  <span class="ki-meta__badge ki-meta__badge--genai">
+    🤖 Gen-AI-Anteil:
+    {% if gen_ai_anteil is string %}{{ gen_ai_anteil }}{% else %}{{ gen_ai_anteil | join(", ") }}{% endif %}
+  </span>
+  {% endif %}
+
+  {% if hatStatus %}
+  <span class="ki-meta__badge ki-meta__badge--status">
+    Status:
+    {% if status is string %}{{ status }}{% else %}{{ status | join(", ") }}{% endif %}
+  </span>
+  {% endif %}
+</div>
+{% endif %}
