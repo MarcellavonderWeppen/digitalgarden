@@ -2,19 +2,26 @@
 {% set hatStatus = status and (status | length) %}
 
 {% if hatGenAi or hatStatus %}
-<div class="ki-meta">
+<div class="ki-meta" id="ki-meta">
   {% if hatGenAi %}
-  <span class="ki-meta__badge ki-meta__badge--genai">
-    🤖 Gen-AI-Anteil:
-    {% if gen_ai_anteil is string %}{{ gen_ai_anteil }}{% else %}{{ gen_ai_anteil | join(", ") }}{% endif %}
-  </span>
+  <div class="ki-meta__item"><i data-lucide="bot"></i> <span>Gen-AI-Anteil: {% if gen_ai_anteil is string %}{{ gen_ai_anteil }}{% else %}{{ gen_ai_anteil | join(", ") }}{% endif %}</span></div>
   {% endif %}
-
   {% if hatStatus %}
-  <span class="ki-meta__badge ki-meta__badge--status">
-    🏷️ Status:
-    {% if status is string %}{{ status }}{% else %}{{ status | join(", ") }}{% endif %}
-  </span>
+  <div class="ki-meta__item"><i data-lucide="tag"></i> <span>Status: {% if status is string %}{{ status }}{% else %}{{ status | join(", ") }}{% endif %}</span></div>
   {% endif %}
 </div>
+<script>
+  // Verschiebt die Einträge in die Datumszeile, damit alles in einer Linie steht.
+  // Gibt es keine Datumszeile, bleiben sie einfach als eigene Zeile stehen.
+  (function () {
+    var box = document.getElementById('ki-meta');
+    var header = box && box.closest('header');
+    var zeile = header && header.querySelector('.timestamps');
+    if (!zeile) return;
+    while (box.firstElementChild) {
+      zeile.appendChild(box.firstElementChild);
+    }
+    box.remove();
+  })();
+</script>
 {% endif %}
