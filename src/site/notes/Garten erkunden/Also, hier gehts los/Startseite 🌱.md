@@ -50,7 +50,7 @@ Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und v
 
 Folge dem weißen Kaninchen in die [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
 
-[![Kaninchenloch](/img/user/Garten%20erkunden/Bilder/Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/Zum%20Karnickelstall/Must-Have/kaninchen-einstiegszone/)
+[![Kaninchenloch](/img/user/Garten%20erkunden/Bilder/Kaninchenloch.png)][(https://marcellas-digital-garden.netlify.app/Zum%20Karnickelstall/Must-Have/kaninchen-einstiegszone/)](https://marcellas-digital-garden.netlify.app/zum-karnickelstall/must-have/kaninchen-einstiegszone/)
 
 ## Warum ausgerechnet KI?
 
