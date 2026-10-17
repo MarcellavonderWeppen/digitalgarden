@@ -41,10 +41,10 @@ Damit finde ich diese Firma unglaublich inspierend, denn sie gehen mit gutem Bei
 
 ## Infomaniak & Euria kennenlernen
 
-Das Konzept überzeugt mich so sehr, dass ich Infomaniak als [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Affiliate\|Affiliate]]-Partner empfehlen möchte!
+Das Konzept überzeugt mich so sehr, dass ich Infomaniak als [[Zum Karnickelstall/Must-Have/Affiliate\|Affiliate]]-Partner empfehlen möchte!
 
 > [!tip] Meine Empfehlung
-> Hier geht es zur Seite der Firma mit allen Angeboten: [www.infomaniak.com](https://www.infomaniak.com/de?utm_term=69edf089d566d) ([[Zum Karnickelstall/6 - soon (unveröffentlicht)/Affiliate\|Affiliate-Link]])
+> Hier geht es zur Seite der Firma mit allen Angeboten: [www.infomaniak.com](https://www.infomaniak.com/de?utm_term=69edf089d566d) ([[Zum Karnickelstall/Must-Have/Affiliate\|Affiliate-Link]])
 
 ## 📖 Weiterlesen
 

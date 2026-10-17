@@ -5,7 +5,7 @@
 
 # Was ist Machine Learning (ML)?
 
-Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines größeren Denkmodells: der [[Garten erkunden/Grundlagen/Statistische KI\|statistischen KI]]. Es setzt dieses [[Zum Karnickelstall/5 - soon/Paradigma (Denkmodell)\|Paradigma]] in konkrete [[Zum Karnickelstall/3 - Work on today/Algorithmus\|Algorithmus]] um - Verfahren, die aus Daten lernen, statt nach vorgegebenen Regeln zu arbeiten.
+Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines größeren Denkmodells: der [[Garten erkunden/Grundlagen/Statistische KI\|statistischen KI]]. Es setzt dieses [[Zum Karnickelstall/5 - soon/Paradigma (Denkmodell)\|Paradigma]] in konkrete [[Zum Karnickelstall/1 - Final Check/Algorithmus\|Algorithmus]] um - Verfahren, die aus Daten lernen, statt nach vorgegebenen Regeln zu arbeiten.
 
 ## Statistische KI ist ein Paradigma
 
@@ -15,7 +15,7 @@ Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines gr�
 ## Machine Learning (ML) ist eine praktische Methode
 
 - Es setzt statistische Verfahren ein, um aus Daten zu lernen.
-- ML ist also eine Umsetzung statistischer KI - in Form von [[Zum Karnickelstall/3 - Work on today/Algorithmus\|Algorithmus]], wie sie z.B. hinter Sprachmodellen wie ChatGPT arbeiten.
+- ML ist also eine Umsetzung statistischer KI - in Form von [[Zum Karnickelstall/1 - Final Check/Algorithmus\|Algorithmus]], wie sie z.B. hinter Sprachmodellen wie ChatGPT arbeiten.
 
 ### Neuronale Netze
 
@@ -40,6 +40,6 @@ Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines gr�
 
 ## 📺 Aus der YouTube-Academy
 
-Hier der Deep Dive von [[Zum Karnickelstall/2 - Work on now/Andrej Karpathy\|Andrej Karpathy]] zum Thema, für alle, die das Thema wirklich in der Tiefe verstehen wollen:
+Hier der Deep Dive von [[Zum Karnickelstall/Must-Have/Andrej Karpathy\|Andrej Karpathy]] zum Thema, für alle, die das Thema wirklich in der Tiefe verstehen wollen:
 
 [Neural Networks: Zero to Hero](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) 🐇

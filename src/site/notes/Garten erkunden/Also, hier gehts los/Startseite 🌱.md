@@ -18,7 +18,7 @@ Die digitale Gärtnerei ist verwandt mit dem Bloggen, funktioniert aber anders:
 
 > [!info] Die Lebensphasen eines Artikels
 > 🌱 **Setzling**: Frisch gepflanzt. Wenig sichtbar, viel Potenzial.
-> 🌿 **Pflanze**: Erste Schritte sind getan – die Pflanze entwickelt sich gut, kann aber noch wachsen.
+> 🌿 **Pflanze**: Erste Schritte sind getan – die Pflanze entwickelt sich gut, kann aber noch wachsen oder braucht noch umfassende Pflege
 > 🌳 **Baum**: Eine große Pflanze mit vielen Verzweigungen, gut vernetzt im Biotop des Wissens.
 
 Man kann den Garten durch Links erkunden – die Pfade, die alles verbinden. So entsteht nach und nach ein Netzwerk des Wissens.
@@ -30,7 +30,7 @@ Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 - ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob noch Wurzeln fehlen.
 - 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck. Ein Setzling darf ein Setzling sein.
 - 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Vernetztes Denken, weit verzweigt.
-- 🏡 **Ein eigenes Stück Land:** Kein [[Zum Karnickelstall/3 - Work on today/Algorithmus\|Algorithmus]] entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
+- 🏡 **Ein eigenes Stück Land:** Kein [[Zum Karnickelstall/1 - Final Check/Algorithmus\|Algorithmus]] entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
 - 🐝 **Gemeinsam gärtnern:** Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
 
 ## Schreibend lernen – Mitmachen willkommen
@@ -39,7 +39,7 @@ Meine Motivation ist vor allem die Freude am Lernen! Ich dokumentiere mein wachs
 
 Doch ich lerne auch von euch! Zwar habe ich alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare –  _eure_ Perspektive, konstruktive Kritik, aber auch Fragen und Anregungen. Was gibt es Schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben? 🐝
 
-👉 So geht’s: [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
+👉 So geht’s: [[Zum Karnickelstall/Must-Have/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
 
 Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und vielleicht nach und nach, während dieses Projekt wächst, das ein oder andere Kaninchenloch entdecken 🐇
 
@@ -60,19 +60,19 @@ Beides kann ich verstehen, denn ich habe mich schon an beiden Enden des Spektrum
 
 Doch weder Heilsversprechen noch Endzeitstimmung helfen wirklich weiter bei einem Thema, welches für die Zukunft der Menschheit so entscheidend sein könnte.
 
-Ohne Zweifel [[Zum Karnickelstall/5 - soon/Kritik an GenAI\|entwickelt sich vieles in eine bedenkliche Richtung]] – und dennoch glaube ich:
+Ohne Zweifel [[Zum Karnickelstall/Must-Have/Kritik an GenAI\|entwickelt sich vieles in eine bedenkliche Richtung]] – und dennoch glaube ich:
 
-[[Zum Karnickelstall/5 - soon/KI – es geht auch anders!\|KI – es geht auch anders!]]
+[[Zum Karnickelstall/Must-Have/KI – es geht auch anders!\|KI – es geht auch anders!]]
 
 ## Wer schreibt hier eigentlich?
 
-Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[Zum Karnickelstall/5 - soon/Über mich\|über mich]].
+Gute Frage! Na gut, dann schreibe ich mal ein paar Zeilen [[Zum Karnickelstall/Must-Have/Über mich\|über mich]].
 
 Vielleicht ist die Frage aber auch anders gemeint:
 
 _Eine Art Blog über KI – wie viel ist da überhaupt selbst geschrieben? Ist es ein Mensch oder die KI, die hier schreibt, und kann man in dem Zusammenhang überhaupt von Schreiben reden?_
 
-Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI darin – mehr darüber [[Zum Karnickelstall/3 - Work on today/Schreiben mit KI\|hier]].
+Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI darin – mehr darüber [[Zum Karnickelstall/Must-Have/Schreiben mit KI\|hier]].
 
 **Und nun viel Spaß beim Stöbern!**
 
@@ -80,7 +80,7 @@ Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI dari
 
 ---
 
-[[Impressum + Datenschutz\|Impressum + Datenschutz]]
+[[Zum Karnickelstall/Must-Have/Impressum + Datenschutz\|Impressum + Datenschutz]]
 
 
 

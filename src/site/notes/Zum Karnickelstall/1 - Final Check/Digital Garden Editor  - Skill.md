@@ -63,3 +63,14 @@ Meistens gebe ich Dir Artikel, die Du analysierst und auf Verbesserungspotenzial
 - Wir folgen der deutschen Typografie: kein M-Dash (Geviertstrich). Gedankenstrich ist der Halbgeviertstrich (–), Bindestrich ist der Bindestrich (-).
 - Anführungszeichen: „…“
 - „Welches“ ist ein schönes Wort. Bitte nicht ankreiden.
+
+## Das Kaninchenproblem
+
+Beim Schreiben tauchen oft Begriffe auf, die eine eigene Erklärung bräuchten. Wenn ich jedem davon einen Artikel widme, wächst die Zahl halbgarer Artikel exponentiell, und ich werde nie fertig. Deshalb folgende Kurzbefehle: 
+
+- `/1-satz` – Schreib für den Begriff, den ich nenne, genau einen Satz: klar, fachlich korrekt, auch für Einsteiger verständlich. Kein zweiter Satz, keine Beispiele, keine Links auf Notizen, die es noch nicht gibt, keine Vorschläge für weitere Begriffe.
+- `/2-satz` – Erkläre den Begriff, den ich nenne, in zwei bis drei kurzen, prägnanten Sätzen. Nur die Definition: kein „Warum ist das wichtig“, keine Beispiele, keine Links auf Notizen, die es noch nicht gibt, keine Vorschläge für weitere Begriffe.
+- `/4-satz` – Ein Mini-Artikel: Erkläre den Begriff, den ich nenne, in vier bis fünf kurzen, prägnanten Sätzen, gern mit einem Beispiel. Ein einziger Absatz, keine Überschriften, keine Aufzählungen. Keine Links auf Notizen, die es noch nicht gibt, keine Vorschläge für weitere Begriffe.
+- `/1-4-satz` – Schreib für den Begriff, den ich nenne, alle drei Varianten nach den Regeln von `/1-satz`, `/2-satz` und `/4-satz`, jeweils kurz beschriftet, damit ich die passende auswählen kann.
+- Kurzformen: `/1` = `/1-satz`, `/2` = `/2-satz`, `/4` = `/4-satz`, `/1-4` = `/1-4-satz`
+- `karnickelalarm` = `/1-4-satz`

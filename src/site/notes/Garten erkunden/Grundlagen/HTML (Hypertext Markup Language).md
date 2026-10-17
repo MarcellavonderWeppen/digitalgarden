@@ -85,5 +85,5 @@ Damit würden wir Sehende wahrscheinlich verwirren. Menschen, die einen Screenre
 ## 📖 Weiterlesen
 
 - Ein Artikel über HTML, der [[Garten erkunden/Grundlagen/Sir Tim Berners-Lee\|Tim Berners-Lee]] nicht erwähnt, ist eigentlich nicht vollständig: Er hat HTML und das World Wide Web erfunden. Wie es dazu kam, steht in der [[Garten erkunden/Grundlagen/Eine kurze Geschichte des Internets\|kurzen Geschichte des Internets]]
-- Ein Hypertext-System muss nicht digital sein. Der [[Zum Karnickelstall/2 - Work on now/Zettelkasten und Hypertext\|Zettelkasten]] ist ein analoges Beispiel
+- Ein Hypertext-System muss nicht digital sein. Der [[Zum Karnickelstall/5 - soon/Zettelkasten und Hypertext\|Zettelkasten]] ist ein analoges Beispiel
 - HTML ist erst der Anfang! Mehr über [[Garten erkunden/Grundlagen/CSS (Cascading Style Sheets)\|CSS]], die „Design-Sprache“ des Webs 

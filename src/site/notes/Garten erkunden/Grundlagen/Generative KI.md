@@ -13,7 +13,7 @@ Im Gegensatz zu [[Garten erkunden/Grundlagen/Klassische KI\|klassischen KI-Syste
 
 Technologisch beruht GenAI meist auf neuronalen Netzen, insbesondere [[Zum Karnickelstall/5 - soon/Transformer\|Transformermodellen]]. Die bekannteste Anwendung sind [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|große Sprachmodelle]], die hinter Chatbots wie [[Zum Karnickelstall/5 - soon/ChatGPT\|ChatGPT]] stehen.
 
-Bei Bild, Video und Ton kommt ein zusätzliches Verfahren dazu: [[Zum Karnickelstall/5 - soon/Diffusionsmodelle\|Diffusion]].
+Bei Bild, Video und Ton kommt ein zusätzliches Verfahren dazu: [[Zum Karnickelstall/Must-Have/Diffusionsmodelle\|Diffusion]].
 
 ## Begriffliche Klärung
 
@@ -38,7 +38,7 @@ Diese Systeme haben das Potenzial, Arbeitsprozesse zu beschleunigen, kreative Ar
 
 Allerdings hat GenAI einen hohen Preis, der oft übersehen wird: Weltweit werden Rechenzentren aus dem Boden gestampft, die enorme Mengen an Strom, Wasser und Land verschlingen, oft [[Zum Karnickelstall/6 - soon (unveröffentlicht)/über die Köpfe der Menschen vor Ort hinweg\|über die Köpfe der Menschen vor Ort hinweg]]. Dazu kommen ungelöste Fragen wie Urheberrecht, Datenschutz und Deepfakes.
 
-📖 Weiterlesen: [[Zum Karnickelstall/5 - soon/Kritik an GenAI\|Kritik an GenAI]]
+📖 Weiterlesen: [[Zum Karnickelstall/Must-Have/Kritik an GenAI\|Kritik an GenAI]]
 
 ## Es geht auch anders
 
