@@ -37,11 +37,14 @@ Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 
 Meine Motivation ist vor allem die Freude am Lernen! Ich dokumentiere mein wachsendes Wissen sowieso für mich, warum dann nicht andere daran teilhaben lassen?
 
-Doch ich lerne auch von euch! Zwar habe ich alle Inhalte hier sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles vollständig oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare –  _eure_ Perspektive, konstruktive Kritik, aber auch Fragen und Anregungen. Was gibt es Schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben? 🐝
+Doch ich lerne auch von euch! Zwar habe ich alle Inhalte im Bereich „**Garten erkunden**“ sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles **vollständig** oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare –  _eure_ Perspektive, konstruktive Kritik, aber auch Fragen und Anregungen. Was gibt es Schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben? 🐝
 
 👉 So geht’s: [[Zum Karnickelstall/Must-Have/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
 
 Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und vielleicht nach und nach, während dieses Projekt wächst, das ein oder andere Kaninchenloch entdecken 🐇
+
+> [!warning] Achtung, Karnickelalarm 🐇
+> Meine Artikel vermehren sich hier wie die Karnickel, und ich komme nicht hinterher, sie alle gut zu pflegen. Deshalb gibt es den **Karnickelstall**: Die Artikel dort brauchen noch Pflege und einen Faktencheck.
 
 ## Hier geht’s zu den Kaninchenlöchern 👇
 
