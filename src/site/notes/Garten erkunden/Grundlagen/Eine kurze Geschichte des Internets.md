@@ -1,5 +1,5 @@
 ---
-{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-21","updated":"2026-10-06","status":null,"dg-publish":true,"permalink":"/garten-erkunden/grundlagen/eine-kurze-geschichte-des-internets/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-21","updated":"2026-10-06","status":null}}
+{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-21","updated":"2026-10-06","status":"🌳","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/eine-kurze-geschichte-des-internets/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Eine kurze Geschichte des Internets","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-21","updated":"2026-10-06","status":"🌳"}}
 ---
 
 
