@@ -10,4 +10,26 @@ body {
     //  h1 {
     //   color: black;
     //  }
+    /* ===== Metadatenzeile: ganze Angaben umbrechen, nicht in sich quetschen ===== */
+header .timestamps {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  column-gap: 1.1em;
+  row-gap: 0.3em;
+}
+
+header .timestamps > * {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  white-space: nowrap;
+}
+
+/* Auf sehr schmalen Bildschirmen darf eine einzelne lange Angabe doch umbrechen */
+@media (max-width: 480px) {
+  header .timestamps > * {
+    white-space: normal;
+  }
+}
 }
