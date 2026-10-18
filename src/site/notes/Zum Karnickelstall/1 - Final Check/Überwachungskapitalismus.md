@@ -5,8 +5,6 @@
 
 # Überwachungskapitalismus
 
-*Hier wurde ein Setzling für einen Artikel angelegt 🌱 – vielleicht wächst er später weiter.*
-
 Überwachungskapitalismus bezeichnet ein Geschäftsmodell, bei dem Konzerne das Verhalten ihrer Nutzer auswerten, um daraus zukünftiges Verhalten abzuleiten: Was wird jemand als Nächstes anklicken, kaufen, denken? Die Vorhersagen werden an den Höchstbietenden verkauft, vor allem an Werbetreibende. Das Ziel ist Verhaltenssteuerung zwecks Gewinnmaximierung; die Nutzer werden dabei zur bloßen Quelle des profitablen Rohstoffs Daten. Geprägt und bekannt gemacht hat den Begriff die US-Sozialpsychologin und emeritierte Harvard-Professorin Shoshana Zuboff. Ihr Buch „Das Zeitalter des Überwachungskapitalismus“ (2018) gilt als Standardwerk zum Thema.
 
 ![Buch Überwachungskapitalismus.png](/img/user/Garten%20erkunden/Bilder/Buch%20%C3%9Cberwachungskapitalismus.png)
