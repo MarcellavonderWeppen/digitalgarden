@@ -1,5 +1,5 @@
 ---
-{"title":"Aktives Lernen","aliases":["aktives Lernen"],"tags":null,"gen_ai_anteil":["Claude 60%","Mistral 20%","div. LLMs 40%"],"created":"2026-10-08","updated":"2026-10-12","status":"🌿 – braucht noch Pflege","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/aktives-lernen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Aktives Lernen","aliases":["aktives Lernen"],"tags":null,"gen_ai_anteil":["Claude 60%","Mistral 20%","div. LLMs 40%"],"created":"2026-10-08","updated":"2026-10-12","status":"🌿 – braucht noch Pflege"}}
+{"title":"Aktives Lernen","aliases":["aktives Lernen"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-08","updated":"2026-10-12","status":"🌿 – braucht noch Pflege","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/aktives-lernen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Aktives Lernen","aliases":["aktives Lernen"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-08","updated":"2026-10-12","status":"🌿 – braucht noch Pflege"}}
 ---
 
 # Aktives Lernen
