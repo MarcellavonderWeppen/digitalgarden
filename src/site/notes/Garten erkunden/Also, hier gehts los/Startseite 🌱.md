@@ -17,9 +17,9 @@ Die digitale Gärtnerei ist verwandt mit dem Bloggen, funktioniert aber anders:
 - **Ganz anders ein digitaler Garten:** Mal wird hier ein Setzling gepflanzt, mal dort eine Idee angelegt. Setzlinge können zu zarten Pflänzchen werden und vielleicht irgendwann zu ausgewachsenen Artikeln. Inhalte wachsen organisch und sind selten vollendet.
 
 > [!info] Die Lebensphasen eines Artikels
-> 🌱 **Setzling**: Frisch gepflanzt. Wenig sichtbar, viel Potenzial.
-> 🌿 **Pflanze**: Erste Schritte sind getan – die Pflanze entwickelt sich gut, kann aber noch wachsen oder braucht noch umfassende Pflege
-> 🌳 **Baum**: Eine große Pflanze mit vielen Verzweigungen, gut vernetzt im Biotop des Wissens.
+🌱 **Setzling**: Frisch gepflanzt. Wenig sichtbar, viel Potenzial – darf so bleiben oder irgendwann weiterwachsen.  
+🌿 **Pflanze**: Schon ein Stück gewachsen, braucht aber noch Pflege: Faktencheck, Struktur, Feinschliff.  
+🌳 **Baum**: Ausgewachsen und fest verwurzelt – ob groß oder klein. Gepflegt, geprüft und gut vernetzt im Biotop des Wissens.
 
 Man kann den Garten durch Links erkunden – die Pfade, die alles verbinden. So entsteht nach und nach ein Netzwerk des Wissens.
 

@@ -2,7 +2,6 @@
 {"title":"Fediverse","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-28","updated":null,"status":"🌱","dg-publish":true,"permalink":"/garten-erkunden/alternativen/fediverse/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Fediverse","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-28","updated":null,"status":"🌱"}}
 ---
 
-*Hier wurde ein Setzling für einen Artikel angelegt 🌱 – vielleicht wächst er später weiter.*
 # Fediverse
 
 Das Fediversum ist toll! Ich habe vor, demnächst dorthin auszuwandern – Tschüss, Facebook & Co!
