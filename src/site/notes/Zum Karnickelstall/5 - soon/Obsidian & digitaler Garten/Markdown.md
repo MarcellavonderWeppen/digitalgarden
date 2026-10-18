@@ -34,7 +34,7 @@ Markdown ist ziemlich cool! Auch wenn Du davon vielleicht noch nie gehört hast,
 
 Es ist eine nützliche kleine Fähigkeit, die Du in einer Stunde oder weniger lernen kannst.
 
-Meine ganze Wissensbasis hier auf [[Zum Karnickelstall/5 - soon/Obsidian & digitaler Garten/Was ist Obsidian?\|Obsidian]] beruht auf Markdown.
+Meine ganze Wissensbasis hier auf [[Was ist Obsidian?|Obsidian]] beruht auf Markdown.
 
 > [!info]  Markup Language
 > Wir haben es hier mit einer „leichten Auszeichnungssprache“ zu tun - auch bekannt unter der englischen Bezeichnung: „leight-weight markup language“.
