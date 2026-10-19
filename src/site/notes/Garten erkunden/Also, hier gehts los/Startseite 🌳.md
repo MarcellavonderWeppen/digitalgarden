@@ -30,7 +30,7 @@ Es gibt gute Gründe dafür und jeder Gärtner mag seine eigenen haben:
 - ✍️ **Denken beim Schreiben:** Wer einen Gedanken aufschreibt, merkt schnell, ob noch Wurzeln fehlen.
 - 🌱 **Unfertig sein dürfen:** Kein Perfektionsdruck. Ein Setzling darf ein Setzling sein.
 - 🍄 **Verbindungen statt Timeline:** Ideen verzweigen sich und wachsen zusammen wie ein Pilzgeflecht. Vernetztes Denken, weit verzweigt.
-- 🏡 **Ein eigenes Stück Land:** Kein [[Zum Karnickelstall/1 - Final Check/Algorithmus\|Algorithmus]] entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
+- 🏡 **Ein eigenes Stück Land:** Kein [[Zum Karnickelstall/2 - Work on now/Algorithmus\|Algorithmus]] entscheidet, was sichtbar bleibt, kein Feed spült etwas weg.
 - 🐝 **Gemeinsam gärtnern:** Fragen, Hinweise und Widerspruch sind wie Bienen: Sie bestäuben neue Gedanken.
 
 ## Schreibend lernen – Mitmachen willkommen
