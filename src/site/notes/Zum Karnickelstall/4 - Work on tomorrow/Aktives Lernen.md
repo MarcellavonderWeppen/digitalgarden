@@ -1,5 +1,5 @@
 ---
-{"title":"Aktives Lernen","aliases":["aktives Lernen"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-08","updated":"2026-10-19","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/4-work-on-tomorrow/aktives-lernen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Aktives Lernen","aliases":["aktives Lernen"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-08","updated":"2026-10-19","status":"🌳 – eine gut gepflegte Pflanze"}}
+{"title":"Aktives Lernen","aliases":["aktives Lernen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-08","updated":"2026-10-19","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/4-work-on-tomorrow/aktives-lernen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Aktives Lernen","aliases":["aktives Lernen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-08","updated":"2026-10-19","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 # Aktives Lernen

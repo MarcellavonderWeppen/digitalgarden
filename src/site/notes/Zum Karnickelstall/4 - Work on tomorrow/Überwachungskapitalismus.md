@@ -1,5 +1,5 @@
 ---
-{"title":"Überwachungskapitalismus","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-06","updated":"2026-10-18","status":"🌱 – wächst vielleicht später noch weiter","dg-publish":true,"permalink":"/zum-karnickelstall/4-work-on-tomorrow/ueberwachungskapitalismus/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Überwachungskapitalismus","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-06","updated":"2026-10-18","status":"🌱 – wächst vielleicht später noch weiter"}}
+{"title":"Überwachungskapitalismus","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-06","updated":"2026-10-18","status":"🌱 – wächst vielleicht später noch weiter","dg-publish":true,"permalink":"/zum-karnickelstall/4-work-on-tomorrow/ueberwachungskapitalismus/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Überwachungskapitalismus","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-06","updated":"2026-10-18","status":"🌱 – wächst vielleicht später noch weiter"}}
 ---
 
 # Überwachungskapitalismus
