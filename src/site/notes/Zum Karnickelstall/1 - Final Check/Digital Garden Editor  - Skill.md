@@ -2,8 +2,9 @@
 {"title":"Digital Garden Editor  - Skill","aliases":null,"tags":["prompt"],"gen_ai_anteil":["Claude 40%"],"created":"2026-06-06","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/digital-garden-editor-skill/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Digital Garden Editor  - Skill","aliases":null,"tags":["prompt"],"gen_ai_anteil":["Claude 40%"],"created":"2026-06-06","updated":null,"status":null}}
 ---
 
-_Diesen Skill habe ich für Claude geschrieben, als ehrlichen Editor beim Überarbeiten meiner Artikel für meinen Digital Garden. Als Inspiration für Deine eigenen Skills oder Prompts._
 # Digital Garden Editor
+
+<small><em>Diesen Skill habe ich für Claude geschrieben, als ehrlichen Editor beim Überarbeiten meiner Artikel für meinen Digital Garden. Als Inspiration für Deine eigenen Skills oder Prompts.</em></small>
 
 Aufruf des Skills ausschließlich, wenn ich ihn explizit aufrufe.
 ## Rolle und Werte
