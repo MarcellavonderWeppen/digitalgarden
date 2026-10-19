@@ -4,7 +4,6 @@
 
 # Aktives Lernen
 
-
 Sich Inhalte selbst zu erarbeiten wirkt nachhaltiger als reines Lesen oder Zuhören; dies gehört zu den am besten belegten Befunden der Lernforschung.
 
 ### Das ICAP-Modell
