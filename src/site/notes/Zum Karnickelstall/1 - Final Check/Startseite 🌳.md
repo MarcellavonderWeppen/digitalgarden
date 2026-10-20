@@ -48,9 +48,9 @@ Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und v
 
 ## Hier geht’s zu den Kaninchenlöchern 👇
 
-Folge dem weißen Kaninchen in die [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
+Folge dem weißen Kaninchen in die [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone 🐇\|Kaninchen-Einstiegszone 🐇]] 🕳️🐇
 
-[![Kaninchenloch](Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/zum-karnickelstall/final-check/kaninchen-einstiegszone/)
+[![Kaninchenloch](Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/zum-karnickelstall/must-have/kaninchen-einstiegszone/)
 
 
 
@@ -81,7 +81,7 @@ Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI dari
 
 **Und nun viel Spaß beim Stöbern!**
 
-## 👉 Zur [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone\|Karnickel-Einstiegszone]] 🕳️🐇
+## 👉 Zur [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone 🐇\|Karnickel-Einstiegszone]] 🕳️🐇
 
 ---
 
