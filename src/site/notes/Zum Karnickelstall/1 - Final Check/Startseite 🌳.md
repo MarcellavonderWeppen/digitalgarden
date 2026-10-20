@@ -44,16 +44,14 @@ Doch ich lerne auch von euch! Zwar habe ich alle Inhalte im Bereich „**Garten 
 Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und vielleicht nach und nach, während dieses Projekt wächst, das ein oder andere Kaninchenloch entdecken 🐇
 
 > [!warning] Achtung, Karnickelalarm 🐇
-> Meine Artikel vermehren sich hier wie die Karnickel, und ich komme nicht hinterher, sie alle gut zu pflegen. Deshalb gibt es den **Karnickelstall**: Die Artikel dort brauchen noch Pflege und einen Faktencheck.
+> 
+> Meine Artikel vermehren sich hier wie die Karnickel, und ich komme nicht hinterher, sie alle gut zu pflegen. Deshalb gibt es den **Karnickelstall**: Die Artikel dort brauchen noch Pflege und einen Faktencheck. Nicht zu verwechseln mit den **Kaninchenlöchern** in der Karnickel-Einstiegszone: das sind verschiedene Themenbereiche, für alle die erkunden wollen, wie tief der Kaninchenbau wirklich geht. 
 
 ## Hier geht’s zu den Kaninchenlöchern 👇
 
 Folge dem weißen Kaninchen in die [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone 🐇\|Kaninchen-Einstiegszone 🐇]] 🕳️🐇
 
 [![Kaninchenloch](Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/zum-karnickelstall/must-have/kaninchen-einstiegszone/)
-
-
-
 ## Warum ausgerechnet KI?
 
 Kaum ein Thema prägt unseren Zeitgeist so sehr wie die sogenannte künstliche Intelligenz. Und kaum eines polarisiert so stark:
