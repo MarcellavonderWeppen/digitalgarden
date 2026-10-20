@@ -1,5 +1,5 @@
 ---
-{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-06-17","updated":"2026-10-05","status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/vibecoding/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-06-17","updated":"2026-10-05","status":null}}
+{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-06-17","updated":"2026-10-20","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/4-work-on-tomorrow/vibecoding/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-06-17","updated":"2026-10-20","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 
