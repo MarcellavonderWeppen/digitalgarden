@@ -8,7 +8,7 @@ Sich Inhalte selbst zu erarbeiten wirkt nachhaltiger als reines Lesen oder Zuhö
 
 ### Das ICAP-Modell
 
-Chi & Wylie unterscheiden vier Stufen geistiger Beteiligung. Je höher die Stufe, desto größer die Lernwirkung:
+Chi & Wylie[^chi-wylie] unterscheiden vier Stufen geistiger Beteiligung. Je höher die Stufe, desto größer die Lernwirkung:
 
 - **Passiv:** aufnehmen, z. B. lesen oder zuhören
 - **Aktiv:** etwas tun, ohne Neues zu erzeugen, z. B. unterstreichen oder abschreiben
