@@ -6,7 +6,7 @@
 
 Sich Inhalte selbst zu erarbeiten wirkt nachhaltiger als reines Lesen oder Zuhören; dies gehört zu den am besten belegten Befunden der Lernforschung.
 
-### Das ICAP-Modell
+## Das ICAP-Modell
 
 Chi & Wylie[^chi-wylie] unterscheiden vier Stufen geistiger Beteiligung. Je höher die Stufe, desto größer die Lernwirkung:
 
@@ -15,11 +15,11 @@ Chi & Wylie[^chi-wylie] unterscheiden vier Stufen geistiger Beteiligung. Je höh
 - **Konstruktiv:** Eigenes erzeugen, z. B. in eigenen Worten formulieren, Beispiele finden, Verknüpfungen herstellen
 - **Interaktiv:** Stufe 3 in Zusammenarbeit mit anderen, wobei alle auf den Beiträgen der anderen aufbauen, z. B. gemeinsam diskutieren und Ideen weiterentwickeln
 
-Ausgerechnet „aktiv“ ist in diesem Modell also nur Stufe 2. Was wir meist mit aktivem Lernen meinen, beginnt erst bei Stufe 3 – in diesem Sinne verwende ich den Begriff auch in diesem Artikel.
+Ausgerechnet „aktiv“ ist in diesem Modell also nur Stufe 2. Im Alltag und in vielen Studien meint „aktives Lernen“ jedoch die Stufen 2 bis 4; die großen Lerneffekte zeigen sich vor allem ab Stufe 3.
 
 ![ICAP-Lernmodell.png](/img/user/Garten%20erkunden/Bilder/ICAP-Lernmodell.png)
 
-### Weitere Befunde im Überblick
+## Weitere Befunde im Überblick
 
 - **Aktives Lernen insgesamt:** Aktive Formate wie Gruppenarbeit oder Abstimmungsfragen während der Vorlesung verbesserten die Prüfungsergebnisse in MINT-Fächern; bei reinen Vorlesungen war die Durchfallquote rund 1,5-mal so hoch.[^freeman]
 - **Sich den Stoff selbst erklären:** Erfolgreich Lernende führen beim Durcharbeiten von Beispielen eine Art inneren Dialog und entdecken dabei ihre Verständnislücken.[^chi-selbsterklaerung]
@@ -37,7 +37,7 @@ Ausgerechnet „aktiv“ ist in diesem Modell also nur Stufe 2. Was wir meist mi
 > - **Eigenes erzeugen:** in eigenen Worten formulieren und verknüpfen → Beispiel: [[Garten erkunden/Digitale Gärten, PKM & Lernen/Atomare Notizen\|Atomare Notizen]]
 
 
-### Die Gefühlsfalle
+## Die Gefühlsfalle
 
 Passives Lernen fühlt sich leicht an, aktives Lernen mühsam. In einer Studie lernten Studierende in aktiven Formaten mehr, glaubten aber, in der Vorlesung mehr gelernt zu haben. **Die Leichtigkeit wird mit Verständnis verwechselt.**[^deslauriers]
 
@@ -51,7 +51,7 @@ Passives Lernen fühlt sich leicht an, aktives Lernen mühsam. In einer Studie l
 
 ### Und eine Methode, die in Zeiten von KI leider oft unterhalb von Stufe 3 bleibt:
 
-- „ChatGPT macht dumm“ war die Schlagzeile der Stunde in Reaktion auf die [[Zum Karnickelstall/2 - Work on now/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]. Nach allem, was wir über aktives Lernen wissen, wundert uns das auch kaum. Doch eigentlich ist gerade KI wie gemacht für aktives Lernen, zum Beispiel durch das Simulieren einer Prüfung. Für mich ist das alltägliche Praxis und ich teile gerne meinen persönlichen Lernprompt: [[Zum Karnickelstall/1 - Final Check/Lernbegleiter – Skill\|Lernbegleiter – Skill]]. Viel Spaß beim Ausprobieren!
+- „ChatGPT macht dumm“ war die Schlagzeile der Stunde in Reaktion auf die [[Zum Karnickelstall/2 - Work on now/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]. Nach allem, was wir über aktives Lernen wissen, überraschen die Ergebnisse der Studie kaum. Doch eigentlich ist gerade KI wie gemacht für aktives Lernen, zum Beispiel durch das Simulieren einer Prüfung. Für mich ist das alltägliche Praxis und ich teile gerne meinen persönlichen Lernprompt: [[Zum Karnickelstall/1 - Final Check/Lernbegleiter – Skill\|Lernbegleiter – Skill]]. Viel Spaß beim Ausprobieren!
 
 [^chi-wylie]: Chi, M. T. H. & Wylie, R. (2014). The ICAP Framework: Linking Cognitive Engagement to Active Learning Outcomes. _Educational Psychologist_, 49(4), 219–243.
 [^freeman]: Freeman, S. et al. (2014). Active learning increases student performance in science, engineering, and mathematics. _PNAS_, 111(23), 8410–8415. Metaanalyse über 225 Studien. Wichtig für die Einordnung: Verglichen wurden Lehrformate, nicht das tatsächliche Lernverhalten. Wer in der Vorlesung saß, kann zu Hause trotzdem aktiv gelernt haben; das wurde nicht erfasst. Der Unterschied zwischen konsequent aktivem und konsequent passivem Lernen dürfte daher größer sein, als diese Zahlen zeigen. Kontrollierte Laborstudien gibt es zwar, sie umfassen aber meist nur einzelne, kurze Lerneinheiten.
