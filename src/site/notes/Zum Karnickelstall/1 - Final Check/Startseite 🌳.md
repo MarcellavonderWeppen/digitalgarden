@@ -50,7 +50,7 @@ Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und v
 
 Folge dem weißen Kaninchen in die [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone\|Kaninchen-Einstiegszone]] 🕳️🐇
 
-[![Kaninchenloch](Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/zum-karnickelstall/must-have/kaninchen-einstiegszone/)
+[![Kaninchenloch](Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/zum-karnickelstall/final-check/kaninchen-einstiegszone/)
 
 
 
