@@ -45,7 +45,7 @@ Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und v
 
 > [!warning] Achtung, Karnickelalarm 🐇
 > 
-> Meine Artikel vermehren sich hier wie die Karnickel, und ich komme nicht hinterher, sie alle gut zu pflegen. Deshalb gibt es den **Karnickelstall**: Die Artikel dort brauchen noch Pflege und einen Faktencheck. Nicht zu verwechseln mit den **Kaninchenlöchern** in der Karnickel-Einstiegszone: das sind verschiedene Themenbereiche, für alle die erkunden wollen, wie tief der Kaninchenbau wirklich geht. 
+> Meine Artikel vermehren sich hier wie die Karnickel, und ich komme nicht hinterher, sie alle gut zu pflegen. Deshalb gibt es den **Karnickelstall**: Die Artikel dort brauchen noch Pflege und einen Faktencheck. Nicht zu verwechseln mit den **Kaninchenlöchern** in der **Karnickel-Einstiegszone**: das sind verschiedenenThemenbereiche, für alle die erkunden wollen, wie tief der Kaninchenbau wirklich geht. 
 
 ## Hier geht’s zu den Kaninchenlöchern 👇
 
