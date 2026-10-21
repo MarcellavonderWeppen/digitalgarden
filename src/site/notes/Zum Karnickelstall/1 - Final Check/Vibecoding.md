@@ -1,5 +1,5 @@
 ---
-{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-06-17","updated":"2026-10-20","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/vibecoding/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-06-17","updated":"2026-10-20","status":"🌳 – eine gut gepflegte Pflanze"}}
+{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-17","updated":"2026-10-20","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/vibecoding/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Vibecoding","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-17","updated":"2026-10-20","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 
@@ -56,7 +56,7 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 ## 📺 Aus der YouTube Academy
 
 - [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M) erklärt das Konzept von „Cognitive Debt“ im Detail. Sehr empfehlenswert.
-- Man könnte meinen, ich wäre gegen Vibecoding. Bin ich nicht. Aber – man sollte halt wissen, was man tut. Dieser kompakte Powerkurs liefert die Grundlagen und macht richtig Lust aufs Ausprobieren 😋: [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E). Doch bevor ich hier jemanden zum Viben verleite, eine kurze Warnung vorweg: Vibecoding kann süchtig machen! [I Got Addicted to Vibe Coding (I almost lost everything)](https://www.youtube.com/watch?v=xPjZzMVyrAQ). Ich vermute, es handelt sich bei dieser Abhängigkeit um eine besonders produktive Form der [[Zum Karnickelstall/5 - soon/KI-Psychosen\|KI-Psychose]], auch KI-Workaholismus genannt 😅
+- Man könnte meinen, ich wäre gegen Vibecoding. Bin ich nicht. Aber – man sollte halt wissen, was man tut. Dieser kompakte Powerkurs liefert die Grundlagen und macht richtig Lust aufs Ausprobieren 😋: [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E). Doch bevor ich hier jemanden zum Viben verleite, eine kurze Warnung vorweg: Vibecoding kann süchtig machen! 👉 [I Got Addicted to Vibe Coding (I almost lost everything)](https://www.youtube.com/watch?v=xPjZzMVyrAQ). Ich vermute, es handelt sich bei dieser Abhängigkeit um eine besonders produktive Form der [[Zum Karnickelstall/5 - soon/KI-Psychosen\|KI-Psychose]], auch KI-Workaholismus genannt 😅
 
 [^quelle]: Andrej Karpathy auf X, 2. Februar 2025: [x.com/karpathy/status/1886192184808149383](https://x.com/karpathy/status/1886192184808149383)
 
