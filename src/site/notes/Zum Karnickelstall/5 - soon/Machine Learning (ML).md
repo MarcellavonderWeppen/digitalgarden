@@ -5,7 +5,7 @@
 
 # Was ist Machine Learning (ML)?
 
-Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines größeren Denkmodells: der [[Garten erkunden/Grundlagen/Statistische KI\|statistischen KI]]. Es setzt dieses [[Zum Karnickelstall/5 - soon/Paradigma (Denkmodell)\|Paradigma]] in konkrete [[Zum Karnickelstall/Must-Have/Algorithmus\|Algorithmus]] um - Verfahren, die aus Daten lernen, statt nach vorgegebenen Regeln zu arbeiten.
+Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines größeren Denkmodells: der [[Garten erkunden/Grundlagen/Statistische KI\|statistischen KI]]. Es setzt dieses [[Zum Karnickelstall/5 - soon/Paradigma (Denkmodell)\|Paradigma]] in konkrete [[Zum Karnickelstall/2 - Work on now/Algorithmus\|Algorithmus]] um - Verfahren, die aus Daten lernen, statt nach vorgegebenen Regeln zu arbeiten.
 
 ## Statistische KI ist ein Paradigma
 
@@ -15,7 +15,7 @@ Machine Learning (ML) ist keine eigenständige Disziplin, sondern Teil eines gr�
 ## Machine Learning (ML) ist eine praktische Methode
 
 - Es setzt statistische Verfahren ein, um aus Daten zu lernen.
-- ML ist also eine Umsetzung statistischer KI - in Form von [[Zum Karnickelstall/Must-Have/Algorithmus\|Algorithmus]], wie sie z.B. hinter Sprachmodellen wie ChatGPT arbeiten.
+- ML ist also eine Umsetzung statistischer KI - in Form von [[Zum Karnickelstall/2 - Work on now/Algorithmus\|Algorithmus]], wie sie z.B. hinter Sprachmodellen wie ChatGPT arbeiten.
 
 ### Neuronale Netze
 
