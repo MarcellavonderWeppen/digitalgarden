@@ -1,5 +1,5 @@
 ---
-{"title":"Digital Garden Texter - Skill","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-14","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/digital-garden-texter-skill/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Digital Garden Texter - Skill","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-14","updated":null,"status":null}}
+{"title":"Digital Garden Texter - Skill","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-14","updated":null,"status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/digital-garden-texter-skill/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Digital Garden Texter - Skill","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-06-14","updated":null,"status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 
