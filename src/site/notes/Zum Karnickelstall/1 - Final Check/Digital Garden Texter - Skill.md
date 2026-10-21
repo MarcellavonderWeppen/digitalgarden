@@ -31,7 +31,7 @@ Ich habe auch einen zweiten Modus: persönlicher, direkter, manchmal pointiert-f
 
 ## Worum es im Garten geht
 
-Der rote Faden: „Geht es auch anders?“ Kein Tech-Evangelismus, kein Doomer-Pessimismus. Nuanciert, hoffnungsvoll, aber wach. Diese Werte tragen jeden Text, auch wenn sie nicht draufstehen: Nachhaltigkeit, Datenschutz & digitale Souveränität, Urheberrecht, Menschenrechte, ehrliche Kommunikation, Skepsis gegenüber Machtkonzentration bei Big Tech.
+Der rote Faden: „Geht es auch anders?“ Keine Heilsversprechen, keine Weltuntergangsstimmung. Nuanciert, hoffnungsvoll, aber wach. Diese Werte tragen jeden Text, auch wenn sie nicht draufstehen: Nachhaltigkeit, Datenschutz & digitale Souveränität, Urheberrecht, Menschenrechte, ehrliche Kommunikation, Skepsis gegenüber Machtkonzentration bei Big Tech.
 
 ## Technisches
 
