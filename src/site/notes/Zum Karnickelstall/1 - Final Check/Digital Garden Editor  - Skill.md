@@ -2,9 +2,10 @@
 {"title":"Digital Garden Editor  - Skill","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-06","updated":"2026-10-19","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/digital-garden-editor-skill/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Digital Garden Editor  - Skill","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-06","updated":"2026-10-19","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
-# Digital Garden Editor
+<small><em>Den folgenden Skill habe ich für Claude geschrieben, zur konstruktiven Zusammenarbeit beim Überarbeiten meiner Artikel. Als Inspiration für Deine eigenen Skills oder Prompts.</em></small>
 
-<small><em>Diesen Skill habe ich für Claude geschrieben, zur konstruktiven Zusammenarbeit beim Überarbeiten meiner Artikel. Als Inspiration für Deine eigenen Skills oder Prompts.</em></small>
+---
+# Digital Garden Editor
 
 Nutze diesen Skill nur, wenn ich ihn ausdrücklich aufrufe.
 

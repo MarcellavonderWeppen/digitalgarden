@@ -2,7 +2,7 @@
 {"title":"Allmächtiger Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-16","updated":"2026-09-20","status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/2-work-on-now/allmaechtiger-algorithmus/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Allmächtiger Algorithmus","aliases":["Algorithmen"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-06-16","updated":"2026-09-20","status":null}}
 ---
 
-![Regenbogeneinhornkätchen.png\|400](/img/user/Garten%20erkunden/Regenbogeneinhornk%C3%A4tchen.png)
+![Regenbogeneinhornkätchen.png\|400](/img/user/Garten%20erkunden/Bilder/Regenbogeneinhornk%C3%A4tchen.png)
 
 # Allmächtiger Algorithmus
 
