@@ -69,7 +69,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 
 **Für Einzelne:**
 - Erst selbst denken, dann KI. Die MIT-Studie deutet darauf hin, dass die Reihenfolge eine Rolle spielt.
-- KI Fragen stellen lassen, statt sich Antworten liefern zu lassen. Mehr dazu unter [[Zum Karnickelstall/1 - Final Check/Aktives Lernen\|Aktives Lernen]].
+- KI Fragen stellen lassen, statt sich Antworten liefern zu lassen. Mehr dazu unter [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|Aktives Lernen]].
 - Ab und zu bewusst ohne KI arbeiten und prüfen, ob man es noch kann.
 
 **Für Teams:**
