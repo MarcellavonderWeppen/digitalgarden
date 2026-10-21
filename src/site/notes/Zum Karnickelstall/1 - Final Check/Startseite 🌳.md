@@ -39,13 +39,13 @@ Meine Motivation ist vor allem die Freude am Lernen! Ich dokumentiere mein wachs
 
 Doch ich lerne auch von euch! Zwar habe ich alle Inhalte im Bereich „**Garten erkunden**“ sorgfältig recherchiert und nach bestem Wissen zusammengestellt. Trotzdem kann ich nicht garantieren, dass alles **vollständig** oder fehlerfrei ist. Vieles hier ist auch einfach meine persönliche Perspektive. Deshalb freue ich mich über Kommentare – _eure_ Perspektive, konstruktive Kritik, aber auch Fragen und Anregungen. Was gibt es Schöneres für einen Gärtner, als wenn die Bienen kommen und neue Gedanken bestäuben? 🐝
 
-👉 So geht’s: [[Zum Karnickelstall/Must-Have/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]
+> **👉 So geht’s: [[Zum Karnickelstall/Must-Have/Wie kommentiere ich in diesem digitalen Garten?\|Wie kommentiere ich in diesem digitalen Garten?]]**
 
 Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und vielleicht nach und nach, während dieses Projekt wächst, das ein oder andere Kaninchenloch entdecken 🐇
 
 > [!warning] Achtung, Karnickelalarm 🐇
 > 
-> Meine Artikel vermehren sich hier wie die Karnickel, und ich komme nicht hinterher, sie alle gut zu pflegen. Deshalb gibt es den **Karnickelstall**: Die Artikel dort brauchen noch Pflege und einen Faktencheck. Nicht zu verwechseln mit den **Kaninchenlöchern** in der **Karnickel-Einstiegszone**: das sind verschiedene Themenbereiche, für alle die erkunden wollen, wie tief der Kaninchenbau wirklich geht. 
+> Meine Artikel vermehren sich hier wie die Karnickel, und ich komme nicht hinterher, sie alle gut zu pflegen. Deshalb gibt es den **Karnickelstall**: Die Artikel dort brauchen noch Pflege und einen Faktencheck. Nicht zu verwechseln mit den **Kaninchenlöchern** in der **Kaninchen-Einstiegszone**: das sind verschiedene Themenbereiche, für alle die erkunden wollen, wie tief der Kaninchenbau wirklich geht. 
 
 ## Hier geht’s zu den Kaninchenlöchern 👇
 
