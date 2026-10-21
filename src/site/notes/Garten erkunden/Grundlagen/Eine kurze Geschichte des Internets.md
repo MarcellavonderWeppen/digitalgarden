@@ -78,7 +78,7 @@ Das sollte sich bald ändern, denn das Web stand vor der Tür.
 > 
 > ![Terminal.png](/img/user/Garten%20erkunden/Bilder/Terminal.png)
 >
-> Ganz verschwunden ist das Terminal übrigens nie: Als Programm[^Terminal] steckt es bis heute in jedem Computer. Wir begegnen ihm auch unter den Namen Kommandozeile, Konsole oder CLI (Command Line Interface). Für Programmierer gehört es zum Alltag, und mit der zunehmenden Popularität von [[Zum Karnickelstall/4 - Work on tomorrow/Vibecoding\|Vibecoding]] entdecken es auch mehr und mehr Nicht-Techies.
+> Ganz verschwunden ist das Terminal übrigens nie: Als Programm[^Terminal] steckt es bis heute in jedem Computer. Wir begegnen ihm auch unter den Namen Kommandozeile, Konsole oder CLI (Command Line Interface). Für Programmierer gehört es zum Alltag, und mit der zunehmenden Popularität von [[Zum Karnickelstall/1 - Final Check/Vibecoding\|Vibecoding]] entdecken es auch mehr und mehr Nicht-Techies.
 
 
 ## Das World Wide Web: Ein Geschenk an die Welt
@@ -129,7 +129,7 @@ Das Web wurde als offenes, dezentrales System gedacht: Jeder kann eine Seite ver
 
 ### Aber es besteht auch Hoffnung
 
-- **Ritter ohne Furcht und Tadel:** Tim Berners-Lee warnt seit Jahren genau vor dieser Entwicklung: Das Web, das er als offenes Netz für alle gebaut hat, ist zu großen Teilen in die Hände weniger Konzerne geraten. Aus Nutzern sind Datenlieferanten geworden, und ihre Aufmerksamkeit ist die Währung im [[Zum Karnickelstall/4 - Work on tomorrow/Überwachungskapitalismus\|Überwachungskapitalismus]]. Mit dem Projekt Solid[^Solid] arbeitet Berners-Lee an einer Technik, mit der Menschen die Kontrolle über ihre eigenen Daten zurückbekommen sollen. 2025 erschienen seine Erinnerungen unter einem Titel, der sein Lebenswerk zusammenfasst: _[[This Is for Everyone\|This Is for Everyone]]_.
+- **Ritter ohne Furcht und Tadel:** Tim Berners-Lee warnt seit Jahren genau vor dieser Entwicklung: Das Web, das er als offenes Netz für alle gebaut hat, ist zu großen Teilen in die Hände weniger Konzerne geraten. Aus Nutzern sind Datenlieferanten geworden, und ihre Aufmerksamkeit ist die Währung im [[Zum Karnickelstall/1 - Final Check/Überwachungskapitalismus\|Überwachungskapitalismus]]. Mit dem Projekt Solid[^Solid] arbeitet Berners-Lee an einer Technik, mit der Menschen die Kontrolle über ihre eigenen Daten zurückbekommen sollen. 2025 erschienen seine Erinnerungen unter einem Titel, der sein Lebenswerk zusammenfasst: _[[This Is for Everyone\|This Is for Everyone]]_.
 - **Gegenbewegungen:** Dezentrale Netzwerke wie das [[Garten erkunden/Alternativen/Fediverse\|Fediverse]] setzen auf viele unabhängige Server statt einer zentralen Firma. Dort gibt es PeerTube statt YouTube, Friendica statt Facebook, Mastodon statt X und vieles mehr, was das Herz begehrt. Das Besondere: Die Dienste können miteinander reden, so wie du von deinem E-Mail-Anbieter aus jedem anderen schreiben kannst. Millionen Menschen sind schon dabei. Und die [[Garten erkunden/Alternativen/IndieWeb\|IndieWeb]]-Bewegung ruft dazu auf, Texte zuerst auf der eigenen Website zu veröffentlichen statt auf Plattformen, etwa als Blog oder als Digital Garden wie dieser hier. Beide knüpfen damit an die ursprüngliche Idee des Webs an.
 
 

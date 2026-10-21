@@ -24,7 +24,7 @@ Bekannt wurde der Begriff durch eine [[Zum Karnickelstall/2 - Work on now/MIT-St
 Vielerorts liest man außerdem, das MIT habe den Begriff „geprägt“. Das stimmt nicht, und die Studie selbst erhebt diesen Anspruch auch nicht.
 ### Softwareteams (2025/26)
 
-Die Informatik-Professorin Margaret-Anne Storey (University of Victoria) übertrug den Begriff aufs Programmieren.[^storey] Hier geht es um das **gemeinsame Verständnis eines Teams**: Niemand weiß mehr so recht, wie und warum die eigene Software funktioniert. Für Storey ist Cognitive Debt deshalb eine Eigenschaft des Projekts, nicht einer Person. Besonders schnell häufen sich diese Schulden beim [[Zum Karnickelstall/4 - Work on tomorrow/Vibecoding\|Vibecoding]] an, wenn KI den Code schreibt und niemand mehr genau hinschaut.
+Die Informatik-Professorin Margaret-Anne Storey (University of Victoria) übertrug den Begriff aufs Programmieren.[^storey] Hier geht es um das **gemeinsame Verständnis eines Teams**: Niemand weiß mehr so recht, wie und warum die eigene Software funktioniert. Für Storey ist Cognitive Debt deshalb eine Eigenschaft des Projekts, nicht einer Person. Besonders schnell häufen sich diese Schulden beim [[Zum Karnickelstall/1 - Final Check/Vibecoding\|Vibecoding]] an, wenn KI den Code schreibt und niemand mehr genau hinschaut.
 
 ## Drei Arten von Schulden
 
@@ -69,7 +69,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 
 **Für Einzelne:**
 - Erst selbst denken, dann KI. Die MIT-Studie deutet darauf hin, dass die Reihenfolge eine Rolle spielt.
-- KI Fragen stellen lassen, statt sich Antworten liefern zu lassen. Mehr dazu unter [[Zum Karnickelstall/4 - Work on tomorrow/Aktives Lernen\|Aktives Lernen]].
+- KI Fragen stellen lassen, statt sich Antworten liefern zu lassen. Mehr dazu unter [[Zum Karnickelstall/1 - Final Check/Aktives Lernen\|Aktives Lernen]].
 - Ab und zu bewusst ohne KI arbeiten und prüfen, ob man es noch kann.
 
 **Für Teams:**
@@ -86,7 +86,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 ## 📖 Weiterlesen
 
 - [[Zum Karnickelstall/2 - Work on now/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]: die Studie, die den Begriff im KI-Kontext bekannt machte, samt ihrer Schwachstellen.
-- [[Zum Karnickelstall/4 - Work on tomorrow/Vibecoding\|Vibecoding]]: Wo Cognitive Debt in der Softwareentwicklung besonders schnell entsteht.
+- [[Zum Karnickelstall/1 - Final Check/Vibecoding\|Vibecoding]]: Wo Cognitive Debt in der Softwareentwicklung besonders schnell entsteht.
 - [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]]: Programmieren mit KI-Agenten, bei dem Menschen Architektur und Verständnis bewusst selbst verantworten.
 
 ## 📺 Aus der YouTube Academy

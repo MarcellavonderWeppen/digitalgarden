@@ -8,4 +8,4 @@
 
 ## Fundstück auf YouTube 📺
 
-- Auch [[Zum Karnickelstall/4 - Work on tomorrow/Vibecoding\|Vibecoding]] kann unter Umständen eine spezielle Variante von KI-Psychose auslösen: [I Got Addicted to Vibe Coding (I almost lost everything)](https://www.youtube.com/watch?v=xPjZzMVyrAQ) 
+- Auch [[Zum Karnickelstall/1 - Final Check/Vibecoding\|Vibecoding]] kann unter Umständen eine spezielle Variante von KI-Psychose auslösen: [I Got Addicted to Vibe Coding (I almost lost everything)](https://www.youtube.com/watch?v=xPjZzMVyrAQ) 
