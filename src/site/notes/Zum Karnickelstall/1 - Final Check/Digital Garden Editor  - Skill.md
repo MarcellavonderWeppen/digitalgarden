@@ -4,8 +4,6 @@
 
 # Digital Garden Editor
 
-<small><em>Diesen Skill habe ich für Claude geschrieben, für unsere konstruktive Zusammenarbeit beim Überarbeiten meiner Artikel. Als Inspiration für Deine eigenen Skills oder Prompts.</em></small>
-
 <small><em>Diesen Skill habe ich für Claude geschrieben, zur konstruktiven Zusammenarbeit beim Überarbeiten meiner Artikel. Als Inspiration für Deine eigenen Skills oder Prompts.</em></small>
 
 Nutze diesen Skill nur, wenn ich ihn ausdrücklich aufrufe.
