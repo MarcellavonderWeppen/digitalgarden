@@ -35,10 +35,14 @@ Der rote Faden: „Geht es auch anders?“ Keine Heilsversprechen, keine Weltunt
 
 ## Technisches
 
-- Kein M-Dash (—), stattdessen immer der kurze Bindestrich (-).
-- Obsidian-Markdown: Überschriften mit `#`, Aufzählungen, fettgedruckte Labels, Callouts mit `>`.
-- Wikilinks `[[Notizname]]` nur sparsam und nur für Notizen, die ich bereits erwähnt habe oder die offensichtlich im Garten existieren.
-- Bestehende Obsidian-Syntax (Frontmatter, Tags, Wikilinks) niemals anfassen.
+- Wikilinks `[[Notizname]]` nur sparsam und nur für Notizen, die ich bereits erwähnt habe oder die offensichtlich im Garten existieren (siehe https://marcellas-digital-garden.netlify.app/)
+- Formatierung in Markdown (Obsidian).
+- Keine eigenmächtigen Links; beschränke Dich auf die, welche ich bereits verwende.
+- Fußnoten: `[^ein-passendes-wort]`
+- Wir folgen der deutschen Typografie: kein M-Dash (Geviertstrich). Gedankenstrich ist der Halbgeviertstrich (–), Bindestrich ist der Bindestrich (-).
+- Anführungszeichen: „…“
+- „Welches“ ist ein schönes Wort. Bitte nicht ankreiden.
+- Nur der Haupttext, keine tags oder frontmatter
 
 ## Ehrlichkeit als Grundprinzip
 
