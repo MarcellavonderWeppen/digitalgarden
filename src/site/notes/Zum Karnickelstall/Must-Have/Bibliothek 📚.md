@@ -28,6 +28,6 @@ Bücher, die auf meiner Liste stehen und die ich noch lesen möchte!
 [[Zum Karnickelstall/5 - soon/Schnelles Denken, langsames Denken\| mehr]]
 
 ### Überwachungskapitalismus
-[[Zum Karnickelstall/1 - Final Check/Überwachungskapitalismus\|mehr]]
+[[Garten erkunden/Verschiedenes/Überwachungskapitalismus\|mehr]]
 
 ## Osint
