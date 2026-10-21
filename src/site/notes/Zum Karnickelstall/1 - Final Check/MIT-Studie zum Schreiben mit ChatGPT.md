@@ -46,7 +46,7 @@ Wer KI nutzt, um nicht selbst denken zu müssen, braucht sich nicht zu wundern, 
 ## 📖 Weiterlesen
 
 - Die Informatik-Professorin Margaret-Anne Storey griff den Begriff „Cognitive Debt“ 2026 fürs Programmieren auf: Wenn KI den Code schreibt, versteht irgendwann niemand im Team mehr so richtig, wie die eigene Software funktioniert. Mehr dazu im Artikel über [[Zum Karnickelstall/4 - Work on tomorrow/Vibecoding\|Vibecoding]].
-- ☝️🤓 Bitte nicht der Maschine das Denken überlassen – [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|aktives Lernen]] lautet die Devise. Um das Prinzip des aktiven Lernens mit einem [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLM]] Deines Vertrauens auszuprobieren, teile ich hier gerne meinen persönlichen Prompt: [[Zum Karnickelstall/1 - Final Check/Lernbegleiter – Skill\|Lernbegleiter – Skill]]. Viel Spaß damit!
+- ☝️🤓 Bitte nicht der Maschine das Denken überlassen – [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|aktives Lernen]] lautet die Devise. Um das Prinzip des aktiven Lernens mit einem [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLM]] Deines Vertrauens auszuprobieren, teile ich hier gerne meinen persönlichen Prompt: [[Garten erkunden/Prompts & Skills/Lernbegleiter – Skill\|Lernbegleiter – Skill]]. Viel Spaß damit!
 
 [^studie]: Kosmyna et al. (2025): „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task“, arXiv:2506.08872
 
