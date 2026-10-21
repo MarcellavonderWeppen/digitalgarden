@@ -19,7 +19,7 @@ Natalie Marchant und Robert Howard führten den Begriff in der Alzheimer-Forschu
 Cognitive Debt ist hier das Gegenstück zur **kognitiven Reserve**, also dem Puffer, den Bildung, geistige Aktivität und soziale Kontakte im Gehirn aufbauen. Ist die kognitive Reserve das Sparkonto, ist Cognitive Debt die Kreditkartenrechnung.
 ### Schreiben mit KI (2025)
 
-Bekannt wurde der Begriff durch eine [[Zum Karnickelstall/2 - Work on now/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]].[^mit] Dort meint er die langfristigen Kosten, wenn ein Mensch Denkarbeit dauerhaft an KI abgibt: weniger kritisches Denken, schwächere Erinnerung, weniger eigene Ideen. Untersucht wurde nur eine einzige Aufgabe, nämlich das Schreiben von Essays. Die Medien machten daraus vielfach pauschal „ChatGPT macht dumm“.
+Bekannt wurde der Begriff durch eine [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]].[^mit] Dort meint er die langfristigen Kosten, wenn ein Mensch Denkarbeit dauerhaft an KI abgibt: weniger kritisches Denken, schwächere Erinnerung, weniger eigene Ideen. Untersucht wurde nur eine einzige Aufgabe, nämlich das Schreiben von Essays. Die Medien machten daraus vielfach pauschal „ChatGPT macht dumm“.
 
 Vielerorts liest man außerdem, das MIT habe den Begriff „geprägt“. Das stimmt nicht, und die Studie selbst erhebt diesen Anspruch auch nicht.
 ### Softwareteams (2025/26)
@@ -85,7 +85,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 
 ## 📖 Weiterlesen
 
-- [[Zum Karnickelstall/2 - Work on now/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]: die Studie, die den Begriff im KI-Kontext bekannt machte, samt ihrer Schwachstellen.
+- [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]: die Studie, die den Begriff im KI-Kontext bekannt machte, samt ihrer Schwachstellen.
 - [[Zum Karnickelstall/4 - Work on tomorrow/Vibecoding\|Vibecoding]]: Wo Cognitive Debt in der Softwareentwicklung besonders schnell entsteht.
 - [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]]: Programmieren mit KI-Agenten, bei dem Menschen Architektur und Verständnis bewusst selbst verantworten.
 

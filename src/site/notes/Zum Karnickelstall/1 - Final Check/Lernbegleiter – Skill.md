@@ -2,7 +2,7 @@
 {"title":"Lernbegleiter – Skill","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-12","updated":null,"status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/lernbegleiter-skill/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Lernbegleiter – Skill","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-12","updated":null,"status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
-<small><em>Den folgenden Skill habe ich für Claude geschrieben, als sokratischen Lernbegleiter im Feynman-Stil. Er funktioniert aber natürlich auch als Prompt für andere Chatbots.</em></small>
+<small><em>Den folgenden Skill habe ich für Claude geschrieben, als sokratischen Lernbegleiter im Feynman-Stil. Er funktioniert aber natürlich auch als Prompt für andere Chatbots. Viel Spaß beim Ausprobieren.</em></small>
 
 ---
 # Prompt: Lernbegleiter
