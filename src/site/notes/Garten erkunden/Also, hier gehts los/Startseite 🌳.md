@@ -49,13 +49,9 @@ Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und v
 
 ## Hier geht’s zu den Kaninchenlöchern 👇
 
-Folge dem weißen Kaninchen in die [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone 🐇\|Kaninchen-Einstiegszone 🐇]] 🕳️🐇
+Folge dem weißen Kaninchen in die [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone 🐇\|Kaninchen-Einstiegszone 🐇]] 
 
-[![Kaninchenloch](Garten%20erkunden/Bilder/Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/zum-karnickelstall/must-have/kaninchen-einstiegszone/)
-
-<a href="/zum-karnickelstall/must-have/kaninchen-einstiegszone/">
-  <img src="[/img/user/Garten erkunden/Bilder/Kaninchenloch.png](https://marcellas-digital-garden.netlify.app/img/optimized/W4He_WmAfd-700.webp)" alt="Kaninchenloch">
-</a>
+[![](Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/zum-karnickelstall/must-have/kaninchen-einstiegszone/)
 
 
 ## Warum ausgerechnet KI?
