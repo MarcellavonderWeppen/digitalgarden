@@ -86,14 +86,12 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 ## 📖 Weiterlesen
 
 - [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]: die Studie, die den Begriff im KI-Kontext bekannt machte, samt ihrer Schwachstellen.
-- [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]]: Wo Cognitive Debt in der Softwareentwicklung besonders schnell entsteht.
-- [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]]: Programmieren mit KI-Agenten, bei dem Menschen Architektur und Verständnis bewusst selbst verantworten.
+- Während kognitive Schulden in der Softwareentwicklung beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]]  besonders schnell entsteht, verantworten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Menschen Architektur und Verständnis bewusst selbst.
 
 ## 📺 Aus der YouTube Academy
 
 - Ein sehr empfehlenswertes Video zu kognitive Schulden in der Softwareentwicklung: [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M)
 - Karpathy spricht noch eine vierte Form der kognitiven Schulden an. Sie entsteht, wenn ein Großteil der Menschheit das Verständnis und die Kontrolle über die noch junge Technologie verliert: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs) Aus meiner Sicht ist es tragisch, wenn eine kleine Elite von nur etwa 5000 Menschen diese Erfindung wirklich versteht und vorantreibt, die für das Schicksal der Menschheit so entscheidend sein könnte. Wer lieber lesen als gucken möchte: 📖 [[Zum Karnickelstall/Must-Have/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht]]
-
 
 [^marchant]: Marchant, N. L. & Howard, R. J. (2015): „Cognitive Debt and Alzheimer's Disease“, Journal of Alzheimer's Disease 44(3), S. 755–770. [doi.org/10.3233/JAD-141515](https://doi.org/10.3233/JAD-141515)
 
@@ -102,4 +100,3 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 [^storey]: Margaret-Anne Storey (2026): „How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt“, [margaretstorey.com/blog/2026/02/09/cognitive-debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/). Erstmals verwendet hat sie den Begriff laut eigener Aussage im Oktober 2025 in einem Startup-Kurs.
 
 [^offloading]: Geprägt u. a. von Evan Risko und Sam Gilbert (2016): „Cognitive Offloading“, Trends in Cognitive Sciences.
-
