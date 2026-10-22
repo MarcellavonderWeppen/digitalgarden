@@ -96,3 +96,4 @@ Ich stecke sehr viel Liebe in meinen Garten, und ja, es steckt auch viel KI dari
 
 
 
+![Kaninchenloch.png](/img/user/Garten%20erkunden/Bilder/Kaninchenloch.png)
