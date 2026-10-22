@@ -4,7 +4,7 @@
 
 # Your Brain on ChatGPT (MIT-Studie)
 
-Diese Studie des MIT Media Lab[^studie] erschien im Juni 2025 und machte den Begriff [[Zum Karnickelstall/2 - Work on now/Cognitive Debt\|Cognitive Debt (kognitive Schulden)]] bekannt. Die Idee dahinter: Wer sich das Denken von der KI abnehmen lässt, spart kurzfristig Mühe, zahlt aber später drauf, mit Zinsen.
+Diese Studie des MIT Media Lab[^studie] erschien im Juni 2025 und machte den Begriff [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt (kognitive Schulden)]] bekannt. Die Idee dahinter: Wer sich das Denken von der KI abnehmen lässt, spart kurzfristig Mühe, zahlt aber später drauf, mit Zinsen.
 ## Aufbau
 
 54 Teilnehmende schrieben über vier Monate Essays, aufgeteilt in drei Gruppen: mit ChatGPT, mit Suchmaschine und ganz ohne Hilfsmittel („Brain-only“). Dabei wurde per EEG gemessen, wie stark verschiedene Hirnregionen miteinander kommunizieren.
@@ -15,6 +15,8 @@ Diese Studie des MIT Media Lab[^studie] erschien im Juni 2025 und machte den Beg
 - Die ChatGPT-Nutzer konnten Sätze aus ihrem eigenen Essay kaum korrekt wiedergeben und empfanden die Texte am wenigsten als „ihre eigenen“.
 - Ihre Essays ähnelten sich stark untereinander.
 - In einer vierten Sitzung wurden ChatGPT- und Brain-only-Gruppe getauscht. Wer vorher mit ChatGPT geschrieben hatte und nun ohne auskommen musste, zeigte eine schwächere Vernetzung als die Brain-only-Gruppe. Die Forschenden deuten das als „Unterbeteiligung“: Das Gehirn kam nicht richtig in Gang. Umgekehrt zeigten diejenigen, die erst ohne Hilfsmittel geschrieben hatten und dann ChatGPT nutzen durften, eine besonders starke Vernetzung.[^chatgpt-macht-schlau]
+
+![DeppGPT.png](/img/user/DeppGPT.png)
 
 ## Wo die Studie an ihre Grenzen stößt
 

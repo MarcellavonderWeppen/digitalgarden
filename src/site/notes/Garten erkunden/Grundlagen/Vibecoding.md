@@ -33,7 +33,7 @@ In der IT-Welt gibt es dafür einen etablierten Begriff: **Technical Debt** (Tec
 
 ### Cognitive Debt („Kognitive Schulden“)
 
-Mit dem Aufkommen von KI tritt jedoch ein neues, weitaus gefährlicheres Phänomen hinzu: [[Zum Karnickelstall/2 - Work on now/Cognitive Debt\|Cognitive Debt]]. Die Informatik-Professorin Margaret-Anne Storey übertrug den Begriff aufs Programmieren. Er  beschreibt in diesem Kontext eine schleichende Wissenserosion: Kognitive Schulden entstehen, wenn **das menschliche Team das Verständnis darüber verliert, wie der Code im Detail funktioniert** – und zwar selbst dann, wenn die KI sauberen, funktionierenden Code generiert hat.
+Mit dem Aufkommen von KI tritt jedoch ein neues, weitaus gefährlicheres Phänomen hinzu: [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt]]. Die Informatik-Professorin Margaret-Anne Storey übertrug den Begriff aufs Programmieren. Er  beschreibt in diesem Kontext eine schleichende Wissenserosion: Kognitive Schulden entstehen, wenn **das menschliche Team das Verständnis darüber verliert, wie der Code im Detail funktioniert** – und zwar selbst dann, wenn die KI sauberen, funktionierenden Code generiert hat.
 
 Das Problem bleibt unsichtbar, bis das System bricht und die Entwickler wie Archäologen vor ihrer eigenen Software stehen.
 
