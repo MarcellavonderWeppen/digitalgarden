@@ -51,7 +51,8 @@ Mit oder ohne aktive Beteiligung, ihr könnt mir hier beim Lernen zugucken und v
 
 Folge dem weißen Kaninchen in die [[Zum Karnickelstall/Must-Have/Kaninchen-Einstiegszone 🐇\|Kaninchen-Einstiegszone 🐇]] 🕳️🐇
 
-[![Kaninchenloch](Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/zum-karnickelstall/must-have/kaninchen-einstiegszone/)
+[![Kaninchenloch](Garten%20erkunden/Bilder/Kaninchenloch.png)](https://marcellas-digital-garden.netlify.app/zum-karnickelstall/must-have/kaninchen-einstiegszone/)
+
 ## Warum ausgerechnet KI?
 
 Kaum ein Thema prägt unseren Zeitgeist so sehr wie die sogenannte künstliche Intelligenz. Und kaum eines polarisiert so stark:
