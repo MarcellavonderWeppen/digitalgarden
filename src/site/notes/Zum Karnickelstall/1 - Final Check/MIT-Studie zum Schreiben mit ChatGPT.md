@@ -16,7 +16,7 @@ Diese Studie des MIT Media Lab[^studie] erschien im Juni 2025 und machte den Beg
 - Ihre Essays ähnelten sich stark untereinander.
 - In einer vierten Sitzung wurden ChatGPT- und Brain-only-Gruppe getauscht. Wer vorher mit ChatGPT geschrieben hatte und nun ohne auskommen musste, zeigte eine schwächere Vernetzung als die Brain-only-Gruppe. Die Forschenden deuten das als „Unterbeteiligung“: Das Gehirn kam nicht richtig in Gang. Umgekehrt zeigten diejenigen, die erst ohne Hilfsmittel geschrieben hatten und dann ChatGPT nutzen durften, eine besonders starke Vernetzung.[^chatgpt-macht-schlau]
 
-![DeppGPT.png](/img/user/DeppGPT.png)
+![DeppGPT.png](/img/user/Garten%20erkunden/Bilder/DeppGPT.png)
 
 ## Wo die Studie an ihre Grenzen stößt
 
