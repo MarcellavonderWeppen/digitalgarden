@@ -50,7 +50,7 @@ Cognitive Debt meldet sich nicht laut. Es gibt keine Fehlermeldung, keinen abges
 
 Typische Warnsignale:
 
-- **Im Team:** Niemand kann erklären, warum etwas so gebaut ist. Fehleranalysen enden im Rätselraten.
+- **Im Team:** Das eigene System wird zur Blackbox. Fehleranalysen enden im Rätselraten.
 - **Beim Einzelnen:** Man kann eigene Texte oder Lösungen nicht wiedergeben oder erklären. Ohne KI fällt der Einstieg schwer.
 
 ## Nicht jedes Auslagern ist ein Problem
