@@ -21,7 +21,7 @@ Cognitive Debt ist hier das Gegenstück zur **kognitiven Reserve**, also dem Puf
 
 Bekannt wurde der Begriff durch eine [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]].[^mit] Dort meint er die langfristigen Kosten, wenn ein Mensch Denkarbeit dauerhaft an KI abgibt: weniger kritisches Denken, schwächere Erinnerung, weniger eigene Ideen. Untersucht wurde nur eine einzige Aufgabe, nämlich das Schreiben von Essays. Die Medien machten daraus vielfach pauschal „ChatGPT macht dumm“.
 
-Vielerorts liest man außerdem, das MIT habe den Begriff „geprägt“; wie wir jedoch gesehen haben, war er in der Alzheimer-Forschung schon zehn Jahre früher im Umlauf. Auch die Studie selbst erhebt diesen Anspruch übrigens nicht.
+Vielerorts liest man, das MIT habe den Begriff „geprägt“; wie wir jedoch gesehen haben, war er in der Alzheimer-Forschung schon zehn Jahre früher im Umlauf. Auch die Studie selbst erhebt diesen Anspruch übrigens nicht.
 ### Softwareteams (2025/26)
 
 Die Informatik-Professorin Margaret-Anne Storey (University of Victoria) übertrug den Begriff aufs Programmieren.[^storey] Hier geht es um das **gemeinsame Verständnis eines Teams**: Niemand weiß mehr so recht, wie und warum die eigene Software funktioniert. Für Storey ist Cognitive Debt deshalb eine Eigenschaft des Projekts, nicht einer Person. Besonders schnell häufen sich diese Schulden beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] an, wenn KI den Code schreibt und niemand mehr genau hinschaut.
@@ -30,11 +30,11 @@ Die Informatik-Professorin Margaret-Anne Storey (University of Victoria) übertr
 
 Für die Softwareentwicklung unterscheidet Storey drei Schichten:[^storey]
 
-|Schuldenart|Wo sie sitzt|Entsteht, wenn …|Was sie begrenzt|
-|---|---|---|---|
-|**Technical Debt**|im Code|Entscheidungen bei Code oder Architektur, bewusst oder unbemerkt, auf Kosten der Codequalität gehen|wie leicht sich das System weiterentwickeln lässt|
-|**Cognitive Debt**|in den Köpfen des Teams|das gemeinsame Verständnis schneller schwindet, als es nachwächst|wie gut das Team über Änderungen nachdenken kann|
-|**Intent Debt**|in schriftlichen Unterlagen|Ziele und Rahmenbedingungen schlecht festgehalten oder nicht gepflegt werden|ob das System noch tut, wofür es gedacht war|
+| Schuldenart        | Wo sie sitzt                | Entsteht, wenn …                                                                                    | Was sie begrenzt                                  |
+| ------------------ | --------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| **Technical Debt** | im Code                     | Entscheidungen bei Code oder Architektur, bewusst oder unbemerkt, auf Kosten der Codequalität gehen | wie leicht sich das System weiterentwickeln lässt |
+| **Cognitive Debt** | in den Köpfen des Teams     | das gemeinsame Verständnis mit dem Code nicht mehr Schritt hält                                     | wie gut das Team über Änderungen nachdenken kann  |
+| **Intent Debt**    | in schriftlichen Unterlagen | Ziele und Rahmenbedingungen schlecht dokumentiert oder nicht aktualisiert werden                    | ob das System noch tut, wofür es gedacht war      |
 
 **Intent Debt** („Absichtsschulden“) entsteht, wenn Ziele, Gründe und Rahmenbedingungen eines Systems nie festgehalten wurden oder nur unklar und veraltet. Oft stecken sie dann nur in den Köpfen weniger Schlüsselpersonen. Solange diese an Bord sind, fällt das kaum auf. Doch anders als unsauberer Code lassen sich Absichten später kaum rekonstruieren; am besten hält man sie im Moment der Entscheidung fest. Fehlen sie, können sich neue Teammitglieder kein zutreffendes Bild vom System machen, und das System driftet allmählich weg von dem, wofür es gedacht war. Mit KI wird das noch dringlicher: Auch KI-Agenten müssen wissen, wofür ein System da ist, sonst optimieren sie womöglich auf das falsche Ziel.
 
