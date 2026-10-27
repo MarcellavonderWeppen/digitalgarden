@@ -24,7 +24,7 @@ Bekannt wurde der Begriff durch eine [[Zum Karnickelstall/1 - Final Check/MIT-St
 Vielerorts liest man, das MIT habe den Begriff „geprägt“; wie wir jedoch gesehen haben, war er in der Alzheimer-Forschung schon zehn Jahre früher im Umlauf. 
 ### Softwareteams (2025/26)
 
-Die Informatik-Professorin Margaret-Anne Storey (University of Victoria) übertrug den Begriff aufs Programmieren.[^storey] Hier geht es um das **gemeinsame Verständnis eines Teams**: Niemand weiß mehr so recht, wie und warum die eigene Software funktioniert. In diesem Sinne ist Cognitive Debt eine Eigenschaft des Projekts, nicht einer Person.
+Die Informatik-Professorin Margaret-Anne Storey übertrug den Begriff aufs Programmieren.[^storey] Hier geht es um das **gemeinsame Verständnis eines Teams**: Niemand weiß mehr so recht, wie und warum die eigene Software funktioniert. In diesem Sinne ist Cognitive Debt eine Eigenschaft des Projekts, nicht einer Person.
 
 Storey teilt dabei die Auffassung, die der dänische Informatiker Peter Naur 1985 formulierte: Ein Programm ist mehr als sein Code. Es ist eine **Theorie** in den Köpfen der Entwickler: was das System tun soll und warum es so gebaut ist. Geht diese Theorie verloren, bleibt nur Code übrig, den niemand mehr sicher verändern kann. 
 
