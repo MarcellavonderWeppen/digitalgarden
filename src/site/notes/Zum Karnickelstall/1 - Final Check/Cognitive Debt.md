@@ -45,16 +45,17 @@ Für die Softwareentwicklung unterscheidet Storey drei Schichten:[^storey]
 
 Intent Debt („Absichtsschulden“) entsteht, wenn Ziele, Gründe und Rahmenbedingungen eines Systems unklar formuliert, nicht aktualisiert oder nicht einmal festgehalten wurden. In der Folge steckt dieses Wissen nur noch in den Köpfen, häufig in denen weniger Schlüsselpersonen. Solange diese an Bord sind, fällt das kaum auf. Gehen sie, geht das Wissen mit. Und anders als unsauberen Code, den man nachträglich aufräumen kann, kann man Absichten später kaum rekonstruieren; am besten hält man sie im Moment der Entscheidung fest. Fehlen diese Absichten, können sich neue Teammitglieder kein zutreffendes Bild vom System machen, und das System driftet allmählich weg von dem, wofür es gedacht war. Mit KI wird das noch dringlicher: Auch KI-Agenten müssen wissen, wofür ein System da ist, sonst optimieren sie womöglich auf das falsche Ziel. 
 
-> [!warning] Achtung, sauberer Code!
-> Mit jeder neuen Modellgeneration schreibt KI besseren Code – inzwischen fast schon beängstigend gut. Dadurch kann sie technische Schulden sogar senken. Gleichzeitig beschleunigt sie das Anwachsen von kognitiven Schulden und Absichtsschulden. Der Code sieht gut aus, aber keiner versteht ihn mehr.
-
 ## Cognitive Debt: Schulden ohne Mahnung
 
 Kognitive Schulden melden sich nicht laut. Es gibt keine Fehlermeldung, keinen abgestürzten Build. Storey beschreibt ein Studententeam, das in Woche sieben oder acht an eine Wand lief: Selbst kleine Änderungen machten plötzlich an unerwarteter Stelle etwas kaputt. Zunächst schob das Team es auf unsauberen Code. Das eigentliche Problem war ein anderes: Niemand konnte mehr erklären, warum bestimmte Entscheidungen getroffen worden waren.
 
-> [!warning] Typische Warnsignale
-> - **Im Team:** Das eigene System wird zur Blackbox. Fehleranalysen enden im Rätselraten.
-> - **Beim Einzelnen:** Man kann eigene Texte oder Lösungen nicht wiedergeben oder erklären. Ohne KI fällt der Einstieg schwer.
+### Typische Warnsignale
+
+- **Im Team:** Das eigene System wird zur Blackbox. Fehleranalysen enden im Rätselraten.
+- **Beim Einzelnen:** Man kann eigene Texte oder Lösungen nicht wiedergeben oder erklären. Ohne KI fällt der Einstieg schwer.
+
+> [!warning] Achtung, sauberer Code!
+> Mit jeder neuen Modellgeneration schreibt KI besseren Code – inzwischen fast schon beängstigend gut. Dadurch kann sie technische Schulden sogar senken. Gleichzeitig beschleunigt sie das Anwachsen von kognitiven Schulden und Absichtsschulden. Der Code sieht gut aus, aber keiner versteht ihn mehr.
 
 ## Nicht jedes Auslagern ist ein Problem
 
