@@ -92,7 +92,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 ## 📖 Weiterlesen
 
 - [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]: die Studie, die den Begriff im KI-Kontext bekannt machte, samt ihrer Schwachstellen.
-- Während kognitive Schulden in der Softwareentwicklung beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]]  besonders schnell entsteht, verantworten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Menschen Architektur und Verständnis bewusst selbst.
+- Während kognitive Schulden in der Softwareentwicklung beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]]  besonders schnell entsteht, verantworten beim [[Zum Karnickelstall/1 - Final Check/Agentic Engineering\|Agentic Engineering]] Menschen Architektur und Verständnis bewusst selbst.
 
 ## 📺 Aus der YouTube Academy
 
@@ -109,3 +109,5 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 [^storey]: Margaret-Anne Storey (2026): „How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt“, [margaretstorey.com/blog/2026/02/09/cognitive-debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/). Erstmals verwendet hat sie den Begriff laut eigener Aussage im Oktober 2025 in einem Startup-Kurs.
 
 [^offloading]: Geprägt u. a. von Evan Risko und Sam Gilbert (2016): „Cognitive Offloading“, Trends in Cognitive Sciences.
+
+[^karpathy]: Andrej Karpathy im Gespräch mit Stephanie Zhang auf der Konferenz AI Ascent 2026 von Sequoia Capital (April 2026). Im Original: „You can outsource your thinking, but you can't outsource your understanding." [Video ab 27:56](https://www.youtube.com/watch?v=96jN2OCOfLs&t=1676s)

@@ -49,7 +49,7 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 
 ## 📖 Weiterlesen
 
-- Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]].
+- Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[Zum Karnickelstall/1 - Final Check/Agentic Engineering\|Agentic Engineering]].
 - Jeder kann jetzt Webdesign? Nein! Meine Perspektive als Webdesignerin zu vibe-gecodeten Websites: [[Garten erkunden/Verschiedenes/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]].
 - Laien und mittelmäßige Programmierer können heute in Sekundenschnelle Code produzieren. Prüfen müssen ihn aber Menschen mit echtem Verständnis – und das ist mühsam. Das hat zu einer Krise der Open-Source-Bewegung geführt. Mehr dazu im Artikel zu [[Zum Karnickelstall/5 - soon/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]].
 
