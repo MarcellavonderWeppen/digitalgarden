@@ -48,14 +48,13 @@ Intent Debt („Absichtsschulden“) entsteht, wenn Ziele, Gründe und Rahmenbed
 > [!warning] Achtung, sauberer Code!
 > Mit jeder neuen Modellgeneration schreibt KI besseren Code – inzwischen fast schon beängstigend gut. Dadurch kann sie technische Schulden sogar senken. Gleichzeitig beschleunigt sie das Anwachsen von kognitiven Schulden und Absichtsschulden. Der Code sieht gut aus, aber keiner versteht ihn mehr.
 
-## Woran man sie erkennt
+## Cognitive Debt: Schulden ohne Mahnung
 
-Cognitive Debt meldet sich nicht laut. Es gibt keine Fehlermeldung, keinen abgestürzten Build. Storey beschreibt ein Studententeam, das in Woche sieben oder acht an eine Wand lief: Selbst kleine Änderungen machten plötzlich an unerwarteter Stelle etwas kaputt. Zunächst schob das Team es auf unsauberen Code. Das eigentliche Problem war ein anderes: Niemand konnte mehr erklären, warum bestimmte Entscheidungen getroffen worden waren.
+Kognitive Schulden melden sich nicht laut. Es gibt keine Fehlermeldung, keinen abgestürzten Build. Storey beschreibt ein Studententeam, das in Woche sieben oder acht an eine Wand lief: Selbst kleine Änderungen machten plötzlich an unerwarteter Stelle etwas kaputt. Zunächst schob das Team es auf unsauberen Code. Das eigentliche Problem war ein anderes: Niemand konnte mehr erklären, warum bestimmte Entscheidungen getroffen worden waren.
 
-Typische Warnsignale:
-
-- **Im Team:** Das eigene System wird zur Blackbox. Fehleranalysen enden im Rätselraten.
-- **Beim Einzelnen:** Man kann eigene Texte oder Lösungen nicht wiedergeben oder erklären. Ohne KI fällt der Einstieg schwer.
+> [!warning] Typische Warnsignale
+> - **Im Team:** Das eigene System wird zur Blackbox. Fehleranalysen enden im Rätselraten.
+> - **Beim Einzelnen:** Man kann eigene Texte oder Lösungen nicht wiedergeben oder erklären. Ohne KI fällt der Einstieg schwer.
 
 ## Nicht jedes Auslagern ist ein Problem
 
