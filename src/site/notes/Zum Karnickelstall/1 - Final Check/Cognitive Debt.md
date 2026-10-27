@@ -59,7 +59,7 @@ Kognitive Schulden melden sich nicht laut. Es gibt keine Fehlermeldung, keinen a
 
 ## Nicht jedes Auslagern ist ein Problem
 
-Gedächtnis und Denken an Hilfsmittel abzugeben ist nichts Neues. Die Kognitionspsychologie nennt das **Cognitive Offloading** (kognitive Entlastung).[^offloading] Wir tun es ständig: mit Kalendern, Einkaufszetteln, Taschenrechnern, Navis.
+Gedächtnis und Denken an Hilfsmittel abzugeben ist nichts Neues. Die Kognitionspsychologie nennt das **Cognitive Offloading** (kognitive Entlastung).[^offloading] Wir tun es ständig: mit Kalendern, Einkaufszetteln und Taschenrechnern.
 
 Der Unterschied liegt darin, *was* man auslagert:
 
