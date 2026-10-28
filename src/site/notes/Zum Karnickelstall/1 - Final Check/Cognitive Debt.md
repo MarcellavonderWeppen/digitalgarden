@@ -92,7 +92,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 ## 📖 Weiterlesen
 
 - [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]: die Studie, die den Begriff im KI-Kontext bekannt machte, samt ihrer Schwachstellen.
-- Während kognitive Schulden in der Softwareentwicklung beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]]  besonders schnell entsteht, verantworten beim [[Zum Karnickelstall/1 - Final Check/Agentic Engineering\|Agentic Engineering]] Menschen Architektur und Verständnis bewusst selbst.
+- Während kognitive Schulden in der Softwareentwicklung beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]]  besonders schnell entsteht, verantworten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Menschen Architektur und Verständnis bewusst selbst.
 
 ## 📺 Aus der YouTube Academy
 
