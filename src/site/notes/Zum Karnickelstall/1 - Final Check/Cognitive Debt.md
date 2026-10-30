@@ -55,7 +55,7 @@ Kognitive Schulden melden sich nicht laut. Es gibt keine Fehlermeldung, keinen a
 - **Beim Einzelnen:** Man kann eigene Texte oder Lösungen nicht wiedergeben oder erklären. Ohne KI fällt der Einstieg schwer.
 
 > [!warning] Achtung, sauberer Code!
-> Mit jeder neuen Modellgeneration schreibt KI besseren Code – inzwischen fast schon beängstigend gut. Dadurch kann sie technische Schulden sogar senken. Gleichzeitig beschleunigt sie das Anwachsen von kognitiven Schulden und Absichtsschulden. Der Code sieht gut aus, aber keiner versteht ihn mehr.
+> Mit jeder neuen Modellgeneration schreibt KI besseren Code – fast beängstigend gut inzwischen schon. Dadurch kann sie technische Schulden sogar senken. Da sie aber auf Knopfdruck große Mengen solchen Codes erzeugt, können sich kognitive Schulden und Absichtsschulden ebenso schnell anhäufen. Früher war chaotischer Code oft das erste Warnsignal, dass ein Projekt aus dem Ruder läuft. Dieses Signal fällt weg. Sauberer Code wiegt uns in Sicherheit, während die eigentlichen Schulden im Verborgenen wachsen.
 
 ## Nicht jedes Auslagern ist ein Problem
 
