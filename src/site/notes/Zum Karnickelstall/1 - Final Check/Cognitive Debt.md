@@ -83,9 +83,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 - Entscheidungen und deren Gründe aufschreiben. Das bekämpft gleichzeitig Intent Debt.
 - KI-generierten Code gemeinsam besprechen, statt ihn ungelesen zu übernehmen.
 
-Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; fraglich ist allerdings, ob sie im Rausch von Geschwindigkeit, Effizienz und „Produktivität“, welche unsere Zeit so kennzeichnen, umgesetzt werden.
-
-Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerdings ist fraglich, ob er Gehör finden wird in unserer Zeit, die so sehr von Geschwindigkeit, Effizienz und „Produktivität“ geprägt ist.
+Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerdings ist fraglich, ob er Gehör finden wird in unserer Zeit, die von Geschwindigkeit, Effizienz und „Produktivität“ geradezu besessen ist.
 
 ## Kritik am Begriff
 
