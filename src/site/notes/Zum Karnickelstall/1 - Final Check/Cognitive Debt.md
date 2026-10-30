@@ -93,8 +93,8 @@ Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerd
 
 ## 📖 Weiterlesen
 
-- [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]: die Studie, die den Begriff im KI-Kontext bekannt machte, samt ihrer Schwachstellen.
-- Während kognitive Schulden in der Softwareentwicklung beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]]  besonders schnell entsteht, verantworten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Menschen Architektur und Verständnis bewusst selbst.
+- Die Studie, die den Begriff im KI-Kontext bekannt machte, samt ihrer Schwachstellen: [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]: 
+- Während kognitive Schulden in der Softwareentwicklung beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] besonders schnell entstehen, behalten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Entwickler Architektur und Verständnis bewusst selbst in der Hand.
 
 ## 📺 Aus der YouTube Academy
 
