@@ -26,7 +26,7 @@ Vielerorts liest man, das MIT habe den Begriff geprägt; wie wir jedoch gesehen 
 
 Die Informatik-Professorin Margaret-Anne Storey übertrug den Begriff aufs Programmieren.[^storey] Hier geht es um das **gemeinsame Verständnis eines Teams**: Niemand weiß mehr so recht, wie und warum die eigene Software funktioniert. In diesem Sinne ist Cognitive Debt eine Eigenschaft des Projekts, nicht einer Person.
 
-Storey teilt dabei die Auffassung, die der dänische Informatiker Peter Naur 1985 formulierte: Ein Programm ist mehr als sein Code. Es ist eine **Theorie** in den Köpfen der Entwickler: was das System tun soll und warum es so gebaut ist. Geht diese Theorie verloren, bleibt nur Code übrig, den niemand mehr sicher verändern kann. 
+Storey teilt dabei die Auffassung, die der dänische Informatiker Peter Naur 1985 formulierte: Ein Programm ist mehr als sein Code. Es ist eine **Theorie** in den Köpfen der Entwickler darüber, was das System tun soll und warum es so gebaut ist.Geht diese Theorie verloren, bleibt nur Code übrig, den niemand mehr sicher verändern kann. 
 
 Besonders schnell häufen sich diese Schulden beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] an, wenn KI den Code schreibt und niemand mehr genau hinschaut.
 
@@ -74,7 +74,7 @@ Der Unterschied liegt darin, *was* man auslagert:
 Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams: **Die KI nichts bauen lassen, was man selbst nicht versteht.**
 
 **Für Einzelne:**
-- Erst selbst denken, dann KI. Die MIT-Studie deutet darauf hin, dass die Reihenfolge eine Rolle spielt.
+- Erst selbst denken, dann KI. Eigentlich naheliegend; auch die MIT-Studie deutet in diese Richtung.
 - KI Fragen stellen lassen, statt sich Antworten liefern zu lassen. Mehr dazu unter [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|Aktives Lernen]].
 - Ab und zu bewusst ohne KI arbeiten und prüfen, ob man es noch kann.
 
@@ -82,6 +82,10 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 - Bewusst langsamer werden, wenn das Verständnis nicht mehr hinterherkommt.
 - Entscheidungen und deren Gründe aufschreiben. Das bekämpft gleichzeitig Intent Debt.
 - KI-generierten Code gemeinsam besprechen, statt ihn ungelesen zu übernehmen.
+
+Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; fraglich ist allerdings, ob sie im Rausch von Geschwindigkeit, Effizienz und „Produktivität“, welche unsere Zeit so kennzeichnen, umgesetzt werden.
+
+Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerdings ist fraglich, ob er Gehör finden wird in unserer Zeit, die so sehr von Geschwindigkeit, Effizienz und „Produktivität“ geprägt ist.
 
 ## Kritik am Begriff
 
