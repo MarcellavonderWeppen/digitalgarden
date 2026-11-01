@@ -26,7 +26,7 @@ Vielerorts liest man, das MIT habe den Begriff geprägt; wie wir jedoch gesehen 
 
 Die Informatik-Professorin Margaret-Anne Storey übertrug den Begriff aufs Programmieren.[^storey] Hier geht es um das **gemeinsame Verständnis eines Teams**: Niemand weiß mehr so recht, wie und warum die eigene Software funktioniert. In diesem Sinne ist Cognitive Debt eine Eigenschaft des Projekts, nicht einer Person.
 
-Storey teilt dabei die Auffassung, die der dänische Informatiker Peter Naur 1985 formulierte: Ein Programm ist mehr als sein Code. Es ist eine **Theorie** in den Köpfen der Entwickler darüber, was das System tun soll und warum es so gebaut ist.Geht diese Theorie verloren, bleibt nur Code übrig, den niemand mehr sicher verändern kann. 
+Storey teilt dabei die Auffassung, die der dänische Informatiker Peter Naur 1985 formulierte: Ein Programm ist mehr als sein Code. Es ist eine **Theorie** in den Köpfen der Entwickler darüber, was das System tun soll und warum es so gebaut ist. Geht diese Theorie verloren, bleibt nur Code übrig, den niemand mehr sicher verändern kann. 
 
 Besonders schnell häufen sich diese Schulden beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] an, wenn KI den Code schreibt und niemand mehr genau hinschaut.
 
