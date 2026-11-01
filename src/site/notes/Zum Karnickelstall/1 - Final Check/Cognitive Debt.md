@@ -91,16 +91,28 @@ Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerd
 - **Braucht es überhaupt einen neuen Begriff?** Manche halten den Begriff für überflüssig, weil es mit Cognitive Offloading oder **Deskilling** (Verlust von Fähigkeiten durch Automatisierung) längst etablierte Begriffe gibt.
 - Speziell an der [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]] gibt es einiges auszusetzen: nur 54 Teilnehmende, kein Peer-Review, methodische Schwächen.
 
+## Eine vierte Art von Schulden?
 
-## 📖 Weiterlesen
+Karpathy weist auf ein bemerkenswertes Phänomen hin: die Einschätzungen über KI gehen weit auseinander. Je nachdem, wen man fragt, ist KI eine größtenteils nutzlose Wortvorhersage-Maschine, ein mächtiges Werkzeug oder kurz davor als [[Garten erkunden/Grundlagen/AGI (Artificial General Intelligence) und ASI (Artificial Super Intelligence)\|ASI (Artificial Superintelligence)]] die Menschheit zu retten (oder vernichten). Diese Diskrepanz ist kein Zufall, sondern hängt vollständig von der persönlichen Erfahrung ab. Von rund acht Milliarden Menschen hatten etwa sechs Milliarden keinen oder kaum Kontakt mit KI. Einige haben bereits gelegentlich mit der kostenlosen Version von ChatGPT gespielt. Wenige Fachmenschen sehen in ihrer täglichen Arbeit, wozu Frontiermodelle in bestimmten Bereichen wie Programmierung und Mathematik inzwischen fähig sind.  Nur etwa 5000 haben Zugang zu den Spitzensystemen in den KI-Laboren und damit einen vollständigen Einblick, was diese Systeme wirklich leisten können. 
 
+*Niemand* versteht KI vollständig; wie statische KI zu ihren Antworten kommt bleibt eine Blackbox. Es scheint ein Novum in der Geschichte der Menschheit sein: wir haben etwas erfunden, was kein Mensch versteht. 
+
+Ich deute das als eine vierte Art von Schulden, und zwar eine, die ich für wesentlich gefährlicher halte als alle anderen. Bei Storey hält das Verständnis eines Teams nicht mehr mit dem eigenen Code Schritt. Hier passiert dasselbe eine Ebene höher: Das Verständnis der gesamten Menschheit hält nicht mehr Schritt mit einer Technologie, die schon jetzt große Verwerfungen mit sich bringt. Ich taufe das hiermit **Collective Cognitive Debt**, um der Anhäufung von Schulden-Metaphern noch eine weitere hinzuzufügen.
+
+Wie es scheint, scheint es bei OpenAI & Co auch unzureichende Dokumentation zu geben, und sie tragen somit auch zum rasanten Anwachsen der **Collective Intent Debt** bei. 
+
+Wir haben es hier nicht nur mit einer demokratisch nicht legitimierten Entwicklung zu tun, sondern auch mit der perfekten Grundlage für ein Desaster. Eine kleine Elite sieht zwar die aktuelle Leistungsfähigkeit dieser Technologie, versteht sie aber nicht vollständig und treibt diese dennoch mit atemberaubenden Tempo voran. Wie wenig sie ihr Baby im Griff haben, zeigt schon der [[Angriff auf Hugging Face\|Angriff auf Hugging Face]]. 
+
+Eine Super-KI bauen, die man zwar nicht versteht, aber die man dennoch irgendwie kontrollieren möchte? Scheint mir so plausibel, wie Ameisen, welche die Menschheit kontrollieren möchten. Experten sehen eine Wahrscheinlichkeit von 0,01% bis 95%, dass KI die Menschheit vernichten wird. Diese Entscheidung betrifft die gesamte Menschheit und solange die Wahrscheinlichkeit nicht bei 0 liegt, steht es niemanden zu, für uns zu entscheiden.
+
+📺 Dieses kurze Video fasst Karpathys Gedanken gut zusammen: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs)
+📖 Wer lieber : [[Zum Karnickelstall/Must-Have/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht]]
+
+## 📖 Noch mehr lesen und  📺 Gucken
 
 - Kognitive Schulden durch Verwendung von KI sind kein Selbstläufer: während sie beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] besonders schnell entstehen, behalten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Entwickler Architektur und Verständnis bewusst selbst in der Hand.
-
-## 📺 Aus der YouTube Academy
-
 - Ein sehr empfehlenswertes Video zu kognitive Schulden in der Softwareentwicklung: [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M)
-- Karpathy spricht ein weiteres Phänomen an: Von rund acht Milliarden Menschen haben nur etwa 5000 Zugang zu den Spitzensystemen in den KI-Laboren und damit einen vollständigen Einblick, was diese Systeme wirklich leisten können. Ein kurzes Video fasst seine These gut zusammen: 📺 [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs) Ich deute das als eine vierte Art der kognitiven Schulden, und zwar eine, die ich als wesentlich verstörender empfinde als die ohnehin schon gefährlichen Cognitive Debt und Intent Debt. Wenn nur eine kleine Elite diese Erfindung, die für das Schicksal der Menschheit entscheidend sein könnte, in ihrem vollen Ausmaß versteht und vorantreibt, haben wir es nicht nur mit einer zutiefst undemokratischen Entwicklung zu tun, sondern auch mit der perfekten Grundlage für ein Desaster. Wie wenig diese demokratisch nicht legitimierten Eliten ihr Baby im Griff haben, zeigt schon der [[Angriff auf Hugging Face\|Angriff auf Hugging Face]]. Wer lieber lesen als gucken möchte, hier meine Zusammenfassung zum Video: 📖 [[Zum Karnickelstall/Must-Have/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht]]
+
 
 [^marchant]: Marchant, N. L. & Howard, R. J. (2015): „Cognitive Debt and Alzheimer's Disease“, Journal of Alzheimer's Disease 44(3), S. 755–770. [doi.org/10.3233/JAD-141515](https://doi.org/10.3233/JAD-141515)
 
@@ -111,3 +123,5 @@ Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerd
 [^offloading]: Geprägt u. a. von Evan Risko und Sam Gilbert (2016): „Cognitive Offloading“, Trends in Cognitive Sciences.
 
 [^karpathy]: Andrej Karpathy im Gespräch mit Stephanie Zhang auf der Konferenz AI Ascent 2026 von Sequoia Capital (April 2026). Im Original: „You can outsource your thinking, but you can't outsource your understanding." [Video ab 27:56](https://www.youtube.com/watch?v=96jN2OCOfLs&t=1676s)
+
+[^pdoom]: Gesammelt werden solche Schätzungen unter dem Stichwort „p(doom)“. Am unteren Ende steht Yann LeCun, langjähriger Chief AI Scientist bei Meta, mit unter 0,01 %, am oberen Eliezer Yudkowsky (Machine Intelligence Research Institute) mit über 95 %. Seine Position hat er gemeinsam mit Nate Soares im Buch „If Anyone Builds It, Everyone Dies“ (2025) ausgeführt. Im Mittelfeld liegen u. a. Yoshua Bengio (20 %) und Dario Amodei, CEO von Anthropic (10–25 %). Übersicht: [Wikipedia: P(doom)](https://en.wikipedia.org/wiki/P%28doom%29). In einer Umfrage unter 2.778 KI-Forschenden lag der Median bei 5 %: Grace et al. (2024): „Thousands of AI Authors on the Future of AI“, arXiv:2401.02843.
