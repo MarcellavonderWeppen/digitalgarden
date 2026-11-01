@@ -75,7 +75,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 
 **Für Einzelne:**
 - Erst selbst denken, dann KI. Eigentlich naheliegend; nicht überraschend, dass auch die MIT-Studie in diese Richtung deutet.
-- KI Fragen stellen lassen, statt sich Antworten liefern zu lassen. Mehr dazu unter [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|Aktives Lernen]].
+- Sich von der KI Fragen stellen lassen, statt sich Antworten abzuholen. Mehr dazu unter [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|Aktives Lernen]].
 - Ab und zu bewusst ohne KI arbeiten und prüfen, ob man es noch kann.
 
 **Für Teams:**
@@ -89,7 +89,7 @@ Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerd
 
 - **Schwer messbar:** „Schulden“ ist eine Metapher. Wie viel Cognitive Debt ein Mensch oder Team angehäuft hat, lässt sich bislang nicht beziffern.
 - **Alter Wein in neuen Schläuchen?** Manche halten den Begriff für überflüssig, weil es mit Cognitive Offloading oder **Deskilling** (Verlust von Fähigkeiten durch Automatisierung) längst etablierte Begriffe gibt.
-- **Verwässerung:** Drei Fachgebiete, drei Bedeutungen. Wer „Cognitive Debt“ liest, sollte genau hinschauen, welche gemeint ist.
+- **Mehrdeutigkeit:** Drei Fachgebiete, drei Bedeutungen. Wer „Cognitive Debt“ liest, sollte genau hinschauen, welche gemeint ist.
 
 ## 📖 Weiterlesen
 
