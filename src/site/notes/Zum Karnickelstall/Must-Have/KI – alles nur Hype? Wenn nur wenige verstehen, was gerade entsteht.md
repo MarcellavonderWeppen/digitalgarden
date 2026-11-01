@@ -1,5 +1,5 @@
 ---
-{"title":"KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-15","updated":null,"status":"🌿 - wilde Pflanze, braucht Pflege","dg-publish":true,"permalink":"/zum-karnickelstall/must-have/ki-alles-nur-hype-wenn-nur-wenige-verstehen-was-gerade-entsteht/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-15","updated":null,"status":"🌿 - wilde Pflanze, braucht Pflege"}}
+{"title":"KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-15","updated":null,"status":"🌿 – Pflanze braucht Pflege","dg-publish":true,"permalink":"/zum-karnickelstall/must-have/ki-alles-nur-hype-wenn-nur-wenige-verstehen-was-gerade-entsteht/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-15","updated":null,"status":"🌿 – Pflanze braucht Pflege"}}
 ---
 
 # KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht
