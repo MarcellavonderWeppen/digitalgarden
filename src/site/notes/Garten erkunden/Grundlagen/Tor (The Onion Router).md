@@ -1,5 +1,5 @@
 ---
-{"title":"Tor (The Onion Router)","aliases":["Tor"],"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-06-04","updated":"2026-06-06","status":null,"dg-publish":true,"permalink":"/garten-erkunden/grundlagen/tor-the-onion-router/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Tor (The Onion Router)","aliases":["Tor"],"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-06-04","updated":"2026-06-06","status":null}}
+{"title":"Tor (The Onion Router)","aliases":["Tor"],"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-06-04","updated":"2026-06-06","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/tor-the-onion-router/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Tor (The Onion Router)","aliases":["Tor"],"tags":null,"gen_ai_anteil":["Mistral 100%"],"created":"2026-06-04","updated":"2026-06-06","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 # Tor (The Onion Router)

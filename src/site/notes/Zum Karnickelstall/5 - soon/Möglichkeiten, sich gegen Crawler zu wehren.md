@@ -1,5 +1,5 @@
 ---
-{"title":"Möglichkeiten, sich gegen Crawler zu wehren","aliases":null,"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-10-01","updated":null,"status":"🌿","dg-publish":true,"permalink":"/zum-karnickelstall/5-soon/moeglichkeiten-sich-gegen-crawler-zu-wehren/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Möglichkeiten, sich gegen Crawler zu wehren","aliases":null,"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-10-01","updated":null,"status":"🌿"}}
+{"title":"Möglichkeiten, sich gegen Crawler zu wehren","aliases":null,"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-10-01","updated":null,"status":"🌿 - wilde Pflanze, braucht Pflege","dg-publish":true,"permalink":"/zum-karnickelstall/5-soon/moeglichkeiten-sich-gegen-crawler-zu-wehren/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Möglichkeiten, sich gegen Crawler zu wehren","aliases":null,"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-10-01","updated":null,"status":"🌿 - wilde Pflanze, braucht Pflege"}}
 ---
 
 

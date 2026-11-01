@@ -1,5 +1,5 @@
 ---
-{"title":"Klassische KI","aliases":["klassische KI","symbolische KI","regelbasierte KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 20%"],"created":"2026-04-07","updated":"2026-09-19","status":null,"dg-publish":true,"permalink":"/garten-erkunden/grundlagen/klassische-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Klassische KI","aliases":["klassische KI","symbolische KI","regelbasierte KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 20%"],"created":"2026-04-07","updated":"2026-09-19","status":null}}
+{"title":"Klassische KI","aliases":["klassische KI","symbolische KI","regelbasierte KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 20%"],"created":"2026-04-07","updated":"2026-09-19","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/klassische-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Klassische KI","aliases":["klassische KI","symbolische KI","regelbasierte KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 20%"],"created":"2026-04-07","updated":"2026-09-19","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 # Klassische KI

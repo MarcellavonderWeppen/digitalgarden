@@ -1,5 +1,5 @@
 ---
-{"title":"Prädiktive KI","aliases":["prädiktive KI"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-11","updated":"2026-09-18","status":null,"dg-publish":true,"permalink":"/garten-erkunden/grundlagen/praediktive-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Prädiktive KI","aliases":["prädiktive KI"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-11","updated":"2026-09-18","status":null}}
+{"title":"Prädiktive KI","aliases":["prädiktive KI"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-11","updated":"2026-09-18","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/praediktive-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Prädiktive KI","aliases":["prädiktive KI"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-09-11","updated":"2026-09-18","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 # Prädiktive KI

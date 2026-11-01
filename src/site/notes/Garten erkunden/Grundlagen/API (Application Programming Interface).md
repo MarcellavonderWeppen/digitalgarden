@@ -1,5 +1,5 @@
 ---
-{"title":"API (Application Programming Interface)","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-05-01","status":null,"dg-publish":true,"permalink":"/garten-erkunden/grundlagen/api-application-programming-interface/","dgPassFrontmatter":true,"dg-note-properties":{"title":"API (Application Programming Interface)","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-05-01","status":null}}
+{"title":"API (Application Programming Interface)","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-05-01","status":"🌱 – wächst vielleicht später noch weiter","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/api-application-programming-interface/","dgPassFrontmatter":true,"dg-note-properties":{"title":"API (Application Programming Interface)","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-04-01","updated":"2026-05-01","status":"🌱 – wächst vielleicht später noch weiter"}}
 ---
 
 

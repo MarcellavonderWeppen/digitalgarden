@@ -1,5 +1,5 @@
 ---
-{"title":"Crawler","aliases":["Webcrawler","Spider","Bot"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-10-01","status":null,"dg-publish":true,"permalink":"/garten-erkunden/grundlagen/crawler/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Crawler","aliases":["Webcrawler","Spider","Bot"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-10-01","status":null}}
+{"title":"Crawler","aliases":["Webcrawler","Spider","Bot"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-10-01","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/crawler/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Crawler","aliases":["Webcrawler","Spider","Bot"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-10-01","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 # Crawler

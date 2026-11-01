@@ -1,5 +1,5 @@
 ---
-{"title":"Statistische KI","aliases":["statistische KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 40%"],"created":"2026-04-07","updated":"2026-09-18","status":null,"dg-publish":true,"permalink":"/garten-erkunden/grundlagen/statistische-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Statistische KI","aliases":["statistische KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 40%"],"created":"2026-04-07","updated":"2026-09-18","status":null}}
+{"title":"Statistische KI","aliases":["statistische KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 40%"],"created":"2026-04-07","updated":"2026-09-18","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/statistische-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Statistische KI","aliases":["statistische KI"],"tags":null,"gen_ai_anteil":["Gemini 20%","Claude 40%"],"created":"2026-04-07","updated":"2026-09-18","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 

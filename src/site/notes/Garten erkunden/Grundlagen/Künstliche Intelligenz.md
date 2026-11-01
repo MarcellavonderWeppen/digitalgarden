@@ -1,5 +1,5 @@
 ---
-{"title":"Künstliche Intelligenz","aliases":["KI","künstliche Intelligenz"],"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-04-03","updated":"2026-09-18","status":null,"dg-publish":true,"permalink":"/garten-erkunden/grundlagen/kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Künstliche Intelligenz","aliases":["KI","künstliche Intelligenz"],"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-04-03","updated":"2026-09-18","status":null}}
+{"title":"Künstliche Intelligenz","aliases":["KI","künstliche Intelligenz"],"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-04-03","updated":"2026-09-18","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/kuenstliche-intelligenz/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Künstliche Intelligenz","aliases":["KI","künstliche Intelligenz"],"tags":null,"gen_ai_anteil":["Gemini 20%"],"created":"2026-04-03","updated":"2026-09-18","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 

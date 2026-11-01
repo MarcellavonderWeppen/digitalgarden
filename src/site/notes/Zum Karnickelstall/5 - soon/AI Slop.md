@@ -1,5 +1,5 @@
 ---
-{"title":"AI Slop","aliases":["KI-Slop"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-12","updated":"2026-10-15","status":"🌿","dg-publish":true,"permalink":"/zum-karnickelstall/5-soon/ai-slop/","dgPassFrontmatter":true,"dg-note-properties":{"title":"AI Slop","aliases":["KI-Slop"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-12","updated":"2026-10-15","status":"🌿"}}
+{"title":"AI Slop","aliases":["KI-Slop"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-12","updated":"2026-10-15","status":"🌿 - wilde Pflanze, braucht Pflege","dg-publish":true,"permalink":"/zum-karnickelstall/5-soon/ai-slop/","dgPassFrontmatter":true,"dg-note-properties":{"title":"AI Slop","aliases":["KI-Slop"],"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-10-12","updated":"2026-10-15","status":"🌿 - wilde Pflanze, braucht Pflege"}}
 ---
 
 # AI-Slop

@@ -1,5 +1,5 @@
 ---
-{"title":"Atomare Notizen","aliases":["atomare Notizen"],"tags":null,"gen_ai_anteil":["Euria 60%"],"created":"2026-05-01","updated":"2026-10-09","status":null,"dg-publish":true,"permalink":"/garten-erkunden/digitale-gaerten-pkm-and-lernen/atomare-notizen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Atomare Notizen","aliases":["atomare Notizen"],"tags":null,"gen_ai_anteil":["Euria 60%"],"created":"2026-05-01","updated":"2026-10-09","status":null}}
+{"title":"Atomare Notizen","aliases":["atomare Notizen"],"tags":null,"gen_ai_anteil":["Euria 60%"],"created":"2026-05-01","updated":"2026-10-09","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/garten-erkunden/digitale-gaerten-pkm-and-lernen/atomare-notizen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Atomare Notizen","aliases":["atomare Notizen"],"tags":null,"gen_ai_anteil":["Euria 60%"],"created":"2026-05-01","updated":"2026-10-09","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 

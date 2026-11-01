@@ -1,5 +1,5 @@
 ---
-{"title":"IndieWeb","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-05","updated":null,"status":"🌱","dg-publish":true,"permalink":"/garten-erkunden/alternativen/indie-web/","dgPassFrontmatter":true,"dg-note-properties":{"title":"IndieWeb","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-05","updated":null,"status":"🌱"}}
+{"title":"IndieWeb","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-05","updated":null,"status":"🌱 – wächst vielleicht später noch weiter","dg-publish":true,"permalink":"/garten-erkunden/alternativen/indie-web/","dgPassFrontmatter":true,"dg-note-properties":{"title":"IndieWeb","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-10-05","updated":null,"status":"🌱 – wächst vielleicht später noch weiter"}}
 ---
 
 

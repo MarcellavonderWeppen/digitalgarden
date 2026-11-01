@@ -1,5 +1,5 @@
 ---
-{"title":"Sir Tim Berners-Lee","aliases":["Tim Berners-Lee"],"tags":null,"gen_ai_anteil":null,"created":"2026-09-27","updated":null,"status":"🌱","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/sir-tim-berners-lee/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Sir Tim Berners-Lee","aliases":["Tim Berners-Lee"],"tags":null,"gen_ai_anteil":null,"created":"2026-09-27","updated":null,"status":"🌱"}}
+{"title":"Sir Tim Berners-Lee","aliases":["Tim Berners-Lee"],"tags":null,"gen_ai_anteil":null,"created":"2026-09-27","updated":null,"status":"🌱 – wächst vielleicht später noch weiter","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/sir-tim-berners-lee/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Sir Tim Berners-Lee","aliases":["Tim Berners-Lee"],"tags":null,"gen_ai_anteil":null,"created":"2026-09-27","updated":null,"status":"🌱 – wächst vielleicht später noch weiter"}}
 ---
 
 

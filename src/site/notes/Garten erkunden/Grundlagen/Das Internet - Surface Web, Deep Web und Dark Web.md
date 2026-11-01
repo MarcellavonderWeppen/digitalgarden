@@ -1,5 +1,5 @@
 ---
-{"title":"Das Internet: Surface Web, Deep Web und Dark Web","aliases":["Internet"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-09-27","status":null,"dg-publish":true,"permalink":"/garten-erkunden/grundlagen/das-internet-surface-web-deep-web-und-dark-web/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Das Internet: Surface Web, Deep Web und Dark Web","aliases":["Internet"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-09-27","status":null}}
+{"title":"Das Internet: Surface Web, Deep Web und Dark Web","aliases":["Internet"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-09-27","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/das-internet-surface-web-deep-web-und-dark-web/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Das Internet: Surface Web, Deep Web und Dark Web","aliases":["Internet"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-09-27","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 

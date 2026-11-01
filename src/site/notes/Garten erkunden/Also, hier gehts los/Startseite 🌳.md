@@ -1,5 +1,5 @@
 ---
-{"title":"Startseite 🌳","aliases":null,"tags":["gardenEntry"],"gen_ai_anteil":["Claude 20%"],"created":"2026-04-01","updated":"2026-09-25","status":"🌳","dg-publish":true,"dg-home":true,"permalink":"/garten-erkunden/also-hier-gehts-los/startseite/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Startseite 🌳","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%"],"created":"2026-04-01","updated":"2026-09-25","status":"🌳"}}
+{"title":"Startseite 🌳","aliases":null,"tags":["gardenEntry"],"gen_ai_anteil":["Claude 20%"],"created":"2026-04-01","updated":"2026-09-25","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"dg-home":true,"permalink":"/garten-erkunden/also-hier-gehts-los/startseite/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Startseite 🌳","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%"],"created":"2026-04-01","updated":"2026-09-25","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 ![Digital Garden Gemini 14.05.2026.png](/img/user/Garten%20erkunden/Bilder/Digital%20Garden%20Gemini%2014.05.2026.png)

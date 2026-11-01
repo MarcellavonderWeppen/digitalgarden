@@ -1,5 +1,5 @@
 ---
-{"title":"Generative KI","aliases":["generative KI","GenAI"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-06-04","status":null,"dg-publish":true,"permalink":"/garten-erkunden/grundlagen/generative-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Generative KI","aliases":["generative KI","GenAI"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-06-04","status":null}}
+{"title":"Generative KI","aliases":["generative KI","GenAI"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-06-04","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/garten-erkunden/grundlagen/generative-ki/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Generative KI","aliases":["generative KI","GenAI"],"tags":null,"gen_ai_anteil":["Mistral 20%","Claude 20%"],"created":"2026-06-03","updated":"2026-06-04","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 # Was ist Generative KI?

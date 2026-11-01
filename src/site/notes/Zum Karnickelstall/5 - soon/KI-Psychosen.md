@@ -1,5 +1,5 @@
 ---
-{"title":"KI-Psychosen","aliases":["KI-Psychose"],"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":"🌱","dg-publish":true,"permalink":"/zum-karnickelstall/5-soon/ki-psychosen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI-Psychosen","aliases":["KI-Psychose"],"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":"🌱"}}
+{"title":"KI-Psychosen","aliases":["KI-Psychose"],"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":"🌱 – wächst vielleicht später noch weiter","dg-publish":true,"permalink":"/zum-karnickelstall/5-soon/ki-psychosen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI-Psychosen","aliases":["KI-Psychose"],"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":"🌱 – wächst vielleicht später noch weiter"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"title":"Fediverse","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-28","updated":null,"status":"🌱","dg-publish":true,"permalink":"/garten-erkunden/alternativen/fediverse/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Fediverse","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-28","updated":null,"status":"🌱"}}
+{"title":"Fediverse","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-28","updated":null,"status":"🌱 – wächst vielleicht später noch weiter","dg-publish":true,"permalink":"/garten-erkunden/alternativen/fediverse/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Fediverse","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-09-28","updated":null,"status":"🌱 – wächst vielleicht später noch weiter"}}
 ---
 
 # Fediverse
