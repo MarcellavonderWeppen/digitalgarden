@@ -1,5 +1,5 @@
 ---
-{"title":"Cognitive Debt","aliases":["Cognitive Debt (kognitive Schulden)","kognitive Schulden"],"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-10-15","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/cognitive-debt/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Cognitive Debt","aliases":["Cognitive Debt (kognitive Schulden)","kognitive Schulden"],"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-10-15","updated":null,"status":null}}
+{"title":"Cognitive Debt","aliases":["Cognitive Debt (kognitive Schulden)","kognitive Schulden"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-15","updated":"2026-11-01","status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/cognitive-debt/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Cognitive Debt","aliases":["Cognitive Debt (kognitive Schulden)","kognitive Schulden"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-15","updated":"2026-11-01","status":null}}
 ---
 
 # Cognitive Debt
@@ -83,7 +83,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 - Entscheidungen und deren Gründe aufschreiben. Das bekämpft gleichzeitig Intent Debt.
 - KI-generierten Code gemeinsam besprechen, statt ihn ungelesen zu übernehmen.
 
-Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerdings ist fraglich, ob er Gehör finden wird in unserer Zeit, die von Geschwindigkeit, Effizienz und „Produktivität“ geradezu besessen ist.
+Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerdings ist fraglich, ob er Gehör finden wird in unserer Zeit, die so sehr von Geschwindigkeit, Effizienz und „Produktivität“ besessen ist.
 
 ## Kritik am Begriff
 
