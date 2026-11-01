@@ -88,12 +88,13 @@ Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerd
 ## Kritik am Begriff
 
 - **Schwer messbar:** „Schulden“ ist eine Metapher. Wie viel Cognitive Debt ein Mensch oder Team angehäuft hat, lässt sich bislang nicht beziffern.
-- **Brauchen wir den Begriff überhaupt?** Manche halten den Begriff für überflüssig, weil es mit Cognitive Offloading oder **Deskilling** (Verlust von Fähigkeiten durch Automatisierung) längst etablierte Begriffe gibt.
-- **Mehrdeutigkeit:** Drei Fachgebiete, drei Bedeutungen. Wer „Cognitive Debt“ liest, sollte genau hinschauen, welche gemeint ist.
+- **Braucht es einen neuen Begriff?** Manche halten den Begriff für überflüssig, weil es mit Cognitive Offloading oder **Deskilling** (Verlust von Fähigkeiten durch Automatisierung) längst etablierte Begriffe gibt.
+- Speziell an der [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]] gibt es einiges auszusetzen: nur 54 Teilnehmende, kein Peer-Review, methodische Schwächen.
+
 
 ## 📖 Weiterlesen
 
-- Die Studie, die den Begriff im KI-Kontext bekannt machte, samt ihrer Schwachstellen: [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]]
+
 - Während kognitive Schulden in der Softwareentwicklung beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] besonders schnell entstehen, behalten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Entwickler Architektur und Verständnis bewusst selbst in der Hand.
 
 ## 📺 Aus der YouTube Academy
