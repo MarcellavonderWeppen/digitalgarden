@@ -74,7 +74,7 @@ Der Unterschied liegt darin, *was* man auslagert:
 Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams: **Die KI nichts bauen lassen, was man selbst nicht versteht.**
 
 **Für Einzelne:**
-- Erst selbst denken, dann KI. Eigentlich naheliegend; auch die MIT-Studie deutet in diese Richtung.
+- Erst selbst denken, dann KI. Eigentlich naheliegend; nicht überraschend, dass auch die MIT-Studie in diese Richtung deutet.
 - KI Fragen stellen lassen, statt sich Antworten liefern zu lassen. Mehr dazu unter [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|Aktives Lernen]].
 - Ab und zu bewusst ohne KI arbeiten und prüfen, ob man es noch kann.
 
