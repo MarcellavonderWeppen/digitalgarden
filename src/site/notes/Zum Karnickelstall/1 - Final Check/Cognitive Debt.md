@@ -88,7 +88,7 @@ Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerd
 ## Kritik am Begriff
 
 - **Schwer messbar:** „Schulden“ ist eine Metapher. Wie viel Cognitive Debt ein Mensch oder Team angehäuft hat, lässt sich bislang nicht beziffern.
-- **Alter Wein in neuen Schläuchen?** Manche halten den Begriff für überflüssig, weil es mit Cognitive Offloading oder **Deskilling** (Verlust von Fähigkeiten durch Automatisierung) längst etablierte Begriffe gibt.
+- **Brauchen wir den Begriff überhaupt?** Manche halten den Begriff für überflüssig, weil es mit Cognitive Offloading oder **Deskilling** (Verlust von Fähigkeiten durch Automatisierung) längst etablierte Begriffe gibt.
 - **Mehrdeutigkeit:** Drei Fachgebiete, drei Bedeutungen. Wer „Cognitive Debt“ liest, sollte genau hinschauen, welche gemeint ist.
 
 ## 📖 Weiterlesen
