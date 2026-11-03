@@ -204,3 +204,32 @@ Kurz: Pair Programming, Du als Navigator und PO, ich als Driver mit Wissensvorsp
 Sie ist eine eigenständige Einheit, die auch Jahre später noch ihren Sinn ergibt, ohne dass der ursprüngliche Entstehungskontext nachvollzogen werden muss.
 
 Im Gegensatz dazu ist eine Sammelnotiz oft an ihren spezifischen Ursprungskontext gebunden und schwerer anderweitig nutzbar.
+
+
+
+**Dein ursprünglicher Bullet:**
+
+markdown
+
+```markdown
+- Ab und zu bewusst ohne KI arbeiten und prüfen, ob man es noch kann.
+```
+
+**Meine Antwort darauf:**
+
+> Ich hab eine Vermutung, sicher bin ich mir aber nicht. Das kannst nur Du beurteilen.
+> 
+> **Woran es liegen könnte:**
+> 
+> - **Der Satz klingt nach Ratgeber.** „Ab und zu bewusst …“ ist der typische Einstieg von Tipps in Selbsthilfe-Listen. Deine anderen Punkte haben einen kleinen Dreh, etwa „Eigentlich naheliegend; es überrascht nicht …“ oder einen Verweis. Dieser Punkt ist nur eine Anweisung, ohne Haltung dahinter.
+> - **Das „es“ ist vage.** „Ob man es noch kann“: Was ist „es“? Der Satz bleibt abstrakt, wo Du sonst konkret bist.
+> - **„bewusst“ steht doppelt.** Zwei Zeilen weiter unten steht schon „Bewusst langsamer werden“. Das fällt nicht sofort auf, aber man spürt beim Lesen, dass sich etwas wiederholt.
+> - **„prüfen“ klingt nach Prüfung.** Es erinnert an einen Test, den man bestehen muss, weniger an Neugier.
+> 
+> **Drei Richtungen zum Ausprobieren:**
+> 
+> 1. Knapp mit Dreh: _„Ab und zu ohne KI arbeiten. Nicht aus Prinzip, sondern als Stichprobe: Kann ich das noch?“_
+> 2. Mit Metapher: _„Hin und wieder die KI links liegen lassen. Wer nur noch mit Stützrädern fährt, merkt nicht, dass er das Gleichgewicht verlernt.“_
+> 3. Direkt, in der ersten Person: _„Ab und zu den Stecker ziehen und schauen, was dann noch übrig ist.“_
+
+## Vorraussetzungen für Schreiben mit KI: Souveränität + Integrität

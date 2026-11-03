@@ -51,6 +51,10 @@ Eine Super-KI bauen, die man zwar nicht versteht, aber die man dennoch irgendwie
 - Optional: weitere Recherche zu anderen Laboren, damit es nicht nur nach OpenAI aussieht
 - Grace et al. ist inzwischen begutachtet erschienen: Journal of Artificial Intelligence Research 84:9 (2025)
 
+
+[AI's Biggest Problem Disappeared Overnight](https://www.youtube.com/watch?v=b6WuqciIAuw&list=LL&index=1&t=660s)
+
+
 [^novum]: Dass wir etwas nutzen, ohne es zu verstehen, ist an sich nicht neu. Aspirin ist seit 1899 auf dem Markt, doch wie es wirkt, entschlüsselte John Vane erst 1971. Und wie Vollnarkose das Bewusstsein ausschaltet, ist bis heute nicht vollständig geklärt. Aber Aspirin wird nicht mit jeder Generation klüger. Neu ist die Kombination: etwas, das wir nicht verstehen, das zunehmend selbstständig handelt und das wir gezielt immer leistungsfähiger machen.
 
 [^fmti]: Wan et al. (2025): „The 2025 Foundation Model Transparency Index“, Stanford CRFM, [crfm.stanford.edu/fmti/December-2025](https://crfm.stanford.edu/fmti/December-2025). Konkrete Fälle 2025: OpenAI veröffentlichte GPT-4.1 ohne Sicherheitsbericht, Google Gemini 2.5 Pro zunächst ohne Model Card.

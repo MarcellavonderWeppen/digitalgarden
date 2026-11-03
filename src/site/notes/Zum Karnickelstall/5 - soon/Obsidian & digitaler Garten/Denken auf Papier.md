@@ -1,5 +1,5 @@
 ---
-{"title":"Denken auf Papier","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%","Gemini 20%"],"created":"2026-04-01","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/5-soon/obsidian-and-digitaler-garten/denken-auf-papier/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Denken auf Papier","aliases":null,"tags":null,"gen_ai_anteil":["Claude 20%","Gemini 20%"],"created":"2026-04-01","updated":"2026-05-17","status":null}}
+{"title":"Denken auf Papier","aliases":["Schreiben auf Papier"],"tags":null,"gen_ai_anteil":["Claude 20%","Gemini 20%"],"created":"2026-04-01","updated":"2026-05-17","status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/5-soon/obsidian-and-digitaler-garten/denken-auf-papier/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Denken auf Papier","aliases":["Schreiben auf Papier"],"tags":null,"gen_ai_anteil":["Claude 20%","Gemini 20%"],"created":"2026-04-01","updated":"2026-05-17","status":null}}
 ---
 
 

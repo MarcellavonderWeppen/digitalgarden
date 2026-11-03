@@ -75,8 +75,8 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 
 **Für Einzelne:**
 - Erst selbst denken, dann KI. Eigentlich naheliegend; es überrascht nicht, dass auch die MIT-Studie in diese Richtung deutet.
-- Für besseres Verständnis: sich von der KI Fragen stellen lassen, statt Antworten einzufordern. Mehr dazu unter [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|Aktives Lernen]].
-- Ab und zu bewusst ohne KI arbeiten und prüfen, ob man es noch kann.
+- Für besseres Verständnis: sich von der KI Fragen stellen lassen, statt Antworten einzufordern. Mehr dazu unter [[Aktives Lernen].
+- Ab und zu ohne KI arbeiten. Nicht aus Prinzip, sondern als Experiment: Kann ich das noch?[^selbstversuch]
 
 **Für Teams:**
 - Bewusst langsamer werden, wenn das Verständnis nicht mehr hinterherkommt.
@@ -113,7 +113,7 @@ Eine Super-KI bauen, die man zwar nicht versteht, aber die man dennoch irgendwie
 
 ## So viele Schulden - und eine neue Art?
 
-Technical Debt, Cognitive Debt, Intent Debt – und wir haben noch lange nicht das Ende der Fahnenstange erreicht.
+Technical Debt, Cognitive Debt, Intent Debt – und wir haben noch lange nicht das Ende der Fahnenstange erreicht:
 
 - **In der Softwareforschung** zählt man allein bei den technischen Schulden längst über ein Dutzend Unterarten, von Architecture Debt bis Test Debt.[^debt-typen]
 - **Im KI-Umfeld** tauchen laufend neue auf, oft für fast dasselbe: Was Storey Cognitive Debt nennt, heißt bei anderen „Comprehension Debt“.[^osmani]
@@ -125,10 +125,15 @@ Ich nenne sie: [[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|C
 Auch wenn mich das unkontrollierte Auftauchen von Software-Schulden schmunzeln lässt, …
 
 
-## 📖 Noch mehr lesen und  📺 Gucken
+## 📖 Weiterlesen
 
 - Kognitive Schulden durch Verwendung von KI sind kein Selbstläufer: während sie beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] besonders schnell entstehen, behalten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Entwickler Architektur und Verständnis bewusst selbst in der Hand.
+
+
+## 📺 Aus der YouTube-Academie
+
 - Ein sehr empfehlenswertes Video zu kognitive Schulden in der Softwareentwicklung: [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M)
+- Noch eine interessante Perspektive: Hier hören wir von architectural tech debt, die entsteht wenn in einem Unternehmen *keiner* mehr Code lesen kann (“zero-knowledge stack”), nebenbei erfahren wir warum KI-Agenten die Programmiersprache Rust lieben. 
 
 [^marchant]: Marchant, N. L. & Howard, R. J. (2015): „Cognitive Debt and Alzheimer's Disease“, Journal of Alzheimer's Disease 44(3), S. 755–770. [doi.org/10.3233/JAD-141515](https://doi.org/10.3233/JAD-141515)
 
@@ -145,3 +150,5 @@ Auch wenn mich das unkontrollierte Auftauchen von Software-Schulden schmunzeln l
 [^osmani]: Addy Osmani (2026): „The Intent Debt“, [addyosmani.com/blog/intent-debt](https://addyosmani.com/blog/intent-debt/). Osmani schreibt dort, er habe dasselbe Phänomen bislang „Comprehension Debt“ genannt.
 
 [^fowler]: Martin Fowler (2026): „Fragments: April 2“, [martinfowler.com/fragments/2026-04-02.html](https://www.martinfowler.com/fragments/2026-04-02.html). Zu Storeys Modell schreibt er, die Vermehrung der Schulden-Metaphern belustige ihn ein wenig; das Modell selbst hält er dennoch für sinnvoll.
+
+[^selbstversuch]: Sagt jemand, der das selbst kaum macht. Ehrlich gesagt habe ich das Gefühl, dass [[Zum Karnickelstall/Must-Have/Schreiben mit KI\|Schreiben mit KI]] mich nicht dümmer, sondern intelligenter macht, mehr noch: Würde KI heute verschwinden, könnte ich besser schreiben als vorher. Nur ist das subjektive Gefühl ein ziemlich unzuverlässiger Indikator. In einer Studie von METR (2025) schätzten erfahrene Entwickler, dass sie mit KI rund 20 % schneller gewesen seien. Tatsächlich waren sie laut Messung 19 % langsamer (Becker, Rush et al.: „Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity“, [arxiv.org/abs/2507.09089](https://arxiv.org/abs/2507.09089)). Obwohl ich also weiß, dass so ein Gefühl leicht trügen kann, habe ich wenig Lust, es ohne KI auszuprobieren. Warum auch? Warum wieder Kopfrechnen, wenn es Taschenrechner gibt? Der Punkt ist: Es macht mir Freude, KI als Hilfsmittel zu nutzen, und nebenbei finde ich die Ergebnisse besser. Anders in der Softwareentwicklung: Hier höre ich oft, dass sich Programmierer zu bloßen Aufpassern für die code-generierende KI degradiert fühlen und die Freude am Beruf verloren haben. Immerhin hatten sie diese Freude einmal und konnten in ihrem Beruf arbeiten. Mir war meine Liebe zum Code früh bewusst, aber ich bin ihrem Ruf zu spät gefolgt. Als meine Ausbildung abgeschlossen war, war der Bedarf an Junior-Entwicklern quasi bei null angekommen und der Beruf in seiner bisherigen Form nicht mehr vorhanden. Noch ein letzter Gedanke für diese ausufernde Fußnote: Bei der METR-Studie waren es gerade einmal 16 Teilnehmende, bei der MIT-Studie 54. Von einem Konsens der Wissenschaft kann also kaum die Rede sein. Trotzdem werden die Ergebnisse beider Studien ständig als gesicherte Fakten weitergereicht: „ChatGPT macht dumm“, „KI macht Programmierer langsamer“. Je öfter man das liest, desto fundierter wirkt es, obwohl die Grundlage dieselbe bleibt. Dafür gibt es sogar einen Namen: **Woozle-Effekt**.
