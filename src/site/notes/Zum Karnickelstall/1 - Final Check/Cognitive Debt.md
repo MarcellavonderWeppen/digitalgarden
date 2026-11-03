@@ -93,6 +93,8 @@ Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerd
 
 ## Eine vierte Art von Schulden?
 
+[[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]]
+
 Karpathy weist auf ein bemerkenswertes Phänomen hin: die Einschätzungen über KI gehen weit auseinander. Je nachdem, wen man fragt, ist KI eine größtenteils nutzlose Wortvorhersage-Maschine, ein mächtiges Werkzeug oder kurz davor als [[Garten erkunden/Grundlagen/AGI (Artificial General Intelligence) und ASI (Artificial Super Intelligence)\|ASI (Artificial Superintelligence)]] die Menschheit zu retten (oder vernichten). Diese Diskrepanz ist kein Zufall, sondern hängt vollständig von der persönlichen Erfahrung ab. Von rund acht Milliarden Menschen hatten etwa sechs Milliarden keinen oder kaum Kontakt mit KI. Einige haben bereits gelegentlich mit der kostenlosen Version von ChatGPT gespielt. Wenige Fachmenschen sehen in ihrer täglichen Arbeit, wozu Frontiermodelle in bestimmten Bereichen wie Programmierung und Mathematik inzwischen fähig sind.  Nur etwa 5000 haben Zugang zu den Spitzensystemen in den KI-Laboren und damit einen vollständigen Einblick, was diese Systeme wirklich leisten können. 
 
 *Niemand* versteht KI vollständig; wie statische KI zu ihren Antworten kommt bleibt eine Blackbox. Es scheint ein Novum in der Geschichte der Menschheit sein: wir haben etwas erfunden, was kein Mensch versteht. 
@@ -108,20 +110,38 @@ Eine Super-KI bauen, die man zwar nicht versteht, aber die man dennoch irgendwie
 📺 Dieses kurze Video fasst Karpathys Gedanken gut zusammen: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs)
 📖 Wer lieber : [[Zum Karnickelstall/Must-Have/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht]]
 
+
+## So viele Schulden - und eine neue Art?
+
+Technical Debt, Cognitive Debt, Intent Debt – und wir haben noch lange nicht das Ende der Fahnenstange erreicht.
+
+- **In der Softwareforschung** zählt man allein bei den technischen Schulden längst über ein Dutzend Unterarten, von Architecture Debt bis Test Debt.[^debt-typen]
+- **Im KI-Umfeld** tauchen laufend neue auf, oft für fast dasselbe: Was Storey Cognitive Debt nennt, heißt bei anderen „Comprehension Debt“.[^osmani]
+
+Das Wuchern der Schulden-Metaphern ruft durchaus auch Belustigung hervor.[^fowler] Um dieser guten Tradition zu folgen, habe ich beschlossen, noch eine weitere Form der Schulden hinzuzufügen. 
+
+Ich nenne sie: [[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]].
+
+Auch wenn mich das unkontrollierte Auftauchen von Software-Schulden schmunzeln lässt, …
+
+
 ## 📖 Noch mehr lesen und  📺 Gucken
 
 - Kognitive Schulden durch Verwendung von KI sind kein Selbstläufer: während sie beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] besonders schnell entstehen, behalten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Entwickler Architektur und Verständnis bewusst selbst in der Hand.
 - Ein sehr empfehlenswertes Video zu kognitive Schulden in der Softwareentwicklung: [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M)
 
-
 [^marchant]: Marchant, N. L. & Howard, R. J. (2015): „Cognitive Debt and Alzheimer's Disease“, Journal of Alzheimer's Disease 44(3), S. 755–770. [doi.org/10.3233/JAD-141515](https://doi.org/10.3233/JAD-141515)
 
-[^mit]: Kosmyna et al. (2025): „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task“, arXiv:2506.08872
+[^mit]: Kosmyna et al. (2025): „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task“, arXiv:2506.08872.
 
 [^storey]: Margaret-Anne Storey (2026): „How Generative and Agentic AI Shift Concern from Technical Debt to Cognitive Debt“, [margaretstorey.com/blog/2026/02/09/cognitive-debt](https://margaretstorey.com/blog/2026/02/09/cognitive-debt/). Erstmals verwendet hat sie den Begriff laut eigener Aussage im Oktober 2025 in einem Startup-Kurs.
 
 [^offloading]: Geprägt u. a. von Evan Risko und Sam Gilbert (2016): „Cognitive Offloading“, Trends in Cognitive Sciences.
 
-[^karpathy]: Andrej Karpathy im Gespräch mit Stephanie Zhang auf der Konferenz AI Ascent 2026 von Sequoia Capital (April 2026). Im Original: „You can outsource your thinking, but you can't outsource your understanding." [Video ab 27:56](https://www.youtube.com/watch?v=96jN2OCOfLs&t=1676s)
+[^karpathy]: Andrej Karpathy im Gespräch mit Stephanie Zhang auf der Konferenz AI Ascent 2026 von Sequoia Capital (April 2026). Im Original: „You can outsource your thinking, but you can't outsource your understanding.“ [Video ab 27:56](https://www.youtube.com/watch?v=96jN2OCOfLs&t=1676s)
 
-[^pdoom]: Gesammelt werden solche Schätzungen unter dem Stichwort „p(doom)“. Am unteren Ende steht Yann LeCun, langjähriger Chief AI Scientist bei Meta, mit unter 0,01 %, am oberen Eliezer Yudkowsky (Machine Intelligence Research Institute) mit über 95 %. Seine Position hat er gemeinsam mit Nate Soares im Buch „If Anyone Builds It, Everyone Dies“ (2025) ausgeführt. Im Mittelfeld liegen u. a. Yoshua Bengio (20 %) und Dario Amodei, CEO von Anthropic (10–25 %). Übersicht: [Wikipedia: P(doom)](https://en.wikipedia.org/wiki/P%28doom%29). In einer Umfrage unter 2.778 KI-Forschenden lag der Median bei 5 %: Grace et al. (2024): „Thousands of AI Authors on the Future of AI“, arXiv:2401.02843.
+[^debt-typen]: Eine viel zitierte Systematik stammt von Alves et al. (2014): „Towards an Ontology of Terms on Technical Debt“, 6th IEEE International Workshop on Managing Technical Debt, [doi.org/10.1109/MTD.2014.9](https://doi.org/10.1109/MTD.2014.9). Sie unterscheidet 13 Typen, darunter Architecture, Test und Documentation Debt. Einen praxisnahen Überblick gibt [Sourcegraph: The 11 Types of Technical Debt](https://sourcegraph.com/blog/types-of-technical-debt).
+
+[^osmani]: Addy Osmani (2026): „The Intent Debt“, [addyosmani.com/blog/intent-debt](https://addyosmani.com/blog/intent-debt/). Osmani schreibt dort, er habe dasselbe Phänomen bislang „Comprehension Debt“ genannt.
+
+[^fowler]: Martin Fowler (2026): „Fragments: April 2“, [martinfowler.com/fragments/2026-04-02.html](https://www.martinfowler.com/fragments/2026-04-02.html). Zu Storeys Modell schreibt er, die Vermehrung der Schulden-Metaphern belustige ihn ein wenig; das Modell selbst hält er dennoch für sinnvoll.
