@@ -75,7 +75,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 
 **Für Einzelne:**
 - Erst selbst denken, dann KI. Eigentlich naheliegend; es überrascht nicht, dass auch die MIT-Studie in diese Richtung deutet.
-- Für besseres Verständnis: sich von der KI Fragen stellen lassen, statt Antworten einzufordern. Mehr dazu unter [[Aktives Lernen].
+- Für besseres Verständnis: sich von der KI Fragen stellen lassen, statt Antworten einzufordern. Mehr dazu unter [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|Aktives Lernen]].
 - Ab und zu ohne KI arbeiten. Nicht aus Prinzip, sondern als Experiment: Kann ich das noch?[^selbstversuch]
 
 **Für Teams:**
@@ -90,26 +90,6 @@ Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerd
 - **Schwer messbar:** „Schulden“ ist eine Metapher. Wie viel Cognitive Debt ein Mensch oder Team angehäuft hat, lässt sich nicht beziffern.
 - **Braucht es überhaupt einen neuen Begriff?** Manche halten den Begriff für überflüssig, weil es mit Cognitive Offloading oder **Deskilling** (Verlust von Fähigkeiten durch Automatisierung) längst etablierte Begriffe gibt.
 - Speziell an der [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]] gibt es einiges auszusetzen: nur 54 Teilnehmende, kein Peer-Review, methodische Schwächen.
-
-## Eine vierte Art von Schulden?
-
-[[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]]
-
-Karpathy weist auf ein bemerkenswertes Phänomen hin: die Einschätzungen über KI gehen weit auseinander. Je nachdem, wen man fragt, ist KI eine größtenteils nutzlose Wortvorhersage-Maschine, ein mächtiges Werkzeug oder kurz davor als [[Garten erkunden/Grundlagen/AGI (Artificial General Intelligence) und ASI (Artificial Super Intelligence)\|ASI (Artificial Superintelligence)]] die Menschheit zu retten (oder vernichten). Diese Diskrepanz ist kein Zufall, sondern hängt vollständig von der persönlichen Erfahrung ab. Von rund acht Milliarden Menschen hatten etwa sechs Milliarden keinen oder kaum Kontakt mit KI. Einige haben bereits gelegentlich mit der kostenlosen Version von ChatGPT gespielt. Wenige Fachmenschen sehen in ihrer täglichen Arbeit, wozu Frontiermodelle in bestimmten Bereichen wie Programmierung und Mathematik inzwischen fähig sind.  Nur etwa 5000 haben Zugang zu den Spitzensystemen in den KI-Laboren und damit einen vollständigen Einblick, was diese Systeme wirklich leisten können. 
-
-*Niemand* versteht KI vollständig; wie statische KI zu ihren Antworten kommt bleibt eine Blackbox. Es scheint ein Novum in der Geschichte der Menschheit sein: wir haben etwas erfunden, was kein Mensch versteht. 
-
-Ich deute das als eine vierte Art von Schulden, und zwar eine, die ich für wesentlich gefährlicher halte als alle anderen. Bei Storey hält das Verständnis eines Teams nicht mehr mit dem eigenen Code Schritt. Hier passiert dasselbe eine Ebene höher: Das Verständnis der gesamten Menschheit hält nicht mehr Schritt mit einer Technologie, die schon jetzt große Verwerfungen mit sich bringt. Ich taufe das hiermit **Collective Cognitive Debt**, um der Anhäufung von Schulden-Metaphern noch eine weitere hinzuzufügen.
-
-Wie es scheint, scheint es bei OpenAI & Co auch unzureichende Dokumentation zu geben, und sie tragen somit auch zum rasanten Anwachsen der **Collective Intent Debt** bei. 
-
-Wir haben es hier nicht nur mit einer demokratisch nicht legitimierten Entwicklung zu tun, sondern auch mit der perfekten Grundlage für ein Desaster. Eine kleine Elite sieht zwar die aktuelle Leistungsfähigkeit dieser Technologie, versteht sie aber nicht vollständig und treibt diese dennoch mit atemberaubenden Tempo voran. Wie wenig sie ihr Baby im Griff haben, zeigt schon der [[Angriff auf Hugging Face\|Angriff auf Hugging Face]]. 
-
-Eine Super-KI bauen, die man zwar nicht versteht, aber die man dennoch irgendwie kontrollieren möchte? Scheint mir so plausibel, wie Ameisen, welche die Menschheit kontrollieren möchten. Experten sehen eine Wahrscheinlichkeit von 0,01% bis 95%, dass KI die Menschheit vernichten wird. Diese Entscheidung betrifft die gesamte Menschheit und solange die Wahrscheinlichkeit nicht bei 0 liegt, steht es niemanden zu, für uns zu entscheiden.
-
-📺 Dieses kurze Video fasst Karpathys Gedanken gut zusammen: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs)
-📖 Wer lieber : [[Zum Karnickelstall/Must-Have/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht]]
-
 
 ## So viele Schulden - und eine neue Art?
 
@@ -133,7 +113,9 @@ Auch wenn mich das unkontrollierte Auftauchen von Software-Schulden schmunzeln l
 ## 📺 Aus der YouTube-Academie
 
 - Ein sehr empfehlenswertes Video zu kognitive Schulden in der Softwareentwicklung: [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M)
-- Noch eine interessante Perspektive: Hier hören wir von architectural tech debt, die entsteht wenn in einem Unternehmen *keiner* mehr Code lesen kann (“zero-knowledge stack”), nebenbei erfahren wir warum KI-Agenten die Programmiersprache Rust lieben. 
+- Noch eine interessante Perspektive: Hier geht es um Architectural Tech Debt, die entsteht, wenn in einem Unternehmen keiner mehr Code lesen kann („zero-knowledge stack“); nebenbei erfahren wir, warum KI-Agenten die Programmiersprache Rust lieben: [The AI Skeptics were right... just not how you think](https://www.youtube.com/watch?v=Ah6YTqSbsnU)
+
+
 
 [^marchant]: Marchant, N. L. & Howard, R. J. (2015): „Cognitive Debt and Alzheimer's Disease“, Journal of Alzheimer's Disease 44(3), S. 755–770. [doi.org/10.3233/JAD-141515](https://doi.org/10.3233/JAD-141515)
 
@@ -151,4 +133,4 @@ Auch wenn mich das unkontrollierte Auftauchen von Software-Schulden schmunzeln l
 
 [^fowler]: Martin Fowler (2026): „Fragments: April 2“, [martinfowler.com/fragments/2026-04-02.html](https://www.martinfowler.com/fragments/2026-04-02.html). Zu Storeys Modell schreibt er, die Vermehrung der Schulden-Metaphern belustige ihn ein wenig; das Modell selbst hält er dennoch für sinnvoll.
 
-[^selbstversuch]: Sagt jemand, der das selbst kaum macht. Ehrlich gesagt habe ich das Gefühl, dass [[Zum Karnickelstall/Must-Have/Schreiben mit KI\|Schreiben mit KI]] mich nicht dümmer, sondern intelligenter macht, mehr noch: Würde KI heute verschwinden, könnte ich besser schreiben als vorher. Nur ist das subjektive Gefühl ein ziemlich unzuverlässiger Indikator. In einer Studie von METR (2025) schätzten erfahrene Entwickler, dass sie mit KI rund 20 % schneller gewesen seien. Tatsächlich waren sie laut Messung 19 % langsamer (Becker, Rush et al.: „Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity“, [arxiv.org/abs/2507.09089](https://arxiv.org/abs/2507.09089)). Obwohl ich also weiß, dass so ein Gefühl leicht trügen kann, habe ich wenig Lust, es ohne KI auszuprobieren. Warum auch? Warum wieder Kopfrechnen, wenn es Taschenrechner gibt? Der Punkt ist: Es macht mir Freude, KI als Hilfsmittel zu nutzen, und nebenbei finde ich die Ergebnisse besser. Anders in der Softwareentwicklung: Hier höre ich oft, dass sich Programmierer zu bloßen Aufpassern für die code-generierende KI degradiert fühlen und die Freude am Beruf verloren haben. Immerhin hatten sie diese Freude einmal und konnten in ihrem Beruf arbeiten. Mir war meine Liebe zum Code früh bewusst, aber ich bin ihrem Ruf zu spät gefolgt. Als meine Ausbildung abgeschlossen war, war der Bedarf an Junior-Entwicklern quasi bei null angekommen und der Beruf in seiner bisherigen Form nicht mehr vorhanden. Noch ein letzter Gedanke für diese ausufernde Fußnote: Bei der METR-Studie waren es gerade einmal 16 Teilnehmende, bei der MIT-Studie 54. Von einem Konsens der Wissenschaft kann also kaum die Rede sein. Trotzdem werden die Ergebnisse beider Studien ständig als gesicherte Fakten weitergereicht: „ChatGPT macht dumm“, „KI macht Programmierer langsamer“. Je öfter man das liest, desto fundierter wirkt es, obwohl die Grundlage dieselbe bleibt. Dafür gibt es sogar einen Namen: **Woozle-Effekt**.
+ [^selbstversuch]: Sagt jemand, der das selbst kaum macht. Ehrlich gesagt habe ich das Gefühl, dass [[Zum Karnickelstall/Must-Have/Schreiben mit KI\|Schreiben mit KI]] mich nicht dümmer, sondern intelligenter macht, mehr noch: Würde KI heute verschwinden, könnte ich besser schreiben als vorher. Nur ist das subjektive Gefühl ein ziemlich unzuverlässiger Indikator. In einer Studie von METR (2025) schätzten erfahrene Entwickler, dass sie mit KI rund 20 % schneller gewesen seien. Tatsächlich waren sie laut Messung aber 19 % langsamer (Becker, Rush et al.: „Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity“, [arxiv.org/abs/2507.09089](https://arxiv.org/abs/2507.09089)). Obwohl ich also weiß, dass so ein Gefühl leicht trügen kann, habe ich wenig Lust, wieder gelegentlich ohne KI zu arbeiten. Warum auch? Warum wieder Kopfrechnen, wenn es Taschenrechner gibt? Der Punkt ist: Es macht mir Freude, KI als Hilfsmittel zu nutzen, und nebenbei finde ich die Ergebnisse besser. Anders in der Softwareentwicklung: Hier höre ich oft, dass sich Programmierer zu bloßen Aufpassern für die codegenerierende KI degradiert fühlen und die Freude am Beruf verloren haben. Immerhin hatten sie diese Freude einmal und konnten in ihrem Beruf arbeiten. Mir war meine Liebe zum Code früh bewusst, aber ich bin ihrem Ruf zu spät gefolgt. Als meine Ausbildung abgeschlossen war, war der Bedarf an Junior-Entwicklern quasi bei null angekommen und der Beruf in seiner bisherigen Form nicht mehr vorhanden. Noch ein letzter Gedanke für diese ausufernde Fußnote: Bei der METR-Studie waren es gerade einmal 16 Teilnehmende, bei der MIT-Studie 54. Von einem Konsens der Wissenschaft kann also kaum die Rede sein. Trotzdem werden die Ergebnisse beider Studien ständig als gesicherte Fakten weitergereicht: „ChatGPT macht dumm“, „KI macht Programmierer langsamer“. Je öfter man das liest, desto fundierter wirkt es, obwohl die Grundlage dieselbe bleibt. Dafür gibt es sogar einen Namen: **Woozle-Effekt**.
