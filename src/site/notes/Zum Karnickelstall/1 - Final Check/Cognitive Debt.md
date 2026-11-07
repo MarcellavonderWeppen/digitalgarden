@@ -117,13 +117,11 @@ graph TD
 
   SW --> TD["Technical Debt"]
   SW --> SOC["Social Debt"]
-  SW --> CD3["Cognitive Debt"]
+  SW --> CD3["Cognitive Debt (Synonym: Comprehension Debt)"]
   SW --> ID["Intent Debt"]
   SW --> VD["Verification Debt"]
 
   TD --> TDLIST["Architecture Debt<br/>Build Debt<br/>Code Debt<br/>Defect Debt<br/>Design Debt<br/>Documentation Debt<br/>Infrastructure Debt<br/>People Debt<br/>Process Debt<br/>Requirements Debt<br/>Service Debt<br/>Test Debt<br/>Test Automation Debt<br/>Usability Debt<br/>Versioning Debt<br/>Security Debt<br/>ML-spezifische Schulden"]
-
-  CD3 -. "Synonym" .- COMP["Comprehension Debt"]
 ```
 
 Gestrichen habe ich den Ast „Menschheit“ mit beiden Collective-Begriffen und die zwei Analogie-Pfeile. Sonst ist alles unverändert.
