@@ -12,6 +12,8 @@ Die Metapher lehnt sich an die **Technical Debt** (technische Schulden) aus der 
 
 Der Begriff wird heute meist mit KI verbunden, ist aber älter. Je nach Fachgebiet meint er Unterschiedliches.
 
+![Pasted image 20261107092921.png](/img/user/Pasted%20image%2020261107092921.png)
+
 ### Medizin (2015)
 
 Natalie Marchant und Robert Howard führten den Begriff in der Alzheimer-Forschung ein.[^marchant] Gemeint sind Denk- und Verhaltensmuster, die das Risiko für Alzheimer erhöhen, allen voran wiederholtes negatives Grübeln, wie es bei Depression, Angststörungen oder chronischem Stress vorkommt.
