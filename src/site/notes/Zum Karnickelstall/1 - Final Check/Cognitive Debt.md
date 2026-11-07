@@ -12,7 +12,7 @@ Die Metapher lehnt sich an die **Technical Debt** (technische Schulden) aus der 
 
 Der Begriff wird heute meist mit KI verbunden, ist aber älter. Je nach Fachgebiet meint er Unterschiedliches.
 
-![Pasted image 20261107092921.png](/img/user/Pasted%20image%2020261107092921.png)
+![Cognitive Debt 3 Bedeutungen.png](/img/user/Garten%20erkunden/Bilder/Cognitive%20Debt%203%20Bedeutungen.png)
 
 ### Medizin (2015)
 
