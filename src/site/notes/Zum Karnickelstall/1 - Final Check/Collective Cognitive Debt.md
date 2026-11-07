@@ -23,7 +23,7 @@ Wir haben es hier nicht nur mit einer demokratisch nicht legitimierten Entwicklu
 Eine Super-KI bauen, die man zwar nicht versteht, aber die man dennoch irgendwie kontrollieren möchte? Scheint mir so plausibel, wie Ameisen, welche die Menschheit kontrollieren möchten. Experten sehen eine Wahrscheinlichkeit von 0,01% bis 95%, dass KI die Menschheit vernichten wird. Diese Entscheidung betrifft die gesamte Menschheit und solange die Wahrscheinlichkeit nicht bei 0 liegt, steht es niemanden zu, für uns zu entscheiden.
 
 📺 Dieses kurze Video fasst Karpathys Gedanken gut zusammen: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs)
-📖 Wer lieber : [[Zum Karnickelstall/Must-Have/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht]]
+📖 Wer lieber : [[Zum Karnickelstall/1 - Final Check/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht]]
 
 ## Beschlossene Bausteine
 
