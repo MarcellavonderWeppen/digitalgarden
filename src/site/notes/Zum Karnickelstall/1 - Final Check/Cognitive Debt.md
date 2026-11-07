@@ -138,6 +138,7 @@ Falls Du die Unterarten doch lieber als einzelne Kästen haben willst, sag Besch
 ## 📖 Weiterlesen
 
 - Kognitive Schulden durch Verwendung von KI sind keine zwangsläufige Folge: Während sie beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] besonders schnell entstehen, behalten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Entwickler Architektur und Verständnis bewusst selbst in der Hand.
+- Mich hat es dann doch interessiert, was es mit all diesen Schuldenarten im Detail auf sich hat, daher habe ich Claude einen Artikel schreiben lassen: [[Zum Karnickelstall/1 - Final Check/Schulden in der Softwareentwicklung\|Schulden in der Softwareentwicklung]]
 
 
 ## 📺 Aus der YouTube-Akademie
