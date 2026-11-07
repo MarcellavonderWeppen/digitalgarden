@@ -87,7 +87,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 
 Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerdings ist fraglich, ob er Gehör finden wird in unserer Zeit, die so sehr von Geschwindigkeit, Effizienz und „Produktivität“ besessen ist.
 
-![Videokonferenz voller KI-Euphorie.png](/img/user/Videokonferenz%20voller%20KI-Euphorie.png)
+![Videokonferenz voller KI-Euphorie.png](/img/user/Garten%20erkunden/Bilder/Videokonferenz%20voller%20KI-Euphorie.png)
 ## Kritik am Begriff
 
 - **Schwer messbar:** „Schulden“ ist eine Metapher. Wie viel Cognitive Debt ein Mensch oder Team angehäuft hat, lässt sich nicht beziffern.
@@ -101,13 +101,7 @@ Technical Debt, Cognitive Debt, Intent Debt – und wir haben noch lange nicht d
 - **In der Softwareforschung** zählt man allein bei den technischen Schulden längst über ein Dutzend Unterarten, von Architecture Debt bis Test Debt.[^debt-typen]
 - **Im KI-Umfeld** tauchen laufend neue auf, oft für fast dasselbe: Was Storey Cognitive Debt nennt, heißt bei anderen „Comprehension Debt“.[^osmani]
 
-Das Wuchern der Schulden-Metaphern ruft durchaus auch Belustigung hervor.[^fowler] Um dieser guten Tradition zu folgen, habe ich beschlossen, noch eine weitere Form der Schulden hinzuzufügen. 
-
-> Ich nenne sie: [[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]].
-
-Das stetige Anschwellen der Begriffsflut lässt auch mich schmunzeln, aber das Phänomen hinter diesem neuen Begriff erfüllt mich mit großer Sorge.
-
-Die Idee kam mir, als ich mich mit Karpathys Gedanken zur [[Zum Karnickelstall/1 - Final Check/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|AI Understanding Gap]] beschäftigte: _Moment, das ist doch auch eine Form kognitiver Schulden, und zwar eine, welche die gesamte Menschheit betrifft._ Das Prinzip gilt auch hier: „Jetzt Tempo machen, später die Rechnung bezahlen.“ Nur dürfte diese Rechnung weitaus höher ausfallen als bei jedem Softwareprojekt.
+Das Wuchern der Schulden-Metaphern ruft durchaus auch Belustigung hervor.[^fowler] 
 
 
 ```mermaid
@@ -117,7 +111,6 @@ graph TD
   S --> MED["Medizin"]
   S --> LERN["Schreiben mit KI"]
   S --> SW["Softwareentwicklung"]
-  S --> GES["Menschheit"]
 
   MED --> CD1["Cognitive Debt"]
   LERN --> CD2["Cognitive Debt"]
@@ -131,12 +124,17 @@ graph TD
   TD --> TDLIST["Architecture Debt<br/>Build Debt<br/>Code Debt<br/>Defect Debt<br/>Design Debt<br/>Documentation Debt<br/>Infrastructure Debt<br/>People Debt<br/>Process Debt<br/>Requirements Debt<br/>Service Debt<br/>Test Debt<br/>Test Automation Debt<br/>Usability Debt<br/>Versioning Debt<br/>Security Debt<br/>ML-spezifische Schulden"]
 
   CD3 -. "Synonym" .- COMP["Comprehension Debt"]
-
-  GES --> CCD["Collective Cognitive Debt"]
-  GES --> CID["Collective Intent Debt"]
-  CD3 -. "Analogie" .-> CCD
-  ID -. "Analogie" .-> CID
 ```
+
+Gestrichen habe ich den Ast „Menschheit“ mit beiden Collective-Begriffen und die zwei Analogie-Pfeile. Sonst ist alles unverändert.
+
+Um dieser guten Tradition zu folgen, habe ich beschlossen, noch eine weitere Form der Schulden hinzuzufügen. 
+
+> Ich nenne sie: [[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]].
+
+Das stetige Anschwellen der Begriffsflut lässt auch mich schmunzeln, aber das Phänomen hinter diesem neuen Begriff erfüllt mich mit großer Sorge.
+
+Die Idee kam mir, als ich mich mit Karpathys Gedanken zur [[Zum Karnickelstall/1 - Final Check/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|AI Understanding Gap]] beschäftigte: _Moment, das ist doch auch eine Form kognitiver Schulden, und zwar eine, welche die gesamte Menschheit betrifft._ Das Prinzip gilt auch hier: „Jetzt Tempo machen, später die Rechnung bezahlen.“ Nur dürfte diese Rechnung weitaus höher ausfallen als bei jedem Softwareprojekt.
 
 Falls Du die Unterarten doch lieber als einzelne Kästen haben willst, sag Bescheid. Dann wird es aber sehr breit.
 ## 📖 Weiterlesen

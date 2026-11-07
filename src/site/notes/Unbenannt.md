@@ -1,50 +1,103 @@
 ---
-{"title":"Unbenannt","aliases":null,"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-11-07","updated":null,"status":null,"dg-publish":true,"permalink":"/unbenannt/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Unbenannt","aliases":null,"tags":null,"gen_ai_anteil":["Claude 100%"],"created":"2026-11-07","updated":null,"status":null}}
+{"title":"Unbenannt","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-11-07","updated":null,"status":"🌿 – Pflanze braucht Pflege","dg-publish":true,"permalink":"/unbenannt/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Unbenannt","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-11-07","updated":null,"status":"🌿 – Pflanze braucht Pflege"}}
 ---
 
-## Claude Shannon
+# Schulden in der Softwareentwicklung
+
+Beim Schreiben des Artikels zu [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt]] bin ich über eine erstaunlich lange Liste von Schuldenarten gestolpert. Meiner Neugier folgend habe ich Claude einen Artikel darüber schreiben lassen. Ich wünsche allen, die ebenfalls neugierig sind, viel Spaß beim Lesen 🙂
+
+```mermaid
+graph TD
+  SW["Softwareentwicklung"]
+
+  SW --> TD["Technical Debt"]
+  SW --> SOC["Social Debt"]
+  SW --> CD["Cognitive Debt<br/>(Comprehension Debt)"]
+  SW --> ID["Intent Debt"]
+  SW --> VD["Verification Debt"]
+
+  TD --> TDLIST["Architecture Debt<br/>Build Debt<br/>Code Debt<br/>Defect Debt<br/>Design Debt<br/>Documentation Debt<br/>Infrastructure Debt<br/>People Debt<br/>Process Debt<br/>Requirements Debt<br/>Service Debt<br/>Test Debt<br/>Test Automation Debt<br/>Usability Debt<br/>Versioning Debt<br/>Security Debt<br/>ML-spezifische Schulden"]
+```
+## Woher die Metapher kommt
+
+Den Begriff **Technical Debt** (technische Schulden) prägte Ward Cunningham 1992.[^cunningham] Die Idee: Wer beim Programmieren eine Abkürzung nimmt, nimmt einen Kredit auf. Kurzfristig ist man schneller, langfristig zahlt man Zinsen, und zwar in Form von Mehraufwand bei jeder späteren Änderung.
+
+Schulden sind dabei nicht automatisch Pfusch. Martin Fowler unterscheidet zwei Fragen:[^quadrant] Wurden die Schulden **bewusst oder versehentlich** aufgenommen? Und war das **umsichtig oder leichtsinnig**? Daraus ergeben sich vier Felder:
+
+|                | **Bewusst**                                                           | **Versehentlich**                                                  |
+| -------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| **Leichtsinnig** | „Für sauberes Design haben wir keine Zeit.“                           | „Architektur? Nie gehört.“                                         |
+| **Umsichtig**    | „Wir müssen jetzt liefern und kümmern uns danach um die Folgen.“      | „Jetzt wissen wir, wie wir es von Anfang an hätten machen sollen.“ |
+
+Gerade das Feld unten rechts ist interessant: Manche Schulden lassen sich gar nicht vermeiden, weil man erst beim Bauen lernt, wie man hätte bauen sollen.
+
+## Die Unterarten der Technical Debt
+
+Die Forschung hat die technischen Schulden über die Jahre immer feiner unterteilt. 2014 waren es 13 Typen,[^alves] ein Jahr später kam Versioning Debt hinzu,[^li] und 2018 zählte eine große Übersichtsarbeit bereits 15.[^rios] Die Spalte „erfasst in“ zeigt, wann ein Begriff in die Systematik aufgenommen wurde; benutzt wurden die meisten schon vorher.
+
+| Gruppe                        | Schuldenart              | Worum es geht                                                                                      | erfasst in |
+| ----------------------------- | ------------------------ | -------------------------------------------------------------------------------------------------- | ---------- |
+| **Code und Struktur**         | **Code Debt**            | Quellcode, der unnötig kompliziert, doppelt oder schwer lesbar ist.                                | 2014       |
+|                               | **Design Debt**          | Verstöße gegen bewährte Entwurfsprinzipien, die man im Code selbst erkennen kann.                  | 2014       |
+|                               | **Architecture Debt**    | Ungünstige Grundentscheidungen über den Aufbau des Systems, die sich nur mit großem Aufwand korrigieren lassen. | 2014       |
+|                               | **Defect Debt**          | Bekannte Fehler, deren Behebung bewusst aufgeschoben wird.                                         | 2014       |
+| **Tests**                     | **Test Debt**            | Fehlende oder unzureichende Tests.                                                                 | 2014       |
+|                               | **Test Automation Debt** | Tests, die noch von Hand laufen, obwohl sie automatisiert werden müssten.                          | 2014       |
+| **Infrastruktur und Betrieb** | **Build Debt**           | Ein Build-Prozess, der unnötig langsam, kompliziert oder fehleranfällig ist.                       | 2014       |
+|                               | **Infrastructure Debt**  | Veraltete oder ungeeignete Plattformen und Werkzeuge, die die Entwicklung ausbremsen.              | 2014       |
+|                               | **Service Debt**         | Unpassend gewählte oder veraltete Dienste in Systemen, die aus vielen einzelnen Services bestehen. | 2014       |
+|                               | **Versioning Debt**      | Probleme bei der Versionsverwaltung, etwa unnötige Abspaltungen des Codes.                         | 2015       |
+| **Anforderungen und Nutzer**  | **Requirements Debt**    | Anforderungen, die nur teilweise oder anders als vorgesehen umgesetzt wurden.                      | 2014       |
+|                               | **Documentation Debt**   | Fehlende, unvollständige oder veraltete Dokumentation.                                             | 2014       |
+|                               | **Usability Debt**       | Entscheidungen zur Bedienbarkeit, die später korrigiert werden müssen.                             | 2018       |
+| **Menschen und Abläufe**      | **People Debt**          | Personelle Engpässe, etwa wenn wichtiges Wissen nur bei wenigen Personen liegt.                    | 2014       |
+|                               | **Process Debt**         | Arbeitsabläufe, die nicht (mehr) zum Projekt passen.                                               | 2014       |
+
+### Neben der Systematik
+
+Zwei weitere Schuldenarten tauchen häufig auf, stehen aber in keiner der genannten Systematiken:
+
+- **ML-spezifische Schulden:** Systeme mit maschinellem Lernen haben eigene Schuldenquellen, zum Beispiel die Abhängigkeit von Daten, die sich unbemerkt verändern.[^sculley]
+- **Security Debt:** Angehäufte Sicherheitslücken, die nicht behoben wurden. Der Begriff stammt aus der Praxis; die Forschung hat ihn erst später aufgegriffen.[^security]
+
+## Jenseits des Codes
+
+Alle bisherigen Schulden stecken irgendwo im System: im Code, in den Tests, in der Infrastruktur. Andere Schuldenarten sitzen woanders, nämlich bei den Menschen, die das System bauen.
+
+- **Social Debt:** Kosten, die durch ungünstige Zusammenarbeit und Kommunikation im Team entstehen. Der Begriff ist älter, als man denkt: Er stammt schon aus dem Jahr 2013.[^tamburri]
+- **Cognitive Debt:** Das gemeinsame Verständnis des Teams hält nicht mehr Schritt mit dem Code. Mehr dazu unter [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt]].
+- **Intent Debt:** Ziele und Gründe eines Systems wurden nicht oder nur unzureichend festgehalten.[^osmani] Mehr dazu unter [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt]].
+- **Verification Debt:** Code, der nie gründlich geprüft wurde.[^vogels]
+- **Comprehension Debt:** Im Wesentlichen ein anderer Name für Cognitive Debt.[^osmani]
+
+## Was KI daran verschiebt
+
+KI schreibt inzwischen erstaunlich sauberen Code und kann damit klassische Code-Schulden sogar senken. Gleichzeitig erzeugt sie Code schneller, als Menschen ihn prüfen und verstehen können. Die Schulden verschwinden also nicht, sie wandern: weg vom Code, hin zu Verification, Cognitive und Intent Debt. Warum das besonders tückisch ist, steht im Artikel zu [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt]].
+
+## Das große Wuchern
+
+Fassen wir zusammen: 2013 Social Debt, 2014 dreizehn Typen auf einen Schlag, 2015 Versioning und ML-Schulden, 2018 Usability, später Security, und seit 2025 eine ganze Welle neuer Begriffe rund um KI. Martin Fowler belustigt diese Vermehrung ein wenig.[^fowler] Man kann darüber schmunzeln, aber jede neue Schuldenart ist auch ein Hinweis: Da hat jemand eine Stelle gefunden, an der man heute Zeit spart und morgen dafür bezahlt.
 
 
-![Claude Shannon: The Father of the Information Age - Fascinating Facts](https://informatecdigital.com/wp-content/uploads/2024/09/Claude-Shannon.png)
+[^cunningham]: Ward Cunningham (1992): „The WyCash Portfolio Management System“, Erfahrungsbericht auf der Konferenz OOPSLA '92.
 
-### Herkunft und Ausbildung
+[^quadrant]: Martin Fowler (2009): „Technical Debt Quadrant“, Eintrag in seinem Blog (Bliki). Die Beispielsätze in der Tabelle sind sinngemäß übertragen.
 
-Shannon wurde 1916 in Michigan geboren und studierte dort Elektrotechnik und Mathematik. Am MIT schrieb er 1937 seine Masterarbeit, die oft als „wichtigste Masterarbeit des 20. Jahrhunderts“ bezeichnet wird. Darin zeigte er, dass man Schaltkreise aus Relais mit Boolescher Algebra beschreiben kann, also mit der Logik von wahr/falsch bzw. 1/0. Damit legte er praktisch die Grundlage für den Entwurf aller digitalen Schaltungen und damit für Computer.
+[^alves]: Alves et al. (2014): „Towards an Ontology of Terms on Technical Debt“, 6th IEEE International Workshop on Managing Technical Debt, [doi.org/10.1109/MTD.2014.9](https://doi.org/10.1109/MTD.2014.9). Einen praxisnahen Überblick gibt [Sourcegraph: The 11 Types of Technical Debt](https://sourcegraph.com/blog/types-of-technical-debt).
 
-### Der große Wurf: Informationstheorie (1948)
+[^li]: Li, Z., Avgeriou, P. & Liang, P. (2015): „A systematic mapping study on technical debt and its management“, Journal of Systems and Software 101.
 
-Bei den Bell Labs veröffentlichte er 1948 „A Mathematical Theory of Communication“. Die Kernideen:
+[^rios]: Rios, N., Mendonça, M. G. & Spínola, R. O. (2018): „A tertiary study on technical debt: Types, management strategies, research trends, and base information for practitioners“, Information and Software Technology 102, S. 117–145. Kleine Randnotiz: Nicolli Rios und die Erstautorin von Alves et al. (2014) sind dieselbe Person, Nicolli Souza Rios Alves.
 
-- **Information lässt sich messen.** Die Einheit ist das **Bit**. Den Begriff hat er populär gemacht, geprägt hat ihn soweit ich weiß sein Kollege John Tukey.
-- **Entropie** beschreibt, wie viel Überraschung bzw. Unvorhersehbarkeit in einer Nachricht steckt.
-- **Kanalkapazität:** Jeder Übertragungsweg hat eine Obergrenze. Bis zu dieser Grenze kann man trotz Störungen praktisch fehlerfrei übertragen, wenn man geschickt kodiert.
+[^sculley]: Der Klassiker dazu stammt von Forschern bei Google: Sculley et al. (2015): „Hidden Technical Debt in Machine Learning Systems“, Advances in Neural Information Processing Systems (NIPS 2015).
 
-Ohne diese Arbeit gäbe es weder Mobilfunk noch Internet, ZIP-Dateien, MP3 oder Streaming in der heutigen Form.
+[^security]: Eine erste Literaturstudie dazu, von Forschenden des spanischen Instituts Tecnalia (2021): „Security Debt: Characteristics, Product Life-Cycle Integration and Items“, International Conference on Technical Debt (TechDebt 2021).
 
-### Die Verbindung zu Sprachmodellen
+[^tamburri]: Tamburri, D. A., Kruchten, P., Lago, P. & van Vliet, H. (2013): „What is social debt in software engineering?“, 6th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE 2013).
 
-Schon im Aufsatz von 1948 erzeugte Shannon künstliche englische Texte, indem er Buchstaben und Wörter nach ihren statistischen Häufigkeiten aneinanderreihte. Je mehr Kontext er berücksichtigte, desto englischer klang das Ergebnis. 1951 maß er außerdem, wie gut Menschen den nächsten Buchstaben eines Textes vorhersagen können.
+[^osmani]: Addy Osmani (2026): „The Intent Debt“, [addyosmani.com/blog/intent-debt](https://addyosmani.com/blog/intent-debt/). Osmani schreibt dort, er habe das Phänomen, das Storey Cognitive Debt nennt, bislang „Comprehension Debt“ genannt.
 
-„Das nächste Element anhand des Kontexts vorhersagen“ ist im Kern genau das Prinzip, auf dem Sprachmodelle wie ich beruhen, nur heute mit neuronalen Netzen und unvorstellbar mehr Daten.
+[^vogels]: Bekannt gemacht hat den Begriff Werner Vogels, CTO von Amazon, in seiner Keynote auf der AWS re:Invent 2025. Wer den Begriff zuerst verwendet hat, ist unklar.
 
-### Kryptografie und Krieg
+[^fowler]: Martin Fowler (2026): „Fragments: April 2“, [martinfowler.com/fragments/2026-04-02.html](https://www.martinfowler.com/fragments/2026-04-02.html).
 
-Im Zweiten Weltkrieg arbeitete er an Verschlüsselung und traf 1943 Alan Turing. 1949 bewies er mathematisch, dass das One-Time-Pad unknackbar ist, wenn man es korrekt einsetzt.
-
-### Der verspielte Erfinder
-
-Shannon war bekannt für seinen Spieltrieb:
-
-- Er fuhr Einrad, oft angeblich, während er durch die Flure der Bell Labs jonglierte.
-- Er baute „Theseus“ (1950), eine mechanische Maus, die durch Ausprobieren einen Weg durch ein Labyrinth fand und sich ihn merkte. Das war eines der frühesten Beispiele für maschinelles Lernen.
-- Er schrieb eine der ersten Arbeiten über Schachcomputer.
-- Mit dem Mathematiker Ed Thorp baute er einen tragbaren Mini-Computer, um beim Roulette in Las Vegas die Gewinnchancen zu verbessern.
-- Ihm wird die „Ultimate Machine“ zugeschrieben: eine Kiste mit Schalter, aus der eine Hand kommt und sich selbst wieder ausschaltet.
-
-### KI-Gründungsvater
-
-1956 organisierte er zusammen mit John McCarthy, Marvin Minsky und Nathaniel Rochester die Dartmouth-Konferenz. Dort wurde der Begriff „Artificial Intelligence“ als Forschungsfeld etabliert.
-
-### Spätes Leben
-
-Ab 1956 war er Professor am MIT. In seinen letzten Lebensjahren litt er an Alzheimer und starb 2001 in Massachusetts. Eine traurige Ironie, dass gerade der Mann, der die Information mathematisch fassbar machte, sein Gedächtnis verlor.
