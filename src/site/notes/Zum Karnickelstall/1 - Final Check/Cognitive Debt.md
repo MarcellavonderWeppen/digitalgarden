@@ -134,7 +134,6 @@ Das stetige Anschwellen der Begriffsflut lässt auch mich schmunzeln, aber das P
 
 Die Idee kam mir, als ich mich mit Karpathys Gedanken zur [[Zum Karnickelstall/1 - Final Check/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|AI Understanding Gap]] beschäftigte: _Moment, das ist doch auch eine Form kognitiver Schulden, und zwar eine, welche die gesamte Menschheit betrifft._ Das Prinzip gilt auch hier: „Jetzt Tempo machen, später die Rechnung bezahlen.“ Nur dürfte diese Rechnung weitaus höher ausfallen als bei jedem Softwareprojekt.
 
-Falls Du die Unterarten doch lieber als einzelne Kästen haben willst, sag Bescheid. Dann wird es aber sehr breit.
 ## 📖 Weiterlesen
 
 - Kognitive Schulden durch Verwendung von KI sind keine zwangsläufige Folge: Während sie beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] besonders schnell entstehen, behalten beim [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]] Entwickler Architektur und Verständnis bewusst selbst in der Hand.
