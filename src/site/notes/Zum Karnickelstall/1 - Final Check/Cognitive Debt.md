@@ -38,11 +38,11 @@ Besonders schnell häufen sich diese Schulden beim [[Garten erkunden/Grundlagen/
 
 Für die Softwareentwicklung unterscheidet Storey drei Schichten:[^storey]
 
-| Schuldenart        | Wo sie sitzt                | Entsteht, wenn …                                                                                     | Was sie begrenzt                                  |
-| ------------------ | --------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| **Technical Debt** | im Code                     | Entscheidungen bei Code oder Architektur auf Kosten der Codequalität gehen –  bewusst oder unbewusst | wie leicht sich das System weiterentwickeln lässt |
-| **Cognitive Debt** | in den Köpfen des Teams     | das gemeinsame Verständnis mit dem Code nicht mehr Schritt hält                                      | wie gut das Team über Änderungen nachdenken kann  |
-| **Intent Debt**    | in schriftlichen Unterlagen | Ziele und Rahmenbedingungen schlecht dokumentiert oder nicht aktualisiert werden                     | ob das System noch tut, wofür es gedacht war      |
+| Schuldenart        | Wo sie sitzt                | Entsteht, wenn …                                                                                    | Was sie begrenzt                                  |
+| ------------------ | --------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| **Technical Debt** | im Code                     | Entscheidungen bei Code oder Architektur auf Kosten der Codequalität gehen – bewusst oder unbewusst | wie leicht sich das System weiterentwickeln lässt |
+| **Cognitive Debt** | in den Köpfen des Teams     | das gemeinsame Verständnis mit dem Code nicht mehr Schritt hält                                     | wie gut das Team über Änderungen nachdenken kann  |
+| **Intent Debt**    | in schriftlichen Unterlagen | Ziele und Rahmenbedingungen schlecht dokumentiert oder nicht aktualisiert werden                    | ob das System noch tut, wofür es gedacht war      |
 
 
 ### Intent Debt
