@@ -87,7 +87,7 @@ Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams
 
 Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerdings ist fraglich, ob er Gehör finden wird in unserer Zeit, die so sehr von Geschwindigkeit, Effizienz und „Produktivität“ besessen ist.
 
-![Videokonferenz voller KI-Euphorie.png](/img/user/Garten%20erkunden/Bilder/Videokonferenz%20voller%20KI-Euphorie.png)
+![Buzzword-Meeting mit gesundem Menschenverstand-2.png](/img/user/Buzzword-Meeting%20mit%20gesundem%20Menschenverstand-2.png)
 ## Kritik am Begriff
 
 - **Schwer messbar:** „Schulden“ ist eine Metapher. Wie viel Cognitive Debt ein Mensch oder Team angehäuft hat, lässt sich nicht beziffern.

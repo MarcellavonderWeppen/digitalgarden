@@ -126,8 +126,6 @@ graph TD
   TD --> TDLIST["Architecture Debt<br/>Build Debt<br/>Code Debt<br/>Defect Debt<br/>Design Debt<br/>Documentation Debt<br/>Infrastructure Debt<br/>People Debt<br/>Process Debt<br/>Requirements Debt<br/>Service Debt<br/>Test Debt<br/>Test Automation Debt<br/>Usability Debt<br/>Versioning Debt<br/>Security Debt<br/>ML-spezifische Schulden"]
 ```
 
-Gestrichen habe ich den Ast „Menschheit“ mit beiden Collective-Begriffen und die zwei Analogie-Pfeile. Sonst ist alles unverändert.
-
 Um dieser guten Tradition zu folgen, habe ich beschlossen, noch eine weitere Form der Schulden hinzuzufügen. 
 
 > Ich nenne sie: [[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]].
