@@ -34,20 +34,20 @@ Storey teilt dabei die Auffassung, die der dänische Informatiker Peter Naur 198
 
 Besonders schnell häufen sich diese Schulden beim [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] an, wenn KI den Code schreibt und niemand mehr genau hinschaut.
 
-### Drei Arten von Schulden
+## Drei Arten von Schulden
 
 Für die Softwareentwicklung unterscheidet Storey drei Schichten:[^storey]
 
-| Schuldenart        | Wo sie sitzt                | Entsteht, wenn …                                                                                    | Was sie begrenzt                                  |
-| ------------------ | --------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| **Technical Debt** | im Code                     | Entscheidungen bei Code oder Architektur, bewusst oder unbemerkt, auf Kosten der Codequalität gehen | wie leicht sich das System weiterentwickeln lässt |
-| **Cognitive Debt** | in den Köpfen des Teams     | das gemeinsame Verständnis mit dem Code nicht mehr Schritt hält                                     | wie gut das Team über Änderungen nachdenken kann  |
-| **Intent Debt**    | in schriftlichen Unterlagen | Ziele und Rahmenbedingungen schlecht dokumentiert oder nicht aktualisiert werden                    | ob das System noch tut, wofür es gedacht war      |
+| Schuldenart        | Wo sie sitzt                | Entsteht, wenn …                                                                                     | Was sie begrenzt                                  |
+| ------------------ | --------------------------- | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| **Technical Debt** | im Code                     | Entscheidungen bei Code oder Architektur auf Kosten der Codequalität gehen –  bewusst oder unbewusst | wie leicht sich das System weiterentwickeln lässt |
+| **Cognitive Debt** | in den Köpfen des Teams     | das gemeinsame Verständnis mit dem Code nicht mehr Schritt hält                                      | wie gut das Team über Änderungen nachdenken kann  |
+| **Intent Debt**    | in schriftlichen Unterlagen | Ziele und Rahmenbedingungen schlecht dokumentiert oder nicht aktualisiert werden                     | ob das System noch tut, wofür es gedacht war      |
 
 
-#### Intent Debt
+### Intent Debt
 
-Intent Debt („Absichtsschulden“) entsteht, wenn Ziele, Gründe und Rahmenbedingungen eines Systems unklar formuliert, nicht aktualisiert oder gar nicht erst festgehalten wurden. In der Folge steckt dieses Wissen nur noch in den Köpfen, häufig in denen weniger Schlüsselpersonen. Solange diese an Bord sind, fällt das kaum auf. Gehen sie, geht das Wissen mit. Unsauberen Code kann man nachträglich aufräumen; Absichten lassen sich jedoch später kaum rekonstruieren. Sie sollten im Moment der Entscheidung festgehalten werden, denn fehlt diese Dokumentation, können sich neue Teammitglieder kein zutreffendes Bild machen, und das System driftet allmählich weg von dem, wofür es ursprünglich gedacht war. Mit KI wird das noch dringlicher: Auch KI-Agenten müssen wissen, wofür ein System da ist, sonst optimieren sie womöglich auf das falsche Ziel. 
+Intent Debt („Absichtsschulden“) entsteht, wenn Ziele, Gründe und Rahmenbedingungen eines Systems unklar formuliert, nicht aktualisiert oder gar nicht erst festgehalten wurden. In der Folge steckt dieses Wissen nur noch in den Köpfen, häufig in denen weniger Schlüsselpersonen. Solange diese an Bord sind, fällt das kaum auf. Gehen sie, geht das Wissen mit. Unsauberen Code kann man nachträglich aufräumen; Absichten lassen sich jedoch später kaum rekonstruieren. Sie sollten im Moment der Entscheidung festgehalten werden. Fehlt diese Dokumentation, können sich neue Teammitglieder kein zutreffendes Bild machen, und das System driftet allmählich weg von dem, wofür es ursprünglich gedacht war. Mit KI wird das noch dringlicher: Auch KI-Agenten müssen wissen, wofür ein System da ist, sonst optimieren sie womöglich auf das falsche Ziel. 
 
 ## Schulden ohne Mahnung
 
@@ -72,10 +72,12 @@ Der Unterschied liegt darin, *was* man auslagert:
 
 ## Gegenmittel
 
+Karpathy bringt es auf den Punkt:[^karpathy]
+
 > [!quote] Denken kann man auslagern, Verständnis nicht.
 > _– Andrej Karpathy (2026)_
 
-Daraus folgt Karpathys wichtigste Regel,[^karpathy] für Einzelne wie für Teams: **Die KI nichts bauen lassen, was man selbst nicht versteht.**
+Daraus folgt eine Regel, die für Einzelne wie für Teams gilt: **Die KI nichts bauen lassen, was man selbst nicht versteht.**
 
 **Für Einzelne:**
 - Erst selbst denken, dann KI. Eigentlich naheliegend; es überrascht nicht, dass auch die MIT-Studie in diese Richtung deutet.
@@ -105,7 +107,6 @@ Technical Debt, Cognitive Debt, Intent Debt – und wir haben noch lange nicht d
 
 Das Wuchern der Schulden-Metaphern ruft durchaus auch Belustigung hervor.[^fowler] 
 
-
 ```mermaid
 graph TD
   S["Schulden-Metaphern"]
@@ -123,7 +124,8 @@ graph TD
   SW --> ID["Intent Debt"]
   SW --> VD["Verification Debt"]
 
-  TD --> TDLIST["Architecture Debt<br/>Build Debt<br/>Code Debt<br/>Defect Debt<br/>Design Debt<br/>Documentation Debt<br/>Infrastructure Debt<br/>People Debt<br/>Process Debt<br/>Requirements Debt<br/>Service Debt<br/>Test Debt<br/>Test Automation Debt<br/>Usability Debt<br/>Versioning Debt<br/>Security Debt<br/>ML-spezifische Schulden"]
+  TD --> TDLIST["Architecture Debt<br/>Build Debt<br/>Code Debt<br/>Defect Debt<br/>Design Debt<br/>Documentation Debt<br/>Infrastructure Debt<br/>People Debt<br/>Process Debt<br/>Requirements Debt<br/>Service Debt<br/>Test Debt<br/>Test Automation Debt<br/>Usability Debt<br/>Versioning Debt"]
+  TD -.-> TDEXTRA["Weitere Vorschläge:<br/>Security Debt<br/>ML-spezifische Schulden"]
 ```
 
 Um dieser guten Tradition zu folgen, habe ich beschlossen, noch eine weitere Form der Schulden hinzuzufügen. 
@@ -143,7 +145,7 @@ Die Idee kam mir, als ich mich mit Karpathys Gedanken zur [[Zum Karnickelstall/1
 ## 📺 Aus der YouTube-Akademie
 
 - Ein sehr empfehlenswertes Video zu kognitiven Schulden in der Softwareentwicklung: [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M)
-- Noch eine interessante Perspektive: Hier geht es um Architectural Tech Debt, die entsteht, wenn in einem Unternehmen keiner mehr Code lesen kann („zero-knowledge stack“); nebenbei erfahren wir, warum KI-Agenten die Programmiersprache Rust lieben: [The AI Skeptics were right... just not how you think](https://www.youtube.com/watch?v=Ah6YTqSbsnU)
+- Im zweiten Video geht es um Architectural Tech Debt, die entsteht, wenn in einem Unternehmen keiner mehr Code lesen kann („zero-knowledge stack“); nebenbei erfahren wir, warum KI-Agenten die Programmiersprache Rust lieben: [The AI Skeptics were right... just not how you think](https://www.youtube.com/watch?v=Ah6YTqSbsnU)
 
 
 
@@ -157,7 +159,7 @@ Die Idee kam mir, als ich mich mit Karpathys Gedanken zur [[Zum Karnickelstall/1
 
 [^karpathy]: Andrej Karpathy im Gespräch mit Stephanie Zhang auf der Konferenz AI Ascent 2026 von Sequoia Capital (April 2026). Im Original: „You can outsource your thinking, but you can't outsource your understanding.“ [Video ab 27:56](https://www.youtube.com/watch?v=96jN2OCOfLs&t=1676s)
 
-[^debt-typen]: Eine viel zitierte Systematik stammt von Alves et al. (2014): „Towards an Ontology of Terms on Technical Debt“, 6th IEEE International Workshop on Managing Technical Debt, [doi.org/10.1109/MTD.2014.9](https://doi.org/10.1109/MTD.2014.9). Sie unterscheidet 13 Typen, darunter Architecture, Test und Documentation Debt. Einen praxisnahen Überblick gibt [Sourcegraph: The 11 Types of Technical Debt](https://sourcegraph.com/blog/types-of-technical-debt).
+[^debt-typen]: Eine viel zitierte Systematik stammt von Alves et al. (2014): „Towards an Ontology of Terms on Technical Debt“, 6th IEEE International Workshop on Managing Technical Debt, [doi.org/10.1109/MTD.2014.9](https://doi.org/10.1109/MTD.2014.9). Sie unterscheidet 13 Typen, darunter Architecture, Test und Documentation Debt. Einen praxisnahen Überblick gibt [Sourcegraph: The 11 Types of Technical Debt](https://sourcegraph.com/blog/types-of-technical-debt). Die Mapping-Studie von Alves et al. (2016) erweitert die Liste auf 15 Typen (zusätzlich Usability und Versioning Debt).
 
 [^osmani]: Addy Osmani (2026): „The Intent Debt“, [addyosmani.com/blog/intent-debt](https://addyosmani.com/blog/intent-debt/). Osmani schreibt dort, er habe dasselbe Phänomen bislang „Comprehension Debt“ genannt.
 

@@ -16,7 +16,8 @@ graph TD
   SW --> ID["Intent Debt"]
   SW --> VD["Verification Debt"]
 
-  TD --> TDLIST["Architecture Debt<br/>Build Debt<br/>Code Debt<br/>Defect Debt<br/>Design Debt<br/>Documentation Debt<br/>Infrastructure Debt<br/>People Debt<br/>Process Debt<br/>Requirements Debt<br/>Service Debt<br/>Test Debt<br/>Test Automation Debt<br/>Usability Debt<br/>Versioning Debt<br/>Security Debt<br/>ML-spezifische Schulden"]
+  TD --> TDLIST["Architecture Debt<br/>Build Debt<br/>Code Debt<br/>Defect Debt<br/>Design Debt<br/>Documentation Debt<br/>Infrastructure Debt<br/>People Debt<br/>Process Debt<br/>Requirements Debt<br/>Service Debt<br/>Test Debt<br/>Test Automation Debt<br/>Usability Debt<br/>Versioning Debt"]
+  TD -.-> TDEXTRA["Weitere Vorschläge:<br/>Security Debt<br/>ML-spezifische Schulden"]
 ```
 ## Woher die Metapher kommt
 
