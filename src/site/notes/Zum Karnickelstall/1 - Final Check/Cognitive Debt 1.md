@@ -1,5 +1,5 @@
 ---
-{"title":"Cognitive Debt","aliases":["Cognitive Debt (kognitive Schulden)","kognitive Schulden"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-15","updated":"2026-11-01","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/cognitive-debt-1/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Cognitive Debt","aliases":["Cognitive Debt (kognitive Schulden)","kognitive Schulden"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-15","updated":"2026-11-01","status":"🌳 – eine gut gepflegte Pflanze"}}
+{"title":"Cognitive Debt 1","aliases":["Cognitive Debt (kognitive Schulden)","kognitive Schulden"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-15","updated":"2026-11-01","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/cognitive-debt-1/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Cognitive Debt 1","aliases":["Cognitive Debt (kognitive Schulden)","kognitive Schulden"],"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-10-15","updated":"2026-11-01","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 # Cognitive Debt
