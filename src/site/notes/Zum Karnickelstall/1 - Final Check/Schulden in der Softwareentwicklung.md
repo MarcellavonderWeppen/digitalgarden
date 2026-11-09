@@ -75,7 +75,7 @@ Zwei weitere Schuldenarten tauchen häufig auf, stehen aber in keiner der genann
 Die meisten bisherigen Schulden stecken irgendwo im System: im Code, in den Tests, in der Infrastruktur. Andere Schuldenarten sitzen woanders, nämlich bei den Menschen, die das System bauen.
 
 - **Social Debt:** Kosten, die durch ungünstige Zusammenarbeit und Kommunikation im Team entstehen. Der Begriff ist älter, als man denkt: Er taucht schon 2013 auf.[^tamburri]
-- **Cognitive Debt:** Das gemeinsame Verständnis des Teams hält nicht mehr Schritt mit dem Code. [^storey] Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
+- **Cognitive Debt:** Das gemeinsame Verständnis des Teams hält nicht mehr Schritt mit dem Code.[^storey] Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
 - **Intent Debt:** Ziele und Gründe eines Systems wurden nicht oder nur unzureichend festgehalten. Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt#Intent Debt\|Intent Debt]].
 - **Verification Debt:** Code, der nie gründlich geprüft wurde.[^vogels]
 - **Comprehension Debt:** Im Wesentlichen ein anderer Name für Cognitive Debt.[^osmani]
