@@ -72,7 +72,7 @@ Der Unterschied liegt darin, *was* man auslagert:
 
 ## Gegenmittel
 
-Karpathy bringt es auf den Punkt:[^karpathy]
+[[Zum Karnickelstall/Must-Have/Andrej Karpathy\|Karpathy]] bringt es auf den Punkt:[^karpathy]
 
 > [!quote] Denken kann man auslagern, Verständnis nicht.
 > _– Andrej Karpathy (2026)_

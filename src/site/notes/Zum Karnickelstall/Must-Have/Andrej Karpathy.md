@@ -1,5 +1,5 @@
 ---
-{"title":"Andrej Karpathy","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%","Gemini 20%"],"created":"2026-06-17","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/must-have/andrej-karpathy/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Andrej Karpathy","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%","Gemini 20%"],"created":"2026-06-17","updated":null,"status":null}}
+{"title":"Andrej Karpathy","aliases":["Karpathy"],"tags":null,"gen_ai_anteil":["Claude 40%","Gemini 20%"],"created":"2026-06-17","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/must-have/andrej-karpathy/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Andrej Karpathy","aliases":["Karpathy"],"tags":null,"gen_ai_anteil":["Claude 40%","Gemini 20%"],"created":"2026-06-17","updated":null,"status":null}}
 ---
 
 
