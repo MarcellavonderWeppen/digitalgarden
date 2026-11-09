@@ -1,5 +1,5 @@
 ---
-{"title":"Machine Learning (ML)","aliases":["Machine Learning","ML"],"tags":null,"gen_ai_anteil":null,"created":"2026-06-14","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/5-soon/machine-learning-ml/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Machine Learning (ML)","aliases":["Machine Learning","ML"],"tags":null,"gen_ai_anteil":null,"created":"2026-06-14","updated":null,"status":null}}
+{"title":"Machine Learning (ML)","aliases":["Machine Learning","ML","maschinelles Lernen"],"tags":null,"gen_ai_anteil":null,"created":"2026-06-14","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/5-soon/machine-learning-ml/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Machine Learning (ML)","aliases":["Machine Learning","ML","maschinelles Lernen"],"tags":null,"gen_ai_anteil":null,"created":"2026-06-14","updated":null,"status":null}}
 ---
 
 
