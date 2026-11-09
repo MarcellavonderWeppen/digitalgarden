@@ -1,5 +1,5 @@
 ---
-{"title":"Schulden in der Softwareentwicklung","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-11-07","updated":null,"status":"🌿 – Pflanze braucht Pflege","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/schulden-in-der-softwareentwicklung/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Schulden in der Softwareentwicklung","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-11-07","updated":null,"status":"🌿 – Pflanze braucht Pflege"}}
+{"title":"Schulden in der Softwareentwicklung","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-11-07","updated":null,"status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/schulden-in-der-softwareentwicklung/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Schulden in der Softwareentwicklung","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-11-07","updated":null,"status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 # Schulden in der Softwareentwicklung
@@ -33,35 +33,35 @@ Schulden sind dabei nicht automatisch Pfusch. Martin Fowler unterscheidet zwei F
 
 ### Umsichtige, versehentliche Schulden
 
-Manche Schulden lassen sich gar nicht vermeiden, weil man erst beim Bauen lernt, wie man hätte bauen sollen:
+Manche Schulden lassen sich kaum vermeiden, weil man erst beim Bauen lernt, wie man hätte bauen sollen:
 
 - Man versteht das Problem erst durch die Arbeit daran, 
 - man weiß am Anfang nicht, was man nicht weiß, 
 - die Anforderungen ändern sich im Laufe des Projekts. 
 
-Ein typisches Beispiel: Ein Team entwirft ein System für Bestellungen und geht davon aus, dass jede Bestellung genau eine Lieferadresse hat. Erst im Betrieb zeigt sich, dass Kunden Sammelbestellungen an mehrere Standorte aufgeben. Die falsche Annahme steckt zu diesem Zeitpunkt schon überall im Code. Mit dem Wissen von heute hätte man es anders entworfen, aber damals gab es dieses Wissen nicht. 
+Ein typisches Beispiel: Ein Team entwirft ein System für Bestellungen und geht davon aus, dass jede Bestellung genau eine Lieferadresse hat. Erst im Betrieb zeigt sich, dass Kunden Sammelbestellungen an mehrere Standorte aufgeben. Die falsche Annahme steckt zu diesem Zeitpunkt schon überall im Code. Mit dem Wissen von heute hätte man es anders entworfen, aber damals gab es dieses Wissen nicht.
 
 ## Die Unterarten der Technical Debt
 
-Die Forschung hat die technischen Schulden über die Jahre immer feiner unterteilt. 2014 waren es 13 Typen,[^alves] 2016 wuchs die Systematik auf 15 (zusätzlich Versioning und Usability Debt),[^alves2016] und auch eine große Übersichtsarbeit von 2018 zählt 15.[^rios] Die Spalte „erfasst in“ zeigt, wann ein Begriff in die Systematik aufgenommen wurde; benutzt wurden die meisten schon vorher.
+Die Forschung hat die technischen Schulden über die Jahre immer feiner unterteilt. 2014 waren es 13 Typen,[^alves] 2016 wuchs die Systematik mit Versioning und Usability Debt auf 15.[^alves2016] Auch eine große Übersichtsarbeit von 2018 zählt 15.[^rios]
 
-| Gruppe                        | Schuldenart              | Worum es geht                                                                                                   | erfasst in |
-| ----------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------- |
-| **Code und Struktur**         | **Code Debt**            | Quellcode, der unnötig kompliziert, redundant oder schwer lesbar ist.                                           | 2014       |
-|                               | **Design Debt**          | Verstöße gegen bewährte Designprinzipien, die man im Code selbst erkennen kann.                                 | 2014       |
-|                               | **Architecture Debt**    | Ungünstige Grundentscheidungen über den Aufbau des Systems, die sich nur mit großem Aufwand korrigieren lassen. | 2014       |
-|                               | **Defect Debt**          | Bekannte Fehler, deren Behebung bewusst aufgeschoben wird.                                                      | 2014       |
-| **Tests**                     | **Test Debt**            | Fehlende oder unzureichende Tests.                                                                              | 2014       |
-|                               | **Test Automation Debt** | Tests, die noch von Hand laufen, obwohl sie automatisiert werden müssten.                                       | 2014       |
-| **Infrastruktur und Betrieb** | **Build Debt**           | Ein Build-Prozess, der unnötig langsam, kompliziert oder fehleranfällig ist.                                    | 2014       |
-|                               | **Infrastructure Debt**  | Veraltete oder ungeeignete Plattformen und Werkzeuge, die die Entwicklung ausbremsen.                           | 2014       |
-|                               | **Service Debt**         | Unpassend gewählte oder veraltete Dienste in Systemen, die aus vielen einzelnen Services bestehen.              | 2014       |
-|                               | **Versioning Debt**      | Probleme bei der Versionsverwaltung, etwa Branches (Entwicklungszweige), die zu lange nebeneinander herlaufen.  | 2016       |
-| **Anforderungen und Nutzer**  | **Requirements Debt**    | Anforderungen, die nur teilweise oder anders als vorgesehen umgesetzt wurden.                                   | 2014       |
-|                               | **Documentation Debt**   | Fehlende, unvollständige oder veraltete Dokumentation.                                                          | 2014       |
-|                               | **Usability Debt**       | Entscheidungen zur Benutzerfreundlichkeit, die später korrigiert werden müssen.                                 | 2016       |
-| **Menschen und Abläufe**      | **People Debt**          | Personelle Engpässe, etwa wenn wichtiges Wissen nur bei wenigen Personen liegt.                                 | 2014       |
-|                               | **Process Debt**         | Arbeitsabläufe, die nicht (mehr) zum Projekt passen.                                                            | 2014       |
+| Gruppe                        | Schuldenart              | Worum es geht                                                                                                   |
+| ----------------------------- | ------------------------ | --------------------------------------------------------------------------------------------------------------- |
+| **Code und Struktur**         | **Code Debt**            | Quellcode, der unnötig kompliziert, an mehreren Stellen wiederholt oder schwer lesbar ist.                      |
+|                               | **Design Debt**          | Verstöße gegen bewährte Designprinzipien, die man im Code selbst erkennen kann.                                 |
+|                               | **Architecture Debt**    | Ungünstige Grundentscheidungen über den Aufbau des Systems, die sich nur mit großem Aufwand korrigieren lassen. |
+|                               | **Defect Debt**          | Bekannte Fehler, deren Behebung bewusst aufgeschoben wird.                                                      |
+| **Tests**                     | **Test Debt**            | Fehlende oder unzureichende Tests.                                                                              |
+|                               | **Test Automation Debt** | Tests, die noch von Hand laufen, obwohl sie automatisiert werden müssten.                                       |
+| **Infrastruktur und Betrieb** | **Build Debt**           | Ein Build-Prozess, der unnötig langsam, kompliziert oder fehleranfällig ist.                                    |
+|                               | **Infrastructure Debt**  | Veraltete oder ungeeignete Plattformen und Werkzeuge, die die Entwicklung ausbremsen.                           |
+|                               | **Service Debt**         | Unpassend gewählte oder veraltete Dienste in Systemen, die aus vielen einzelnen Services bestehen.              |
+|                               | **Versioning Debt**      | Probleme bei der Versionsverwaltung, etwa Branches (Entwicklungszweige), die zu lange nebeneinander herlaufen.  |
+| **Anforderungen und Nutzer**  | **Requirements Debt**    | Anforderungen, die nur teilweise oder anders als vorgesehen umgesetzt wurden.                                   |
+|                               | **Documentation Debt**   | Fehlende, unvollständige oder veraltete Dokumentation.                                                          |
+|                               | **Usability Debt**       | Entscheidungen zur Benutzerfreundlichkeit, die später korrigiert werden müssen.                                 |
+| **Menschen und Abläufe**      | **People Debt**          | Personelle Engpässe, etwa wenn wichtiges Wissen nur bei wenigen Personen liegt.                                 |
+|                               | **Process Debt**         | Arbeitsabläufe, die nicht (mehr) zum Projekt passen.                                                            |
 
 ### Neben der Systematik
 
@@ -75,8 +75,8 @@ Zwei weitere Schuldenarten tauchen häufig auf, stehen aber in keiner der genann
 Die meisten bisherigen Schulden stecken irgendwo im System: im Code, in den Tests, in der Infrastruktur. Andere Schuldenarten sitzen woanders, nämlich bei den Menschen, die das System bauen.
 
 - **Social Debt:** Kosten, die durch ungünstige Zusammenarbeit und Kommunikation im Team entstehen. Der Begriff ist älter, als man denkt: Er taucht schon 2013 auf.[^tamburri]
-- **Cognitive Debt:** Das gemeinsame Verständnis des Teams hält nicht mehr Schritt mit dem Code. Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
-- **Intent Debt:** Ziele und Gründe eines Systems wurden nicht oder nur unzureichend festgehalten.[^storey] Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt#Intent Debt\|Intent Debt]].
+- **Cognitive Debt:** Das gemeinsame Verständnis des Teams hält nicht mehr Schritt mit dem Code. [^storey] Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
+- **Intent Debt:** Ziele und Gründe eines Systems wurden nicht oder nur unzureichend festgehalten. Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt#Intent Debt\|Intent Debt]].
 - **Verification Debt:** Code, der nie gründlich geprüft wurde.[^vogels]
 - **Comprehension Debt:** Im Wesentlichen ein anderer Name für Cognitive Debt.[^osmani]
 
@@ -93,7 +93,7 @@ Fassen wir zusammen: 2013 Social Debt, 2014 dreizehn Typen auf einen Schlag, 201
 
 [^quadrant]: Martin Fowler (2009): „Technical Debt Quadrant“, Eintrag in seinem Blog (Bliki). Die Beispielsätze in der Tabelle sind sinngemäß übertragen.
 
-[^alves]: Alves et al. (2014): „Towards an Ontology of Terms on Technical Debt“, 6th IEEE International Workshop on Managing Technical Debt, [doi.org/10.1109/MTD.2014.9](https://doi.org/10.1109/MTD.2014.9). Einen praxisnahen Überblick gibt [Sourcegraph: The 11 Types of Technical Debt](https://sourcegraph.com/blog/types-of-technical-debt).
+[^alves]: Alves et al. (2014): „Towards an Ontology of Terms on Technical Debt“, 6th IEEE International Workshop on Managing Technical Debt, [doi.org/10.1109/MTD.2014.9](https://doi.org/10.1109/MTD.2014.9). Einen praxisnahen Überblick (welcher etwas anders zählt) gibt [Sourcegraph: The 11 Types of Technical Debt](https://sourcegraph.com/blog/types-of-technical-debt).
 
 [^alves2016]: Alves, N. S. R., Mendes, T. S., de Mendonça, M. G., Spínola, R. O., Shull, F. & Seaman, C. (2016): „Identification and management of technical debt: A systematic mapping study“, Information and Software Technology 70, S. 100–121. [doi.org/10.1016/j.infsof.2015.10.008](https://doi.org/10.1016/j.infsof.2015.10.008)
 
