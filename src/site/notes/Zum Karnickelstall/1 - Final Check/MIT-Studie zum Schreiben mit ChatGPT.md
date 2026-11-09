@@ -4,7 +4,7 @@
 
 # Your Brain on ChatGPT (MIT-Studie)
 
-Diese Studie des MIT Media Lab[^studie] erschien im Juni 2025 und machte den Begriff [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt (kognitive Schulden)]] bekannt. Die Idee dahinter: Wer sich das Denken von der KI abnehmen lässt, spart kurzfristig Mühe, zahlt aber später drauf, mit Zinsen.
+Diese Studie des MIT Media Lab[^studie] erschien im Juni 2025 und machte den Begriff [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt (kognitive Schulden)]] bekannt. Die Idee dahinter: Wer sich das Denken von der KI abnehmen lässt, spart kurzfristig Mühe, zahlt aber später drauf, mit Zinsen.
 ## Aufbau
 
 54 Teilnehmende schrieben über vier Monate Essays, aufgeteilt in drei Gruppen: mit ChatGPT, mit Suchmaschine und ganz ohne Hilfsmittel („Brain-only“). Dabei wurde per EEG gemessen, wie stark verschiedene Hirnregionen miteinander kommunizieren.

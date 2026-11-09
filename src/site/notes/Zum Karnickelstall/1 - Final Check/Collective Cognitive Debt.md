@@ -47,7 +47,7 @@ Eine Super-KI bauen, die man zwar nicht versteht, aber die man dennoch irgendwie
 - Hugging Face: Trifft der Vorfall wirklich die Labore?
 - Grammatik: „kurz davor, als ASI … zu retten (oder zu vernichten)“, „Die Einschätzungen“, „atemberaubendem“, „hat“ (Elite), „niemandem“, „Wer lieber liest als guckt:“
 - Überschrift/Titel; Überschneidung mit „Was mir nachts den Schlaf raubt“ klären
-- Trichter nicht nacherzählen, sondern auf den Karpathy-Artikel verlinken; Storey kurz einführen und auf [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt]] verlinken
+- Trichter nicht nacherzählen, sondern auf den Karpathy-Artikel verlinken; Storey kurz einführen und auf [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]] verlinken
 - Optional: weitere Recherche zu anderen Laboren, damit es nicht nur nach OpenAI aussieht
 - Grace et al. ist inzwischen begutachtet erschienen: Journal of Artificial Intelligence Research 84:9 (2025)
 

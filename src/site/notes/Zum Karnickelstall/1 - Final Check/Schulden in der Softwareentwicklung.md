@@ -4,7 +4,7 @@
 
 # Schulden in der Softwareentwicklung
 
-Beim Schreiben des Artikels zu [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt]] bin ich über eine erstaunlich lange Liste von Schuldenarten gestolpert. Meiner Neugier folgend habe ich Claude einen Artikel darüber schreiben lassen. Ich wünsche allen, die ebenfalls neugierig sind, viel Spaß beim Lesen 🙂
+Beim Schreiben des Artikels zu [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]] bin ich über eine erstaunlich lange Liste von Schuldenarten gestolpert. Meiner Neugier folgend habe ich Claude einen Artikel darüber schreiben lassen. Ich wünsche allen, die ebenfalls neugierig sind, viel Spaß beim Lesen 🙂
 
 
 ```mermaid
@@ -67,14 +67,14 @@ Zwei weitere Schuldenarten tauchen häufig auf, stehen aber in keiner der genann
 Die meisten bisherigen Schulden stecken irgendwo im System: im Code, in den Tests, in der Infrastruktur. Andere Schuldenarten sitzen woanders, nämlich bei den Menschen, die das System bauen.
 
 - **Social Debt:** Kosten, die durch ungünstige Zusammenarbeit und Kommunikation im Team entstehen. Der Begriff ist älter, als man denkt: Er taucht schon 2013 auf.[^tamburri]
-- **Cognitive Debt:** Das gemeinsame Verständnis des Teams hält nicht mehr Schritt mit dem Code. Mehr dazu unter [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt]].
-- **Intent Debt:** Ziele und Gründe eines Systems wurden nicht oder nur unzureichend festgehalten.[^storey] Mehr dazu unter [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt]].
+- **Cognitive Debt:** Das gemeinsame Verständnis des Teams hält nicht mehr Schritt mit dem Code. Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
+- **Intent Debt:** Ziele und Gründe eines Systems wurden nicht oder nur unzureichend festgehalten.[^storey] Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
 - **Verification Debt:** Code, der nie gründlich geprüft wurde.[^vogels]
 - **Comprehension Debt:** Im Wesentlichen ein anderer Name für Cognitive Debt.[^osmani]
 
 ## Was KI daran verschiebt
 
-KI schreibt inzwischen erstaunlich sauberen Code und kann damit klassische Code-Schulden sogar senken. Gleichzeitig erzeugt sie Code schneller, als Menschen ihn prüfen und verstehen können. Die Schulden verschwinden also nicht, sie wandern: weg vom Code, hin zu Verification, Cognitive und Intent Debt. Warum das besonders tückisch ist, steht im Artikel zu [[Zum Karnickelstall/1 - Final Check/Cognitive Debt\|Cognitive Debt]].
+KI schreibt inzwischen erstaunlich sauberen Code und kann damit klassische Code-Schulden sogar senken. Gleichzeitig erzeugt sie Code schneller, als Menschen ihn prüfen und verstehen können. Die Schulden verschwinden also nicht, sie wandern: weg vom Code, hin zu Verification, Cognitive und Intent Debt. Warum das besonders tückisch ist, steht im Artikel zu [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
 
 ## Das große Wuchern
 
