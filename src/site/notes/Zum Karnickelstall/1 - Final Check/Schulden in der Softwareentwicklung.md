@@ -86,8 +86,9 @@ KI schreibt inzwischen erstaunlich sauberen Code und kann damit klassische Code-
 
 ## Das große Wuchern
 
-Fassen wir zusammen: 2013 Social Debt, 2014 dreizehn Typen auf einen Schlag, 2015 ML-Schulden, 2016 die erweiterte Alves-Systematik mit fünfzehn Typen, später Security, und seit 2025 eine ganze Welle neuer Begriffe rund um KI. Martin Fowler belustigt diese Vermehrung ein wenig.[^fowler] Man kann darüber schmunzeln, aber jede neue Schuldenart ist auch ein Hinweis: Da hat jemand eine Stelle gefunden, an der man heute Zeit spart und morgen dafür bezahlt.
+Fassen wir zum Überblick kurz zusammen: 2013 Social Debt, 2014 dreizehn Typen auf einen Schlag, 2015 ML-Schulden, 2016 die erweiterte Alves-Systematik mit fünfzehn Typen, später Security, und seit 2025 eine ganze Welle neuer Begriffe rund um KI. 
 
+Mir geht es da wie Martin Fowler (der mit dem Quadranten von oben)[^fowler]: mich belustigt diese Vermehrung ein wenig. Aber mich fasziniert auch, wie präzise Menschen ein Phänomen kategorisiert haben. Wenn man dieses Phänomen kennt und versteht, kann man bewusst und umsichtig damit umgehen. Überlegtes, sorgfältiges Vorgehen zahlt sich aus, in der Software und anderswo; eine Weisheit die in Zeiten von KI mit ihrem Geschwindigkeitsrausch allerdings leicht übersehen wird. In dieser Hinsicht sehe ich eine Rechnung von gigantischen Ausmaß auf die Menschheit zukommen: mehr dazu in meinem Artikel [[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]]. 
 
 [^cunningham]: Ward Cunningham (1992): „The WyCash Portfolio Management System“, Erfahrungsbericht auf der Konferenz OOPSLA '92.
 
