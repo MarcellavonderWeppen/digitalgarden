@@ -72,7 +72,7 @@ Zwei weitere Schuldenarten tauchen häufig auf, stehen aber in keiner der genann
 
 ## Jenseits des Codes
 
-Die meisten bisherigen Schulden stecken irgendwo im System: im Code, in den Tests, in der Infrastruktur. Andere Schuldenarten sitzen woanders, nämlich bei den Menschen, die das System bauen.
+Die meisten Schuldenarten betreffen das System selbst: den Code, die Tests oder die Infrastruktur. Einige betreffen dagegen die Menschen, die das System bauen.
 
 - **Social Debt:** Kosten, die durch ungünstige Zusammenarbeit und Kommunikation im Team entstehen. Der Begriff ist älter, als man denkt: Er taucht schon 2013 auf.[^tamburri]
 - **Cognitive Debt:** Das gemeinsame Verständnis des Teams hält nicht mehr Schritt mit dem Code.[^storey] Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
