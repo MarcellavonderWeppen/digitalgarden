@@ -1,10 +1,10 @@
 ---
-{"title":"Schulden in der Softwareentwicklung","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-11-07","updated":null,"status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/schulden-in-der-softwareentwicklung/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Schulden in der Softwareentwicklung","aliases":null,"tags":null,"gen_ai_anteil":["Claude 80%"],"created":"2026-11-07","updated":null,"status":"🌳 – eine gut gepflegte Pflanze"}}
+{"title":"Schulden in der Softwareentwicklung","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-11-07","updated":"2026-11-12","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/schulden-in-der-softwareentwicklung/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Schulden in der Softwareentwicklung","aliases":null,"tags":null,"gen_ai_anteil":["Claude 60%"],"created":"2026-11-07","updated":"2026-11-12","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 # Schulden in der Softwareentwicklung
 
-Beim Schreiben des Artikels zu [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]] bin ich über eine erstaunlich lange Liste von Schuldenarten gestolpert. Meiner Neugier folgend habe ich Claude einen Artikel darüber schreiben lassen. Ich wünsche allen, die ebenfalls neugierig sind, viel Spaß beim Lesen 🙂
+Beim Schreiben des Artikels zu [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]] bin ich über eine erstaunlich lange Liste von Schuldenarten gestolpert. Meiner Neugier folgend ist dieser Artikel entstanden. Ich wünsche allen, die ebenfalls neugierig sind, viel Spaß beim Lesen 🙂
 
 
 ```mermaid
@@ -20,6 +20,7 @@ graph TD
   TD --> TDLIST["Architecture Debt<br/>Build Debt<br/>Code Debt<br/>Defect Debt<br/>Design Debt<br/>Documentation Debt<br/>Infrastructure Debt<br/>People Debt<br/>Process Debt<br/>Requirements Debt<br/>Service Debt<br/>Test Debt<br/>Test Automation Debt<br/>Usability Debt<br/>Versioning Debt"]
   TD -.-> TDEXTRA["Weitere Vorschläge:<br/>Security Debt<br/>ML-spezifische Schulden"]
 ```
+
 ## Woher die Metapher kommt
 
 Den Begriff **Technical Debt** (technische Schulden) prägte Ward Cunningham 1992.[^cunningham] Die Idee: Wer beim Programmieren eine Abkürzung nimmt, nimmt einen Kredit auf. Kurzfristig ist man schneller, langfristig zahlt man Zinsen, und zwar in Form von Mehraufwand bei jeder späteren Änderung.
@@ -63,32 +64,35 @@ Die Forschung hat die technischen Schulden über die Jahre immer feiner untertei
 | **Menschen und Abläufe**      | **People Debt**          | Personelle Engpässe, etwa wenn wichtiges Wissen nur bei wenigen Personen liegt.                                 |
 |                               | **Process Debt**         | Arbeitsabläufe, die nicht (mehr) zum Projekt passen.                                                            |
 
-### Neben der Systematik
+## Weitere Schuldenarten außerhalb der Systematik
 
-Zwei weitere Schuldenarten tauchen häufig auf, stehen aber in keiner der genannten Systematiken:
+Einige Begriffe stehen in keiner der genannten Systematiken:
 
-- **ML-spezifische Schulden:** Systeme mit [[Zum Karnickelstall/5 - soon/Machine Learning (ML)\|maschinellem Lernen]] haben eigene Schuldenquellen, zum Beispiel die Abhängigkeit von Daten, die sich unbemerkt verändern.[^sculley]
-- **Security Debt:** Angehäufte Sicherheitslücken, die nicht behoben wurden. Die Forschung beschäftigt sich damit erst seit Kurzem systematisch.[^security]
+* **ML-spezifische Schulden:** Systeme mit maschinellem Lernen haben eigene Schuldenquellen, zum Beispiel die Abhängigkeit von Daten, die sich unbemerkt verändern. Die grundlegende Arbeit dazu stammt von Google-Forschern aus dem Jahr 2015, lange vor dem aktuellen KI-Boom.[^sculley]
+* **Security Debt:** Angehäufte Sicherheitslücken, die nicht behoben wurden. Die Forschung beschäftigt sich damit erst seit Kurzem systematisch.[^security]
+* **Social Debt:** Kosten, die durch ungünstige Zusammenarbeit und Kommunikation im Team entstehen.[^tamburri]
 
-## Jenseits des Codes
+### Die neue Welle seit 2025
 
-Die meisten Schuldenarten betreffen das System selbst: den Code, die Tests oder die Infrastruktur. Einige betreffen dagegen die Menschen, die das System bauen.
+Seit 2025 ist eine ganze Reihe neuer Begriffe dazugekommen. Sie drehen sich um die Frage, was passiert, wenn KI Code schneller erzeugt, als Menschen ihn verstehen, prüfen und begründen können:
 
-- **Social Debt:** Kosten, die durch ungünstige Zusammenarbeit und Kommunikation im Team entstehen. Der Begriff ist älter, als man denkt: Er taucht schon 2013 auf.[^tamburri]
-- **Cognitive Debt:** Das gemeinsame Verständnis des Teams hält nicht mehr Schritt mit dem Code.[^storey] Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
-- **Intent Debt:** Ziele und Gründe eines Systems wurden nicht oder nur unzureichend festgehalten. Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt#Intent Debt\|Intent Debt]].
-- **Verification Debt:** Code, der nie gründlich geprüft wurde.[^vogels]
-- **Comprehension Debt:** Im Wesentlichen ein anderer Name für Cognitive Debt.[^osmani]
+* **Cognitive Debt:** Das gemeinsame Verständnis des Teams hält nicht mehr Schritt mit dem Code.[^storey] Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
+* **Intent Debt:** Ziele und Gründe eines Systems wurden nicht oder nur unzureichend festgehalten. Mehr dazu unter [[Garten erkunden/Verschiedenes/Cognitive Debt#Intent Debt\|Intent Debt]].
+* **Verification Debt:** Code, der nie gründlich geprüft wurde.[^vogels]
+* **Comprehension Debt:** Im Wesentlichen ein anderer Name für Cognitive Debt.[^osmani]
 
-## Was KI daran verschiebt
 
-KI schreibt inzwischen erstaunlich sauberen Code und kann damit klassische Code-Schulden sogar senken. Gleichzeitig erzeugt sie Code schneller, als Menschen ihn prüfen und verstehen können. Die Schulden verschwinden also nicht, sie wandern: weg vom Code, hin zu Verification, Cognitive und Intent Debt. Warum das besonders tückisch ist, steht im Artikel zu [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
+KI schreibt inzwischen erstaunlich sauberen Code und kann damit klassische Code-Schulden sogar senken. Gleichzeitig erzeugt sie Code schneller, als Menschen ihn prüfen und verstehen können. Die Schulden verschwinden also nicht, sie wandern: weg vom Code, hin zu Verification, Cognitive und Intent Debt.
+
+Schon vor der KI gab es Schulden, die nicht im System liegen (im Code, in den Tests, in der Infrastruktur), sondern in den Menschen, zum Beispiel People Debt und Social Debt. Diese Tendenz verstärkt sich jetzt noch. Warum das besonders tückisch ist, steht im Artikel zu [[Garten erkunden/Verschiedenes/Cognitive Debt\|Cognitive Debt]].
 
 ## Das große Wuchern
 
-Fassen wir zum Überblick kurz zusammen: 2013 Social Debt, 2014 dreizehn Typen auf einen Schlag, 2015 ML-Schulden, 2016 die erweiterte Alves-Systematik mit fünfzehn Typen, später Security, und seit 2025 eine ganze Welle neuer Begriffe rund um KI. 
+Es fing 1992 mit einer einzigen Metapher an: Technical Debt. Seither ist die Schuldenfamilie ordentlich gewachsen, und seit 2025 kommt mit KI eine ganze Welle neuer Begriffe dazu.
 
-Mir geht es da wie Martin Fowler (der mit dem Quadranten von oben)[^fowler]: mich belustigt diese Vermehrung ein wenig. Aber mich fasziniert auch, wie präzise Menschen ein Phänomen kategorisiert haben. Wenn man dieses Phänomen kennt und versteht, kann man bewusst und umsichtig damit umgehen. Überlegtes, sorgfältiges Vorgehen zahlt sich aus, in der Software und anderswo; eine Weisheit die in Zeiten von KI mit ihrem Geschwindigkeitsrausch allerdings leicht übersehen wird. In dieser Hinsicht sehe ich eine Rechnung von gigantischen Ausmaß auf die Menschheit zukommen: mehr dazu in meinem Artikel [[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]]. 
+Mir geht es da wie Martin Fowler (der mit dem Quadranten von oben)[^fowler]: mich belustigt diese Vermehrung ein wenig. Aber mich fasziniert auch, wie präzise Menschen dieses Phänomen kategorisiert haben. Wenn man ein Phänomen kennt und versteht, kann man bewusst und umsichtig damit umgehen. Überlegtes, sorgfältiges Vorgehen zahlt sich aus, in der Software und anderswo; eine Weisheit, die in Zeiten von KI mit ihrem Geschwindigkeitsrausch allerdings leicht übersehen wird. In dieser Hinsicht sehe ich eine Rechnung von gigantischem Ausmaß auf die Menschheit zukommen: mehr dazu in meinem Artikel [[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]]. 
+
+
 
 [^cunningham]: Ward Cunningham (1992): „The WyCash Portfolio Management System“, Erfahrungsbericht auf der Konferenz OOPSLA '92.
 
@@ -100,7 +104,7 @@ Mir geht es da wie Martin Fowler (der mit dem Quadranten von oben)[^fowler]: mic
 
 [^rios]: Rios, N., Mendonça, M. G. & Spínola, R. O. (2018): „A tertiary study on technical debt: Types, management strategies, research trends, and base information for practitioners“, Information and Software Technology 102, S. 117–145. Kleine Randnotiz: Nicolli Rios ist sehr wahrscheinlich dieselbe Person wie die Erstautorin von Alves et al. (2014), Nicolli Souza Rios Alves.
 
-[^sculley]: Der Klassiker dazu stammt von Forschern bei Google: Sculley et al. (2015): „Hidden Technical Debt in Machine Learning Systems“, Advances in Neural Information Processing Systems 28 (NIPS 2015), S. 2503–2511.
+[^sculley]: Sculley et al. (2015): „Hidden Technical Debt in Machine Learning Systems“, Advances in Neural Information Processing Systems 28 (NIPS 2015), S. 2503–2511.
 
 [^tamburri]: Tamburri, D. A., Kruchten, P., Lago, P. & van Vliet, H. (2013): „What is social debt in software engineering?“, 6th International Workshop on Cooperative and Human Aspects of Software Engineering (CHASE 2013), S. 93–96, [doi.org/10.1109/CHASE.2013.6614739](https://doi.org/10.1109/CHASE.2013.6614739)
 
