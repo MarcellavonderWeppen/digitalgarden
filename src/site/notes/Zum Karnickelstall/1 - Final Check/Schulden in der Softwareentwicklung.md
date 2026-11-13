@@ -68,7 +68,7 @@ Die Forschung hat die technischen Schulden über die Jahre immer feiner untertei
 
 Einige Begriffe stehen in keiner der genannten Systematiken:
 
-* **ML-spezifische Schulden:** Systeme mit maschinellem Lernen haben eigene Schuldenquellen, zum Beispiel die Abhängigkeit von Daten, die sich unbemerkt verändern. Die grundlegende Arbeit dazu stammt von Google-Forschern aus dem Jahr 2015, lange vor dem aktuellen KI-Boom.[^sculley]
+* **ML-spezifische Schulden:** Systeme mit [[Zum Karnickelstall/5 - soon/Machine Learning (ML)\|maschinellem Lernen ]]haben eigene Schuldenquellen, zum Beispiel die Abhängigkeit von Daten, die sich unbemerkt verändern. Die grundlegende Arbeit dazu stammt von Google-Forschern aus dem Jahr 2015, lange vor dem aktuellen KI-Boom.[^sculley]
 * **Security Debt:** Angehäufte Sicherheitslücken, die nicht behoben wurden. Die Forschung beschäftigt sich damit erst seit Kurzem systematisch.[^security]
 * **Social Debt:** Kosten, die durch ungünstige Zusammenarbeit und Kommunikation im Team entstehen.[^tamburri]
 
