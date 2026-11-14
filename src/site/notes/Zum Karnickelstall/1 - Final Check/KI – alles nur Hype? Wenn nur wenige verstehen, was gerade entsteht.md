@@ -2,11 +2,10 @@
 {"title":"KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht","aliases":["AI Understanding Gap"],"tags":null,"gen_ai_anteil":["Gemini 40%","Claude 20%"],"created":"2026-10-15","updated":null,"status":"🌿 – Pflanze braucht Pflege","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/ki-alles-nur-hype-wenn-nur-wenige-verstehen-was-gerade-entsteht/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht","aliases":["AI Understanding Gap"],"tags":null,"gen_ai_anteil":["Gemini 40%","Claude 20%"],"created":"2026-10-15","updated":null,"status":"🌿 – Pflanze braucht Pflege"}}
 ---
 
+ 📺 *Dieser Artikel ist eine Zusammenfassung eines wertvollen Videos aus der YouTube Akademie: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs)*
 # KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht
 
 Viele Menschen hatten noch nie oder kaum Berührungspunkte mit KI. Andere haben vielleicht 2025 einmal die kostenlose Variante von ChatGPT ausprobiert, und halten KI deshalb für überschätzt oder gar nutzlos. Diese Sicht ist nachvollziehbar, wenn man bedenkt, wo diese Menschen stehen. Aber sie ist gefährlich.
-
- 📺 *Dieser Artikel ist eine Zusammenfassung eines wertvollen Videos aus der YouTube Akademie: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs)*
 ## Der Trichter
 
 Statt zwei Lagern, die KI verstehen oder eben nicht, beschreibt Karpathy einen steilen Trichter: Je tiefer man hineinschaut, desto weniger Menschen sind dort, und desto leistungsfähiger ist die KI, die sie erleben.
