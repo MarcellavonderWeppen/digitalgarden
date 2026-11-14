@@ -1,5 +1,5 @@
 ---
-{"title":"Unbenannt","aliases":["Leseliste"],"tags":null,"gen_ai_anteil":null,"created":"2026-09-27","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/must-have/bibliothek/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Unbenannt","aliases":["Leseliste"],"tags":null,"gen_ai_anteil":null,"created":"2026-09-27","updated":null,"status":null}}
+{"title":"Bibliothek 📚","aliases":["Leseliste"],"tags":null,"gen_ai_anteil":null,"created":"2026-09-27","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/must-have/bibliothek/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Bibliothek 📚","aliases":["Leseliste"],"tags":null,"gen_ai_anteil":null,"created":"2026-09-27","updated":null,"status":null}}
 ---
 
 
