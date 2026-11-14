@@ -4,9 +4,9 @@
 
 # KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht
 
- 📺 *Dieser Artikel ist eine Zusammenfassung eines wertvollen Videos aus der YouTube Academy: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs)*
+ 📺 *Dieser Artikel ist eine Zusammenfassung eines wertvollen Videos aus der YouTube Akademie: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs)*
 
-> Viele Menschen hatten noch nie oder kaum Berührungspunkte mit KI. Andere kennen nur den kostenlosen Chatbot, der mal hilft und mal danebenliegt, und halten KI deshalb für überschätzt, harmlos oder gar nutzlos. Diese Sicht ist nachvollziehbar, wenn man bedenkt, wo diese Menschen stehen. Aber sie ist gefährlich.
+Viele Menschen hatten noch nie oder kaum Berührungspunkte mit KI. Andere haben vielleicht 2025 einmal die kostenlose Variante von ChatGPT ausprobiert, und halten KI deshalb für überschätzt oder gar nutzlos. Diese Sicht ist nachvollziehbar, wenn man bedenkt, wo diese Menschen stehen. Aber sie ist gefährlich.
 ## Der Trichter
 
 Statt zwei Lagern, die KI verstehen oder eben nicht, beschreibt Karpathy einen steilen Trichter: Je tiefer man hineinschaut, desto weniger Menschen sind dort, und desto leistungsfähiger ist die KI, die sie erleben.
