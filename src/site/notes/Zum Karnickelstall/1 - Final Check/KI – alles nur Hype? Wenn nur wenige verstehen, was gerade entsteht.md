@@ -9,7 +9,7 @@ Nimmt man die gesamte Welt in den Blick, hatten die meisten Menschen bis heute k
  📺 *Dieser Artikel ist eine Zusammenfassung eines kurzen, aber einsichtsvollen Videos aus der YouTube Akademie: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs)*
 ## Der Trichter
 
-Statt zwei Lagern, die KI verstehen oder eben nicht, beschreibt Karpathy einen steilen Trichter: Je tiefer man hineinschaut, desto weniger Menschen sind dort, und desto leistungsfähiger ist die KI, die sie erleben.
+Statt zwei Lagern, die KI verstehen oder eben nicht, beschreibt Karpathy einen steilen Trichter: Mit jeder Stufe nach unten wird der Kreis der Menschen kleiner – die KI, die sie erleben, dagegen immer leistungsfähiger.
 
 - **Kaum Kontakt (~6 Milliarden):** Etwa drei Viertel der Menschheit kamen bisher mit KI kaum oder gar nicht in Berührung.
 - **Gelegentliche Nutzer (~1–2 Milliarden):** Sie nutzen ab und zu kostenlose Chatbots und erleben sie als fehleranfällige Assistenz oder bessere Suchmaschine.
