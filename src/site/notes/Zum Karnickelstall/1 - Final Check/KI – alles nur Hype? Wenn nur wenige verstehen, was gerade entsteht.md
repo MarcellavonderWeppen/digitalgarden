@@ -4,7 +4,7 @@
 
 # KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht
 
-Nimmt man die gesamte Welt in den Blick, hatten die meisten Menschen bis heute kaum oder gar keine Berührung mit KI. Andere haben vielleicht 2025 einmal die kostenlose Variante von ChatGPT ausprobiert und halten KI daher für eine überschätzte oder gar nutzlose Spielerei. Diese Sicht ist nachvollziehbar. Aber sie ist gefährlich.
+Weltweit betrachtet hatten die meisten Menschen bis heute kaum oder gar keine Berührung mit KI. Wer zuletzt 2025 das kostenlose ChatGPT ausprobiert hat, wird KI wahrscheinlich für eine überschätzte oder gar nutzlose Spielerei halten. Diese Sicht ist nachvollziehbar. Aber sie ist gefährlich.
 
  📺 *Dieser Artikel ist eine Zusammenfassung eines kurzen, aber aufschlussreichen Videos aus der YouTube Akademie: [Karpathy: The AI Understanding Gap Is Getting Worse, Fast](https://www.youtube.com/watch?v=BjO_JC6ujXs)*
 ## Der Trichter
