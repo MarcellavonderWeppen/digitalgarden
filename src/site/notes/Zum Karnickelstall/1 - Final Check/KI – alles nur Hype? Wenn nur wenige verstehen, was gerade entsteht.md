@@ -22,7 +22,7 @@ Statt zwei Lagern, die KI verstehen oder eben nicht, beschreibt Karpathy einen s
 
 Wo jemand im Trichter landet, hängt von drei Faktoren ab:
 
-1. **Ambition:** Wie groß und komplex sind die Aufgaben, die man der KI überhaupt stellt? Wer ihr nur kleine Fragen stellt, bekommt nie zu sehen, was sie bei großen Projekten leisten kann. Gerade gelegentliche Nutzer kostenloser Chatbots werden hier einwenden: Wenn KI schon bei einfachen Aufgaben scheitert und halluziniert, wie soll sie dann große Projekte stemmen? Die Antwort liefern die folgenden zwei Filter.
+1. **Ambition:** Wie groß und komplex sind die Aufgaben, die man der KI überhaupt stellt? Wer ihr nur kleine Fragen stellt, bekommt nie zu sehen, was sie bei großen Projekten leisten kann. [^didaktisch]
 2. **Jaggedness (Zerklüftung):** KI ist nicht in allen Bereichen gleich gut. Besonders stark ist sie dort, wo sich Ergebnisse digital und eindeutig überprüfen lassen, etwa bei Code oder mathematischen Beweisen. Wie leistungsfähig man KI erlebt, hängt also stark vom eigenen Arbeitsfeld ab.
 3. **Zugang:** Der Unterschied zwischen Gratis-Version, bezahltem Abo oder internem Laborzugang ist nicht zu unterschätzen.
 
@@ -32,3 +32,4 @@ Karpathy fasst die Situation als die „Seltsamkeit dieses Moments“ (_weirdnes
 
 Ich finde das nicht nur seltsam, sondern hochgefährlich und inakzeptabel: Eine kleine Elite sieht aus erster Hand, was in den Laboren entsteht, und trifft Entscheidungen, die für das Schicksal der Menschheit bestimmend sein könnten. Der Rest kann nicht nachvollziehen, was da passiert – geschweige denn mitreden. Was es bedeutet, wenn das Verständnis einer ganzen Gesellschaft nicht mehr mit der Technologie Schritt hält, habe ich in [[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]] weitergedacht.
 
+[^didaktisch]: Ich finde die Reihenfolge, in der Karpathy die drei Filter vorbringt, didaktisch sehr ungeschickt. Gerade gelegentliche Nutzer kostenloser Chatbots werden gleich bei Punkt 1 einwenden: Wenn KI schon bei einfachen Aufgaben scheitert und halluziniert, wie soll sie dann bei großen Projekten hilfreich sein? Die Antwort liefern die anderen beiden Filter: Nicht für jedes Fachgebiet ist KI gleich gut geeignet, und das kostenlose ChatGPT von 2025 ist definitiv das falsche Werkzeug für ehrgeizige Projekte.
