@@ -31,7 +31,7 @@ Wo jemand im Trichter landet, hängt von drei Faktoren ab:
 
 Karpathy fasst die Situation als die „Seltsamkeit dieses Moments“ (_weirdness of this moment_) zusammen – ein Zustand, in dem ein und dieselbe Technologie gleichzeitig als tollpatschiger Chatbot und als schwindelerregender, exponentieller Fortschritt erlebt wird, während sich die Spitze immer schneller vom Rest der Welt entfernt.
 
-Ich halte das nicht nur für seltsam, sondern auch hochgefährlich und völlig inakzeptabel: Eine kleine Elite sieht aus erster Hand, was in den Laboren entsteht, und trifft Entscheidungen, die für das Schicksal der Menschheit bestimmend sein könnten. Der Rest kann nicht nachvollziehen, was da passiert – geschweige denn mitreden. 
+Ich halte das nicht nur für seltsam. Ich halte das für gefährlich und völlig inakzeptabel: Eine kleine Elite sieht aus erster Hand, was in den Laboren entsteht, und trifft Entscheidungen, die für das Schicksal der Menschheit bestimmend sein könnten. Der Rest kann nicht nachvollziehen, was da passiert – geschweige denn mitreden. 
 
 Hierin sehe ich eine Art Kredit, den diese Gruppe stellvertretend für alle aufnimmt, im Namen des rasanten technologischen Fortschritts. Viele Forschende sind, daran habe ich keinen Zweifel, aufrichtig überzeugt, dass diese Technologie letztlich allen zugutekommen wird; doch hinter ihnen stehen Konzerne und Regierungen mit ihren Profit- und Machtinteressen. Die genauen Konditionen des Kredits kennt niemand und die Rechnung werden wir alle zahlen müssen, in Form einer möglicherweise ziemlich dystopischen Zukunft – dabei ist die Vernichtung der Menschheit noch nicht einmal die schlimmste Option. 
 
