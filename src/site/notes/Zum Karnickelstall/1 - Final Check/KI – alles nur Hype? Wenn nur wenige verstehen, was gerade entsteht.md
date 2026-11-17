@@ -17,7 +17,7 @@ Statt zwei Lagern, die KI verstehen oder eben nicht, beschreibt [[Zum Karnickels
 - **Profis (~20 Millionen):** Sie nutzen Spitzenmodelle beruflich, vor allem in Mathematik und Programmierung, und erleben, wie KI-Agenten komplexe Projekte in kürzester Zeit bewältigen.
 - **Labor-Insider (~5000):** Forschende und Entwickler mit internem Zugang zu den leistungsfähigsten Systemen der führenden KI-Labore. Dort arbeiten ganze Schwärme autonomer Agenten wochenlang an Code, Sicherheitsanalysen oder wissenschaftlichen Fragen.
 
-![ki_verstaendnis_trichter_karpathy.png](/img/user/Garten%20erkunden/Bilder/ki_verstaendnis_trichter_karpathy.png)
+![ki_verstaendnis_trichter_karpathy_dark.png](/img/user/ki_verstaendnis_trichter_karpathy_dark.png)
 
 ## Drei Filter
 
