@@ -30,9 +30,9 @@ Einige Schwachstellen, die man kennen sollte:
 
 Die Medien machten daraus vielfach „ChatGPT macht dumm“. 
 
-## Wie ich das sehe 🤓
+## Wie ich das sehe
 
-Aus meiner Sicht macht mich die Nutzung von [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs]] nicht dümmer, sondern intelligenter.
+Aus meiner Sicht macht mich die Nutzung von [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs]] nicht dümmer, sondern intelligenter 🤓
 
 Betonung auf _mich_ 😂 – kein Zweifel, dass eine große Mehrheit KI zur Beschleunigung ihrer selbstverschuldeten Verblödung nutzen wird. Denn wer Denken als lästig empfindet, der wird dankbar nach jedem Werkzeug greifen, welches ihm die Mühe abnimmt.
 
