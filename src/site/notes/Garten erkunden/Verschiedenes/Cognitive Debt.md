@@ -134,7 +134,7 @@ Um dieser guten Tradition zu folgen, habe ich beschlossen, noch eine weitere For
 
 Das stetige Anschwellen der Begriffsflut lässt auch mich schmunzeln, aber das Phänomen hinter diesem neuen Begriff erfüllt mich mit großer Sorge.
 
-Die Idee kam mir, als ich mich mit Karpathys Gedanken zur [[Zum Karnickelstall/1 - Final Check/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|AI Understanding Gap]] beschäftigte: _Moment, das ist doch auch eine Form kognitiver Schulden, und zwar eine, welche die gesamte Menschheit betrifft._ Das Prinzip gilt auch hier: „Jetzt Tempo machen, später die Rechnung bezahlen.“ Nur dürfte diese Rechnung weitaus höher ausfallen als bei jedem Softwareprojekt.
+Die Idee kam mir, als ich mich mit Karpathys Gedanken zur [[Garten erkunden/Verschiedenes/KI – alles nur Hype? Wenn nur wenige verstehen, was gerade entsteht\|AI Understanding Gap]] beschäftigte: _Moment, das ist doch auch eine Form kognitiver Schulden, und zwar eine, welche die gesamte Menschheit betrifft._ Das Prinzip gilt auch hier: „Jetzt Tempo machen, später die Rechnung bezahlen.“ Nur dürfte diese Rechnung weitaus höher ausfallen als bei jedem Softwareprojekt.
 
 ## 📖 Weiterlesen
 
