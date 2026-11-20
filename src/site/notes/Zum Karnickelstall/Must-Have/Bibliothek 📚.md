@@ -8,11 +8,11 @@
 ## Gelesen & von mir für gut befunden ☑️
 ### Shaolin – Du muss nicht kämpfen, um zu siegen
 
-[[Zum Karnickelstall/5 - soon/Shaolin – Du musst nicht kämpfen, um zu siegen 📕\|mehr]]
+[[Zum Karnickelstall/4 - soon/Shaolin – Du musst nicht kämpfen, um zu siegen 📕\|mehr]]
 
 ### Deep work
 
-[[Zum Karnickelstall/5 - soon/Deep Work\|mehr]]
+[[Zum Karnickelstall/4 - soon/Deep Work\|mehr]]
 
 Mind for numbers, 12week year, Second Brain, selbstständig machen, art of war, real artists don’t starve, Weg des Künstlers
 
@@ -21,11 +21,11 @@ Mind for numbers, 12week year, Second Brain, selbstständig machen, art of war, 
 Bücher, die auf meiner Liste stehen und die ich noch lesen möchte!
 
 ### Empire of AI 
-[[Zum Karnickelstall/6 - soon (unveröffentlicht)/Empire of AI\|mehr]]
+[[Zum Karnickelstall/5 - soon (unveröffentlicht)/Empire of AI\|mehr]]
 ### This is for everyone
 
 ### Schnelles Denken, langsames Denken
-[[Zum Karnickelstall/5 - soon/Schnelles Denken, langsames Denken\| mehr]]
+[[Zum Karnickelstall/4 - soon/Schnelles Denken, langsames Denken\| mehr]]
 
 ### Überwachungskapitalismus
 [[Garten erkunden/Verschiedenes/Überwachungskapitalismus\|mehr]]

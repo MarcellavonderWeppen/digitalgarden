@@ -144,7 +144,7 @@ Das Web wurde als offenes, dezentrales System gedacht: Jeder kann eine Seite ver
 
 ![This is for everyone terminal.png](/img/user/Garten%20erkunden/Bilder/This%20is%20for%20everyone%20terminal.png)
 
-[^memex]: Die Idee inspiriert auch heute noch, zum Beispiel den Autor dieses lesenswerten Artikels: [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it's-just-not-evenly-distributed.html) Das alles erinnert mich auch stark an die Ideen rund um [[Zum Karnickelstall/5 - soon/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM und Second Brain]].
+[^memex]: Die Idee inspiriert auch heute noch, zum Beispiel den Autor dieses lesenswerten Artikels: [Memex is already here, it’s just not evenly distributed](https://filiph.net/text/memex-is-already-here,-it's-just-not-evenly-distributed.html) Das alles erinnert mich auch stark an die Ideen rund um [[Zum Karnickelstall/4 - soon/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM und Second Brain]].
 
 [^NLS]: Warum NLS und nicht OLS? In Engelbarts Labor gab es bereits ein „Off-Line System“. Das Kürzel OLS hätte also für beide gepasst. Um sie auseinanderzuhalten, nahm man beim On-Line System einfach das N aus „oN“. Übrigens hieß „off-line“ damals nicht „ohne Internet“, das gab es ja noch gar nicht, sondern: nicht direkt am Rechner. Man bereitete seine Eingaben vor, der Rechner verarbeitete sie irgendwann, und das Ergebnis bekam man erst später zu sehen. Bei NLS dagegen saß man direkt am Bildschirm und sah sofort, was passierte, eben „on-line“.
 

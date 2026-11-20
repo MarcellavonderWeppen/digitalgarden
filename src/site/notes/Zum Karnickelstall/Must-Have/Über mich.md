@@ -15,7 +15,7 @@ Ich habe mich lange für „technik-unbegabt“ gehalten – bis ich vor vielen 
 
 Meine Kurse wenden sich sowohl an Menschen, die den Einstieg suchen (und sich vielleicht wie ich damals für „technik-unbegabt“ halten) als auch an Anwender mit Vorerfahrung, die [[Garten erkunden/Grundlagen/Künstliche Intelligenz#Gen AI\|GenAI]] meistern und KI verstehen wollen.
 
-Es fing alles an mit meiner Begeisterung für ChatGPT, aber inzwischen habe ich den Fokus auf andere [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs]] gelegt. (👉 Mehr dazu hier: [[Zum Karnickelstall/Must-Have/KI – es geht auch anders!\|KI – es geht auch anders!]])
+Es fing alles an mit meiner Begeisterung für ChatGPT, aber inzwischen habe ich den Fokus auf andere [[Zum Karnickelstall/4 - soon/LLMs (Large Language Models)\|LLMs]] gelegt. (👉 Mehr dazu hier: [[Zum Karnickelstall/Must-Have/KI – es geht auch anders!\|KI – es geht auch anders!]])
 
 Hier mehr Infos zu meinen Kursen:
 [ki-magie.online](https://www.ki-magie.online)
@@ -30,7 +30,7 @@ Ich denke, ich habe [[ethisch vertretbare Lösungen\|ethisch vertretbare Lösung
 
 Meine Pläne dazu sind streng geheim, aber anscheinend wurden sie geleakt:
 
-[[Zum Karnickelstall/7 - nicht veröffentlichen/Excalidraw/Cats & Dragons Game Level 1.excalidraw\|Cats & Dragons Game Level 1.excalidraw]]
+[[Zum Karnickelstall/6 - nicht veröffentlichen/Excalidraw/Cats & Dragons Game Level 1.excalidraw\|Cats & Dragons Game Level 1.excalidraw]]
 
 ## Webdesign 🎨
 

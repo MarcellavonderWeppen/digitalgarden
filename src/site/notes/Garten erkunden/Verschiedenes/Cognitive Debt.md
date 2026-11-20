@@ -130,7 +130,7 @@ graph TD
 
 Um dieser guten Tradition zu folgen, habe ich beschlossen, noch eine weitere Form der Schulden hinzuzufügen. 
 
-> Ich nenne sie: [[Zum Karnickelstall/1 - Final Check/Collective Cognitive Debt\|Collective Cognitive Debt]].
+> Ich nenne sie: [[Zum Karnickelstall/3 - Work on tomorrow/Collective Cognitive Debt\|Collective Cognitive Debt]].
 
 Das stetige Anschwellen der Begriffsflut lässt auch mich schmunzeln, aber das Phänomen hinter diesem neuen Begriff erfüllt mich mit großer Sorge.
 

@@ -33,7 +33,7 @@ Ausgerechnet „aktiv“ ist in diesem Modell also nur Stufe 2. Im Alltag, in vi
 > [!info] Was sich bewährt hat
 > - **Selbsttesten:** Inhalte aus dem Gedächtnis abrufen statt erneut lesen
 > - **Spaced Repetition:** in wachsenden Zeitabständen wiederholen statt alles am Stück
-> - **Sich den Stoff selbst erklären:** ihn durchgehen, als würde man ihn jemandem beibringen → Beispiel: [[Zum Karnickelstall/5 - soon/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]
+> - **Sich den Stoff selbst erklären:** ihn durchgehen, als würde man ihn jemandem beibringen → Beispiel: [[Zum Karnickelstall/4 - soon/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]
 > - **Eigenes erzeugen:** in eigenen Worten formulieren und verknüpfen → Beispiel: [[Garten erkunden/Digitale Gärten, PKM & Lernen/Atomare Notizen\|Atomare Notizen]]
 
 
@@ -46,8 +46,8 @@ Passives Lernen fühlt sich leicht an, aktives Lernen mühsam. In einer Studie l
 ### Drei Methoden, die auf Stufe 3 des ICAP-Modells angesiedelt sind:
 
 - [[Garten erkunden/Digitale Gärten, PKM & Lernen/Atomare Notizen\|Atomare Notizen]]: Eine Notiz, eine Idee. Wer einen Gedanken knapp und für sich allein verständlich fassen muss, denkt ihn zu Ende.
-- [[Zum Karnickelstall/5 - soon/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]: Den Stoff so einfach erklären, dass ein Kind ihn versteht. Wo du ins Stocken gerätst, liegt deine Verständnislücke.
-- [[Zum Karnickelstall/5 - soon/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]]: Schreiben ist kein Protokoll des Denkens, sondern das Denken selbst. Dazu eine Übung, mit der du merkst, wann du in den passiven Modus rutschst.
+- [[Zum Karnickelstall/4 - soon/Richard Feynman#Prinzipien des Lernens Feynman-Methode\|Feynman-Methode]]: Den Stoff so einfach erklären, dass ein Kind ihn versteht. Wo du ins Stocken gerätst, liegt deine Verständnislücke.
+- [[Zum Karnickelstall/4 - soon/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]]: Schreiben ist kein Protokoll des Denkens, sondern das Denken selbst. Dazu eine Übung, mit der du merkst, wann du in den passiven Modus rutschst.
 
 ### Und eine Methode, die in Zeiten von KI leider oft unterhalb von Stufe 3 bleibt:
 

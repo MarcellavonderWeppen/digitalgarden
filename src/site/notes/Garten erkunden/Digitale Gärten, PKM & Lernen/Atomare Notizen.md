@@ -5,7 +5,7 @@
 
 # Atomare Notizen
 
-Eine atomare Notiz enthält **genau eine Idee** – nicht mehr, nicht weniger. Das Konzept stammt aus der [[Zum Karnickelstall/5 - soon/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]]-Methode und ist eines der mächtigsten Konzepte im [[Zum Karnickelstall/5 - soon/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]].
+Eine atomare Notiz enthält **genau eine Idee** – nicht mehr, nicht weniger. Das Konzept stammt aus der [[Zum Karnickelstall/4 - soon/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)#Zettelkasten\|Zettelkasten]]-Methode und ist eines der mächtigsten Konzepte im [[Zum Karnickelstall/4 - soon/Obsidian & digitaler Garten/PKM (Personal Knowledge Management)\|PKM (Personal Knowledge Management)]].
 
 ☝️🤓 Ich halte mich nicht daran, aber wahrscheinlich ist es eine gute Idee!
 
@@ -28,4 +28,4 @@ Die atomare Struktur transformiert passives Sammeln von Informationen in einen [
 
 ## 📖 Weiterlesen
 
- Komplexe Ideen in ihre einfachsten Bestandteile zerlegen und aktives Denken? Das klingt doch sehr nach der [[Zum Karnickelstall/5 - soon/Richard Feynman#Prinzipien des Lernens Feynman-Methode\| Feynman-Methode]] und passt zum [[Zum Karnickelstall/5 - soon/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]].
+ Komplexe Ideen in ihre einfachsten Bestandteile zerlegen und aktives Denken? Das klingt doch sehr nach der [[Zum Karnickelstall/4 - soon/Richard Feynman#Prinzipien des Lernens Feynman-Methode\| Feynman-Methode]] und passt zum [[Zum Karnickelstall/4 - soon/Obsidian & digitaler Garten/Denken auf Papier\|Denken auf Papier]].

@@ -1,0 +1,11 @@
+---
+{"title":"KI-Psychosen","aliases":["KI-Psychose"],"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":"🌱 – wächst vielleicht später noch weiter","dg-publish":true,"permalink":"/zum-karnickelstall/4-soon/ki-psychosen/","dgPassFrontmatter":true,"dg-note-properties":{"title":"KI-Psychosen","aliases":["KI-Psychose"],"tags":null,"gen_ai_anteil":null,"created":"2026-06-06","updated":null,"status":"🌱 – wächst vielleicht später noch weiter"}}
+---
+
+
+# KI-Psychosen
+
+
+## Fundstück auf YouTube 📺
+
+- Auch [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]] kann unter Umständen eine spezielle Variante von KI-Psychose auslösen: [I Got Addicted to Vibe Coding (I almost lost everything)](https://www.youtube.com/watch?v=xPjZzMVyrAQ) 

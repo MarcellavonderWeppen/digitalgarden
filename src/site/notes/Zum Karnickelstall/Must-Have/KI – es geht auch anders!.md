@@ -28,7 +28,7 @@ So hat sich in den letzten Jahren langsam aber sicher die Überzeugung herauskri
 
 - Das Recht des Menschen auf Privatsphäre und Daten-Souveränität
 - Respektvoller Umgang mit Mensch, Tier und Natur
-- Ehrliche, transparente Kommunikation statt [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Dark Patterns (Deceptive Patterns)\|Dark Patterns]]
+- Ehrliche, transparente Kommunikation statt [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Dark Patterns (Deceptive Patterns)\|Dark Patterns]]
 
 ![Solarpunk AI 14.05.26 Gemini.png](/img/user/Garten%20erkunden/Bilder/Solarpunk%20AI%2014.05.26%20Gemini.png)
 

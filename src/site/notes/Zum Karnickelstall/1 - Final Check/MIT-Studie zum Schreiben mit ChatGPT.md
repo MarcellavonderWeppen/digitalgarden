@@ -32,7 +32,7 @@ Die Medien machten daraus vielfach „ChatGPT macht dumm“.
 
 ## Wie ich das sehe
 
-Aus meiner Sicht macht mich die Nutzung von [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLMs]] nicht dümmer, sondern intelligenter 🤓
+Aus meiner Sicht macht mich die Nutzung von [[Zum Karnickelstall/4 - soon/LLMs (Large Language Models)\|LLMs]] nicht dümmer, sondern intelligenter 🤓
 
 Betonung auf _mich_ 😂 – kein Zweifel, dass eine große Mehrheit KI zur Beschleunigung ihrer selbstverschuldeten Verblödung nutzen wird. Denn wer Denken als lästig empfindet, der wird dankbar nach jedem Werkzeug greifen, welches ihm die Mühe abnimmt.
 
@@ -43,13 +43,13 @@ Oben habe ich geschrieben, Essayschreiben sei eine sehr spezifische Aufgabe und 
 Fazit: Wer KI nutzt, um nicht selbst denken zu müssen, braucht sich nicht zu wundern, wenn die eigene Denkfähigkeit verkümmert wie ein untrainierter Muskel. Insofern finde ich die Ergebnisse der MIT-Studie sowohl trivial als auch irreführend.  
 
 > [!tip] KI für aktives Lernen
-> Ich finde es schade und eigentlich nicht nachvollziehbar, dass offenbar so viele Menschen KI zur Verflachung ihres Denkens und Generierung von [[Zum Karnickelstall/5 - soon/AI Slop\|AI Slop]] nutzen. Lernen ist eine meiner Lieblingsbeschäftigungen – seit dem Auftauchen von ChatGPT macht es mir noch mehr Freude. Denn eine besonders effektive Form des Lernens ist das Simulieren von Prüfungen und KI ist wie gemacht dafür. Statt mir die Antwort vorkauen zu lassen, hat die KI den Auftrag, mir Fragen zu stellen und das schon in mir schlummernde Wissen zu neuen Themen aus mir herauszukitzeln. 
+> Ich finde es schade und eigentlich nicht nachvollziehbar, dass offenbar so viele Menschen KI zur Verflachung ihres Denkens und Generierung von [[Zum Karnickelstall/4 - soon/AI Slop\|AI Slop]] nutzen. Lernen ist eine meiner Lieblingsbeschäftigungen – seit dem Auftauchen von ChatGPT macht es mir noch mehr Freude. Denn eine besonders effektive Form des Lernens ist das Simulieren von Prüfungen und KI ist wie gemacht dafür. Statt mir die Antwort vorkauen zu lassen, hat die KI den Auftrag, mir Fragen zu stellen und das schon in mir schlummernde Wissen zu neuen Themen aus mir herauszukitzeln. 
 
 ## 📖 Weiterlesen
 
 - Die Informatik-Professorin Margaret-Anne Storey griff den Begriff „Cognitive Debt“ 2026 fürs Programmieren auf: Wenn KI den Code schreibt, versteht irgendwann niemand im Team mehr so richtig, wie die eigene Software funktioniert. Mehr dazu im Artikel über [[Garten erkunden/Grundlagen/Vibecoding\|Vibecoding]].
-- Das Bild oben spielt auf die Filmsatire „Idiocracy“ (2006) an: Ein durchschnittlicher Soldat wird für ein Experiment eingefroren, wacht 500 Jahre später auf und ist plötzlich der klügste Mensch der Welt, weil alle anderen verblödet sind. Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. Die Frage stellt sich durchaus: [[Zum Karnickelstall/1 - Final Check/Idiocracy - Spielfilm oder Dokumentation?\|Idiocracy - Spielfilm oder Dokumentation?]] 
-- ☝️🤓 Damit es nicht so weit kommt: Bitte nicht der Maschine das Denken überlassen! [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|Aktives Lernen]] lautet die Devise. Damit Du das Prinzip des aktiven Lernens mit einem [[Zum Karnickelstall/5 - soon/LLMs (Large Language Models)\|LLM]] Deines Vertrauens ausprobieren kannst, teile ich hier gerne meinen persönlichen Prompt: [[Garten erkunden/Prompts & Skills/Lernbegleiter – Skill\|Lernbegleiter – Skill]]. Viel Spaß damit!
+- Das Bild oben spielt auf die Filmsatire „Idiocracy“ (2006) an: Ein durchschnittlicher Soldat wird für ein Experiment eingefroren, wacht 500 Jahre später auf und ist plötzlich der klügste Mensch der Welt, weil alle anderen verblödet sind. Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. Die Frage stellt sich durchaus: [[Zum Karnickelstall/2 - Work on today/Idiocracy - Spielfilm oder Dokumentation?\|Idiocracy - Spielfilm oder Dokumentation?]] 
+- ☝️🤓 Damit es nicht so weit kommt: Bitte nicht der Maschine das Denken überlassen! [[Garten erkunden/Digitale Gärten, PKM & Lernen/Aktives Lernen\|Aktives Lernen]] lautet die Devise. Damit Du das Prinzip des aktiven Lernens mit einem [[Zum Karnickelstall/4 - soon/LLMs (Large Language Models)\|LLM]] Deines Vertrauens ausprobieren kannst, teile ich hier gerne meinen persönlichen Prompt: [[Garten erkunden/Prompts & Skills/Lernbegleiter – Skill\|Lernbegleiter – Skill]]. Viel Spaß damit!
 
 [^studie]: Kosmyna et al. (2025): „Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task“, arXiv:2506.08872
 

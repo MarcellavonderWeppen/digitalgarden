@@ -39,7 +39,7 @@ Das Problem bleibt unsichtbar, bis das System bricht und die Entwickler wie Arch
 
 ### Cybersecurity – ein Job mit Zukunft
 
-Vibe-Code genügt oft den Ansprüchen an sicheren Code nicht. KI-Modelle lernen in der ersten [[Zum Karnickelstall/6 - soon (unveröffentlicht)/Training von LLMs\|Trainingsphase]], das wahrscheinlichste nächste Wort vorherzusagen. In einer späteren Phase werden sie dafür belohnt, dass ihr Code läuft und Tests besteht. Ob er auch sicher ist, spielt dabei eine untergeordnete Rolle. Das Ergebnis ist Code, der plausibel wirkt und den Nutzer zufriedenstellt – es funktioniert ja zunächst einmal alles.
+Vibe-Code genügt oft den Ansprüchen an sicheren Code nicht. KI-Modelle lernen in der ersten [[Zum Karnickelstall/5 - soon (unveröffentlicht)/Training von LLMs\|Trainingsphase]], das wahrscheinlichste nächste Wort vorherzusagen. In einer späteren Phase werden sie dafür belohnt, dass ihr Code läuft und Tests besteht. Ob er auch sicher ist, spielt dabei eine untergeordnete Rolle. Das Ergebnis ist Code, der plausibel wirkt und den Nutzer zufriedenstellt – es funktioniert ja zunächst einmal alles.
 
 Weil KI-generierter Code optisch oft sauber wirkt, verleitet er zu blindem Vertrauen. Doch die Modelle betrachten Code meist isoliert und übersehen komplexe Sicherheits-Wechselwirkungen im Gesamtsystem. Schlimmer noch: Da sie mit historischem Code trainiert wurden, replizieren sie alte, bekannte Sicherheitslücken in rasantem Tempo – ganz unbemerkt vom Entwickler im „Vibe“.
 
@@ -51,12 +51,12 @@ Für Cybersecurity-Spezialisten sind das gute Neuigkeiten: Sie dürften auf abse
 
 - Wenn erfahrene Programmierer mit KI-Agenten arbeiten, dabei aber Architektur und Qualität bewusst selbst verantworten, spricht man heute nicht mehr von Vibecoding, sondern von [[Garten erkunden/Grundlagen/Agentic Engineering\|Agentic Engineering]].
 - Jeder kann jetzt Webdesign? Nein! Meine Perspektive als Webdesignerin zu vibe-gecodeten Websites: [[Garten erkunden/Verschiedenes/Warum KI (noch) keine guten Websites baut\|Warum KI (noch) keine guten Websites baut]].
-- Laien und mittelmäßige Programmierer können heute in Sekundenschnelle Code produzieren. Prüfen müssen ihn aber Menschen mit echtem Verständnis – und das ist mühsam. Das hat zu einer Krise der Open-Source-Bewegung geführt. Mehr dazu im Artikel zu [[Zum Karnickelstall/5 - soon/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]].
+- Laien und mittelmäßige Programmierer können heute in Sekundenschnelle Code produzieren. Prüfen müssen ihn aber Menschen mit echtem Verständnis – und das ist mühsam. Das hat zu einer Krise der Open-Source-Bewegung geführt. Mehr dazu im Artikel zu [[Zum Karnickelstall/4 - soon/Morpheus Video zu KI und OpenSource\|Morpheus Video zu KI und OpenSource]].
 
 ## 📺 Aus der YouTube Academy
 
 - [AI Cognitive Debt: The Crisis Nobody Sees Coming](https://www.youtube.com/watch?v=Tk0hIOAwf6M) erklärt das Konzept von „Cognitive Debt“ im Detail. Sehr empfehlenswert.
-- Man könnte meinen, ich wäre gegen Vibecoding. Bin ich nicht. Aber – man sollte halt wissen, was man tut. Dieser kompakte Powerkurs liefert die Grundlagen und macht richtig Lust aufs Ausprobieren: [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E) Doch bevor ich hier jemanden zum Viben verleite, eine kurze Warnung: Vibecoding kann süchtig machen! Ein Betroffener berichtet: [I Got Addicted to Vibe Coding (I almost lost everything)](https://www.youtube.com/watch?v=xPjZzMVyrAQ). Ich vermute, es handelt sich bei dieser Abhängigkeit um eine besonders produktive Form der [[Zum Karnickelstall/5 - soon/KI-Psychosen\|KI-Psychose]], auch KI-Workaholismus genannt 😅
+- Man könnte meinen, ich wäre gegen Vibecoding. Bin ich nicht. Aber – man sollte halt wissen, was man tut. Dieser kompakte Powerkurs liefert die Grundlagen und macht richtig Lust aufs Ausprobieren: [Vibe Coding Fundamentals In 33 minutes](https://www.youtube.com/watch?v=iLCDSY2XX7E) Doch bevor ich hier jemanden zum Viben verleite, eine kurze Warnung: Vibecoding kann süchtig machen! Ein Betroffener berichtet: [I Got Addicted to Vibe Coding (I almost lost everything)](https://www.youtube.com/watch?v=xPjZzMVyrAQ). Ich vermute, es handelt sich bei dieser Abhängigkeit um eine besonders produktive Form der [[Zum Karnickelstall/4 - soon/KI-Psychosen\|KI-Psychose]], auch KI-Workaholismus genannt 😅
 
 [^quelle]: Andrej Karpathy auf X, 2. Februar 2025: [x.com/karpathy/status/1886192184808149383](https://x.com/karpathy/status/1886192184808149383)
 
