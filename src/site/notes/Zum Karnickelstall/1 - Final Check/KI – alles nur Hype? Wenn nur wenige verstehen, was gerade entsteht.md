@@ -33,7 +33,7 @@ Karpathy fasst die Situation als die „Seltsamkeit dieses Moments“ (_weirdnes
 
 Auch ich finde das seltsam. Mehr noch: Es ist gefährlich und völlig inakzeptabel! Eine kleine Elite sieht aus erster Hand, was in den Laboren entsteht, und trifft Entscheidungen, die das Schicksal der Menschheit bestimmen könnten. Der Rest kann nicht nachvollziehen, was da passiert – geschweige denn mitreden.
 
-Hierin sehe ich eine Art Kredit, den diese Gruppe stellvertretend für alle aufnimmt, im Namen des Fortschritts. Viele Forschende sind, daran habe ich keinen Zweifel, aufrichtig überzeugt, dass diese Technologie letztlich allen zugutekommen wird; doch hinter ihnen stehen Konzerne und Regierungen mit ihren Profit- und Machtinteressen. Die genauen Konditionen des Kredits kennt niemand und die Rechnung werden wir alle zahlen müssen, möglicherweise in Form einer dystopischen Zukunft – dabei ist die Vernichtung der Menschheit noch nicht einmal die schlimmste Option. 
+Hierin sehe ich eine Art Kredit, den diese Gruppe stellvertretend für alle aufnimmt, im Namen des Fortschritts. Viele Forschende sind, daran habe ich keinen Zweifel, aufrichtig überzeugt, dass KI letztlich allen zugutekommen wird; doch hinter ihnen stehen Konzerne und Regierungen mit ihren Profit- und Machtinteressen. Die genauen Konditionen des Kredits kennt niemand und die Rechnung werden wir alle zahlen müssen, möglicherweise in Form einer dystopischen Zukunft – dabei ist die Vernichtung der Menschheit noch nicht einmal die schlimmste Option. 
 
 Ich nenne dieses Phänomen: [[Zum Karnickelstall/3 - Work on tomorrow/Collective Cognitive Debt\|Collective Cognitive Debt]].
 
