@@ -22,7 +22,7 @@ Cognitive Debt ist hier das Gegenstück zur **kognitiven Reserve**, also dem Puf
 
 ### Schreiben mit KI (2025)
 
-Bekannt wurde der Begriff durch eine [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]].[^mit] Dort meint er die langfristigen Kosten, wenn ein Mensch Denkarbeit dauerhaft an KI abgibt: weniger kritisches Denken, schwächere Erinnerung, weniger eigene Ideen. Untersucht wurde nur eine einzige Aufgabe, nämlich das Schreiben von Essays. Die Medien machten daraus vielfach pauschal „ChatGPT macht dumm“.
+Bekannt wurde der Begriff durch eine [[Garten erkunden/Digitale Gärten, PKM & Lernen/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]].[^mit] Dort meint er die langfristigen Kosten, wenn ein Mensch Denkarbeit dauerhaft an KI abgibt: weniger kritisches Denken, schwächere Erinnerung, weniger eigene Ideen. Untersucht wurde nur eine einzige Aufgabe, nämlich das Schreiben von Essays. Die Medien machten daraus vielfach pauschal „ChatGPT macht dumm“.
 
 Vielerorts liest man, das MIT habe den Begriff geprägt; wie wir jedoch gesehen haben, war er in der Alzheimer-Forschung schon zehn Jahre früher im Umlauf. 
 
@@ -96,7 +96,7 @@ Alles Dinge, die eigentlich der gesunde Menschenverstand gebieten würde; allerd
 
 - **Schwer messbar:** „Schulden“ ist eine Metapher. Wie viel Cognitive Debt ein Mensch oder Team angehäuft hat, lässt sich nicht beziffern.
 - **Braucht es überhaupt einen neuen Begriff?** Manche halten den Begriff für überflüssig, weil es mit Cognitive Offloading oder **Deskilling** (Verlust von Fähigkeiten durch Automatisierung) längst etablierte Begriffe gibt.
-- Speziell an der [[Zum Karnickelstall/1 - Final Check/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]] gibt es einiges auszusetzen: nur 54 Teilnehmende, kein Peer-Review, methodische Schwächen.
+- Speziell an der [[Garten erkunden/Digitale Gärten, PKM & Lernen/MIT-Studie zum Schreiben mit ChatGPT\|MIT-Studie zum Schreiben mit ChatGPT]] gibt es einiges auszusetzen: nur 54 Teilnehmende, kein Peer-Review, methodische Schwächen.
 
 ## So viele Schulden – und eine neue Art?
 
@@ -130,7 +130,7 @@ graph TD
 
 Um dieser guten Tradition zu folgen, habe ich beschlossen, noch eine weitere Form der Schulden hinzuzufügen. 
 
-> Ich nenne sie: [[Zum Karnickelstall/3 - Work on tomorrow/Collective Cognitive Debt\|Collective Cognitive Debt]].
+> Ich nenne sie: [[Zum Karnickelstall/2 - Work on today/Collective Cognitive Debt\|Collective Cognitive Debt]].
 
 Das stetige Anschwellen der Begriffsflut lässt auch mich schmunzeln, aber das Phänomen hinter diesem neuen Begriff erfüllt mich mit großer Sorge.
 

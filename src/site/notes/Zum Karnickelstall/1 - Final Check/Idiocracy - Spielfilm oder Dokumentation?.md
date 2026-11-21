@@ -1,0 +1,8 @@
+---
+{"title":"Idiocracy - Spielfilm oder Dokumentation?","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-11-18","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/idiocracy-spielfilm-oder-dokumentation/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Idiocracy - Spielfilm oder Dokumentation?","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-11-18","updated":null,"status":null}}
+---
+
+
+# Idiocracy - Spielfilm oder Dokumentation?
+
+Das Bild oben spielt auf die Satire „Idiocracy“ (2006) an: Ein durchschnittlicher Soldat wird für ein Experiment eingefroren, wacht 500 Jahre später auf und ist plötzlich der klügste Mensch der Welt, weil alle anderen verblödet sind. Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. Die Frage stellt sich: [[Zum Karnickelstall/1 - Final Check/Idiocracy - Spielfilm oder Dokumentation?\|Idiocracy - Spielfilm oder Dokumentation?]] So abwegig ist das nicht: In mehreren Industrieländern sinken die gemessenen IQ-Werte seit etwa den 1990er-Jahren wieder, nachdem sie im 20. Jahrhundert stetig gestiegen waren (umgekehrter Flynn-Effekt). Der Trend begann lange vor ChatGPT, die Ursachen sind umstritten: Diskutiert werden unter anderem weniger Lesen, mehr Bildschirmzeit, Veränderungen im Bildungssystem und Umweltgifte, manche halten auch die Tests selbst für überholt. Ob KI den Effekt noch beschleunigt, wird sich zeigen.

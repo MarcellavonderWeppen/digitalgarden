@@ -90,7 +90,7 @@ Schon vor der KI gab es Schulden, die nicht im System liegen (im Code, in den Te
 
 Es fing 1992 mit einer einzigen Metapher an: Technical Debt. Seither ist die Schuldenfamilie ordentlich gewachsen, und seit 2025 kommt mit KI eine ganze Welle neuer Begriffe dazu.
 
-Mir geht es da wie Martin Fowler (der mit dem Quadranten von oben)[^fowler]: mich belustigt diese Vermehrung ein wenig. Aber mich fasziniert auch, wie präzise Menschen dieses Phänomen kategorisiert haben. Wenn man ein Phänomen kennt und versteht, kann man bewusst und umsichtig damit umgehen. Überlegtes, sorgfältiges Vorgehen zahlt sich aus, in der Software und anderswo; eine Weisheit, die in Zeiten von KI mit ihrem Geschwindigkeitsrausch allerdings leicht übersehen wird. In dieser Hinsicht sehe ich eine Rechnung von gigantischem Ausmaß auf die Menschheit zukommen: mehr dazu in meinem Artikel [[Zum Karnickelstall/3 - Work on tomorrow/Collective Cognitive Debt\|Collective Cognitive Debt]]. 
+Mir geht es da wie Martin Fowler (der mit dem Quadranten von oben)[^fowler]: mich belustigt diese Vermehrung ein wenig. Aber mich fasziniert auch, wie präzise Menschen dieses Phänomen kategorisiert haben. Wenn man ein Phänomen kennt und versteht, kann man bewusst und umsichtig damit umgehen. Überlegtes, sorgfältiges Vorgehen zahlt sich aus, in der Software und anderswo; eine Weisheit, die in Zeiten von KI mit ihrem Geschwindigkeitsrausch allerdings leicht übersehen wird. In dieser Hinsicht sehe ich eine Rechnung von gigantischem Ausmaß auf die Menschheit zukommen: mehr dazu in meinem Artikel [[Zum Karnickelstall/2 - Work on today/Collective Cognitive Debt\|Collective Cognitive Debt]]. 
 
 
 
