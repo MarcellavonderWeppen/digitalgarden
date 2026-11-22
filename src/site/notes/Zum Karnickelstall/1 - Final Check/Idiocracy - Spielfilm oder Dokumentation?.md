@@ -8,7 +8,7 @@ In der Satire „Idiocracy“ (2006) von Mike Judge wird der durchschnittliche S
 
 Die Felder werden mit dem Sportgetränk Brawndo bewässert, denn: „In Brawndo steckt, was Pflanzen schmeckt.“ Warum? Weil es Elektrolyte enthält. Was Elektrolyte sind, weiß niemand, und warum nichts mehr wächst, auch nicht. Joes Vorschlag, es mal mit Wasser zu versuchen, stößt auf Unverständnis.
 
-![Pasted image 20261122085327.png](/img/user/Pasted%20image%2020261122085327.png)
+![Brawndo.png](/img/user/Garten%20erkunden/Bilder/Brawndo.png)
 
 Das Filmstudio brachte den Film nur in wenige Kinos und machte praktisch keine Werbung; zum Kultfilm wurde er erst später auf DVD.
 
@@ -32,9 +32,9 @@ Der Trend begann lange vor ChatGPT. Ob KI ihn verstärkt, ist umstritten: Die ei
 Bei der Beschäftigung mit dem umgekehrten Flynn-Effekt ist mir ein größeres Muster aufgefallen: KI mag mit im Spiel sein, während die Verblödung der Menschheit voranschreitet. Aber sie ist nicht die Ursache, noch nicht einmal der Brandbeschleuniger. Überall entdecke ich ähnliche exponentielle Kurven:
 
 - **Generifizierung:** Alles wird immer generischer, ob Kunst, Musik, Alltagsgegenstände oder Bauwerke – Schönheit weicht Effizienz, wohin das Auge auch blickt.
-- **Beschleunigung:** Die Technik entwickelt sich seit Jahrzehnten exponentiell, Stichwort [[Mooresches Gesetz\|Mooresches Gesetz]].
+- **Beschleunigung:** Die Technik entwickelt sich seit Jahrzehnten exponentiell, Stichwort [[Zum Karnickelstall/2 - Work on today/Mooresches Gesetz\|Mooresches Gesetz]].
 
-Hier sind systemische Kräfte am Wirken; Technologie ist nur deren neutrale Erscheinungsform. Denn: [[KI war nur zur Stelle\|KI war nur zur Stelle]].
+Hier sind systemische Kräfte am Wirken; Technologie ist nur deren neutrale Erscheinungsform. Denn: [[Zum Karnickelstall/2 - Work on today/KI war nur zur Stelle\|KI war nur zur Stelle]].
 
 ## 📺 Aus der YouTube-Akademie
 
