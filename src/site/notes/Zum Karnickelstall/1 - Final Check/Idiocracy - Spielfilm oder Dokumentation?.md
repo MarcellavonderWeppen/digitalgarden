@@ -18,7 +18,7 @@ Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine
 
 **Flynn-Effekt:** Seit es Intelligenztests gibt, also seit Anfang des 20. Jahrhunderts, stiegen die gemessenen IQ-Werte in vielen Ländern stetig an, um rund drei Punkte pro Jahrzehnt. Benannt ist der Effekt nach dem neuseeländischen Forscher James Flynn, der ihn bekannt gemacht hat. Die vermuteten Ursachen reichen weiter zurück: bessere Ernährung, mehr Schulbildung und eine Welt, die zunehmend abstraktes Denken verlangt – Entwicklungen, die schon mit der Industrialisierung im 19. Jahrhundert einsetzten.
 
-**Besorgniserregend** **–** **der umgekehrter Flynn-Effekt:** In mehreren Industrieländern sinken die Werte seit etwa den 1990er-Jahren wieder.`[^genetik]` Die Ursachen sind umstritten. Diskutiert werden unter anderem weniger Lesen, mehr Bildschirmzeit, Social Media, Veränderungen im Bildungssystem und Umweltgifte; manche halten auch die Tests selbst für überholt.
+**Besorgniserregend** **–** **der umgekehrter Flynn-Effekt:** In mehreren Industrieländern sinken die Werte seit etwa den 1990er-Jahren wieder.[^genetik] Die Ursachen sind umstritten. Diskutiert werden unter anderem weniger Lesen, mehr Bildschirmzeit, Social Media, Veränderungen im Bildungssystem und Umweltgifte; manche halten auch die Tests selbst für überholt.
 
 ## KI – ein zweischneidiges Schwert
 
@@ -42,4 +42,4 @@ Das folgende Video greift die besorgniserregend nachlassenden Leistungen von Sch
 
 ---
 
-`[^genetik]:` Der Film erklärt die Verblödung genetisch: Weniger kluge Menschen bekommen mehr Kinder. Eine große norwegische Studie spricht dagegen. Der IQ-Rückgang zeigt sich auch zwischen Brüdern, also bei denselben Eltern. Das deutet auf Umweltursachen hin, nicht auf Vererbung. Bratsberg & Rogeberg (2018): „Flynn effect and its reversal are both environmentally caused“, PNAS 115(26)
+[^genetik]: Der Film erklärt die Verblödung genetisch: Weniger kluge Menschen bekommen mehr Kinder. Eine große norwegische Studie spricht dagegen. Der IQ-Rückgang zeigt sich auch zwischen Brüdern, also bei denselben Eltern. Das deutet auf Umweltursachen hin, nicht auf Vererbung. Bratsberg & Rogeberg (2018): „Flynn effect and its reversal are both environmentally caused“, PNAS 115(26)
