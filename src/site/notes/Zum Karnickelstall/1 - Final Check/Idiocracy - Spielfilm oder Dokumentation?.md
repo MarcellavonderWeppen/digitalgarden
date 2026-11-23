@@ -10,13 +10,13 @@ Die Felder werden mit dem Sportgetränk Brawndo bewässert, … denn: „In Braw
 
 ![Brawndo.png](/img/user/Garten%20erkunden/Bilder/Brawndo.png)
 
-<small>🎬 Hier geht’s zur ikonischen Szene auf YouTube: <a href="https://www.youtube.com/watch?v=gnLKO2cvzk0">„In Brawndo steckt, was Pflanzen schmeckt.“</a></small>
+<small>🎬 Hier geht’s zur ikonischen Szene auf YouTube: <a href="https://www.youtube.com/watch?v=gnLKO2cvzk0"></a></small>
 
 Das Filmstudio brachte den Film nur in wenige Kinos und machte praktisch keine Werbung; zum Kultfilm wurde er erst später auf DVD.
 
 Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. Die Frage stellt sich: Spielfilm oder Dokumentation?
 
-## Werden wir tatsächlich immer blöder?
+## Erst schlauer, dann dümmer
 
 **Flynn-Effekt:** Seit es Intelligenztests gibt, also seit Anfang des 20. Jahrhunderts, stiegen die gemessenen IQ-Werte in vielen Ländern stetig an, um rund drei Punkte pro Jahrzehnt. Benannt ist der Effekt nach dem neuseeländischen Forscher James Flynn, der ihn bekannt gemacht hat. Die vermuteten Ursachen reichen weiter zurück: bessere Ernährung, mehr Schulbildung und eine Welt, die zunehmend abstraktes Denken verlangt – Entwicklungen, die schon mit der Industrialisierung im 19. Jahrhundert einsetzten.
 
