@@ -6,9 +6,11 @@
 
 In der Satire „Idiocracy“ (2006) von Mike Judge wird der durchschnittliche Soldat Joe Bauers für ein militärisches Experiment eingefroren, vergessen und wacht 500 Jahre später auf: als klügster Mensch der Welt, weil alle anderen verblödet sind.
 
-Die Felder werden mit dem Sportgetränk Brawndo bewässert, … denn: [„In Brawndo steckt, was Pflanzen schmeckt.“](https://www.youtube.com/watch?v=gnLKO2cvzk0) Warum? Weil es Elektrolyte enthält. Was Elektrolyte sind, weiß niemand, und warum nichts mehr wächst, auch nicht. Joes Vorschlag, es mal mit Wasser zu versuchen, stößt auf Unverständnis.
+Die Felder werden mit dem Sportgetränk Brawndo bewässert, … denn: „In Brawndo steckt, was Pflanzen schmeckt.“ Warum? Weil es Elektrolyte enthält. Was Elektrolyte sind, weiß niemand, und warum nichts mehr wächst, auch nicht. Joes Vorschlag, es mal mit Wasser zu versuchen, stößt auf Unverständnis.
 
 ![Brawndo.png](/img/user/Garten%20erkunden/Bilder/Brawndo.png)
+
+<small>🎬 Hier geht’s zur ikonischen Szene auf YouTube: <a href="https://www.youtube.com/watch?v=gnLKO2cvzk0">„In Brawndo steckt, was Pflanzen schmeckt.“</a></small>
 
 Das Filmstudio brachte den Film nur in wenige Kinos und machte praktisch keine Werbung; zum Kultfilm wurde er erst später auf DVD.
 
