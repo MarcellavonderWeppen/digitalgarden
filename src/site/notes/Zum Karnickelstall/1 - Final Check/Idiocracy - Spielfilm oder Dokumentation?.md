@@ -1,5 +1,5 @@
 ---
-{"title":"Idiocracy - Spielfilm oder Dokumentation?","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-11-18","updated":null,"status":null,"dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/idiocracy-spielfilm-oder-dokumentation/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Idiocracy - Spielfilm oder Dokumentation?","aliases":null,"tags":null,"gen_ai_anteil":null,"created":"2026-11-18","updated":null,"status":null}}
+{"title":"Idiocracy - Spielfilm oder Dokumentation?","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-11-18","updated":"2026-11-23","status":"🌳 – eine gut gepflegte Pflanze","dg-publish":true,"permalink":"/zum-karnickelstall/1-final-check/idiocracy-spielfilm-oder-dokumentation/","dgPassFrontmatter":true,"dg-note-properties":{"title":"Idiocracy - Spielfilm oder Dokumentation?","aliases":null,"tags":null,"gen_ai_anteil":["Claude 40%"],"created":"2026-11-18","updated":"2026-11-23","status":"🌳 – eine gut gepflegte Pflanze"}}
 ---
 
 # Idiocracy – Spielfilm oder Dokumentation?
@@ -33,15 +33,17 @@ Der Trend begann lange vor ChatGPT. Ob KI ihn verstärkt, ist umstritten: Die ei
 
 Bei der Beschäftigung mit dem umgekehrten Flynn-Effekt ist mir ein größeres Muster aufgefallen: KI mag mit im Spiel sein, während die Verblödung der Menschheit voranschreitet. Aber sie ist nicht die Ursache, noch nicht einmal der Brandbeschleuniger. Überall entdecke ich ähnliche exponentielle Kurven:
 
-- **Generifizierung:** Alles wird immer generischer, ob Kunst, Musik, Alltagsgegenstände oder Bauwerke – Schönheit weicht Effizienz, wohin das Auge auch blickt.
+- **Generifizierung:**[^generifizierung] Alles wird immer generischer, ob Kunst, Musik, Alltagsgegenstände oder Bauwerke – Schönheit weicht Effizienz, wohin das Auge auch blickt.
 - **Beschleunigung:** Die Technik entwickelt sich seit Jahrzehnten exponentiell, Stichwort [[Zum Karnickelstall/2 - Work on today/Mooresches Gesetz\|Mooresches Gesetz]].
 
 Hier sind systemische Kräfte am Wirken; Technologie ist nur deren neutrale Erscheinungsform. Denn: [[Zum Karnickelstall/2 - Work on today/KI war nur zur Stelle\|KI war nur zur Stelle]].
 
 ## 📺 Aus der YouTube-Akademie
 
-Das folgende Video greift die besorgniserregend nachlassenden Leistungen von Schülerinnen und Schülern auf – und eine vermeintliche „Lösung“: die Alpha Schools, private Schulen in den USA, die Kinder mit KI auf Hochleistung trimmen. Die Idee, nur zwei Stunden am Tag effektiv und mit Spaß mit KI zu lernen, finde ich gut. Doch dann wird es ganz schön dystopisch, von Rundum-Überwachung bis zu fragwürdigen Belastungstests. Ein Lehrstück dafür, wie man es nicht machen sollte, und dafür, wie groß das Missbrauchspotenzial der an sich neutralen Technologie KI ist:  [I Investigate the $75,000 "AI Schools"](https://www.youtube.com/watch?v=SC69VqCjRoQ&list=LL&index=77)
+Das folgende Video greift die nachlassenden Leistungen von Schülerinnen und Schülern auf – und eine vermeintliche „Lösung“: die Alpha Schools, private Schulen in den USA, die Kinder mit KI auf Hochleistung trimmen. Die Idee, dank KI nur zwei Stunden am Tag effektiv und vor allem mit Spaß zu lernen, finde ich gut. Doch dann wird es dystopisch, von Rundum-Überwachung bis zu fragwürdigen Belastungstests. Ein Lehrstück dafür, wie man es nicht machen sollte, und dafür, wie groß das Missbrauchspotenzial der an sich neutralen Technologie KI ist:  [I Investigate the $75,000 "AI Schools"](https://www.youtube.com/watch?v=SC69VqCjRoQ&list=LL&index=77)
 
 ---
 
 [^genetik]: Der Film erklärt die Verblödung genetisch: Weniger kluge Menschen bekommen mehr Kinder. Eine große norwegische Studie spricht dagegen. Der IQ-Rückgang zeigt sich auch zwischen Brüdern, also bei denselben Eltern. Das deutet auf Umweltursachen hin, nicht auf Vererbung. Bratsberg & Rogeberg (2018): „Flynn effect and its reversal are both environmentally caused“, PNAS 115(26)
+
+[^generifizierung]: Das Wort habe ich aus dem Englischen eingedeutscht und spiele damit auf das Generische von GenAI an. Im Englischen meint „genericization“ (auch „generification“) meist, dass ein Markenname zum Gattungsbegriff wird, so wie „Tempo“ für Papiertaschentücher. Seltener steht es auch allgemein für Vereinheitlichung, etwa von Stadtbildern. In diesem Sinne verwende ich es hier.
