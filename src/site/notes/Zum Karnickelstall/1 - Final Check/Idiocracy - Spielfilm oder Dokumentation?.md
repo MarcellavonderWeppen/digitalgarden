@@ -10,7 +10,7 @@ Die Felder werden mit dem Sportgetränk Brawndo bewässert, … denn: „In Braw
 
 ![Brawndo.png](/img/user/Garten%20erkunden/Bilder/Brawndo.png)
 
-<small>🎬 Hier geht’s zur ikonischen Szene auf YouTube: <a href="https://www.youtube.com/watch?v=gnLKO2cvzk0"></a></small>
+<small>🎬 Hier geht’s zur ikonischen Szene auf YouTube: <a href="https://www.youtube.com/watch?v=gnLKO2cvzk0">”Ich bin kein Botaniker, aber…”</a></small>
 
 Das Filmstudio brachte den Film nur in wenige Kinos und machte praktisch keine Werbung; zum Kultfilm wurde er erst später auf DVD.
 
