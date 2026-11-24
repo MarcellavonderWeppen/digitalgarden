@@ -16,7 +16,7 @@ Das Filmstudio brachte den Film nur in wenige Kinos und machte praktisch keine W
 
 Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. Die Frage stellt sich durchaus: Spielfilm oder Dokumentation?
 
-## Erst schlauer, dann dümmer
+## Der Trend zur Intelligenz hat sich umgekehrt
 
 **Flynn-Effekt:** Seit es Intelligenztests gibt, also seit Anfang des 20. Jahrhunderts, stiegen die gemessenen IQ-Werte stetig an, um rund drei Punkte pro Jahrzehnt. Benannt ist der Effekt nach dem neuseeländischen Forscher James Flynn, der ihn bekannt gemacht hat. Die vermuteten Ursachen reichen weiter zurück: bessere Ernährung, mehr Schulbildung und eine Welt, die zunehmend abstraktes Denken verlangt – Entwicklungen, die schon mit der Industrialisierung im 19. Jahrhundert einsetzten.
 
