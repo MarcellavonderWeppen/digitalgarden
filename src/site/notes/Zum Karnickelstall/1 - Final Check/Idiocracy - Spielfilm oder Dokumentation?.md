@@ -14,11 +14,11 @@ Die Felder werden mit dem Sportgetränk Brawndo bewässert, denn: „In Brawndo 
 
 Das Filmstudio brachte den Film nur in wenige Kinos und machte praktisch keine Werbung; zum Kultfilm wurde er erst später auf DVD.
 
-Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. Die Frage stellt sich: Spielfilm oder Dokumentation?
+Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine Dokumentation. Die Frage stellt sich durchaus: Spielfilm oder Dokumentation?
 
 ## Erst schlauer, dann dümmer
 
-**Flynn-Effekt:** Seit es Intelligenztests gibt, also seit Anfang des 20. Jahrhunderts, stiegen die gemessenen IQ-Werte in vielen Ländern stetig an, um rund drei Punkte pro Jahrzehnt. Benannt ist der Effekt nach dem neuseeländischen Forscher James Flynn, der ihn bekannt gemacht hat. Die vermuteten Ursachen reichen weiter zurück: bessere Ernährung, mehr Schulbildung und eine Welt, die zunehmend abstraktes Denken verlangt – Entwicklungen, die schon mit der Industrialisierung im 19. Jahrhundert einsetzten.
+**Flynn-Effekt:** Seit es Intelligenztests gibt, also seit Anfang des 20. Jahrhunderts, stiegen die gemessenen IQ-Werte stetig an, um rund drei Punkte pro Jahrzehnt. Benannt ist der Effekt nach dem neuseeländischen Forscher James Flynn, der ihn bekannt gemacht hat. Die vermuteten Ursachen reichen weiter zurück: bessere Ernährung, mehr Schulbildung und eine Welt, die zunehmend abstraktes Denken verlangt – Entwicklungen, die schon mit der Industrialisierung im 19. Jahrhundert einsetzten.
 
 **Besorgniserregend** **–** **der umgekehrter Flynn-Effekt:** In mehreren Industrieländern sinken die Werte seit etwa den 1990er-Jahren wieder.[^genetik] Die Ursachen sind umstritten. Diskutiert werden unter anderem weniger Lesen, mehr Bildschirmzeit, Social Media, Veränderungen im Bildungssystem und Umweltgifte; manche halten auch die Tests selbst für überholt.
 
