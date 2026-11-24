@@ -40,7 +40,7 @@ Hier sind systemische Kräfte am Wirken; Technologie ist nur deren neutrale Ersc
 
 ## 📺 Aus der YouTube-Akademie
 
-Das folgende Video greift die nachlassenden Leistungen von Schülerinnen und Schülern auf – und eine vermeintliche „Lösung“: die Alpha Schools, private Schulen in den USA, die Kinder mit KI auf Hochleistung trimmen. Die Idee, dank KI nur zwei Stunden am Tag effektiv und vor allem mit Spaß zu lernen, finde ich gut. Doch dann wird es dystopisch, von Rundum-Überwachung bis zu fragwürdigen Belastungstests. Ein Lehrstück dafür, wie man es nicht machen sollte, und dafür, wie groß das Missbrauchspotenzial der an sich neutralen Technologie KI ist:  [I Investigate the $75,000 "AI Schools"](https://www.youtube.com/watch?v=SC69VqCjRoQ&list=LL&index=77)
+Das folgende Video greift die nachlassenden Leistungen von Schülerinnen und Schülern auf – und eine vermeintliche „Lösung“: die Alpha Schools, private Schulen in den USA, die Kinder mit KI auf Hochleistung trimmen. Die Idee, dank KI nur zwei Stunden am Tag effektiv und vor allem mit Spaß zu lernen, finde ich gut. Doch dann wird es dystopisch: von Rundum-Überwachung bis zu fragwürdigen Belastungstests. Wenn das die Lösung sein soll, dann möchte ich lieber dumme, glückliche Kinder! Ein Lehrstück dafür, wie man es nicht machen sollte, und dafür, wie groß das Missbrauchspotenzial der an sich neutralen Technologie KI ist:  [I Investigate the $75,000 "AI Schools"](https://www.youtube.com/watch?v=SC69VqCjRoQ&list=LL&index=77)
 
 ---
 
