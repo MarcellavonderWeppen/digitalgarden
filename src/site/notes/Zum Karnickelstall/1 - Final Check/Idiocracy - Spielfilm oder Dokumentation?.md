@@ -8,7 +8,7 @@ In der Satire „Idiocracy“ (2006) von Mike Judge wird der durchschnittliche S
 
 Die Felder werden mit dem Sportgetränk Brawndo bewässert, denn: „In Brawndo steckt, was Pflanzen schmeckt.“ Warum? Weil es Elektrolyte enthält. Was Elektrolyte sind, weiß niemand, und warum nichts mehr wächst, auch nicht. Joes Vorschlag, es mal mit Wasser zu versuchen, stößt auf Unverständnis.
 
-![brawndo.png](/img/user/brawndo.png)
+![brawndo 1.png](/img/user/Garten%20erkunden/Bilder/brawndo%201.png)
 
 <small>🎬 Hier geht’s zur ikonischen Szene auf YouTube: <a href="https://www.youtube.com/watch?v=gnLKO2cvzk0">„Ich bin kein Botaniker, aber …“</a></small>
 
@@ -20,7 +20,7 @@ Böse Zungen behaupten, es handle sich nicht um einen Spielfilm, sondern um eine
 
 **Flynn-Effekt:** Seit es Intelligenztests gibt, also seit Anfang des 20. Jahrhunderts, stiegen die gemessenen IQ-Werte stetig an, um rund drei Punkte pro Jahrzehnt. Benannt ist der Effekt nach dem neuseeländischen Forscher James Flynn, der ihn bekannt gemacht hat. Die vermuteten Ursachen reichen weiter zurück: bessere Ernährung, mehr Schulbildung und eine Welt, die zunehmend abstraktes Denken verlangt – Entwicklungen, die schon mit der Industrialisierung im 19. Jahrhundert einsetzten.
 
-**Besorgniserregend – der umgekehrte Flynn-Effekt:**In mehreren Industrieländern sinken die Werte seit etwa den 1990er-Jahren wieder.[^genetik] Die Ursachen sind umstritten. Diskutiert werden unter anderem weniger Lesen, mehr Bildschirmzeit, Social Media, Veränderungen im Bildungssystem und Umweltgifte; manche halten auch die Tests selbst für überholt.
+**Besorgniserregend – der umgekehrte Flynn-Effekt:** In mehreren Industrieländern sinken die Werte seit etwa den 1990er-Jahren wieder.[^genetik] Die Ursachen sind umstritten. Diskutiert werden unter anderem weniger Lesen, mehr Bildschirmzeit, Social Media, Veränderungen im Bildungssystem und Umweltgifte; manche halten auch die Tests selbst für überholt.
 
 ## KI – ein zweischneidiges Schwert
 
